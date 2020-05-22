@@ -18,8 +18,7 @@
     <dcterms:publisher>Printed for Robert Sayer</dcterms:publisher>
     <dcterms:subject>Atlases</dcterms:subject>
     <dcterms:subject>America--Maps</dcterms:subject>
-    <dcterms:spatial>England</dcterms:spatial>
-    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:spatial>London, England</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616751/iiif/manifest.json</dcterms:isReferencedBy>

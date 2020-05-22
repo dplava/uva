@@ -11,15 +11,10 @@
     <dcterms:identifier>tsb:59722</dcterms:identifier>
     <dcterms:title>Spoons</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1850</dcterms:created>
     <dcterms:description>Spoons composed of tortoise shell or horn. The spoon with the smaller bowl is broken in two pieces.</dcterms:description>
-    <dcterms:medium>tortoise shell</dcterms:medium>
-    <dcterms:medium>horn (animal material)</dcterms:medium>
-    <dcterms:extent>1.1 x 10.5 x 5 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Spoons</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medicine spoons</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:59722/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:59722</edm:isShownAt>

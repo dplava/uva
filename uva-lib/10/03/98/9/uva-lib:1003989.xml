@@ -13,12 +13,10 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Langley, Edward.</dcterms:creator>
     <dcterms:creator>Belch, William.</dcterms:creator>
-    <dcterms:created>1806</dcterms:created>
     <dcterms:extent>1 map : col. ; 27 x 22 cm. on sheet 39 x 24 cm.</dcterms:extent>
     <dcterms:publisher>Printed &amp; published by Ed. Langley &amp; Wm. Belch 173 High Street, Borough London</dcterms:publisher>
     <dcterms:subject>Europe--Maps</dcterms:subject>
-    <dcterms:spatial>England</dcterms:spatial>
-    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:spatial>London, England</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:type>Image</dcterms:type>

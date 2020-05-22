@@ -11,16 +11,10 @@
     <dcterms:identifier>tsb:58655</dcterms:identifier>
     <dcterms:title>Squibbs Urinometer</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1900/1930</dcterms:created>
     <dcterms:description>Writing on instrument reads "Squibbs Urinometer 60 Fahr." Graded 1.000 to 1.060.</dcterms:description>
-    <dcterms:medium>glass (material)</dcterms:medium>
-    <dcterms:medium>paper (organic material)</dcterms:medium>
-    <dcterms:medium>mercury</dcterms:medium>
-    <dcterms:extent>1 x 12.4 x 1 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Medical instruments and apparatus--Urine-Analysis</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58655/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58655</edm:isShownAt>

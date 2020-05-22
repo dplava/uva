@@ -11,13 +11,14 @@
     <dcterms:identifier>uva-lib:770707</dcterms:identifier>
     <dcterms:title>Les sept psealmes en Francoys</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Niédrée, Jean-Edouard, 1803-1854</dcterms:creator>
     <dcterms:created>1530/1539</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[12] p. : ill. ; 20 x 14 cm. (4to)</dcterms:extent>
     <dcterms:publisher>s.l.</dcterms:publisher>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:770707/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

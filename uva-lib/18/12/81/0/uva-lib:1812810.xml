@@ -13,7 +13,6 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Vancouver, George, 1757-1798</dcterms:creator>
     <dcterms:creator>Vancouver, John, -1828?</dcterms:creator>
-    <dcterms:created>1798</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. : 17 plates, map. ; 31 x 24 cm. + Atlas of 16 plates (incl. 6 fold. charts) 58 cm.</dcterms:extent>
     <dcterms:publisher>Printed for G. G. and J. Robinson, and J. Edwards.</dcterms:publisher>
@@ -22,8 +21,7 @@
     <dcterms:subject>Voyages around the world</dcterms:subject>
     <dcterms:subject>Northwest Passage</dcterms:subject>
     <dcterms:subject>Northwest Coast of North America</dcterms:subject>
-    <dcterms:spatial>England</dcterms:spatial>
-    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:spatial>London, England</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1812810/iiif/manifest.json</dcterms:isReferencedBy>

@@ -12,14 +12,15 @@
     <dcterms:title>La decoration dhumaine nature, &amp; aornement des dames</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Le Fournier, André, -1533</dcterms:creator>
-    <dcterms:created>1537</dcterms:created>
+    <dcterms:creator>Juste, Françoys, active 16th century</dcterms:creator>
+    <dcterms:creator>Bedford, Francis, 1799-1883</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>47, [5] leaves ; 14 cm.</dcterms:extent>
     <dcterms:publisher>On les vend a Lyon, en la maison de Frācoys Juste ...</dcterms:publisher>
     <dcterms:subject>Cosmetics--Early works to 1800</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:spatial>Lyon, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--England--London--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:745506/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

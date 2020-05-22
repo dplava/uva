@@ -12,7 +12,6 @@
     <dcterms:title>Chart of the West Indies and Spanish Dominions in North America</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Arrowsmith, Aaron, 1750-1823</dcterms:creator>
-    <dcterms:created>1803</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : hand col. ; 122 x 192 cm.</dcterms:extent>
@@ -22,8 +21,7 @@
     <dcterms:subject>West Indies--Maps</dcterms:subject>
     <dcterms:subject>Central America--Maps</dcterms:subject>
     <dcterms:subject>Florida--Maps</dcterms:subject>
-    <dcterms:spatial>England</dcterms:spatial>
-    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:spatial>London, England</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:type>Image</dcterms:type>

@@ -11,14 +11,10 @@
     <dcterms:identifier>tsb:103780</dcterms:identifier>
     <dcterms:title>Hemacytometer pieces</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1910/1960</dcterms:created>
     <dcterms:description>Five measuring tubes; "Hellige Perma-Line" labels on two of the tubes.</dcterms:description>
-    <dcterms:medium>glass (material)</dcterms:medium>
-    <dcterms:extent>0.5 x 13.3 x 0.5 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Measuring instruments</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103780/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103780</edm:isShownAt>

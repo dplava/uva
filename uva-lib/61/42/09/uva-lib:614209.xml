@@ -13,7 +13,6 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bouquet, Simon, active 16th century</dcterms:creator>
     <dcterms:creator>Codoré, Olivier.</dcterms:creator>
-    <dcterms:created>1572</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>53, [1], 10, 26, [1] leaves, [2] folded leaves of plates : ill. ; 26 cm. (4to)</dcterms:extent>
     <dcterms:publisher>De l'imprimerie de Denis du Pré, pour Oliuier Codoré, rüe Guillaume Iosse, au Heraut d'armes, pres la rüe des Lombars</dcterms:publisher>
@@ -21,8 +20,7 @@
     <dcterms:subject>Elisabeth, of Austria, Queen, consort of Charles IX, King of France, 1554-1592</dcterms:subject>
     <dcterms:subject>Coronations--France</dcterms:subject>
     <dcterms:subject>France--History--Charles IX, 1560-1574</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:614209/iiif/manifest.json</dcterms:isReferencedBy>

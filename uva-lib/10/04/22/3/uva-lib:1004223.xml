@@ -19,8 +19,7 @@
     <dcterms:subject>Turkey--Maps</dcterms:subject>
     <dcterms:subject>Austria--Maps</dcterms:subject>
     <dcterms:subject>Russia--Maps</dcterms:subject>
-    <dcterms:spatial>England</dcterms:spatial>
-    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:spatial>London, England</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:type>Image</dcterms:type>

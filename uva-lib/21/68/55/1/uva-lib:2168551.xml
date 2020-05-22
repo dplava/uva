@@ -11,7 +11,6 @@
     <dcterms:identifier>uva-lib:2168551</dcterms:identifier>
     <dcterms:title>School of Medicine, First Year Class, 1930-1931</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1930/1931</dcterms:created>
     <dcterms:description>Class of 1934 Identified (L to R): First row: George Curtis Austin, Sullivan Gale Bedell,
 George Simmerman Bourne, John Newton Bowden, Louis H. Bress, Alexander Gustavus Brown, Harry Paul
 Browning, Charles Lorraine Cabell, George Robert Carpenter, Richard Reading Chamberlain, Hugh Tucker
@@ -28,11 +27,10 @@ Mary Eleanor Rawls, John Walton Ross, Jr., Mack Irvin Shanholtz, James Robert Sh
 Shanklin, Jr., Richard Henry Smith, Charles L. Stinson Fifth row: Harry Benjamin Stone, Jr., William
 Joshua Sturgis, Jr., Thomas William Tanner, John Hansford Thomas, Jr., William Edgar Waddell, Robert
 Fletcher Watson, Harvie Lincoln Williams, Fletcher Johnston Wright, Jr.</dcterms:description>
-    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Faculty</dcterms:subject>
     <dcterms:subject>Students</dcterms:subject>
     <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
-    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
     <dcterms:medium>black-and-white photographs</dcterms:medium>
     <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168551/iiif/manifest.json</dcterms:isReferencedBy>

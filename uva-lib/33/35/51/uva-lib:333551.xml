@@ -12,11 +12,8 @@
     <dcterms:title>Unidentifed group of men. James S. Russell in the center.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Davis, Jackson, 1882-1947</dcterms:creator>
-    <dcterms:created>1928-05-15</dcterms:created>
     <dcterms:description>Full view</dcterms:description>
-    <dcterms:medium>nonprojected graphic</dcterms:medium>
-    <dcterms:medium>photography</dcterms:medium>
-    <dcterms:extent>4 x 6 in.</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Lawrenceville (Va.)--Cities and towns by name</dcterms:subject>
     <dcterms:subject>Brunswick County (Va.)--Regions and states by name</dcterms:subject>
     <dcterms:subject>Virginia--Regions and states by name</dcterms:subject>
@@ -26,7 +23,6 @@
     <dcterms:subject>African Americans--People by ethnic group</dcterms:subject>
     <dcterms:subject>Hats--Accessories worn on the head</dcterms:subject>
     <dcterms:subject>Men--People by gender</dcterms:subject>
-    <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
     <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
     <dcterms:medium>black-and-white photographs</dcterms:medium>
     <dcterms:type>Still Image</dcterms:type>

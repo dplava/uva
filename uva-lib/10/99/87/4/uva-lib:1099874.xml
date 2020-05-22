@@ -12,15 +12,17 @@
     <dcterms:title>Le grand triumphe magnificque &amp; resiouissance des Parisiens, de la venue du treschrestien Roy Henry second de ce nom en sa ville de Paris</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bez, Ferrand de, d. 1581</dcterms:creator>
+    <dcterms:creator>Buffet, Nicolas, -1551</dcterms:creator>
+    <dcterms:creator>Trautz, Georges, 1808-1879</dcterms:creator>
     <dcterms:created>1549</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[16] p., [1] leaf of plates : port. ; 14 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Imprimé a Paris ... par Nicolas Buffet pres le College de Reimes</dcterms:publisher>
     <dcterms:subject>Henry, II, King of France, 1519-1559</dcterms:subject>
     <dcterms:subject>France--History--Henry II, 1547-1559</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1099874/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

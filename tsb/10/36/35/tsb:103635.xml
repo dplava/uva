@@ -11,17 +11,10 @@
     <dcterms:identifier>tsb:103635</dcterms:identifier>
     <dcterms:title>Surgical silk</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1920/&gt;1960</dcterms:created>
     <dcterms:description>Surgical silk is contained on a wooden spool covered in cellophane, inside a box which depicts an operating scene. Box reads "Not sterile--sterilize by boiling or steam sterilizer".</dcterms:description>
-    <dcterms:medium>cardboard</dcterms:medium>
-    <dcterms:medium>silk (textile)</dcterms:medium>
-    <dcterms:medium>cellophane</dcterms:medium>
-    <dcterms:medium>wood (plant material)</dcterms:medium>
-    <dcterms:extent>2.7 x 5.5 x 5.5 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Silk</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103635/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103635</edm:isShownAt>

@@ -11,19 +11,12 @@
     <dcterms:identifier>uva-lib:2543679</dcterms:identifier>
     <dcterms:title>Microscope in case</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1890</dcterms:created>
     <dcterms:description>Monocular brass microscope with tweezers stored in a wooden box. The microscope belonged to Edward Anderson Holmes (fils), a student at UVa in 1890. 
       He lived on the Lawn in Pavilion VI with his uncle, George Frederick Holmes, a professor at UVa. The donor is the grand niece of E.A. Holmes. 
       She gave the microscope in honor and memory of E.A. Holmes and G.F. Holmes.</dcterms:description>
-    <dcterms:medium>metal</dcterms:medium>
-    <dcterms:medium>glass (material)</dcterms:medium>
-    <dcterms:medium>wood (plant material)</dcterms:medium>
-    <dcterms:extent>17 x 6 x 6.5 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:medium>microscopes</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2543679/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2543679</edm:isShownAt>

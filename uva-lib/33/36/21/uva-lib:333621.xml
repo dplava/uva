@@ -12,11 +12,8 @@
     <dcterms:title>Men running in a sports event. - 100 yard dash. Sussex County School Fair</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Davis, Jackson, 1882-1947</dcterms:creator>
-    <dcterms:created>1915/1947</dcterms:created>
     <dcterms:description>Full view, in a field</dcterms:description>
-    <dcterms:medium>nonprojected graphic</dcterms:medium>
-    <dcterms:medium>photography</dcterms:medium>
-    <dcterms:extent>4 x 6 in.</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Waverly (Sussex County, Va.)--Cities and towns by name</dcterms:subject>
     <dcterms:subject>Sussex County (Va.)--Regions and states by name</dcterms:subject>
     <dcterms:subject>Virginia--Regions and states by name</dcterms:subject>
@@ -28,7 +25,6 @@
     <dcterms:subject>Carriages--Land vehicles</dcterms:subject>
     <dcterms:subject>Fences--Open spaces and site elements</dcterms:subject>
     <dcterms:subject>Athletic fields--Open spaces and site elements</dcterms:subject>
-    <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
     <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
     <dcterms:medium>black-and-white photographs</dcterms:medium>
     <dcterms:type>Still Image</dcterms:type>

@@ -11,18 +11,10 @@
     <dcterms:identifier>uva-lib:2826762</dcterms:identifier>
     <dcterms:title>Medicine case</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1900/1950</dcterms:created>
     <dcterms:description>Case contains 8 bottles measuring 7.5 cm in height and 2 cm in diameter. Twelve smaller bottles measure 8.2 cm in height and 1.4 cm in diameter. Most bottles are labeled, some powder and pills remain.</dcterms:description>
-    <dcterms:medium>leather</dcterms:medium>
-    <dcterms:medium>glass (material)</dcterms:medium>
-    <dcterms:medium>cork (bark)</dcterms:medium>
-    <dcterms:medium>paper (fiber product)</dcterms:medium>
-    <dcterms:extent>9 x 20.5 x 5.5 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:medium>cases (containers)</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2826762/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2826762</edm:isShownAt>

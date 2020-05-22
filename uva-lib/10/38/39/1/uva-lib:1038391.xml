@@ -13,14 +13,15 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Alciati, Andrea, 1492-1550</dcterms:creator>
     <dcterms:creator>Eskrich, Pierre, approximately 1530-approximately 1590</dcterms:creator>
-    <dcterms:created>1551</dcterms:created>
+    <dcterms:creator>Bonhomme, Macé, active 1536-1569</dcterms:creator>
+    <dcterms:creator>Capé, Charles-François, 1806-1867</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>226, [5] p. : ill. ; 19 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Apud Mathiam Bonhomme</dcterms:publisher>
     <dcterms:subject>Emblems--Early works to 1800</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:spatial>Lyon, France</dcterms:spatial>
     <dcterms:language>lat</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1038391/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

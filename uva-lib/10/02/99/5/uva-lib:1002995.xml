@@ -12,7 +12,6 @@
     <dcterms:title>Asgill, drame, en cinq actes, en prose; dédié a Madame Asgill.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>LeBarbier, Jean Louis, b. ca. 1740</dcterms:creator>
-    <dcterms:created>1785</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>86 p. 21 cm.</dcterms:extent>
     <dcterms:publisher>Chez Cailleau</dcterms:publisher>
@@ -22,8 +21,7 @@
     <dcterms:subject>Drama</dcterms:subject>
     <dcterms:subject>United States--History--Revolution, 1775-1783--Drama</dcterms:subject>
     <dcterms:subject>Yorktown (Va.)--History--Siege, 1781--Drama</dcterms:subject>
-    <dcterms:spatial>England</dcterms:spatial>
-    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:spatial>London, England</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1002995/iiif/manifest.json</dcterms:isReferencedBy>

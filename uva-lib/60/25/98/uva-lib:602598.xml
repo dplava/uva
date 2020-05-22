@@ -13,13 +13,11 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>L'Isle, Guillaume de, 1675-1726</dcterms:creator>
     <dcterms:creator>Sanson, Nicolas, 1600-1667</dcterms:creator>
-    <dcterms:created>1733</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[4] l., 31, [1] p. 64 double maps. 54.5 cm.</dcterms:extent>
     <dcterms:publisher>Chez Jean Cóvens &amp; Corneille Mortier sur le Vygendam</dcterms:publisher>
     <dcterms:subject>Atlases</dcterms:subject>
-    <dcterms:spatial>Netherlands</dcterms:spatial>
-    <dcterms:spatial>Amsterdam</dcterms:spatial>
+    <dcterms:spatial>Amsterdam, Netherlands</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:602598/iiif/manifest.json</dcterms:isReferencedBy>

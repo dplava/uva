@@ -11,15 +11,10 @@
     <dcterms:identifier>tsb:103670</dcterms:identifier>
     <dcterms:title>Ruler</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1950</dcterms:created>
     <dcterms:description>One 6 inch ruler, with unit conversion on the back. Belonged to Dr. K.W. Howard.</dcterms:description>
-    <dcterms:medium>plastic (material)</dcterms:medium>
-    <dcterms:extent>0.1 x 15.5 x 2.2 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Rulers (Instruments)</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:medium>rulers (measuring devices)</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103670/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103670</edm:isShownAt>

@@ -12,18 +12,28 @@
     <dcterms:title>Le tombeau de Marguerite de Valois, royne de Nauarre</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Denisot, Nicolas, 1515-1559</dcterms:creator>
-    <dcterms:created>1551</dcterms:created>
+    <dcterms:creator>Warwick, Anne Dudley, Countess of, 1538-1587</dcterms:creator>
+    <dcterms:creator>Seymour, Jane, Lady</dcterms:creator>
+    <dcterms:creator>Seymour, Margaret, Lady</dcterms:creator>
+    <dcterms:creator>Dorat, Jean, 1508-1588</dcterms:creator>
+    <dcterms:creator>Du Bellay, Joachim, approximately 1522-1560</dcterms:creator>
+    <dcterms:creator>Baïf, Jean-Antoine de, 1532-1589</dcterms:creator>
+    <dcterms:creator>Ronsard, Pierre de, 1524-1585</dcterms:creator>
+    <dcterms:creator>Herberay, Nicolas de, sieur des Essars, active 16th century</dcterms:creator>
+    <dcterms:creator>Fezandat, Michel, active 1538-1566</dcterms:creator>
+    <dcterms:creator>Granjon, Robert, active 1523-1588</dcterms:creator>
+    <dcterms:creator>Lortic, Marcelin, 1822-1892</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[104] leaves ; ill. : 18 cm. (8vo)</dcterms:extent>
-    <dcterms:publisher>De l'imprimerie de Michel Fezandat, &amp; Robert GranIon  ...</dcterms:publisher>
+    <dcterms:publisher>De l'imprimerie de Michel Fezandat, &amp; Robert Granion, au mont S. Hilaire à l'enseigne des Grans Ions, &amp; au Palais en la boutique de Vincent Sartenas</dcterms:publisher>
     <dcterms:subject>Marguerite, Queen, consort of Henry II, King of Navarre, 1492-1549</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>gre</dcterms:language>
     <dcterms:language>ita</dcterms:language>
     <dcterms:language>lat</dcterms:language>
     <dcterms:medium>biography</dcterms:medium>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1110636/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

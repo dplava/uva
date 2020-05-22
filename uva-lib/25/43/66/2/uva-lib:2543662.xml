@@ -11,15 +11,11 @@
     <dcterms:identifier>uva-lib:2543662</dcterms:identifier>
     <dcterms:title>Tonsillotome</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1895</dcterms:created>
     <dcterms:description>Mathieu's tonsillotome, patented February 19 and July 9, 1895. The sharp points can be extended and are used for the removal of tonsils. 
       This form of the tonsillotome was developed by Auguste Mathieu (1872-1929).</dcterms:description>
-    <dcterms:medium>metal</dcterms:medium>
-    <dcterms:extent>2 x 23 x 6.5 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2543662/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2543662</edm:isShownAt>

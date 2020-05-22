@@ -12,12 +12,10 @@
     <dcterms:title>Les mimes, enseignemens et prouerbes de Ian Antoine de Baif .</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Baïf, Jean-Antoine de, 1532-1589</dcterms:creator>
-    <dcterms:created>1581</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>108, [3], 56 leaves : ill. ; 14 cm. (12mo)</dcterms:extent>
     <dcterms:publisher>Par Mamert Patisson Imprimeur du Roy, chez Rob. Estienne</dcterms:publisher>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1017967/iiif/manifest.json</dcterms:isReferencedBy>

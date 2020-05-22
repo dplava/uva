@@ -11,13 +11,12 @@
     <dcterms:identifier>uva-lib:707366</dcterms:identifier>
     <dcterms:title>Les oeuures maistre Guillaume Coquillart, en son viuant Official de Reims</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Coquillart, Guillaume, ca. 1450-1510</dcterms:creator>
-    <dcterms:created>1535</dcterms:created>
+    <dcterms:creator>Coquillart, Guillaume, approximately 1450-1510</dcterms:creator>
+    <dcterms:creator>Juste, Françoys, active 16th century</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>96 leaves ; 13 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>On les vend a Lyon en la maison de Fra[n]coys Juste ...</dcterms:publisher>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:spatial>Lyon, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:707366/iiif/manifest.json</dcterms:isReferencedBy>

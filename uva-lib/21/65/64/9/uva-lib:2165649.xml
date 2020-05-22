@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2165649</dcterms:identifier>
+    <dcterms:title>Virginia Law Review 1949-1950</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:description>Including members of the Class of 1949, Class of 1950 and Class of 1951.  Thomas H. Beddall, Jr., Chester H. Brandon, Charles R. Burke, M. Caldwell Butler, Endicott P. Davison, Robert S. Dorsey, James G. Evans, Benjamin C. Flannagan, IV, A. Paul Funkhouser, James G. Gidding, Mary E. Gordon, David C. Green, Edwin P. Hirsch, Paul C. James, James R. Jones, John C. Kinder, Bowie K. Kuhn, Arnold K.Lefkovits, William L. Matheson, John M. McCants, James E. McDonald, L. Kent McElwain, Thomas V. Monahan, Hugo Monnig, Jr., Robert F. Morten, John H. Mudd, Eugene L. Nuckols, William J. Peck, Drayton T. Scott, Henry K. Skeele, Charles A. Somma, Edward M. Selfe, Jr., Charles A. Via, Jr.</dcterms:description>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2165649/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2165649</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2165649/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

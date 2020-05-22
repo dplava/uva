@@ -11,16 +11,10 @@
     <dcterms:identifier>tsb:103789</dcterms:identifier>
     <dcterms:title>Syringe in cardboard box</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1920</dcterms:created>
     <dcterms:description>The red and cream box is marked "One 20 CC. ideal metal tip luer slip hypodermic syringe, resistance glass, East Rutherford Syringes, Inc. East Rutherford, N.J." The syringe is a 20 CC syringe with gradations on the side and also the number 8898.</dcterms:description>
-    <dcterms:medium>glass (material)</dcterms:medium>
-    <dcterms:medium>metal</dcterms:medium>
-    <dcterms:medium>paper (fiber product)</dcterms:medium>
-    <dcterms:extent>3.2 x 17.3 x 6.4 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Syringes</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103789/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103789</edm:isShownAt>

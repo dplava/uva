@@ -12,15 +12,16 @@
     <dcterms:title>Historiarum ueteris instrumenti icones ad uiuum expressae. : Unà cum breui, sed quoad fieri potuit, dilucida earundem expositione.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Holbein, Hans, 1497-1543</dcterms:creator>
-    <dcterms:created>1538</dcterms:created>
+    <dcterms:creator>Frellonius, Franciscus, -1546?</dcterms:creator>
+    <dcterms:creator>Trechsel, Melchior, active 1529-1549</dcterms:creator>
+    <dcterms:creator>Trechsel, Gaspard, active 1529-1549</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[95] p. : 92 ill. (woodcuts) ; 20 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Sub Scuto Coloniensi</dcterms:publisher>
     <dcterms:subject>Illustrations</dcterms:subject>
     <dcterms:subject>Wood-engraving, German</dcterms:subject>
     <dcterms:subject>Wood-engraving--16th century--Germany</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:spatial>Lyon, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1015259/iiif/manifest.json</dcterms:isReferencedBy>

@@ -12,8 +12,9 @@
     <dcterms:title>Art poëtique françois, : pour l'instruction des ieunes studieux, &amp; encor' peu auancez en la poësie françoise. : Auec le Quintil Horatian, sur la defense &amp; illustration de la langue françoise.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Sebillet, Thomas, 1512-1589</dcterms:creator>
+    <dcterms:creator>Temporal, Jean</dcterms:creator>
     <dcterms:creator>Aneau, Barthélemy, -1561</dcterms:creator>
-    <dcterms:created>1556</dcterms:created>
+    <dcterms:creator>Bauzonnet, Antoine, 1795-1882</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>292, [11] p. ; 12 cm.  (16mo)</dcterms:extent>
     <dcterms:publisher>Par Iean Temporal</dcterms:publisher>
@@ -23,9 +24,9 @@
     <dcterms:subject>Rhetoric--16th century</dcterms:subject>
     <dcterms:subject>Poetics</dcterms:subject>
     <dcterms:subject>Rhetoric--Early works to 1800</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:spatial>Lyon, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:729624/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

@@ -12,7 +12,6 @@
     <dcterms:title>A voyage to North-America: undertaken by command of the present king of France.  Containing the geographical description and natural history of Canada and Louisiana.  With the customs, manners, trade and religion of the inhabitants...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Charlevoix, Pierre-François-Xavier de, 1682-1761</dcterms:creator>
-    <dcterms:created>1766</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. fronts (1 port.), 8 fold maps. 20 cm.</dcterms:extent>
     <dcterms:publisher>Printed for J. Exshaw, and J. Potts</dcterms:publisher>
@@ -21,8 +20,7 @@
     <dcterms:subject>Mississippi River Valley--Description and travel</dcterms:subject>
     <dcterms:subject>New France--Discovery and exploration</dcterms:subject>
     <dcterms:subject>West Indies--Description and travel</dcterms:subject>
-    <dcterms:spatial>Ireland</dcterms:spatial>
-    <dcterms:spatial>Dublin</dcterms:spatial>
+    <dcterms:spatial>Dublin, Ireland</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:60079/iiif/manifest.json</dcterms:isReferencedBy>

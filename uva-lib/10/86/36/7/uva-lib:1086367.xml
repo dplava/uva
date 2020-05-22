@@ -12,11 +12,14 @@
     <dcterms:title>Sensuyt le Rommant de la Rose: Aultreme[n]t dit le songe vergier</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Guillaume, de Lorris, active 1230</dcterms:creator>
+    <dcterms:creator>Lotrian, Alain</dcterms:creator>
     <dcterms:created>1528</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[284] p. : ill. ; 19 cm. (4to)</dcterms:extent>
     <dcterms:publisher>On les vend a Paris en la rue neufue nostre Dame a lenseigne de lescu de France</dcterms:publisher>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1086367/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

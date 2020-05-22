@@ -12,11 +12,8 @@
     <dcterms:title>Lasco? Hester, Clarksville Public School. Miss Lucile Forest Teacher. His eyes are crossed, vision gone in one on account of lack of use. Dr. Vau? said he could have saved both eyes if he had seen him 3 years sooner. On Ex. a grain of wheat was found in one ear, a bean in the other (both practically petrified). His adenoids were removed his eyes treated and glasses given him. The school furnishes free lunch each day. His hearing is now good, vision improving, and his work uniformly improving. His father is dead and his mother earns $5 work in factory. S.L.Smith</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Davis, Jackson, 1882-1947</dcterms:creator>
-    <dcterms:created>1915/1947</dcterms:created>
     <dcterms:description>Full view</dcterms:description>
-    <dcterms:medium>nonprojected graphic</dcterms:medium>
-    <dcterms:medium>photography</dcterms:medium>
-    <dcterms:extent>4 x 6 in.</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Clarksville (Tenn.)--Cities and towns by name</dcterms:subject>
     <dcterms:subject>Montgomery County (Tenn.)--Regions and states by name</dcterms:subject>
     <dcterms:subject>Tennessee--Regions and states by name</dcterms:subject>
@@ -25,7 +22,6 @@
     <dcterms:subject>African Americans--People by ethnic group</dcterms:subject>
     <dcterms:subject>Portraits--Visual works by subject types</dcterms:subject>
     <dcterms:subject>Books--Information artifacts</dcterms:subject>
-    <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
     <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
     <dcterms:medium>black-and-white photographs</dcterms:medium>
     <dcterms:type>Still Image</dcterms:type>

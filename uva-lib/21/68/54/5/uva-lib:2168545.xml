@@ -11,7 +11,6 @@
     <dcterms:identifier>uva-lib:2168545</dcterms:identifier>
     <dcterms:title>School of Medicine, Third Year Class, 1930-1931</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1930/1931</dcterms:created>
     <dcterms:description>Class of 1932 Identified (L to R): Thomas Dickinson Brown, James Lawson Cabaniss, Jack Leon
 Cantor, Austin Brockenbrough Chinn, Thomas Sterling Claiborne, Harry Boyd Coakley, Robert Ruben
 Coleman, Frank Dunnington Daniel, John Walter Davis, Jr., George Henry Derieux, Walter Ansell
@@ -26,11 +25,10 @@ Peyton Snead, Jr., Francis Arthur Snidow, Wilson Thomas Sowder, Hugh Otto Staley
 Strauss, Frank Andes Strickler, Herbert William Swertfeger, George Carland Tanner, Delmar Franklin
 Weaver, Jr., Robert Edward Westmoreland Fifth row: Hugh Grigsby Whitehead, Jr., William Beverly
 Wilkings, Munford Radford Yates, Joseph Edgar Young, Jr.</dcterms:description>
-    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Faculty</dcterms:subject>
     <dcterms:subject>Students</dcterms:subject>
     <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
-    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
     <dcterms:medium>black-and-white photographs</dcterms:medium>
     <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168545/iiif/manifest.json</dcterms:isReferencedBy>

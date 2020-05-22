@@ -12,6 +12,7 @@
     <dcterms:title>La manière de bien traduire dune langue en aultre. : D'auantaige. De la punctuation de la langue. Francoyse. Plus. Des accent d'ycelle.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Dolet, Etienne, 1509-1546</dcterms:creator>
+    <dcterms:creator>Loë, Jean de, active 1545-1560</dcterms:creator>
     <dcterms:created>1542/1563</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[39] p. ; 14 cm. (8vo)</dcterms:extent>
@@ -20,7 +21,9 @@
     <dcterms:subject>French language--Punctuation</dcterms:subject>
     <dcterms:subject>French language--Middle French, 1300-1600</dcterms:subject>
     <dcterms:subject>French language--Diacritics</dcterms:subject>
+    <dcterms:spatial>Antwerp, Belgium</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730699/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

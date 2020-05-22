@@ -11,16 +11,10 @@
     <dcterms:identifier>tsb:103634</dcterms:identifier>
     <dcterms:title>Centigrade thermometer</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1914</dcterms:created>
     <dcterms:description>Clinical thermometer contained in a red paper case; Graded 36 to 42 C; of German origin, found on a battlefield in World War I.</dcterms:description>
-    <dcterms:medium>glass (material)</dcterms:medium>
-    <dcterms:medium>mercury</dcterms:medium>
-    <dcterms:extent>1.3 x 15.3 x 1.8 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Celsius thermometer</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:medium>thermometers</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103634/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103634</edm:isShownAt>

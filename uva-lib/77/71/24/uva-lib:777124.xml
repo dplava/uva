@@ -12,16 +12,17 @@
     <dcterms:title>Boccace Des dames de renom</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Boccaccio, Giovanni, 1313-1375</dcterms:creator>
-    <dcterms:created>1551</dcterms:created>
+    <dcterms:creator>Rouillé, Guillaume, 1518?-1589</dcterms:creator>
+    <dcterms:creator>Pagnant, Edouard, 1852-1926</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>384, [8] p. ; 18cm. (8vo)</dcterms:extent>
     <dcterms:publisher>chez Guil. Rouille à  l'Escu de Venise</dcterms:publisher>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:spatial>Lyon, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:language>ita</dcterms:language>
     <dcterms:language>lat</dcterms:language>
     <dcterms:medium>biography</dcterms:medium>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:777124/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

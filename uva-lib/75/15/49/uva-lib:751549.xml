@@ -12,14 +12,16 @@
     <dcterms:title>Complainte tres piteuse de Flamette a son amy Pãphile</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Boccaccio, Giovanni, 1313-1375</dcterms:creator>
-    <dcterms:created>1532</dcterms:created>
+    <dcterms:creator>Juste, Françoys, active 16th century</dcterms:creator>
+    <dcterms:creator>Trautz, Georges, 1808-1879</dcterms:creator>
+    <dcterms:creator>Brunet, Jacques-Charles, 1780-1867</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[3], 120), [1] leaves : ill. ; 14 cm. (24mo)</dcterms:extent>
     <dcterms:publisher>Francoys Juste</dcterms:publisher>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:spatial>Lyon, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:language>ita</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:751549/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

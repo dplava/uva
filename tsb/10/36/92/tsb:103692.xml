@@ -11,15 +11,10 @@
     <dcterms:identifier>tsb:103692</dcterms:identifier>
     <dcterms:title>Instrument case</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1920/1980</dcterms:created>
     <dcterms:description>Names stamped on cover: "Ivan Fawcet, M.D., Arthur K. Hoge, M.D., M.F.C. Zubak, M.D. 75-12th St, Wheeling, W. Va."</dcterms:description>
-    <dcterms:medium>leather</dcterms:medium>
-    <dcterms:medium>metal</dcterms:medium>
-    <dcterms:extent>0.4 x 18.1 x 8.2 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Medical instruments and apparatus--Pouches (Containers)</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103692/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103692</edm:isShownAt>

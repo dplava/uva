@@ -11,7 +11,6 @@
     <dcterms:identifier>uva-lib:2168539</dcterms:identifier>
     <dcterms:title>Fourth Year Class, 1929-1930</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1929/1930</dcterms:created>
     <dcterms:description>SOM, Class of 1930 Identified, from left to right: Top row: Richard F. Slaughter Jr., Robert
 E. Odom, William O. Purdy, Archibald A. Little Jr., Achilles L. Tynes Jr., Lewis B. Sheppard,
 Frederick M. Morrison, William M. Gammon, Harold H. McLemore, J. R. Eggleston, Thomas L. Watson Jr.,
@@ -38,11 +37,10 @@ F. Brumfield (Bacteriology and Pathology), H. W. Smith (Physiology), F. B. Staff
 (Phthisotherapy), E. S. Sanderson (Pathology and Bacteriology), R. M. Meade (Surgery), W. W. Waddell
 (Pediatrics), C. B. Morton (Surgery), A. Chanutin (Biochemistry), R. T. Ergenbright (Orthopedics),
 Joseph P. Coco</dcterms:description>
-    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Faculty</dcterms:subject>
     <dcterms:subject>Students</dcterms:subject>
     <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
-    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
     <dcterms:medium>black-and-white photographs</dcterms:medium>
     <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168539/iiif/manifest.json</dcterms:isReferencedBy>

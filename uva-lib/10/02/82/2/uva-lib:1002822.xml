@@ -11,14 +11,13 @@
     <dcterms:identifier>uva-lib:1002822</dcterms:identifier>
     <dcterms:title>Les treselegantes et copieuses annalles des trespreux, tresnobles, treschrestiens et excellens moderateurs des belliqueuses Gaulles. : Depuis la triste desolation de la tresinclyte &amp; fameuse cite de Troye iusques au regne du tres vertueux roy Francois a present regnant:</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Gilles, Nicole, d. 1503</dcterms:creator>
-    <dcterms:created>1538</dcterms:created>
+    <dcterms:creator>Gilles, Nicole</dcterms:creator>
+    <dcterms:creator>Couteau, Nicolas</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. in 1 ([6], C.xxxviii (i.e. 140), [5], C.xlviiii leaves): ill. ; 32 cm. (fol)</dcterms:extent>
     <dcterms:publisher>On les vend a Paris en la rue Sainct Jacques a lenseigne de la fleur de lys dor</dcterms:publisher>
     <dcterms:subject>France--History--Sources</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1002822/iiif/manifest.json</dcterms:isReferencedBy>

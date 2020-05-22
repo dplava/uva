@@ -12,9 +12,7 @@
     <dcterms:title>Parade, Main Street</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Holsinger, Ralph W.</dcterms:creator>
-    <dcterms:created>1920~/1939~</dcterms:created>
-    <dcterms:medium>nonprojected graphic</dcterms:medium>
-    <dcterms:extent>8 x 10 in.</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Crowds</dcterms:subject>
     <dcterms:subject>Fire engines</dcterms:subject>
     <dcterms:subject>Parades</dcterms:subject>
@@ -22,7 +20,6 @@
     <dcterms:subject>Central business districts</dcterms:subject>
     <dcterms:subject>Staunton (Va.)</dcterms:subject>
     <dcterms:subject>Charlottesville (Va.)</dcterms:subject>
-    <dcterms:isPartOf>Holsinger Studio Collection</dcterms:isPartOf>
     <dcterms:medium>Film negatives</dcterms:medium>
     <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1051679/iiif/manifest.json</dcterms:isReferencedBy>

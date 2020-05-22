@@ -13,7 +13,8 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Peletier, Jacques, 1517-1582</dcterms:creator>
     <dcterms:creator>Peletier, Jacques, 1517-1582</dcterms:creator>
-    <dcterms:created>1550</dcterms:created>
+    <dcterms:creator>Marnef, Enguilbert de, active 1530-1568</dcterms:creator>
+    <dcterms:creator>Thompson of Paris</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[8], 216 p. ; 15 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Par Ian e Enguilbert de Marnef, a l'anseigne du Pelican</dcterms:publisher>
@@ -21,9 +22,9 @@
     <dcterms:subject>French language--Middle French, 1300-1600</dcterms:subject>
     <dcterms:subject>French language--Orthography and spelling</dcterms:subject>
     <dcterms:subject>French language--Grammar</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Poitiers</dcterms:spatial>
+    <dcterms:spatial>Poitiers, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1038390/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

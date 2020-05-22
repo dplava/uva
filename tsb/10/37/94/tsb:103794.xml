@@ -11,15 +11,10 @@
     <dcterms:identifier>tsb:103794</dcterms:identifier>
     <dcterms:title>Hypodermic syringe</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1920/1960</dcterms:created>
     <dcterms:description>Blue and silver box containing one 5 CC syringe, with markings of "764" and "MADE IN THE U.S.A."</dcterms:description>
-    <dcterms:medium>glass (material)</dcterms:medium>
-    <dcterms:medium>cardboard</dcterms:medium>
-    <dcterms:extent>2.9 x 11.1 x 5 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Hypodermic syringes</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103794/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103794</edm:isShownAt>

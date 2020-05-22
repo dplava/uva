@@ -11,14 +11,10 @@
     <dcterms:identifier>uva-lib:2440598</dcterms:identifier>
     <dcterms:title>Mortar and pestle</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1920</dcterms:created>
     <dcterms:description>The following text is printed on the mortar: "warranted T.M.S
       &amp; Company Acid proof Maddock's Sons Company Trenton New Jersey". The word "Germany" is printed on the pestle.</dcterms:description>
-    <dcterms:medium>porcelain (material)</dcterms:medium>
-    <dcterms:extent>5 x 5 x 4 cm</dcterms:extent>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>mortars (grinding tools)</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440598/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440598</edm:isShownAt>

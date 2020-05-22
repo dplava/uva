@@ -13,13 +13,14 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Marot, Jean, 1463-1523</dcterms:creator>
     <dcterms:creator>Marot, Clément, 1496-1544</dcterms:creator>
-    <dcterms:created>1536</dcterms:created>
+    <dcterms:creator>Petit, Jean</dcterms:creator>
+    <dcterms:creator>Bauzonnet, Antoine, 1795-1882</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[86] p. ; 13 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>On les vend à Paris en la rue sainct Iaques chez Iehan petit à l'enseigne de la Fleur de liz</dcterms:publisher>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th cent</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1002916/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

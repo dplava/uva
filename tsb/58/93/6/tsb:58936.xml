@@ -11,17 +11,10 @@
     <dcterms:identifier>tsb:58936</dcterms:identifier>
     <dcterms:title>Eyeglasses in case</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1865</dcterms:created>
     <dcterms:description>Eyeglasses on a gold chain attached to a wire earpiece, with a cloth-lined metal case. Items were owned by Dr. Aristides Monteiro, a Civil War surgeon with the Confederate Army.</dcterms:description>
-    <dcterms:medium>glass (material)</dcterms:medium>
-    <dcterms:medium>metal</dcterms:medium>
-    <dcterms:medium>cloth</dcterms:medium>
-    <dcterms:extent>1.5 x 10.8 x 4 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Eyeglasses</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>eyeglasses</dcterms:medium>
-    <dcterms:medium>eyeglass cases</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58936/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58936</edm:isShownAt>

@@ -11,16 +11,11 @@
     <dcterms:identifier>uva-lib:2440599</dcterms:identifier>
     <dcterms:title>Doctor's bag</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1890/1970</dcterms:created>
     <dcterms:description>Black leather bag containing the following instruments (00718a): vaginal speculum; 00718b: vaginal speculum; 00718c: Bozeman's dressing forceps (10"); 00718d: Bozeman's dressing forceps, Klein Germany (10"); 00718e: polypus forceps (9"); 00718f: splinter forceps, F.A. Kock &amp; Co. Germany (4.5"); 00718g: needle holder (5.5"); 00718h: retractor? Sklar stainless; 00718i: unidentifed instrument.</dcterms:description>
-    <dcterms:medium>leather</dcterms:medium>
-    <dcterms:medium>metal</dcterms:medium>
-    <dcterms:extent>16" x 10" x 7"</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Bags</dcterms:subject>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>doctor's bags</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440599/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440599</edm:isShownAt>

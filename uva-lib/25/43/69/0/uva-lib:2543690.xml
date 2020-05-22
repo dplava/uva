@@ -11,22 +11,15 @@
     <dcterms:identifier>uva-lib:2543690</dcterms:identifier>
     <dcterms:title>Microscope slides</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1900/1904</dcterms:created>
     <dcterms:description>Slides contained in wooden box bearing the inscription: H.N Mason Pathology. On back of lid is written: "These slides were used by H. Norton Mason, M.D 
       while a student at The University of Virginia School of Medicine 1900-04. He practiced in Richmond. 1908-53. Living and well in 1975." Box includes grooves for 25 slides, 
       numbered 1-25. Labeled slides include: Adeno Carcinoma of Cervix, Cloudy swelling of kidney, Adeno Carcinoma of Cervix, Epithelioma of Lip, Bacil Tubercula, Gumma of liver, 
       Retention Cyst of Fallopian Tube,  Cystoma of ovary, Fatty degenration of liver, Adenoma of breast, Alveola and Sarcoma Testis, Tuberculosis of lung, 
       Chondro Sarcoma of Uterus, Myoma of Broad Lig, Milaus Sarcoma Pubic Wart,  Lipoma of Nack, Carcinoma of uterus, Giant celled sarcoma of jaw, inflamed lymph node, 
       Naceres of Back, scirrhus carcinoma of breast, fibroma of uterus.</dcterms:description>
-    <dcterms:medium>glass (material)</dcterms:medium>
-    <dcterms:medium>wood (plant material)</dcterms:medium>
-    <dcterms:medium>paper (fiber product)</dcterms:medium>
-    <dcterms:extent>3.5 x 17 x 8 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>medical instruments or apparatus--microscope slides</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:medium>slides (microscopy)</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2543690/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2543690</edm:isShownAt>

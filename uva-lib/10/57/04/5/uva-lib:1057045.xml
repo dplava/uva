@@ -12,15 +12,13 @@
     <dcterms:title>Recueil et discours du voyage du roy Charles IX. de ce nom à, present regnant, : accompagné des choses dignes de memoire faictes en chacun endroit faisant son dit voyage en ses païs &amp; prouinces de Champaigne, Bourgoigne, Daulphiné, Prouence, Languedoc, Gascoigne, Baiõne, &amp; plusieurs autres lieux, suyuant son retour depuis son partement de Paris iusques à son retour audit lieu, és annees M.D.LXIIII. &amp; LXV.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Jouan, Abel.</dcterms:creator>
-    <dcterms:created>1567</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>46, [1] leaves ; 16 cm.</dcterms:extent>
     <dcterms:publisher>Par Benoist Rigaud</dcterms:publisher>
     <dcterms:subject>Charles, IX, King of France, 1550-1574</dcterms:subject>
     <dcterms:subject>Catherine de Médicis, Queen, consort of Henry II, King of France, 1519-1589</dcterms:subject>
     <dcterms:subject>Visits of state--France</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:spatial>Lyon, France</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1057045/iiif/manifest.json</dcterms:isReferencedBy>

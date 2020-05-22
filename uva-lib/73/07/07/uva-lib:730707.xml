@@ -13,13 +13,11 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Turnèbe, Adrien, 1512-1565</dcterms:creator>
     <dcterms:creator>Du Bellay, Joachim, approximately 1522-1560</dcterms:creator>
-    <dcterms:created>1560</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[12] p. ; 24 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Apud Federicum Morellum ...</dcterms:publisher>
     <dcterms:subject>Du Bellay, Joachim, approximately 1522-1560</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>lat</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730707/iiif/manifest.json</dcterms:isReferencedBy>

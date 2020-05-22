@@ -11,16 +11,10 @@
     <dcterms:identifier>uva-lib:2826781</dcterms:identifier>
     <dcterms:title>Medical bag with instruments</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1900/1950</dcterms:created>
     <dcterms:description>Bag contains a smaller leather case with 8 instruments. Another leather case holds 13 items including scalpels, hook, catheters, and scissors. In a maroon bag there is a metal box engraved Lilly Aseptic and holding a syringe and vials. Other instruments include a scale, obstetrical forceps, two specula, six additional scalpels, three forceps, a tuning fork, and an unidentified instrument.</dcterms:description>
-    <dcterms:medium>leather</dcterms:medium>
-    <dcterms:medium>metal</dcterms:medium>
-    <dcterms:medium>glass (material)</dcterms:medium>
-    <dcterms:extent>23 x 42 x 18 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Medical instruments or apparatus--Bags</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>doctor's bags</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2826781/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2826781</edm:isShownAt>

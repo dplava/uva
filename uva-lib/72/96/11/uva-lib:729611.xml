@@ -12,13 +12,11 @@
     <dcterms:title>Remonstrance pour le roy, à tous ses subiects qui ont prins les armes contre sa Maiesté</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>La Taille, Jean de, 1533?-1611 or 1612</dcterms:creator>
-    <dcterms:created>1567</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>15 p. ; 16 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Par Michel Ioue</dcterms:publisher>
     <dcterms:subject>France--History--Wars of the Huguenots, 1562-1598--Poetry</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:spatial>Lyon, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:729611/iiif/manifest.json</dcterms:isReferencedBy>

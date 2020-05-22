@@ -11,16 +11,10 @@
     <dcterms:identifier>uva-lib:2569227</dcterms:identifier>
     <dcterms:title>Blood collection items</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>2014</dcterms:created>
     <dcterms:description>21st century blood collection items including 2 BD Vacutainer Tubes, 1 BD Vacutainer Push Button Butterfly Needle, and 1 BD Vacutainer Safety-Lok butterfly needle.</dcterms:description>
-    <dcterms:medium>plastic (organic material)</dcterms:medium>
-    <dcterms:medium>metal</dcterms:medium>
-    <dcterms:medium>paper (fiber product)</dcterms:medium>
-    <dcterms:extent>10.2 x 1 x 7 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2569227/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2569227</edm:isShownAt>

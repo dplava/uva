@@ -11,14 +11,10 @@
     <dcterms:identifier>tsb:103662</dcterms:identifier>
     <dcterms:title>Penicillin sensitivity discs</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1950</dcterms:created>
     <dcterms:description>Label reads: "10 units of Sensi-Discs for lab diagnosis only; Lot 910026; Expiration date 1960-04; Baltimore Biological Laboratory. A division of Becton, Dickinson, and Co. Baltimore 18, MD, U.S.A."</dcterms:description>
-    <dcterms:medium>plastic (material)</dcterms:medium>
-    <dcterms:extent>1.1 x 7.3 x 1.4 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Medical supplies</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103662/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103662</edm:isShownAt>

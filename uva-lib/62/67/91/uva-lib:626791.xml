@@ -12,15 +12,13 @@
     <dcterms:title>Discours des premiers troubles aduenus à Lyon, : auec l'apologie pour la ville de Lyon, contre le libelle faucement intitulé, La iuste &amp; saincte defence de la ville de Lyon,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Saconay, Gabriel de.</dcterms:creator>
-    <dcterms:created>1569</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[16], 269, [1] p. : ill. ; 17 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Par Michel Iove</dcterms:publisher>
     <dcterms:subject>Lyon (France)--History</dcterms:subject>
     <dcterms:subject>Lyon (France)--Church history</dcterms:subject>
     <dcterms:subject>France--History--Wars of the Huguenots, 1562-1598</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:spatial>Lyon, France</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:626791/iiif/manifest.json</dcterms:isReferencedBy>

@@ -13,7 +13,6 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>N. N.</dcterms:creator>
     <dcterms:creator>Peake, Thomas.</dcterms:creator>
-    <dcterms:created>1655</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[14], 484, [2] p., [1] folded leaf of plates : map ; 15 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Printed by Ric. Hodgkinsonne for Edw. Dod ...</dcterms:publisher>
@@ -21,8 +20,7 @@
     <dcterms:subject>Library--Personal copy</dcterms:subject>
     <dcterms:subject>America--Description and travel</dcterms:subject>
     <dcterms:subject>Latin America--Description and travel</dcterms:subject>
-    <dcterms:spatial>England</dcterms:spatial>
-    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:spatial>London, England</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1117410/iiif/manifest.json</dcterms:isReferencedBy>

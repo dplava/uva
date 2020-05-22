@@ -11,18 +11,10 @@
     <dcterms:identifier>tsb:103781</dcterms:identifier>
     <dcterms:title>Centigrade thermometer</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1900/1910</dcterms:created>
     <dcterms:description>Contained in silver metal case. Graded from 10 to 25 C.</dcterms:description>
-    <dcterms:medium>glass (material)</dcterms:medium>
-    <dcterms:medium>metal</dcterms:medium>
-    <dcterms:medium>paper (fiber product)</dcterms:medium>
-    <dcterms:medium>mercury</dcterms:medium>
-    <dcterms:extent>1 x 13.5 x 1.3 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Medical instruments and apparatus--Celsius thermometer</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:medium>thermometers</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103781/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103781</edm:isShownAt>

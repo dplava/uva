@@ -13,7 +13,6 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Duval, P. (Pierre), 1619-1682</dcterms:creator>
     <dcterms:creator>Liebaux.</dcterms:creator>
-    <dcterms:created>1679</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : hand col. ; 41 x 45 cm. on sheet 41 x 53 cm.</dcterms:extent>
@@ -21,8 +20,7 @@
     <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
     <dcterms:subject>Mexico, Gulf of--Maps--Early works to 1800</dcterms:subject>
     <dcterms:subject>West Indies--Maps--Early works to 1800</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:type>Image</dcterms:type>

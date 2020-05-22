@@ -19,8 +19,7 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 v. ; 17 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Pour Lucas Breyer, marchant libraire tenant sa boutique au second pilier de la grand' salle du Palais</dcterms:publisher>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1020079/iiif/manifest.json</dcterms:isReferencedBy>

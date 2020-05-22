@@ -11,16 +11,10 @@
     <dcterms:identifier>tsb:58971</dcterms:identifier>
     <dcterms:title>Instrument roll case</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1925</dcterms:created>
     <dcterms:description>Canvas instrument case for field use.</dcterms:description>
-    <dcterms:medium>canvas (textile material)</dcterms:medium>
-    <dcterms:medium>metal</dcterms:medium>
-    <dcterms:extent>1 x 27 x 15 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:medium>cases (containers)</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58971/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58971</edm:isShownAt>

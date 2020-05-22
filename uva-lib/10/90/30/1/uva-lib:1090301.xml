@@ -12,14 +12,17 @@
     <dcterms:title>Les oeures Maistre Francoys Villon. : Le Monologue du franc Archier de Baignollet. Le Dyalogue des seigneurs de Malle paye &amp; Bailleuent.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Villon, François, 1431-1463</dcterms:creator>
-    <dcterms:created>1533</dcterms:created>
+    <dcterms:creator>Lotrian, Alain</dcterms:creator>
+    <dcterms:creator>Janot, Denis, -1544</dcterms:creator>
+    <dcterms:creator>Trepperel, Jean, active 1491-1511</dcterms:creator>
+    <dcterms:creator>Mercier, Emile, 1855-1910</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[272] p. ; 12 cm.</dcterms:extent>
     <dcterms:publisher>On les vent a Paris a la rue neufue nostre dame a lenseigne de Lescu de France</dcterms:publisher>
     <dcterms:subject>French poetry--To 1500</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1090301/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

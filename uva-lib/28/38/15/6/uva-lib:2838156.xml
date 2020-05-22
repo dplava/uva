@@ -11,16 +11,10 @@
     <dcterms:identifier>uva-lib:2838156</dcterms:identifier>
     <dcterms:title>Veterinary syringe</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1950</dcterms:created>
     <dcterms:description>Veterinary syringe, graded 0 to 50.</dcterms:description>
-    <dcterms:medium>metal</dcterms:medium>
-    <dcterms:medium>glass (material)</dcterms:medium>
-    <dcterms:extent>3.2 x 25 x 7.5 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Medical instruments or apparatus--Veterinary medicine</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:medium>veterinary medicine</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2838156/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2838156</edm:isShownAt>

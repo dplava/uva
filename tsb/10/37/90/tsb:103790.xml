@@ -11,14 +11,10 @@
     <dcterms:identifier>tsb:103790</dcterms:identifier>
     <dcterms:title>Syringe</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1920/1970</dcterms:created>
     <dcterms:description>One 2 CC glass syringe, marked with gradations for both CCs and M; Engraved with the number 2122 and "MADE IN U.S.A."</dcterms:description>
-    <dcterms:medium>glass (material)</dcterms:medium>
-    <dcterms:extent>1.7 x 8.1 x 1.9 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Syringes</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103790/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103790</edm:isShownAt>

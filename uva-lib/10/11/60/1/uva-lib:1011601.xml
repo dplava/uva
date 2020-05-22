@@ -14,14 +14,15 @@
     <dcterms:creator>Alciati, Andrea, 1492-1550</dcterms:creator>
     <dcterms:creator>Lefèvre, Jean, 1493-1565</dcterms:creator>
     <dcterms:creator>Salomon, Bernard, approximately 1506-approximately 1561</dcterms:creator>
-    <dcterms:created>1549</dcterms:created>
+    <dcterms:creator>Tournes, Jean de, 1504-1564</dcterms:creator>
+    <dcterms:creator>Niédrée, Jean-Edouard, 1803-1854</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>127 p. : ill. (woodcuts) ; 12 cm. (16mo)</dcterms:extent>
     <dcterms:publisher>Par Iean de Tournes</dcterms:publisher>
     <dcterms:subject>Emblems--Early works to 1800</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:spatial>Lyon, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1011601/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

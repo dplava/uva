@@ -13,6 +13,9 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Gréban, Arnoul, approximately 1420-1471</dcterms:creator>
     <dcterms:creator>Michel, Jean, fl. 1486</dcterms:creator>
+    <dcterms:creator>Lotrian, Alain</dcterms:creator>
+    <dcterms:creator>Derome, Jacques-Antoine, 1698-1760</dcterms:creator>
+    <dcterms:creator>Derome, Nicolas-Denis, 1731-1788</dcterms:creator>
     <dcterms:created>1530</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>li (i.e. 51), [1] leaves : ill. ; 18 cm. (4to)</dcterms:extent>
@@ -20,9 +23,9 @@
     <dcterms:subject>Jesus Christ</dcterms:subject>
     <dcterms:subject>Resurrection--Drama</dcterms:subject>
     <dcterms:subject>Mysteries and miracle-plays, French</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--18th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:617009/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

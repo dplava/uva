@@ -13,7 +13,6 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Sanson, Nicolas, 1600-1667</dcterms:creator>
     <dcterms:creator>Jaillot, Alexis Hubert, 1632?-1712</dcterms:creator>
-    <dcterms:created>1674</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : col. ; 53 x 85 cm. on sheet 60 x 91 cm.</dcterms:extent>
@@ -22,8 +21,7 @@
     <dcterms:subject>Library--Personal copy</dcterms:subject>
     <dcterms:subject>North America--Maps</dcterms:subject>
     <dcterms:subject>California--Maps</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:type>Image</dcterms:type>

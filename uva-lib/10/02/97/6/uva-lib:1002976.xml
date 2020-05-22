@@ -11,8 +11,9 @@
     <dcterms:identifier>uva-lib:1002976</dcterms:identifier>
     <dcterms:title>Le promptuaire des conciles de leglise catholique, auec les scismes &amp; la differēce diceulx</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Lemaire de Belges, Jean, 1473-</dcterms:creator>
-    <dcterms:created>1533</dcterms:created>
+    <dcterms:creator>Lemaire de Belges, Jean, 1473-1524?</dcterms:creator>
+    <dcterms:creator>Morin, Romain, -1560</dcterms:creator>
+    <dcterms:creator>Trautz, Georges, 1808-1879</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>72 leaves : ill. ; 15 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>On les vēd a Lyon, en la boutique de Romain Morin libraire demourant en la Rue Merciere</dcterms:publisher>
@@ -20,9 +21,9 @@
     <dcterms:subject>Gallicanism</dcterms:subject>
     <dcterms:subject>Councils and synods</dcterms:subject>
     <dcterms:subject>Schism</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:spatial>Lyon, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1002976/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

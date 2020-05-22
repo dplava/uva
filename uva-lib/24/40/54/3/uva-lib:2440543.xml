@@ -11,14 +11,10 @@
     <dcterms:identifier>uva-lib:2440543</dcterms:identifier>
     <dcterms:title>Portrait of George Read</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1800/1950</dcterms:created>
     <dcterms:description>Portrait of George Read, signer of the Declaration of Independence. Contained in small, oval frame attached to velvet and metal frame.</dcterms:description>
-    <dcterms:medium>glass</dcterms:medium>
-    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Read, George, 1733-1798</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>portraits</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440543/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440543</edm:isShownAt>

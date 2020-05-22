@@ -12,10 +12,9 @@
     <dcterms:title>Chi Phi Fraternity</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Holsinger, Rufus W., 1866-1930</dcterms:creator>
-    <dcterms:medium>Glass negatives</dcterms:medium>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Portraits, Group</dcterms:subject>
     <dcterms:subject>Charlottesville (Va.)</dcterms:subject>
-    <dcterms:isPartOf>Holsinger Studio Collection</dcterms:isPartOf>
     <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
     <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1039251/iiif/manifest.json</dcterms:isReferencedBy>

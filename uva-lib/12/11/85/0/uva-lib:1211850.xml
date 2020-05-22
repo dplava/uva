@@ -13,12 +13,10 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Mexía, Pedro, 1496?-1552?</dcterms:creator>
     <dcterms:creator>Gruget, Claude, 16th cent</dcterms:creator>
-    <dcterms:created>1572</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>472, [8] leaves : port. ; 13 cm. (12mo)</dcterms:extent>
     <dcterms:publisher>Chez Claude Micard ...</dcterms:publisher>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:language>spa</dcterms:language>
     <dcterms:type>Text</dcterms:type>

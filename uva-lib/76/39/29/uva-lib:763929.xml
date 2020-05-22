@@ -12,6 +12,8 @@
     <dcterms:title>Art poetique Franç̧ois. : Pour l'instruction dés ieunes studieus, &amp; encor peu auancéz en la pöésie Françoise.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Sebillet, Thomas, 1512-1589</dcterms:creator>
+    <dcterms:creator>L'Angelier, Arnoul</dcterms:creator>
+    <dcterms:creator>David, (Binder)</dcterms:creator>
     <dcterms:created>1548</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[8], 79 leaves ; 17 cm. (8vo)</dcterms:extent>
@@ -21,8 +23,7 @@
     <dcterms:subject>Rhetoric--Early works to 1800</dcterms:subject>
     <dcterms:subject>Poetics</dcterms:subject>
     <dcterms:subject>Rhetoric--16th century</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:763929/iiif/manifest.json</dcterms:isReferencedBy>

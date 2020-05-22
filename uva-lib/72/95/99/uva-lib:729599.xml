@@ -12,12 +12,10 @@
     <dcterms:title>Les poëmes du Sieur d'Expilly</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Expilly, Claude, 1561-1636</dcterms:creator>
-    <dcterms:created>1596</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[8], 216 p. : ill. ; 24 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Chez Abel Langellier au premier pillier de la grand Salle du Palais</dcterms:publisher>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:729599/iiif/manifest.json</dcterms:isReferencedBy>

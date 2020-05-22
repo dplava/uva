@@ -12,12 +12,10 @@
     <dcterms:title>Donald Richards</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator valueURI="http://id.loc.gov/authorities/names/no2010051848">Cogill, Tom</dcterms:creator>
-    <dcterms:created>1996</dcterms:created>
     <dcterms:description>Statistics</dcterms:description>
-    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Press coverage</dcterms:subject>
     <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
-    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
     <dcterms:medium>color photographs</dcterms:medium>
     <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2163951/iiif/manifest.json</dcterms:isReferencedBy>

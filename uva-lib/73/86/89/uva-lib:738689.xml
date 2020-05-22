@@ -12,12 +12,10 @@
     <dcterms:title>Alector, : histoire fabuleuse,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Aneau, Barthélemy, -1561</dcterms:creator>
-    <dcterms:created>1560</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[8], xvi, 152 leaves ; 16 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Ar [sic] Pierre Fradin</dcterms:publisher>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:spatial>Lyon, France</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:738689/iiif/manifest.json</dcterms:isReferencedBy>

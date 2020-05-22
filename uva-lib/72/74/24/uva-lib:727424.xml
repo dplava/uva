@@ -13,7 +13,7 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Marot, Clément, 1496-1544</dcterms:creator>
     <dcterms:creator>La Huéterie, Charles de, active 16th century</dcterms:creator>
-    <dcterms:created>1543</dcterms:created>
+    <dcterms:creator>L'Angelier, Charles, -1563</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>86, [2] leaves : ill. ; 12 cm. (16mo)</dcterms:extent>
     <dcterms:publisher>Pour Charles Langelier</dcterms:publisher>
@@ -21,9 +21,9 @@
     <dcterms:subject>Beauty, Personal--Poetry</dcterms:subject>
     <dcterms:subject>Women--Physiology--Poetry</dcterms:subject>
     <dcterms:subject>Human body--Poetry</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:727424/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

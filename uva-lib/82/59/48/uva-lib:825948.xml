@@ -13,15 +13,15 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>San Pedro, Diego de, active 1500</dcterms:creator>
     <dcterms:creator>Corrozet, Gilles, 1510-1568</dcterms:creator>
-    <dcterms:created>1527</dcterms:created>
+    <dcterms:creator>Trautz, Georges, 1808-1879</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>60 leaves : ill. ; 17 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Imprime nouuellement a Paris [s.n.]</dcterms:publisher>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:language>ita</dcterms:language>
     <dcterms:language>spa</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:825948/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

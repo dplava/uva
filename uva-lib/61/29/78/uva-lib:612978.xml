@@ -12,14 +12,16 @@
     <dcterms:title>Les triumphes Petrarcque</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Petrarca, Francesco, 1304-1374</dcterms:creator>
-    <dcterms:created>1539</dcterms:created>
+    <dcterms:creator>La Forge, George de, active 15th century</dcterms:creator>
+    <dcterms:creator>Janot, Denis, -1544</dcterms:creator>
+    <dcterms:creator>Bozérian, le jeune, 1765-1826</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>208 leaves : ill. ; 15 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>On les vend à Paris en la rue neufue nostre Dame à l'enseigne sainct Iehan Baptiste pres Saincte Geneuiefue des Ardens, par Denys Ianot Libraire &amp; Imprimeur</dcterms:publisher>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:spatial>Paris, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:language>ita</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:612978/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

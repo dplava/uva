@@ -11,14 +11,10 @@
     <dcterms:identifier>uva-lib:2551502</dcterms:identifier>
     <dcterms:title>Wood carving of an acorn</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1865</dcterms:created>
     <dcterms:description>A wood carving belonging to Civil War surgeon Dr. Aristides Monteiro.</dcterms:description>
-    <dcterms:medium>wood (plant material)</dcterms:medium>
-    <dcterms:extent>4 x 2.4 x 2.4 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Wood carvings</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>carvings (VisualWorks)</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2551502/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2551502</edm:isShownAt>

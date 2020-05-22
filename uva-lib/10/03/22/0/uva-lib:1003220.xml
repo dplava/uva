@@ -23,8 +23,7 @@
     <dcterms:publisher>Octavianum Scotum</dcterms:publisher>
     <dcterms:subject>Polyphonic chansons</dcterms:subject>
     <dcterms:subject>Part songs, French</dcterms:subject>
-    <dcterms:spatial>Italy</dcterms:spatial>
-    <dcterms:spatial>Venice</dcterms:spatial>
+    <dcterms:spatial>Venice, Italy</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003220/iiif/manifest.json</dcterms:isReferencedBy>

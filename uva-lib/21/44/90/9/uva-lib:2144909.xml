@@ -17,8 +17,7 @@
     <dcterms:subject>Privateering</dcterms:subject>
     <dcterms:subject>United States--Commerce--Great Britain</dcterms:subject>
     <dcterms:subject>Great Britain--Commerce--United States</dcterms:subject>
-    <dcterms:spatial>England</dcterms:spatial>
-    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:spatial>London, England</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2144909/iiif/manifest.json</dcterms:isReferencedBy>

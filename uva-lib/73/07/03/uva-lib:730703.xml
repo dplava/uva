@@ -13,13 +13,12 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hippocrates.</dcterms:creator>
     <dcterms:creator>Galen.</dcterms:creator>
-    <dcterms:created>1555</dcterms:created>
+    <dcterms:creator>Rouillé, Guillaume, 1518?-1589</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>111 p. ; 13 cm. (16mo)</dcterms:extent>
     <dcterms:publisher>Par Guillaume Rouille</dcterms:publisher>
     <dcterms:subject>Medicine--Early works to 1800</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:spatial>Lyon, France</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730703/iiif/manifest.json</dcterms:isReferencedBy>

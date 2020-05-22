@@ -11,17 +11,10 @@
     <dcterms:identifier>uva-lib:2524233</dcterms:identifier>
     <dcterms:title>Stereoscopic viewer</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Dr. E. Berger</dcterms:creator>
-    <dcterms:created>1920/1929</dcterms:created>
     <dcterms:description>The top of the stereoscope is stamped "Loupe Stereoscopique,  H Paris,  Brevet  Dr. E. Berger." "Brevet" is French for "patent."</dcterms:description>
-    <dcterms:medium>plastic (organic material)</dcterms:medium>
-    <dcterms:medium>metal</dcterms:medium>
-    <dcterms:medium>glass (material)</dcterms:medium>
-    <dcterms:extent>5.2 x 11 x 9.3 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2524233/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524233</edm:isShownAt>

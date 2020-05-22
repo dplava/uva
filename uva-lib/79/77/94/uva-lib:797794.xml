@@ -11,16 +11,18 @@
     <dcterms:identifier>uva-lib:797794</dcterms:identifier>
     <dcterms:title>Deuises heroïques</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Paradin, Claude, 16th cent</dcterms:creator>
-    <dcterms:created>1551</dcterms:created>
+    <dcterms:creator>Paradin, Claude, active 16th century</dcterms:creator>
+    <dcterms:creator>Tournes, Jean de, 1504-1564</dcterms:creator>
+    <dcterms:creator>Gazeau, Guillaume, active 1544-1562</dcterms:creator>
+    <dcterms:creator>Trautz, Georges, 1808-1879</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>126 p. : ill. ; 12 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Par Iean de Tournes, et Guil. Gazeau</dcterms:publisher>
     <dcterms:subject>Devices (Heraldry)--Early works to 1800</dcterms:subject>
     <dcterms:subject>Emblems--Early works to 1800</dcterms:subject>
-    <dcterms:spatial>France</dcterms:spatial>
-    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:spatial>Lyon, France</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:medium>Signed bindings (Binding)--France--Paris--19th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:797794/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

@@ -11,15 +11,10 @@
     <dcterms:identifier>tsb:103481</dcterms:identifier>
     <dcterms:title>Emblem of Francis I</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1917</dcterms:created>
     <dcterms:description>Front bears the image of a salimander resembling a dragon and "NVTRISCO ET EXTINGVO." Handwritten text along the side of the medallion reads "Salimander - Emblem of Francis I." On the back of the object is the text "Souvenir du Chateau de [], A.W. Just."</dcterms:description>
-    <dcterms:medium>wood (plant material)</dcterms:medium>
-    <dcterms:medium>paint (coating)</dcterms:medium>
-    <dcterms:extent>0.8 x 15 x 14.7 cm</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Medallions (Decorative arts)</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medallions (medals)</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103481/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103481</edm:isShownAt>

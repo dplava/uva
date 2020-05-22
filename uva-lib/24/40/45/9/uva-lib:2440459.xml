@@ -9,15 +9,12 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
     <dcterms:identifier>uva-lib:2440459</dcterms:identifier>
-    <dcterms:title>Henry Warthen's skull tongs</dcterms:title>
+    <dcterms:title>Warthen tongs</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1930</dcterms:created>
     <dcterms:description>Accompanied by blueprint with the following information: Richmond-Washington Line R.F &amp; P.R.R. CO. Mechanical Department Surgical Instruments, Richmond Virginia; Tracking Number B-2312; revised 2-30-30; approved, handwritten (illegible) signature.</dcterms:description>
-    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>medical equipment</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440459/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440459</edm:isShownAt>

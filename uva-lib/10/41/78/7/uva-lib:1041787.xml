@@ -12,9 +12,7 @@
     <dcterms:title>Mr. Whitlock</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Holsinger, Rufus W., 1866-1930</dcterms:creator>
-    <dcterms:created>1914-03-09</dcterms:created>
-    <dcterms:medium>nonprojected graphic</dcterms:medium>
-    <dcterms:extent>8 x 10 in.</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Portraits, Group</dcterms:subject>
     <dcterms:subject>Snow</dcterms:subject>
     <dcterms:subject>Carriages and carts</dcterms:subject>
@@ -22,7 +20,6 @@
     <dcterms:subject>Animals</dcterms:subject>
     <dcterms:subject>Horses</dcterms:subject>
     <dcterms:subject>African American</dcterms:subject>
-    <dcterms:isPartOf>Holsinger Studio Collection</dcterms:isPartOf>
     <dcterms:medium>Glass negatives</dcterms:medium>
     <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1041787/iiif/manifest.json</dcterms:isReferencedBy>

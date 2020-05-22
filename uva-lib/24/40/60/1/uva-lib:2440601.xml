@@ -11,16 +11,11 @@
     <dcterms:identifier>uva-lib:2440601</dcterms:identifier>
     <dcterms:title>Doctor's bag</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1955/1970</dcterms:created>
     <dcterms:description>Leather bag contains instruments and measures about 14" x 8.5" x 7" when open. Contains a speculum, lamp, 4 syringes in metal cases with rubber stoppers, 2 empty metal cases with stoppers, a pelvimeter, and a Bright-Line Haemacytometer with pipettes in a red case. The Haemacytometer case is marked with the initials G M H.</dcterms:description>
-    <dcterms:medium>leather</dcterms:medium>
-    <dcterms:medium>metal</dcterms:medium>
-    <dcterms:extent>14" x 8.5" x 7"</dcterms:extent>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject>Bags</dcterms:subject>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <dcterms:medium>doctor's bags</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440601/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440601</edm:isShownAt>
