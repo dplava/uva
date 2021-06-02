@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:40 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64573</dcterms:identifier>
+   <dcterms:title>Battles of Saratoga, 1777</dcterms:title>
+   <dcterms:creator>Walworth, Ellen Hardin, 1832-1915</dcterms:creator>
+   <dcterms:publisher>J. Munsell's sons</dcterms:publisher>
+   <dcterms:created>1891</dcterms:created>
+   <dcterms:extent>1 p.l., 191 p. front., plates, ports., 2 maps (1 fold.) 27 cm.</dcterms:extent>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:medium>maps (1 fold.)</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Saratoga Monument Association.</dcterms:subject>
+   <dcterms:subject>Saratoga Campaign, N.Y., 1777</dcterms:subject>
+   <dcterms:subject>Schuylerville (N.Y.)--Description and travel.</dcterms:subject>
+   <dcterms:subject>Saratoga Springs (N.Y.)--Description and travel.</dcterms:subject>
+   <dcterms:spatial>Saratoga Springs (N.Y.)</dcterms:spatial>
+   <dcterms:spatial>Schuylerville (N.Y.)</dcterms:spatial>
+   <dcterms:spatial>New York</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2031358/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64573</edm:isShownAt>
+</mdRecord>

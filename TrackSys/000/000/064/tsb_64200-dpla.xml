@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64200</dcterms:identifier>
+   <dcterms:title>A new conscience and an ancient evil / by Jane Addams</dcterms:title>
+   <dcterms:creator>Addams, Jane, 1860-1935</dcterms:creator>
+   <dcterms:publisher>The Macmillan Company</dcterms:publisher>
+   <dcterms:created>1912</dcterms:created>
+   <dcterms:extent>xi, 219 p. 19 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Much of the material has been published in McClure's magazine. cf. Pref.</dcterms:description>
+   <dcterms:description>ALDERMAN: Additional printing labeled: HQ144 .A7 1912a</dcterms:description>
+   <dcterms:description>Item X000925953 has bookplate data: Edwin Anderson Alderman.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Prostitution</dcterms:subject>
+   <dcterms:subject>Prostitution--Illinois--Chicago.</dcterms:subject>
+   <dcterms:spatial>Chicago.</dcterms:spatial>
+   <dcterms:spatial>Illinois</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1893383/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64200</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:07 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65577</dcterms:identifier>
+   <dcterms:title>An introduction to the study of agricultural economics</dcterms:title>
+   <dcterms:creator>Taylor, Henry C. (Henry Charles), 1873-1969</dcterms:creator>
+   <dcterms:publisher>The Macmillan company, Macmillan &amp; co., ltd.</dcterms:publisher>
+   <dcterms:created>1911</dcterms:created>
+   <dcterms:extent>viii, 327 p. diagrs. 19 cm.</dcterms:extent>
+   <dcterms:medium>diagrams</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:isPartOf>The citizen's library ofeconomics, politics, and sociology,ed. by R. T. Ely</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Agriculture--Economic aspects.</dcterms:subject>
+   <dcterms:subject>Land tenure</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2300007/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65577</edm:isShownAt>
+</mdRecord>

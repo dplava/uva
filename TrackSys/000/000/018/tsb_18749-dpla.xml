@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 7:58 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18749</dcterms:identifier>
+   <dcterms:title>The last enemy / J.C. Ryle</dcterms:title>
+   <dcterms:creator>American Tract Society.</dcterms:creator>
+   <dcterms:creator>Ryle, J. C. (John Charles), 1816-1900</dcterms:creator>
+   <dcterms:publisher>American Tract Society</dcterms:publisher>
+   <dcterms:created>[1850..1859]</dcterms:created>
+   <dcterms:extent>[1] sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>19 x 11 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:isPartOf>Seed corn ; no. 148</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Bible--Study and teaching.</dcterms:subject>
+   <dcterms:subject>Death</dcterms:subject>
+   <dcterms:subject>Eternity</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1518076/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18749</edm:isShownAt>
+</mdRecord>

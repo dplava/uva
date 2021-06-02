@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:08 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65605</dcterms:identifier>
+   <dcterms:title>Grammatici latini ex recensione Henrici Keilii</dcterms:title>
+   <dcterms:creator>Book Traces Project.</dcterms:creator>
+   <dcterms:creator>Hagan, Hermann, 1844-1898</dcterms:creator>
+   <dcterms:creator>Keil, Heinrich, 1822-1894</dcterms:creator>
+   <dcterms:publisher>in aedibvs B.G. Tevbneri</dcterms:publisher>
+   <dcterms:created>1855/1880</dcterms:created>
+   <dcterms:extent>7 v. 24 cm.</dcterms:extent>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>v. 1. Flavii Sospatri Charisii Artis grammaticae libri v. Diomedis Artis grammaticae libri III. Ex Charisii Arte grammatica excerpta.--v. 2. Prisciani Institvtionvm grammaticarvm libri I-XII ex recensione Martini Hertzii.--v. 3. Prisciani Institvtionvm grammaticarvm libri XIII-XVIII ex recensione Martini Hertzii. Prisciani opera minora ex recensione Henrici Keilii.--v. 4. Probi Donati Servii qvi fervntvr de arte grammatica libri ex recensione Henrici Keilii. Notarvm latercvli ex recensione Theodori Mommseni.--v. 5. Artivm scriptores minores: Cledonivs, Pompeivs, Ivlianvs excerpta ex commentariis in Donatvm; Consentivs, Phocas, Evtyches, Avgvstinvs, Palaemon, Asper. De nomine et pronomine. De dvbiis nominibvs. Macrobii excerpta.--</dcterms:description>
+   <dcterms:description>v. 6. Scriptores artis metricae: Marivs Victorinvs, Maximvs Victorinvs, Caesivs Bassvs, Atilivs Fortvnatianvs, Terentianvs Mavrvs, Marivs Plotivs Sacerdos, Rvfinvs, Mallivs Theodorvs, Fragmenta et excerpta metrica.--v. 7. Scriptores de orthographia: Terentivs Scavrvs, Velivs Longvs, Caper, Agroecivs, Cassiodorivs, Martyrivs, Beda, Albinvs. Avdacis excerpta, Dosithei Ars grammatica, Arvsiani Messii Exempla elocvtionvm, Cornelii Frontonis liber de differentiis, Fragmenta grammatica. Index scriptorvm.</dcterms:description>
+   <dcterms:description>Subject entries from the Provenance Evidence Thesaurus describe copies analyzed by Book Traces @ UVA.</dcterms:description>
+   <dcterms:description>Vol. 1-3: One copy: Photocopy. North Manchester, IN : Heckman Bindery, Inc., [2005].</dcterms:description>
+   <dcterms:description>Item X006172687 has bookplate data: From the Hertz Books Presented by Thomas Randolph Price and the New York Alumni. Item X001047926 has bookplate data: From the Hertz Books Presented by Thomas Randolph Price and the New York Alumni. Item X001047931 has bookplate data: From the Hertz Books Presented by Thomas Randolph Price and the New York Alumni.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Latin language--Grammar--Early works to 1500.</dcterms:subject>
+   <dcterms:subject>Latin language--Metrics and rhythmics.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2311629/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65605</edm:isShownAt>
+</mdRecord>

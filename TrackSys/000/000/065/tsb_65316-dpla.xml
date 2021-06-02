@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:00 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65316</dcterms:identifier>
+   <dcterms:title>The German universities: their character and historical development</dcterms:title>
+   <dcterms:creator>Paulsen, Friedrich, 1846-1908</dcterms:creator>
+   <dcterms:creator>Perry, Edward Delavan, 1854-1938</dcterms:creator>
+   <dcterms:publisher>Macmillan and co.</dcterms:publisher>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>xxxi, 254 p. 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Tr. of Die deutschen universitaten und das universitatsstudium</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2017.</dcterms:description>
+   <dcterms:description>Item X001136363 has bookplate data: Albert Lefevre.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Universities and colleges--Germany.</dcterms:subject>
+   <dcterms:spatial>Germany.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2201012/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65316</edm:isShownAt>
+</mdRecord>

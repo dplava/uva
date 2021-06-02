@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:00 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65328</dcterms:identifier>
+   <dcterms:title>The poetical works of George Crabbe (selected)</dcterms:title>
+   <dcterms:title>Crabbe, George, 1754-1832. Selected works. 1888</dcterms:title>
+   <dcterms:creator>Crabbe, George, 1754-1832</dcterms:creator>
+   <dcterms:creator>Lamplough, Edward</dcterms:creator>
+   <dcterms:publisher>W. Scott</dcterms:publisher>
+   <dcterms:publisher>T. Whittaker; [etc., etc.</dcterms:publisher>
+   <dcterms:created>1888</dcterms:created>
+   <dcterms:extent>xxiii, 255 p. 15 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:isPartOf>The Canterbury poets</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2205560/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65328</edm:isShownAt>
+</mdRecord>

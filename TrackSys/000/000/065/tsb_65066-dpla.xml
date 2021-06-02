@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:53 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65066</dcterms:identifier>
+   <dcterms:title>Quarter-century record, class of 1894 Yale College / ed. by Frederick Dwight, class secretary</dcterms:title>
+   <dcterms:creator>Dwight, Frederick, 1873-</dcterms:creator>
+   <dcterms:creator>Yale University. Class of 1894.</dcterms:creator>
+   <dcterms:publisher>Printed for the class under the direction of the Class Secretaries Bureau</dcterms:publisher>
+   <dcterms:created>1922</dcterms:created>
+   <dcterms:extent>511 p.</dcterms:extent>
+   <dcterms:extent>24 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Bibliography: p. [484]-501.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2103799/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65066</edm:isShownAt>
+</mdRecord>

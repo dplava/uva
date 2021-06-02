@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:01 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65364</dcterms:identifier>
+   <dcterms:title>Heredity and society / by William Cecil Dampier Whetham, and Catherine Durning Whetham</dcterms:title>
+   <dcterms:creator>Dampier, William Cecil Dampier Sir, 1867-1952</dcterms:creator>
+   <dcterms:creator>Whetham, Catherine Durning Holt</dcterms:creator>
+   <dcterms:publisher>Longmans, Green, and co.</dcterms:publisher>
+   <dcterms:created>1912</dcterms:created>
+   <dcterms:extent>viii, 195 p. 24 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>2d ed.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Heredity</dcterms:subject>
+   <dcterms:subject>Sociology</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2218681/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65364</edm:isShownAt>
+</mdRecord>

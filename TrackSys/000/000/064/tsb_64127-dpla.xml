@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:29 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64127</dcterms:identifier>
+   <dcterms:title>A leader of freemen: the life story of Samuel Chapman Armstrong, brevet brigadier-general, U. S. A</dcterms:title>
+   <dcterms:creator>Tomlinson, Everett T. (Everett Titsworth), 1859-1931</dcterms:creator>
+   <dcterms:creator>Tomlinson, Paul G. (Paul Greene), 1888-</dcterms:creator>
+   <dcterms:publisher>American Sunday-school union</dcterms:publisher>
+   <dcterms:created>1917</dcterms:created>
+   <dcterms:extent>86 p. front., ports. 16 cm.</dcterms:extent>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Army and navy ed.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Armstrong, S. C. (Samuel Chapman), 1839-1893</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1866570/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64127</edm:isShownAt>
+</mdRecord>

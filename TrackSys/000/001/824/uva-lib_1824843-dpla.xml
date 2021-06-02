@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:51 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1824843</dcterms:identifier>
+   <dcterms:title>Redwood: a tale / by the author of "A New England tale."</dcterms:title>
+   <dcterms:creator>Sedgwick, Catharine Maria, 1789-1867</dcterms:creator>
+   <dcterms:publisher>John Miller</dcterms:publisher>
+   <dcterms:publisher>William Blackwood</dcterms:publisher>
+   <dcterms:created>1824</dcterms:created>
+   <dcterms:extent>3 v.</dcterms:extent>
+   <dcterms:extent>18 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>SPECIAL COLLECTIONS: Contemporary green cloth with morocco backstrip.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>American literature--1783-1850.</dcterms:subject>
+   <dcterms:subject>Children's stories, American</dcterms:subject>
+   <dcterms:temporal>1783-1850.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:159044/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1824843</edm:isShownAt>
+</mdRecord>

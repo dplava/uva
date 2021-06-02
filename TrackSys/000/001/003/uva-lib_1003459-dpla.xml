@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:23 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003459</dcterms:identifier>
+   <dcterms:title>From Wells to Cape Ann / published at Washington, D.C. August, 1913 by the Coast and Geodetic Survey O.H. Tittmann, Superintendent</dcterms:title>
+   <dcterms:title>Wells to Cape Ann</dcterms:title>
+   <dcterms:creator>Tittmann, O. H. (Otto Hilgard), 1850-1938</dcterms:creator>
+   <dcterms:creator>U.S. Coast and Geodetic Survey.</dcterms:creator>
+   <dcterms:publisher>Coast and Geodetic Survey</dcterms:publisher>
+   <dcterms:created>1917</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>95 x76 cm. [original]</dcterms:extent>
+   <dcterms:medium>bathymetry/soundings</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:medium>shading</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"No. 108. Price 50c. Plate no. 3371" -- In upper margin.</dcterms:description>
+   <dcterms:description>Information in the two directional compasses updated to 1917.</dcterms:description>
+   <dcterms:description>Depths shown by shading and soundings.</dcterms:description>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>Oriented with north toward the upper left corner.</dcterms:description>
+   <dcterms:description>Note: "Lights, beacons and buoys corrected for information received to May 5 1915."</dcterms:description>
+   <dcterms:description>Two coastal vignettes showing shoreline elevations at lower left: Cape Ann from the Northward; Cape Ann lights .. -- Entrance to Gloucester; Eastern Pt. Lt. ...</dcterms:description>
+   <dcterms:description>Notes on dates of triangulations, topography, hydrography, and corrections.</dcterms:description>
+   <dcterms:description>Tables: Lights, Abbreviations, Tides</dcterms:description>
+   <dcterms:description>Coded for "life saving stations."</dcterms:description>
+   <dcterms:description>Scale 1:80,000</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Nautical charts--Atlantic Coast (New England)</dcterms:subject>
+   <dcterms:subject>Atlantic Coast (New England)--Maps.</dcterms:subject>
+   <dcterms:spatial>Atlantic Coast (New England)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:894193/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003459</edm:isShownAt>
+</mdRecord>

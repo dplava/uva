@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:59 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65290</dcterms:identifier>
+   <dcterms:title>Principles and methods of statistics / by Robert Emmet Chaddock</dcterms:title>
+   <dcterms:creator>Chaddock, Robert E. (Robert Emmet), 1879-1940</dcterms:creator>
+   <dcterms:publisher>Houghton Mifflin Company</dcterms:publisher>
+   <dcterms:created>1925</dcterms:created>
+   <dcterms:extent>xvi, 471 p., [2] p. of plates</dcterms:extent>
+   <dcterms:extent>23 cm. [original]</dcterms:extent>
+   <dcterms:medium>forms</dcterms:medium>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:description>"Alphabetical list of references": p. [445]-452.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2017.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Statistics</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2189789/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65290</edm:isShownAt>
+</mdRecord>

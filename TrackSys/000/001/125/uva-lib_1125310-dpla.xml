@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 4:56 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1125310</dcterms:identifier>
+   <dcterms:title>Introduction et variations pour le piano sur la Barcarolle de l'opéra: L'elisire d'amore de Donizetti: op. 66 / composées par S. Thalberg</dcterms:title>
+   <dcterms:title>Thalberg, Sigismond, 1812-1871. Introduktion und Variationen über die Barkarole aus Donizetti's Oper Der Liebestrank</dcterms:title>
+   <dcterms:creator>Goeckeritz, F.</dcterms:creator>
+   <dcterms:creator>J.H. Bufford's Lith.</dcterms:creator>
+   <dcterms:creator>Thalberg, Sigismond, 1812-1871</dcterms:creator>
+   <dcterms:publisher>Russell &amp; Richardson</dcterms:publisher>
+   <dcterms:created>1856</dcterms:created>
+   <dcterms:extent>23 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>At foot of title page: "J.H. Bufford's Lith., 513 Wash. St."</dcterms:description>
+   <dcterms:description>"F. Gockeritz"--Colophon.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Variations (Piano)</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts, Arranged.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1125311/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125310</edm:isShownAt>
+</mdRecord>

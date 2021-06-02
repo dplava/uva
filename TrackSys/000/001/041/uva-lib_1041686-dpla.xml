@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 1:28 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1041686</dcterms:identifier>
+   <dcterms:title>Confederate Monument Charlottesville</dcterms:title>
+   <dcterms:creator>Rufus W. Holsinger, 1866-1930</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1914-01-27</dcterms:created>
+   <dcterms:extent>8 x 10 in. [original]</dcterms:extent>
+   <dcterms:description>University of Virginia cemetery (Copy Negative Available)</dcterms:description>
+   <dcterms:description>Negatives X02055B, X02055B2, X02056B1, and X02056B2 appear to be in a sequence</dcterms:description>
+   <dcterms:description>Plate in good condition [original]</dcterms:description>
+   <dcterms:isPartOf>The Holsinger Studio Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Statues</dcterms:subject>
+   <dcterms:subject>Confederate States of America. Army</dcterms:subject>
+   <dcterms:subject>Cemeteries</dcterms:subject>
+   <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
+   <dcterms:subject>University of Virginia</dcterms:subject>
+   <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1041686/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1041686</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 9:52 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>tsb:59075</dcterms:identifier>
+   <dcterms:title>Map of a part of the city of Richmond showing the burnt districts / Drawn on stone by C.L. Ludwig</dcterms:title>
+   <dcterms:creator>Ludwig, C. L.</dcterms:creator>
+   <dcterms:creator>Smith, William Ira.</dcterms:creator>
+   <dcterms:publisher>Wm. Ira Smith, proprietor Richmond Whig</dcterms:publisher>
+   <dcterms:created>1865</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>21 x 32 cm. [original]</dcterms:extent>
+   <dcterms:medium>one color</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"The black markes indicates burnt."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 2, Barbour Collection, July '42, is dirty and torn.</dcterms:description>
+   <dcterms:description>Scale not given.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Richmond (Va.)--History--Civil War, 1861-1865--Maps.</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>Richmond (Va.)</dcterms:spatial>
+   <dcterms:spatial>Richmond, Virginia, Confederate States of America</dcterms:spatial>
+   <dcterms:spatial>Richmond, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1697557/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:59075</edm:isShownAt>
+</mdRecord>

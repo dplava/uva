@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:43 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1149587</dcterms:identifier>
+   <dcterms:title>Offertoire in A♭ for the organ / by Edward M. Read</dcterms:title>
+   <dcterms:title>Read, Edward M. 1846-1936. Offertories, organ, A♭ major</dcterms:title>
+   <dcterms:creator>Read, Edward M., 1846-1936</dcterms:creator>
+   <dcterms:creator>Stackpole, Patrick M.</dcterms:creator>
+   <dcterms:creator>Whitney, S. B. (Samuel Brenton), 1842-1914</dcterms:creator>
+   <dcterms:publisher>White, Smith &amp; Co.</dcterms:publisher>
+   <dcterms:created>1880</dcterms:created>
+   <dcterms:extent>9 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>organ</dcterms:description>
+   <dcterms:description>For organ solo.</dcterms:description>
+   <dcterms:description>Pages also numbered: p. 26-32.</dcterms:description>
+   <dcterms:description>Illustration: Church organ with flying cherubs at top / Stackpole, N.Y.</dcterms:description>
+   <dcterms:description>"To my friend S.B. Whitney, organist, Church of the Advent, Boston."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Organ music</dcterms:subject>
+   <dcterms:subject>Offertories (Music)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1149588/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1149587</edm:isShownAt>
+</mdRecord>

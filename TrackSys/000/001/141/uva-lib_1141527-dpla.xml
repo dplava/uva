@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:26 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1141527</dcterms:identifier>
+   <dcterms:title>Valse des fleurs: op. 116 / E. Ketterer ; arrangée à 4 mains par J. Rummel</dcterms:title>
+   <dcterms:title>Ketterer, Eugène, 1831-1870. Valse des fleurs; arr</dcterms:title>
+   <dcterms:creator>Ketterer, Eugène, 1831-1870</dcterms:creator>
+   <dcterms:creator>Rummel, Joseph, 1818-1880</dcterms:creator>
+   <dcterms:publisher>Oliver Ditson Co.</dcterms:publisher>
+   <dcterms:created>[1889..1901]</dcterms:created>
+   <dcterms:extent>15 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano (2)</dcterms:description>
+   <dcterms:description>For piano (4 hands).</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publication date derived from form of publisher's name. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>Advertisement on p. [16]: Pianoforte pieces : with beautiful melodies and harmonies : medium grad. On p. [17]: To the dance! : newest ballroom compositions.</dcterms:description>
+   <dcterms:isPartOf>Ditson &amp; Co.'s standard series for four hands</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Waltzes</dcterms:subject>
+   <dcterms:subject>Piano music (4 hands), Arranged</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1141528/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1141527</edm:isShownAt>
+</mdRecord>

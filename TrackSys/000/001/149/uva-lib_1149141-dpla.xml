@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:42 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1149141</dcterms:identifier>
+   <dcterms:title>Little daisy / arranged by Frederick Buckley</dcterms:title>
+   <dcterms:title>Daisy dear, daisy dear</dcterms:title>
+   <dcterms:title>Little daisy darling, where the buds are singing</dcterms:title>
+   <dcterms:creator>Buckley, Frederick, 1833-1864</dcterms:creator>
+   <dcterms:creator>Root, George F. (George Frederick), 1820-1895</dcterms:creator>
+   <dcterms:publisher>Firth, Pond &amp; Co.</dcterms:publisher>
+   <dcterms:created>1859</dcterms:created>
+   <dcterms:extent>1 score ([3] p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, guitar</dcterms:description>
+   <dcterms:description>For guitar and voice, with chorus refrain (SATB).</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [4]: Popular vocal music published by Firth, Pond &amp; Co.</dcterms:description>
+   <dcterms:isPartOf>Musical bazaar : a collection of songs and ballads arranged for the guitar / by favorite authors ; 21</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with guitar, Arranged</dcterms:subject>
+   <dcterms:subject>Death songs</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1149142/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1149141</edm:isShownAt>
+</mdRecord>

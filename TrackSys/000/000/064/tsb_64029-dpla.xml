@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:26 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64029</dcterms:identifier>
+   <dcterms:title>L' amour criminel / par Goron</dcterms:title>
+   <dcterms:creator>Goron, 1847-1933</dcterms:creator>
+   <dcterms:publisher>E. Flammarion</dcterms:publisher>
+   <dcterms:created>1899</dcterms:created>
+   <dcterms:extent>371 p.</dcterms:extent>
+   <dcterms:extent>20 cm. [original]</dcterms:extent>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:isPartOf>Amour à Paris : Nouveaux mémoires ; 1</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Prostitution--France--Paris.</dcterms:subject>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Paris.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1828597/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64029</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:10 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65688</dcterms:identifier>
+   <dcterms:title>The travels of Marco Polo: the Venetian</dcterms:title>
+   <dcterms:creator>Marsden, William, 1754-1836</dcterms:creator>
+   <dcterms:creator>Polo, Marco, 1254-1323?</dcterms:creator>
+   <dcterms:creator>Wright, Thomas, 1810-1877</dcterms:creator>
+   <dcterms:publisher>Bohn</dcterms:publisher>
+   <dcterms:created>1880</dcterms:created>
+   <dcterms:extent>xxviii, 508 p. 19 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Item X002060018 has bookplate data: Gov. Frederick W. M. Holliday.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:isPartOf>Bohn's antiquarian library</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Voyages and travels</dcterms:subject>
+   <dcterms:subject>Mongols--History.</dcterms:subject>
+   <dcterms:subject>Asia--Description and travel.</dcterms:subject>
+   <dcterms:spatial>Asia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2347574/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65688</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:29 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1143051</dcterms:identifier>
+   <dcterms:title>A life on the ocean wave: A favorite song / sung by Mr. H. Russell &amp; Mr. Seguin ; the words by Epes Sargent ; the music composed .. by Henry Russell</dcterms:title>
+   <dcterms:creator>Green, Joseph B.</dcterms:creator>
+   <dcterms:creator>Lawson, P.</dcterms:creator>
+   <dcterms:creator>Russell, Henry, 1812-1900</dcterms:creator>
+   <dcterms:creator>Sargent, Epes, 1813-1880</dcterms:creator>
+   <dcterms:creator>Seguin, Arthur Edward Shelden, 1809-1852</dcterms:creator>
+   <dcterms:publisher>William Hall &amp; Son, 239 Broadway</dcterms:publisher>
+   <dcterms:created>1838</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:extent>35 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, piano</dcterms:description>
+   <dcterms:description>12th ed.</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Third verse printed as text on p. 7.</dcterms:description>
+   <dcterms:description>"P. Lawson, Engvr."--Colophon.</dcterms:description>
+   <dcterms:description>"Dedicated to Joseph B. Green Esq. of Columbus, Geo."</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v. 77, no. 51]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sargent, Epes, 1813-1880--Musical settings.</dcterms:subject>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:subject>Seafaring life--Songs and music.</dcterms:subject>
+   <dcterms:subject>Ocean--Songs and music.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1143052/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1143051</edm:isShownAt>
+</mdRecord>

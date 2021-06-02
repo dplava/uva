@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:01 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65375</dcterms:identifier>
+   <dcterms:title>Beiträge zur Entwicklungsgeschichte des Marsches in der Kunstmusik bis Beethoven / vorgelegt von Kurt Strom</dcterms:title>
+   <dcterms:creator>Strom, Kurt.</dcterms:creator>
+   <dcterms:publisher>Thüringer Warte</dcterms:publisher>
+   <dcterms:created>1926</dcterms:created>
+   <dcterms:extent>viii, 87 p., 8 p. of music</dcterms:extent>
+   <dcterms:extent>24 cm. [original]</dcterms:extent>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>Vita.</dcterms:description>
+   <dcterms:description>Thesis--Ludwig-Maximilians-Universität.</dcterms:description>
+   <dcterms:description>Includes bibliographical references.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>March (Music)--History and criticism.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2223187/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65375</edm:isShownAt>
+</mdRecord>

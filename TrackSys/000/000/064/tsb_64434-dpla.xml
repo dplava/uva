@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:36 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64434</dcterms:identifier>
+   <dcterms:title>Democracy in America / By Alexis de Tocqueville. (Tr. by Henry Reeve) with special introductions by Hon. John T. Morgan .. and Hon. John J. Ingalls</dcterms:title>
+   <dcterms:creator>Reeve, Henry, 1813-1895</dcterms:creator>
+   <dcterms:creator>Tocqueville, Alexis de, 1805-1859</dcterms:creator>
+   <dcterms:publisher>The Colonial press</dcterms:publisher>
+   <dcterms:created>1900</dcterms:created>
+   <dcterms:extent>2 v. 24 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Rev. ed.</dcterms:description>
+   <dcterms:description>Photocopy. [Austin, Texas] : Booklab Inc. 1994.</dcterms:description>
+   <dcterms:description>ALDERMAN: v.1: One copy: Photocopy. North Manchester, IN : Heckman Bindery, Inc., [2005].</dcterms:description>
+   <dcterms:description>Item X004893832 has bookplate data: Isaac T. Walke.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Democracy</dcterms:subject>
+   <dcterms:subject>United States--Politics and government.</dcterms:subject>
+   <dcterms:subject>United States--Social conditions.</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1977007/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64434</edm:isShownAt>
+</mdRecord>

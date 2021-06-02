@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 7:00 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2164243</dcterms:identifier>
+   <dcterms:title>Emperor Akihito and Empress Michiko of Japan visit UVa</dcterms:title>
+   <dcterms:creator>Grogan, Daniel</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1994-06-15</dcterms:created>
+   <dcterms:description>Japanese Emperor Akihito and Empress Michiko visited the University June 15, 1994 as part of their 15-day goodwill tour of the United States. Following their welcome, the imperial couple, accompanied by Governor and Mrs. George F. Allen, were given a brief tour of the lawn. The Emperor expressed interest in the gardens' flowers and symmetry. After the tour, the royal party attended a private luncheon in the Rotunda hosted by University President John T. Casteen III and his wife. Earlier in the day, the Emperor and Empress visited Monticello.</dcterms:description>
+   <dcterms:description>Original Negative Present [original]</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Visual History Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia</dcterms:subject>
+   <dcterms:subject>University of Virginia. News Office--Press coverage</dcterms:subject>
+   <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2164243/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2164243</edm:isShownAt>
+</mdRecord>

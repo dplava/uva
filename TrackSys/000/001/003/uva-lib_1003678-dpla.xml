@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:25 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003678</dcterms:identifier>
+   <dcterms:title>A new map of Virginia / by Robt. Morden</dcterms:title>
+   <dcterms:creator>Morden, Robert, approximately 1650-1703</dcterms:creator>
+   <dcterms:publisher>Robert Morden</dcterms:publisher>
+   <dcterms:created>1688</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>13 x 12 cm. on sheet 19 x 13 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Includes key to county names.</dcterms:description>
+   <dcterms:description>Detached from: Geography rectified..., 3rd ed. London, Printed for R. Morden and T. Cockerill, 1688, p. 561-562.</dcterms:description>
+   <dcterms:description>With map on p. 561, followed by text at the bottom, which continues on verso (p. 562); signature Iiii2 and catchword "the" on p. 561; catchword "Henry's" on p. 562. Running title "A Description of Virginia and Mary-Land."</dcterms:description>
+   <dcterms:description>Covers Chesapeake Bay Region of eastern Va. and Md.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:2,450,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Chesapeake Bay Region (Md. and Va.)--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Virginia--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:spatial>Chesapeake Bay Region (Md. and Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Maryland</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:915241/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003678</edm:isShownAt>
+</mdRecord>

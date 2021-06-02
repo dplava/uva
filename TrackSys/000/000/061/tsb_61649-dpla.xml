@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:49 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61649</dcterms:identifier>
+   <dcterms:title>The mystification of the allied peoples: Why? How? By whom? / Containing 36 maps, diagrams and facsimiles of documents. Translated by John A. FitzGerald</dcterms:title>
+   <dcterms:title>Chéradame, André, 1871-1948. Mystification des peuples alliés. English</dcterms:title>
+   <dcterms:creator>Chéradame, André, 1871-1948</dcterms:creator>
+   <dcterms:creator>Fitzgerald, John A. Jr</dcterms:creator>
+   <dcterms:publisher>The author</dcterms:publisher>
+   <dcterms:created>1923</dcterms:created>
+   <dcterms:extent>liii, 404 p. illus. (incl. maps, facsims.) diagrs. 19 cm.</dcterms:extent>
+   <dcterms:medium>diagrams</dcterms:medium>
+   <dcterms:medium>illustrations (incl. maps, facsims.)</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Tr. of La mystification des peuples alliés.</dcterms:description>
+   <dcterms:description>One copy: Photocopy. North Manchester, IN : Heckman Bindery, Inc., [2005].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Pangermanism</dcterms:subject>
+   <dcterms:subject>Reconstruction (1914-1939)</dcterms:subject>
+   <dcterms:subject>World War, 1914-1918</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1646375/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61649</edm:isShownAt>
+</mdRecord>

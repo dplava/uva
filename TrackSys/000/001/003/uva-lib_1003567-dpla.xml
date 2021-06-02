@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:24 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003567</dcterms:identifier>
+   <dcterms:title>Chesapeake Bay: From the mouth of York River to the entrance to Bay, Sheet no. 6 / From a trigonometrical survey under the direction of A.D. Bache, Superintendent of the Survey of the Coast of the United States. ; Triangulation by E. Blunt &amp; J. Farley, Assistants. ; Topography by J.J.S. Hassler, G.D. Wise, J. Seib, Assts. &amp; J. Mechan, Sub-Asst. ; Hydrography by the party under the command of Lieut. Comdg. J.J. Almy, U.S.N. Assistant. ; Redd. drng. by W.M.C. Fairfax, A. Strausz &amp; L.D. Williams. ; Engd. by J. Knight, A. Sengteller, H.S. Barnard &amp; J.C. Kondrup</dcterms:title>
+   <dcterms:title>Chesapeake Bay, Sheet no. 6</dcterms:title>
+   <dcterms:title>Chesapeake Bay, from the mouth of York River to the entrance to Bay</dcterms:title>
+   <dcterms:creator>Almy, John Jay, 1815-1895</dcterms:creator>
+   <dcterms:creator>Bache, A. D. (Alexander Dallas), 1806-1867</dcterms:creator>
+   <dcterms:creator>Blunt, Edmund M. (Edmund March), 1770-1862</dcterms:creator>
+   <dcterms:creator>Fairfax, Wilson M. C.</dcterms:creator>
+   <dcterms:creator>Hassler, J. J. S.</dcterms:creator>
+   <dcterms:creator>Hilgard, J. E. (Julius Erasmus), 1825-1891</dcterms:creator>
+   <dcterms:creator>Knight, J. (Engraver)</dcterms:creator>
+   <dcterms:creator>Mathiot, G.</dcterms:creator>
+   <dcterms:creator>United States Coast Survey.</dcterms:creator>
+   <dcterms:publisher>United States Coast Survey</dcterms:publisher>
+   <dcterms:created>1863</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>65 x 96 cm. on sheet 75 x 107 cm. [original]</dcterms:extent>
+   <dcterms:medium>bathymetry/soundings</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>At head of title: Coast chart No. 36.</dcterms:description>
+   <dcterms:description>Depth shown by soundings.</dcterms:description>
+   <dcterms:description>Provides detailed sailing directions, with tide tables and locations of lighthouses and buoys.</dcterms:description>
+   <dcterms:description>"Electrotype cooy no. 2 by G. Mathiot U.S.C.S." is printed in upper right margin, but the map is not otherwise numbered in upper or lower margins.</dcterms:description>
+   <dcterms:description>Map is not numbered in</dcterms:description>
+   <dcterms:description>The seal of the Coast Survey is followed by "Price 75 cents" and "Verfied J. E. Hilgard Assist. Coast Survey in charge of Office."</dcterms:description>
+   <dcterms:description>Scale 1:80,000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Nautical charts--Chesapeake Bay (Md. and Va.)</dcterms:subject>
+   <dcterms:subject>Nautical charts--Virginia--York River.</dcterms:subject>
+   <dcterms:subject>York River (Va.)--Maps.</dcterms:subject>
+   <dcterms:subject>Chesapeake Bay (Md. and Va.)--Maps.</dcterms:subject>
+   <dcterms:spatial>Chesapeake Bay (Md. and Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>York River (Va.)</dcterms:spatial>
+   <dcterms:spatial>York River.</dcterms:spatial>
+   <dcterms:spatial>Washington, District of Columbia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904707/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003567</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:05 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1132591</dcterms:identifier>
+   <dcterms:title>Golden harvest / Frank L. Moir</dcterms:title>
+   <dcterms:title>Back in the merry playtime</dcterms:title>
+   <dcterms:creator>Moir, Frank L. (Frank Lewis), 1852-1904</dcterms:creator>
+   <dcterms:publisher>Oliver Ditson Co.</dcterms:publisher>
+   <dcterms:publisher>C.H. Ditson &amp; Co.</dcterms:publisher>
+   <dcterms:publisher>J.E. Ditson &amp; Co.</dcterms:publisher>
+   <dcterms:created>[1875..1889]</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, medium voice</dcterms:description>
+   <dcterms:description>Med. voice in E.</dcterms:description>
+   <dcterms:description>For medium voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publication date derived from form of publishers' names and addresses. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:isPartOf>English songs, first series</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1132592/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1132591</edm:isShownAt>
+</mdRecord>

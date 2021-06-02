@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:55 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65132</dcterms:identifier>
+   <dcterms:title>Trade and industry of Finland</dcterms:title>
+   <dcterms:creator>Järvinen, Kyösti Nestor, 1869-</dcterms:creator>
+   <dcterms:creator>Stenbäck, Mary Longman</dcterms:creator>
+   <dcterms:creator>Tiderman, F.</dcterms:creator>
+   <dcterms:publisher>J. Simelius' heirs printing company ltd.</dcterms:publisher>
+   <dcterms:created>1922</dcterms:created>
+   <dcterms:extent>746 p., 1 l. col. front., illus. (incl. ports., maps) coat of arms, 32 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>coats of arms</dcterms:medium>
+   <dcterms:medium>illustrations (incl. ports., maps)</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Finland--Industries.</dcterms:subject>
+   <dcterms:subject>Finland--Commerce.</dcterms:subject>
+   <dcterms:subject>Finland--Biography.</dcterms:subject>
+   <dcterms:spatial>Finland</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2129351/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65132</edm:isShownAt>
+</mdRecord>

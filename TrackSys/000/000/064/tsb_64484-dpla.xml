@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:38 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64484</dcterms:identifier>
+   <dcterms:title>Beiträge zur Geschichte der Universität Tübingen: Festgabe bei der vierten Säcularfeier ihrer Gründung, im Jahre 1877</dcterms:title>
+   <dcterms:title>Tübinger Jubilaeumsschriften 1877</dcterms:title>
+   <dcterms:title>Zur vierten sacularfeier der Universität Tübingen im sommer 1877</dcterms:title>
+   <dcterms:creator>Universität Tübingen.</dcterms:creator>
+   <dcterms:publisher>L.F. Fues</dcterms:publisher>
+   <dcterms:created>1877</dcterms:created>
+   <dcterms:extent>441 p. in various pagings</dcterms:extent>
+   <dcterms:extent>1877. [original]</dcterms:extent>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Lehrer und Unterricht an der evangelisch-theologischen Fakultät der Universität Tübingen von der Reformation bis zur Gegenwart / Carl von Weizsäcker -- Konrad Summenhart : ein Culturbild aus den Anfängen der Universität Tübingen / Franz Xav. Linsenmann -- Die strafrechtlichen consilia Tubingensia von der Gründung der Universität bis zum Jahre 1600 / Hermann Seeger -- Die Jubiläen der Universität Tübingen nach handschriftlichen Quellen / Bernhard Kugler.</dcterms:description>
+   <dcterms:description>Spine title: Tübinger Jubilaeumsschriften 1877.</dcterms:description>
+   <dcterms:description>In German and Latin.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Universität Tübingen--Anniversaries, etc.</dcterms:subject>
+   <dcterms:subject>Universität Tübingen--Sources.</dcterms:subject>
+   <dcterms:subject>Universität Tübingen--History.</dcterms:subject>
+   <dcterms:subject>Universities and colleges--Germany (West)--History.</dcterms:subject>
+   <dcterms:spatial>Germany (West)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1999319/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64484</edm:isShownAt>
+</mdRecord>

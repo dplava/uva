@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 11:04 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:616764</dcterms:identifier>
+   <dcterms:title>A survey of the Northern Neck of Virginia: being the lands belonging to the Rt. Honourable Thomas Lord Fairfax Baron Cameron, bounded by &amp; within the Bay of Chesapoyocke and between the Rivers Rappahannock and Potowmack : with the courses of the Rivers Rappahannock and Potowmack, in Virginia, as surveyed according to order in the years 1736 &amp; 1737</dcterms:title>
+   <dcterms:title>Courses of the Rivers Rappahannock and Potowmack, in Virginia, as surveyed according to Order in the Years 1736 &amp; 1737</dcterms:title>
+   <dcterms:creator>Fairfax, Thomas Fairfax Lord, 1693-1781</dcterms:creator>
+   <dcterms:creator>Warner, John, fl. 1727-1741</dcterms:creator>
+   <dcterms:publisher>Litho. Photographic Inst. 492, New Oxford Street</dcterms:publisher>
+   <dcterms:created>1852</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>22 x26 cm. [original]</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Stephenson and McKee attribute the 1747 (larger) issue map to John Warner.</dcterms:description>
+   <dcterms:description>Date of publication from Swem.</dcterms:description>
+   <dcterms:description>Relief shown pictorially.</dcterms:description>
+   <dcterms:description>A Scale of Miles 69 1/2 in one Degree of Latitude.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Area Table 75-2 1747 Warner 1852: Tracy W. McGregor Library, American History Collection.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: G3880: Generally soiled; linen backed.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,200,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Northern Neck (Va.)--Maps.</dcterms:subject>
+   <dcterms:subject>Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Chesapeake Bay (Md. and Va.)--Maps.</dcterms:subject>
+   <dcterms:subject>Potomac River--Maps.</dcterms:subject>
+   <dcterms:subject>Rappahannock River (Va.)--Maps.</dcterms:subject>
+   <dcterms:spatial>Chesapeake Bay (Md. and Va.)</dcterms:spatial>
+   <dcterms:spatial>Northern Neck (Va.)</dcterms:spatial>
+   <dcterms:spatial>Potomac River</dcterms:spatial>
+   <dcterms:spatial>Rappahannock River (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:620349/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616764</edm:isShownAt>
+</mdRecord>

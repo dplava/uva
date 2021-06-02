@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 7:57 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2440276</dcterms:identifier>
+   <dcterms:title>Anti-human serum</dcterms:title>
+   <dcterms:creator>Ortho Pharmaceutical Corporation [manufacturer]</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1950~/1959~</dcterms:created>
+   <dcterms:medium>glass (material); rubber (material) [original]</dcterms:medium>
+   <dcterms:description>Empty clear glass bottle with black and white rubber cap, and liquid dispense attached. Label Information: Anti-Human Serum 5cc. for Coombs Test. Expiration date 1959-09-24. By the Ortho Pharmaceudical Corporation, Raritan, New Jersey.</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:subject>Medical laboratory technology</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2440276/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440276</edm:isShownAt>
+</mdRecord>

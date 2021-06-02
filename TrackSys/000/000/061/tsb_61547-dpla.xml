@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:47 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61547</dcterms:identifier>
+   <dcterms:title>Saint Louis (Louis IX. of France): the most Christian king</dcterms:title>
+   <dcterms:creator>Perry, Frederick, 1873-</dcterms:creator>
+   <dcterms:publisher>G. P. Putnam's sons</dcterms:publisher>
+   <dcterms:created>1901</dcterms:created>
+   <dcterms:extent>2 p.l., iii-viii p., 1 l., 303 p. front., illus., plates, ports., fold. map, plan. 20 cm.</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>map</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:medium>plan</dcterms:medium>
+   <dcterms:medium>plans</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:isPartOf>Heroes of the nations</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Louis, IX, King of France, 1214-1270</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1612236/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61547</edm:isShownAt>
+</mdRecord>

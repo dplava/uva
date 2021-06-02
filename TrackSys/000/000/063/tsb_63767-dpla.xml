@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:19 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63767</dcterms:identifier>
+   <dcterms:title>Recent economic changes in the United States: report of the Committee on recent economic changes, of the President's conference on unemployment, Herbert Hoover, chairman, including the reports of a special staff of the National bureau of economic research, inc</dcterms:title>
+   <dcterms:creator>Conference on Unemployment (1921 : Washington, D.C.). Committee on Recent Economic Changes.</dcterms:creator>
+   <dcterms:creator>Hunt, Edward E. (Edward Eyre), 1885-1953</dcterms:creator>
+   <dcterms:creator>National Bureau of Economic Research.</dcterms:creator>
+   <dcterms:publisher>McGraw-Hill book company, inc.</dcterms:publisher>
+   <dcterms:created>1929</dcterms:created>
+   <dcterms:extent>2 v. diagrs. 24 cm.</dcterms:extent>
+   <dcterms:medium>diagrams</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>1st ed.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>United States--Economic conditions--1918-1945.</dcterms:subject>
+   <dcterms:temporal>1918-1945.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1728868/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63767</edm:isShownAt>
+</mdRecord>

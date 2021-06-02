@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:20 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63820</dcterms:identifier>
+   <dcterms:title>Makers of Virginia history / by J.A.C. Chandler</dcterms:title>
+   <dcterms:creator>Book Traces Project.</dcterms:creator>
+   <dcterms:creator>Chandler, J. A. C. (Julian Alvin Carroll), 1872-1934</dcterms:creator>
+   <dcterms:publisher>Silver Burdett &amp; Co.</dcterms:publisher>
+   <dcterms:created>1904</dcterms:created>
+   <dcterms:extent>356 p.</dcterms:extent>
+   <dcterms:extent>19 cm. [original]</dcterms:extent>
+   <dcterms:medium>map</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Item X030226609 contains annotations.</dcterms:description>
+   <dcterms:description>Subject entries from the Provenance Evidence Thesaurus describe copies analyzed by Book Traces @ UVA.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: F225 .C45 1904a copy 2: Bookplate: From the estate of Emily Clark Balch. Item X030226609 has bookplate data: Byrd Library.</dcterms:description>
+   <dcterms:isPartOf>Stories of the states</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Virginia--Biography.</dcterms:subject>
+   <dcterms:subject>Virginia--History.</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1746776/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63820</edm:isShownAt>
+</mdRecord>

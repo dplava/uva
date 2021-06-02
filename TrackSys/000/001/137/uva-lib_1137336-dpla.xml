@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:16 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1137336</dcterms:identifier>
+   <dcterms:title>A spring greeting / Franz Abt</dcterms:title>
+   <dcterms:title>Each grove showeth fair</dcterms:title>
+   <dcterms:title>Abt, Franz, 1819-1885. Duets. op. 457. English. Frühlingsgruss. English</dcterms:title>
+   <dcterms:creator>Abt, Franz, 1819-1885</dcterms:creator>
+   <dcterms:creator>Butler, W. H.</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1884</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice (2), piano</dcterms:description>
+   <dcterms:description>For 2 treble voices and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Illustration: Portrait of Franz Abt.</dcterms:description>
+   <dcterms:description>"X.L.C.R. edition".</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: "National School for the Piano-forte."</dcterms:description>
+   <dcterms:description>At foot of title page: "W.H. Butler, Lith., Phila."</dcterms:description>
+   <dcterms:isPartOf>Franz Abt</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Vocal duets with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1137337/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1137336</edm:isShownAt>
+</mdRecord>

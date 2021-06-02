@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 11:30 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:710281</dcterms:identifier>
+   <dcterms:title>A new and historical map of Albemarle County, Virginia / by Frank A. Massie</dcterms:title>
+   <dcterms:title>Map of Albemarle County, Virginia</dcterms:title>
+   <dcterms:title>Massie map</dcterms:title>
+   <dcterms:creator>Massie, Frank A.</dcterms:creator>
+   <dcterms:creator>Virginia School Company.</dcterms:creator>
+   <dcterms:publisher>Owned and published by the Virginia School Company</dcterms:publisher>
+   <dcterms:created>1907</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>112 x 103 cm. on sheet 153 x 108 cm. [original]</dcterms:extent>
+   <dcterms:medium>one color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Map gives centerpoint location: Longitude W. of Washington, 1⁰28'; W. of Greenwich, 78⁰30'. Latitude, 38⁰.</dcterms:description>
+   <dcterms:description>Inset: Junction rail road map of Virginia, also showing relative position of Albemarle Co. in the state.</dcterms:description>
+   <dcterms:description>Includes statistics for Albemarle County and Charlottesville for 1906; population figures for 1900.</dcterms:description>
+   <dcterms:description>Elevation indicated by hachures.</dcterms:description>
+   <dcterms:description>Contains geographic and geological features, roads, railroads, telephone lines, post offices, voting places, schools, churches, historic sites, and homes of many county residents.</dcterms:description>
+   <dcterms:description>On some copies, the county border has been outlined in pink. One copy has additional places of interest written in.</dcterms:description>
+   <dcterms:description>Commonly referred to as the Massie map.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 1-3: With border outlined in pink. MYLARED, ROLLED, AND SHELVED IN ELEPHANT FOLIOS RANGE 4.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 4: With additional places of interest written in.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 5: With border outlined in pink, mounted on linen. Possibly from the library of Jed Hotchkiss ("Hotchkiss-C?" on Area table card). Folded; shelved in MAP CASES. IN VERY POOR CONDITION: USE ONE OF THE ROLLED COPIES.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 6: Negative photostat, in seventeen sections. Shelved in FLAT MAP BOX</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 7: Blue line print; date of production unknown.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:50,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Railroad stations--Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Albemarle County (Va.)--Maps.</dcterms:subject>
+   <dcterms:subject>Albemarle County (Va.)--Statistics.</dcterms:subject>
+   <dcterms:subject>Charlottesville (Va.)--Statistics.</dcterms:subject>
+   <dcterms:spatial>Albemarle County (Va.)</dcterms:spatial>
+   <dcterms:spatial>Charlottesville (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:940333/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:710281</edm:isShownAt>
+</mdRecord>

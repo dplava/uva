@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:40 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64563</dcterms:identifier>
+   <dcterms:title>New York: the planting and the growth of the Empire State / by Ellis H. Roberts; with a supplementary chapter dealing with the period from 1886 to 1903</dcterms:title>
+   <dcterms:creator>Roberts, Ellis H. (Ellis Henry), 1827-1918</dcterms:creator>
+   <dcterms:publisher>Houghton, Mifflin</dcterms:publisher>
+   <dcterms:created>1904</dcterms:created>
+   <dcterms:extent>2 v. front. fold. (map.) 19 cm.</dcterms:extent>
+   <dcterms:medium>map</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>First published 1887.</dcterms:description>
+   <dcterms:description>Paged continuously.</dcterms:description>
+   <dcterms:isPartOf>American commonwealth. [v. 8-9]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>New York (State)--History.</dcterms:subject>
+   <dcterms:spatial>New York (State)</dcterms:spatial>
+   <dcterms:spatial>New York</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2028149/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64563</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:57 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65219</dcterms:identifier>
+   <dcterms:title>Annual report of the United States Geological Survey to the Secretary of the Interior</dcterms:title>
+   <dcterms:title>Annual report of the Director of the United States Geological Survey &lt;6th-8th; 1884/85-1887/88&gt;</dcterms:title>
+   <dcterms:title>Annual report of the United States Geological Survey &lt;4th, 6th; 1882/83, 1884/85&gt;</dcterms:title>
+   <dcterms:title>Report of the United States Geological Survey to the Secretary of the Interior 1880-'81</dcterms:title>
+   <dcterms:creator>Geological Survey (U.S.)</dcterms:creator>
+   <dcterms:publisher>G.P.O.</dcterms:publisher>
+   <dcterms:created>1880/1901</dcterms:created>
+   <dcterms:extent>22 v.</dcterms:extent>
+   <dcterms:extent>23-30 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>1st (1879/80)-22nd (1900/01).</dcterms:description>
+   <dcterms:description>Includes papers which are also issued separately.</dcterms:description>
+   <dcterms:description>Report year irregular.</dcterms:description>
+   <dcterms:description>Issued in parts.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Geological Survey (U.S.)--Periodicals.</dcterms:subject>
+   <dcterms:subject>Geology--United States--Periodicals.</dcterms:subject>
+   <dcterms:subject>Water-supply--United States--Periodicals.</dcterms:subject>
+   <dcterms:subject>Forest reserves--United States--Periodicals.</dcterms:subject>
+   <dcterms:subject>Mines and mineral resources--United States--Periodicals.</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2162702/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65219</edm:isShownAt>
+</mdRecord>

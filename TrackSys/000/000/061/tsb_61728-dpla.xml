@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:50 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61728</dcterms:identifier>
+   <dcterms:title>History of labour in the United States / by John R. Commons, David J. Saposs, Helen L. Sumner, E. B. Mittelman, H. E. Hoagland, John B. Andrews [and] Selig Perlman; with an introductory note by Henry W. Farnam</dcterms:title>
+   <dcterms:creator>Andrews, John B. (John Bertram), 1880-1943</dcterms:creator>
+   <dcterms:creator>Commons, John R. (John Rogers), 1862-1945</dcterms:creator>
+   <dcterms:creator>Hoagland, Henry E. (Henry Elmer), 1886-1975</dcterms:creator>
+   <dcterms:creator>Lescohier, Don D. (Don Divance), 1883-1961</dcterms:creator>
+   <dcterms:creator>Mittelman, E. B. (Edward Becker), 1889-1949</dcterms:creator>
+   <dcterms:creator>Perlman, Selig, 1888-1959</dcterms:creator>
+   <dcterms:creator>Raushenbush, Elizabeth Brandeis.</dcterms:creator>
+   <dcterms:creator>Saposs, David J. (David Joseph), 1886-1968</dcterms:creator>
+   <dcterms:creator>Sumner, Helen L. (Helen Laura), 1876-1933</dcterms:creator>
+   <dcterms:creator>Taft, Philip, 1902-1976</dcterms:creator>
+   <dcterms:publisher>Macmillan</dcterms:publisher>
+   <dcterms:created>1918/1935</dcterms:created>
+   <dcterms:extent>4 v. diagrs. 23 cm.</dcterms:extent>
+   <dcterms:medium>diagrams</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>v. 1. Introduction, by J. R. Commons. Colonial and federal beginnings (to 1827) by D. J. Saposs. Citizenship (1827-1833) by Helen L. Sumner. Trade unionism (1833-1839) by E. B. Mittelman. Humanitarianism (1840-1860) by H. E. Hoagland.--v. 2. Nationalisation (1860-1877) by J. B. Andrews. Upheaval and reorganisation (since 1876) by Selig Perlman.--v. 3. Introduction to volumes III and IV, by J. R. Commons. Working conditions, by D. D. Lescohler. Labor legislation, by Elizabeth Brandeis.--v. 4. Labor movements, by Selig Perlman and Philip Taft.</dcterms:description>
+   <dcterms:description>Vols. 3-4 have title: History of labor in the United States, 1896-1932.</dcterms:description>
+   <dcterms:description>Bibliography: v. 2, p. [539]-587; v. 3, p. 701-741; v. 4, p. 639-661.</dcterms:description>
+   <dcterms:description>Copy 1, v. 1-2 (1921 [c1918]) Aldermn; copy 2, v. 1 ([1940, c1918]) Aldermn; copy 2, v. 2 ([1941, c1918]) Aldermn; copy 3, v. 2 (1926 [c1918]) Aldermn; copy 4, v. 1 ([1940, c1918]) Clemons; copy 4, v. 2 (1941, c1918]) Clemons.</dcterms:description>
+   <dcterms:description>Item X000399700 has bookplate data: George Talmage Starnes.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Labor--United States.</dcterms:subject>
+   <dcterms:subject>Labor unions--United States.</dcterms:subject>
+   <dcterms:subject>Working class--United States.</dcterms:subject>
+   <dcterms:subject>Labor movement--United States.</dcterms:subject>
+   <dcterms:spatial>United States.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1659980/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61728</edm:isShownAt>
+</mdRecord>

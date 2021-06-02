@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:43 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1149327</dcterms:identifier>
+   <dcterms:title>A heart that beats only for thee: song and chorus / by Will. S. Hays</dcterms:title>
+   <dcterms:title>O smile, my darling, let thine eyes</dcterms:title>
+   <dcterms:title>O, do not dim thine eyes with tears</dcterms:title>
+   <dcterms:creator>Ehrgott, Forbriger &amp; Co.</dcterms:creator>
+   <dcterms:creator>Hays, Will. S. (William Shakespeare), 1837-1907</dcterms:creator>
+   <dcterms:publisher>J.L. Peters</dcterms:publisher>
+   <dcterms:created>1868</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, mixed chorus (3), piano</dcterms:description>
+   <dcterms:description>For voice and piano, with chorus refrain (STB).</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Title page illustration: Images depicting scenes from the series: a couple posing beside an open gate; a couple resting on a rustic fence; a couple in a parlor, sitting on a sofa / Ehrgott, Forbriger &amp; Co., Cincinnati.</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: A choice selection of beautiful ballads.</dcterms:description>
+   <dcterms:isPartOf>3 new songs / by Will. S. Hays</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1149328/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1149327</edm:isShownAt>
+</mdRecord>

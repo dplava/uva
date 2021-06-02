@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:23 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63919</dcterms:identifier>
+   <dcterms:title>History of the rise and fall of the slave power in America</dcterms:title>
+   <dcterms:creator>Hunt, Samuel, 1810-1878</dcterms:creator>
+   <dcterms:creator>Wilson, Henry, 1812-1875</dcterms:creator>
+   <dcterms:publisher>Houghton, Mifflin and company.</dcterms:publisher>
+   <dcterms:created>1874/1877</dcterms:created>
+   <dcterms:extent>3 v. 24 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>7th edition</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Slavery--United States.</dcterms:subject>
+   <dcterms:subject>United States--History--1783-1865.</dcterms:subject>
+   <dcterms:temporal>1783-1865.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1785902/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63919</edm:isShownAt>
+</mdRecord>

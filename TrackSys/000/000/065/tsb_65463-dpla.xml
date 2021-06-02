@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:04 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65463</dcterms:identifier>
+   <dcterms:title>A Bookseller of the last century: being some acount of the life of John Newbery, and of the books he published, with a notice of the later Newberys / by Charles Welsh</dcterms:title>
+   <dcterms:creator>Welsh, Charles, 1850-1914</dcterms:creator>
+   <dcterms:publisher>For Griffith, Farran, Okeden &amp; Welsh</dcterms:publisher>
+   <dcterms:created>1885</dcterms:created>
+   <dcterms:extent>xi, [1], 373 p.</dcterms:extent>
+   <dcterms:extent>22 cm. [original]</dcterms:extent>
+   <dcterms:medium>facsimiles</dcterms:medium>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Includes bibliographical references and index.</dcterms:description>
+   <dcterms:description>Item X004699536 has bookplate data: Charles Glenn Wallis.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Newbery, John, 1713-1767</dcterms:subject>
+   <dcterms:subject>Newbery, firm, publishers, London.</dcterms:subject>
+   <dcterms:subject>Children's literature--Bibliography.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2255609/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65463</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:06 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65561</dcterms:identifier>
+   <dcterms:title>Human traits and their social significance</dcterms:title>
+   <dcterms:creator>Edman, Irwin, 1896-1954</dcterms:creator>
+   <dcterms:publisher>Houghton Mifflin Company</dcterms:publisher>
+   <dcterms:created>1920</dcterms:created>
+   <dcterms:extent>x, 467 p. 21 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Published also as thesis (PH.D.) Columbia University, 1920.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2017.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Social psychology</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2294481/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65561</edm:isShownAt>
+</mdRecord>

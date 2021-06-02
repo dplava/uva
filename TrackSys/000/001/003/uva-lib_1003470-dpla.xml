@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:23 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003470</dcterms:identifier>
+   <dcterms:title>Map of the business portion of Shendun, Rockingham County, Virginia, October, 1890 / by D. C. Humphreys, Prof. Engr., Washington &amp; Lee University, Lexington, Va</dcterms:title>
+   <dcterms:creator>Anschutz, F. H.</dcterms:creator>
+   <dcterms:creator>Humphreys, D. C.</dcterms:creator>
+   <dcterms:creator>Norris Peters Co.</dcterms:creator>
+   <dcterms:publisher>The Norris Peters Co. Photo-Litho.</dcterms:publisher>
+   <dcterms:created>1890</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>33 x 55 cm. on sheet 41 x 60 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Inside neat line at lower right: Drawn by F.H. Anschutz and D.C. Humphreys.</dcterms:description>
+   <dcterms:description>According to GNIS feature ID no. 1495628, Shendun became Grottoes in 1979.</dcterms:description>
+   <dcterms:description>Developers plat of town.</dcterms:description>
+   <dcterms:description>Shows numbered lots, street names, railroads, depots, hotel, company office and names of some landowners outside business district.</dcterms:description>
+   <dcterms:description>Relief not shown.</dcterms:description>
+   <dcterms:description>Explanatory note upper central map.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:7,200].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Real estate development--Virginia--Grottoes--Maps.</dcterms:subject>
+   <dcterms:subject>Real property--Virginia--Grottoes--Maps.</dcterms:subject>
+   <dcterms:subject>City planning--Virginia--Grottoes--Maps.</dcterms:subject>
+   <dcterms:subject>Grottoes (Va.)--Maps.</dcterms:subject>
+   <dcterms:spatial>Grottoes</dcterms:spatial>
+   <dcterms:spatial>Grottoes (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:894386/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003470</edm:isShownAt>
+</mdRecord>

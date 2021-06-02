@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:53 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65071</dcterms:identifier>
+   <dcterms:title>Staatsschriften und Briefe: Auswahl in zwei Bänden / Friedrich von Gentz ; hrsg. von Hans von Eckardt</dcterms:title>
+   <dcterms:creator>Eckhardt, H. von (Hans)</dcterms:creator>
+   <dcterms:creator>Gentz, Friedrich von, 1764-1832</dcterms:creator>
+   <dcterms:publisher>Drei Masken</dcterms:publisher>
+   <dcterms:created>1921</dcterms:created>
+   <dcterms:extent>2 v.</dcterms:extent>
+   <dcterms:extent>19 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>Bd. I. Friedrich von Gentz in der Zeit deutscher Not 1799-1813.--Bd. II. Friedrich von Gentz und die deutsche Freiheit. Schriften und Briefe aus den Jahren 1815-1832.</dcterms:description>
+   <dcterms:description>One copy: Photocopy. North Manchester, IN : Heckman Bindery, Inc., [2005].</dcterms:description>
+   <dcterms:isPartOf>Bücherei für Politik und Geschichte des Drei Masken Verlages</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Europe--Politics and government--1789-1900.</dcterms:subject>
+   <dcterms:subject>Europe--History--1789-1900.</dcterms:subject>
+   <dcterms:subject>Europe--Politics and government.</dcterms:subject>
+   <dcterms:subject>Europe--History.</dcterms:subject>
+   <dcterms:temporal>1789-1900.</dcterms:temporal>
+   <dcterms:spatial>Europe</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2106283/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65071</edm:isShownAt>
+</mdRecord>

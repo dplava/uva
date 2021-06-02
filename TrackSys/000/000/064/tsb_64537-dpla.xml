@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:39 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64537</dcterms:identifier>
+   <dcterms:title>The violin: some account of that leading instrument, and its most eminent professors, from its earliest date to the present time / with hints to amateurs, anecdotes, etc. By George Dubourg</dcterms:title>
+   <dcterms:creator>Bishop, John, 1817-1890</dcterms:creator>
+   <dcterms:creator>Dubourg, George, 1799-1882</dcterms:creator>
+   <dcterms:publisher>R. Cocks and co. [etc.</dcterms:publisher>
+   <dcterms:created>1878.</dcterms:created>
+   <dcterms:extent>xvii, 336 p. illus. 21 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>5th ed., newly rev. and enl., by John Bishop.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Violin</dcterms:subject>
+   <dcterms:subject>Violinists</dcterms:subject>
+   <dcterms:subject>Music--Anecdotes.</dcterms:subject>
+   <dcterms:subject>Music--Humor.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2018873/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64537</edm:isShownAt>
+</mdRecord>

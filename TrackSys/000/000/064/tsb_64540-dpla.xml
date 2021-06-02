@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:39 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64540</dcterms:identifier>
+   <dcterms:title>A rebel cavalryman with Lee, Stuart, and Jackson</dcterms:title>
+   <dcterms:creator>Opie, John Newton.</dcterms:creator>
+   <dcterms:publisher>W. B. Conkey company</dcterms:publisher>
+   <dcterms:created>1899</dcterms:created>
+   <dcterms:extent>336 p. front., illus., plates, ports., facsim. 20 cm.</dcterms:extent>
+   <dcterms:medium>facsimiles</dcterms:medium>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Confederate States of America. Army. Virginia Infantry Regiment, 5th.</dcterms:subject>
+   <dcterms:subject>Confederate States of America. Army. Virginia Cavalry Regiment, 6th.</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Personal narratives, Confederate.</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2019491/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64540</edm:isShownAt>
+</mdRecord>

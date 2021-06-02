@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:10 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65681</dcterms:identifier>
+   <dcterms:title>Iblis in paradise: a story of the temptation</dcterms:title>
+   <dcterms:creator>Roe, George, 1861-</dcterms:creator>
+   <dcterms:publisher>H. Altemus company</dcterms:publisher>
+   <dcterms:created>1908</dcterms:created>
+   <dcterms:extent>[74] p. front., 3 pl. 16 x 12 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2344657/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65681</edm:isShownAt>
+</mdRecord>

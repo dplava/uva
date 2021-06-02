@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:26 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1004255</dcterms:identifier>
+   <dcterms:title>Plan de West-Point du sud: Plan de New York / au Marquis de Deux Ponts, 1786</dcterms:title>
+   <dcterms:title>Plan de New York</dcterms:title>
+   <dcterms:title>Plan de West Point du sud</dcterms:title>
+   <dcterms:creator>Deux Ponts, Christian marquis de, b. 1752</dcterms:creator>
+   <dcterms:created>1786</dcterms:created>
+   <dcterms:extent>1 manuscript map</dcterms:extent>
+   <dcterms:extent>50 x 33 cm. [original]</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Notations: A. Batteries de 8 Pieces de Canon de gros Calibre &amp; 2 pieces de 24 dans le Redan. B. Batteries de 7. gros Mortiers. C. Batteries de 10. Pieces de Canon de gros Caliber, 2: Obusiers de 8. et 9. Mrtiers de 8. occupants le Redan et le reterer de la Batterie.</dcterms:description>
+   <dcterms:description>Depth notations.</dcterms:description>
+   <dcterms:description>Relief shown pictorially.</dcterms:description>
+   <dcterms:description>Alternate title from lower right corner.</dcterms:description>
+   <dcterms:description>No scale given.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Fortification--New York (State)--West Point--Maps, Manuscript--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>West Point (N.Y.)--Maps, Manuscript--Early works to 1800.</dcterms:subject>
+   <dcterms:spatial>New York (State)</dcterms:spatial>
+   <dcterms:spatial>West Point</dcterms:spatial>
+   <dcterms:spatial>West Point (N.Y.)</dcterms:spatial>
+   <dcterms:spatial>West Point, New York (State), United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:625471/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004255</edm:isShownAt>
+</mdRecord>

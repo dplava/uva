@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:52 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65022</dcterms:identifier>
+   <dcterms:title>Ancient ideals: a study of intellectual and spiritual growth from early times to the establishment of Christianity / by Henry Osborn Taylor</dcterms:title>
+   <dcterms:creator>Taylor, Henry Osborn, 1856-1941</dcterms:creator>
+   <dcterms:publisher>Published for the Columbia University Press by the Macmillan Co.</dcterms:publisher>
+   <dcterms:created>1900</dcterms:created>
+   <dcterms:extent>2 v.</dcterms:extent>
+   <dcterms:extent>22-24 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Civilization, Ancient</dcterms:subject>
+   <dcterms:subject>Civilization--History.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2087559/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65022</edm:isShownAt>
+</mdRecord>

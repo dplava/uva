@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:04 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65466</dcterms:identifier>
+   <dcterms:title>Social education / by Colin A. Scott</dcterms:title>
+   <dcterms:creator>Scott, Colin Alexander, 1861-</dcterms:creator>
+   <dcterms:publisher>Ginn &amp; company</dcterms:publisher>
+   <dcterms:created>1908</dcterms:created>
+   <dcterms:extent>xi, 300 p. diagr. 19 cm.</dcterms:extent>
+   <dcterms:medium>diagrams</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>The social relationships of the school.-Tests for the school.-The school as an organism-monarchy.-The school as an organism-the republic.-The school and society.-Self-organized group work.-Reasoning and the teaching of science and arithmetic from a societary standpoint.-Reading, language and literature.-Manual arts: industrial and constructive work.-Fine art.-The education of the conscience.- Index.</dcterms:description>
+   <dcterms:description>"References" at end of most of the chapters.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Education</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2256781/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65466</edm:isShownAt>
+</mdRecord>

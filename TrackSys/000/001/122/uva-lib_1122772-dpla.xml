@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 4:50 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1122772</dcterms:identifier>
+   <dcterms:title>Slumber song / English version by Ellis Gray; music by Kücken</dcterms:title>
+   <dcterms:title>Now glows the golden evening star</dcterms:title>
+   <dcterms:title>Kücken, Friedrich Wilhelm, 1810-1882. Ernste und heitere Lieder. Schlummerlied. English</dcterms:title>
+   <dcterms:creator>Boylston club.</dcterms:creator>
+   <dcterms:creator>Gray, Ellis, 1715-1753</dcterms:creator>
+   <dcterms:creator>Kücken, Friedrich Wilhelm, 1810-1882</dcterms:creator>
+   <dcterms:publisher>J. M. Russell</dcterms:publisher>
+   <dcterms:created>1878</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>mixed chorus (4)</dcterms:description>
+   <dcterms:description>soprano voice, alto voice, tenor voice, bass voice</dcterms:description>
+   <dcterms:description>For 4 voices (SATB).</dcterms:description>
+   <dcterms:description>English words, translated from the German.</dcterms:description>
+   <dcterms:isPartOf>Russell's musical library / Boylston Club ; no. 13</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts), Unaccompanied</dcterms:subject>
+   <dcterms:subject>Vocal quartets, Unaccompanied</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1122773/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1122772</edm:isShownAt>
+</mdRecord>

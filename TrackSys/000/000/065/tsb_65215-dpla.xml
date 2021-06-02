@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:57 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65215</dcterms:identifier>
+   <dcterms:title>Drames philosophiques / par Ernest Renan</dcterms:title>
+   <dcterms:creator>Renan, Ernest, 1823-1892</dcterms:creator>
+   <dcterms:publisher>Calmann Lévy</dcterms:publisher>
+   <dcterms:created>1888</dcterms:created>
+   <dcterms:extent>2 p. β., v, 566 p., 1 β. 23 cm.</dcterms:extent>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Caliban, suite de la Tempête.--L'eau de jouvence, suite de Caliban.--Le prêtre de Nemi.--L'abbesse de Jouarre.--1802.--Le jour de l'an 1886. Prologue au ciel.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2161122/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65215</edm:isShownAt>
+</mdRecord>

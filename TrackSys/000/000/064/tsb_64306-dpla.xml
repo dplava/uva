@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:33 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64306</dcterms:identifier>
+   <dcterms:title>Evelina</dcterms:title>
+   <dcterms:creator>Burney, Fanny, 1752-1840</dcterms:creator>
+   <dcterms:publisher>The Century co.</dcterms:publisher>
+   <dcterms:created>1906</dcterms:created>
+   <dcterms:extent>xxii p., 1 l., 388 p. front., 10 pl. 21 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:isPartOf>The English Comedie humaine. 2d series</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1927995/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64306</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 7:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18656</dcterms:identifier>
+   <dcterms:title>Demokritos Galopp: für das Pianoforte, 15tes Werk / von Adalbert Preissler</dcterms:title>
+   <dcterms:creator>Preissler, Adalbert.</dcterms:creator>
+   <dcterms:publisher>Bei Joh. Hoffmann</dcterms:publisher>
+   <dcterms:created>[1845..1846]</dcterms:created>
+   <dcterms:extent>3 p. of music</dcterms:extent>
+   <dcterms:extent>33 cm. [original]</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>"Seinem Frende Herrn Professor C.J. Habern zugeeignet."</dcterms:description>
+   <dcterms:description>Publication date inferred from publisher's plate number.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Thirty-ninth title in a bound volume of sheet music from the library of Mrs. Abby A. Waterhouse, with her name on the cover.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Galops</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1542173/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18656</edm:isShownAt>
+</mdRecord>

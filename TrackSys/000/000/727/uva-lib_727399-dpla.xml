@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 11:30 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:727399</dcterms:identifier>
+   <dcterms:title>Sappho and Phaon: In a series of legitimate sonnets, with thoughts on poetical subjects, and anecdotes of the Grecian poetess / By Mary Robinson</dcterms:title>
+   <dcterms:creator>Robinson, Mary Darby, 1758-1800</dcterms:creator>
+   <dcterms:publisher>Printed by S. Gosnell, for the Author</dcterms:publisher>
+   <dcterms:created>1796</dcterms:created>
+   <dcterms:extent>82 p. col. port. 16.5 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>SPECIAL COLLECTIONS: Author's presentation inscription.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Bookplate of the Library of Charles James Fox.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Sadleir-Black Collection of Gothic Novels. Gift.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:953109/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:727399</edm:isShownAt>
+</mdRecord>

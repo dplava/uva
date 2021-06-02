@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 7:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18660</dcterms:identifier>
+   <dcterms:title>The low back'd car: a characteristic Irish song, as given by the author in his Irish evenings / written and composed by Samuel Lover</dcterms:title>
+   <dcterms:title>Low backed car</dcterms:title>
+   <dcterms:title>When first I saw sweet Peggy</dcterms:title>
+   <dcterms:creator>Lover, Samuel, 1797-1868</dcterms:creator>
+   <dcterms:creator>Wallace, William Vincent, 1812-1865</dcterms:creator>
+   <dcterms:publisher>William Hall &amp; Son</dcterms:publisher>
+   <dcterms:created>1846</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:extent>34 cm. [original]</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>medium voice, piano</dcterms:description>
+   <dcterms:description>4th ed.</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>The 3rd verse written as text above the verse 2 melody.</dcterms:description>
+   <dcterms:description>The 4th verse written as text following the score.</dcterms:description>
+   <dcterms:description>"This popular melody is published, arranged as a fantasia for the piano forte by Wm. Wallace".</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.2 no.43: Forty-third title in a bound volume of sheet music from the library of Mrs. Abby A. Waterhouse, with her name on the cover.</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v. 134, no. 33]</dcterms:isPartOf>
+   <dcterms:isPartOf>[Sheet music collection, v. 102, no. 17]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Love songs--Ireland.</dcterms:subject>
+   <dcterms:spatial>Ireland.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1542191/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18660</edm:isShownAt>
+</mdRecord>

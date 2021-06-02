@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 11:33 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:777151</dcterms:identifier>
+   <dcterms:title>Cosmographie [sic] introductio: cum quibusdam geometri[a]e ac astronomi[a]e principijs ad eam rem necessarijs. Insuper quattuor Americi Vespucij nauigationes / Uniuersalis cosmographi[a]e descriptio tam in solido q[uam] plano eis etiam insertis qu[a]e Ptholom[a]eo ignota a nuperis reperta sunt. Cum deus astra regat &amp; terr[a]e climata C[a]esar Nec tellus nec eis sydera maius habent</dcterms:title>
+   <dcterms:title>Cosmographiae introductio</dcterms:title>
+   <dcterms:title>Cosmographie introductio</dcterms:title>
+   <dcterms:title>Quattuor Americi Vespucij nauigationes</dcterms:title>
+   <dcterms:creator>Grüninger, Johann, -1532?</dcterms:creator>
+   <dcterms:creator>McGregor Fund.</dcterms:creator>
+   <dcterms:creator>Ringmann, Matthias, 1481 or 1482-1510</dcterms:creator>
+   <dcterms:creator>Tracy W. McGregor Library. American History Collection.</dcterms:creator>
+   <dcterms:creator>Waldseemüller, Martin, 1470-1519</dcterms:creator>
+   <dcterms:publisher>Hoc opus ingeniosus vir Joannes Grüniger</dcterms:publisher>
+   <dcterms:created>1509</dcterms:created>
+   <dcterms:extent>[64] pages, [1] folded leaf of plates</dcterms:extent>
+   <dcterms:extent>21 cm (4to) [original]</dcterms:extent>
+   <dcterms:medium>illustrations (woodcut)</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Designed to accompany Waldseemüller's globe and wall map of the world, on which the New World is called America; "America" is suggested as the name for the New World on C3 verso.</dcterms:description>
+   <dcterms:description>Imprint from colophon.</dcterms:description>
+   <dcterms:description>Folding plate of a terrestrial globe, with 14 lines of explanatory text beginning: propositu[m] situ[m] est hoc libello quanda[m] Cosmographiae introductione[m] scribere."</dcterms:description>
+   <dcterms:description>Suggestion to name the new continent in honor of Amerigo Vespucci on p. [22].</dcterms:description>
+   <dcterms:description>With verses by Philesius Volesigenav [i.e. Matthias Ringmann] on verso of title page; dedication by Martinus Ilacomilus [i.e. Waldseemüller] on p. [3].</dcterms:description>
+   <dcterms:description>"Quattuor Americi vesputij Nauigationes": pages [29-63].</dcterms:description>
+   <dcterms:description>Signatures: A-B⁴ C⁶ D⁴ E⁶ F⁸ (F8 verso blank).</dcterms:description>
+   <dcterms:description>Printed in black letter; decorative initials, and printed marginalia.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Bound in full leather (possibly morocco); gilt lettered and decorated spine. Gilt tooled triple-rule borders on covers. Ornate gilt inside borders. Marbled endpapers. Tracy W. McGregor Library, American History Collection. This copy recataloged through a generous grant from the McGregor Fund.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Vespucci, Amerigo, 1451-1512</dcterms:subject>
+   <dcterms:subject>Geography</dcterms:subject>
+   <dcterms:subject>Discoveries in geography</dcterms:subject>
+   <dcterms:subject>Names</dcterms:subject>
+   <dcterms:subject>America--Discovery and exploration--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>America--Early accounts to 1600.</dcterms:subject>
+   <dcterms:subject>America--Name.</dcterms:subject>
+   <dcterms:spatial>America</dcterms:spatial>
+   <dcterms:spatial>North America</dcterms:spatial>
+   <dcterms:spatial>South America</dcterms:spatial>
+   <dcterms:spatial>Strasbourg, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:793462/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:777151</edm:isShownAt>
+</mdRecord>

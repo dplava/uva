@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 4:55 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1124693</dcterms:identifier>
+   <dcterms:title>The messenger bird: duett / words by Mrs. Hemans ; music by her sister</dcterms:title>
+   <dcterms:title>Thou art come from the spirit's land</dcterms:title>
+   <dcterms:creator>Browne Miss</dcterms:creator>
+   <dcterms:creator>Hemans Mrs, 1793-1835</dcterms:creator>
+   <dcterms:publisher>S. Brainard &amp; Co.</dcterms:publisher>
+   <dcterms:created>[1856..1859]</dcterms:created>
+   <dcterms:extent>1 score (4 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice (2), piano</dcterms:description>
+   <dcterms:description>For piano and 2 voices.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [5]: Select list of choice piano-forte music.</dcterms:description>
+   <dcterms:description>Publisher's address varies: 203 Superior St. on list title page.</dcterms:description>
+   <dcterms:description>Publication date derived from form of publisher's name and publisher's addresses. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:isPartOf>Brainard &amp; Co. edition of select vocal duetts / by various authors</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Vocal duets with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1124694/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124693</edm:isShownAt>
+</mdRecord>

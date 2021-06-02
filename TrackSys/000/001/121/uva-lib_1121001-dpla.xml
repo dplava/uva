@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 4:46 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1121001</dcterms:identifier>
+   <dcterms:title>Who is Sylvia? = Was ist Sylvia : op. 106, no. 4, (original key) / Franz Schubert ; [text from] "The two gentlemen of Verona [by] William Shakespeare</dcterms:title>
+   <dcterms:title>Was ist Sylvia</dcterms:title>
+   <dcterms:title>Who is Sylvia, what is she</dcterms:title>
+   <dcterms:title>Schubert, Franz, 1797-1828. An Sylvia. English &amp; German</dcterms:title>
+   <dcterms:creator>Schubert, Franz, 1797-1828</dcterms:creator>
+   <dcterms:creator>Shakespeare, William, 1564-1616</dcterms:creator>
+   <dcterms:publisher>Oliver Ditson Co.</dcterms:publisher>
+   <dcterms:created>[1889..1899]</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, high voice</dcterms:description>
+   <dcterms:description>High A.</dcterms:description>
+   <dcterms:description>For high voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publication date derived from form of publisher's name. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>German words with English translation.</dcterms:description>
+   <dcterms:isPartOf>Songs / by Franz Schubert</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Shakespeare, William, 1564-1616--Musical settings.</dcterms:subject>
+   <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1121002/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1121001</edm:isShownAt>
+</mdRecord>

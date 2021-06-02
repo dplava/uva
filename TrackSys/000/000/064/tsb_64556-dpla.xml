@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:39 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64556</dcterms:identifier>
+   <dcterms:title>A history of the University club of New York, 1865-1915</dcterms:title>
+   <dcterms:creator>Alexander, James W. (James Waddel), 1839-1915</dcterms:creator>
+   <dcterms:publisher>Printed for the University club by C. Scribner's sons</dcterms:publisher>
+   <dcterms:created>1915</dcterms:created>
+   <dcterms:extent>xviii, 510 p. front., plates, ports., plan. 23 cm.</dcterms:extent>
+   <dcterms:medium>plan</dcterms:medium>
+   <dcterms:medium>plans</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Item X000613650 has bookplate data: Robert Lewis Harrison.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>University Club (New York, N.Y.)</dcterms:subject>
+   <dcterms:spatial>New York</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2024625/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64556</edm:isShownAt>
+</mdRecord>

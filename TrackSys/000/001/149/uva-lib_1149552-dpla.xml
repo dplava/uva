@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:43 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1149552</dcterms:identifier>
+   <dcterms:title>Midnight = Amour et douleur = Amore e dolore / Ettore Gelli ; English words by Charlotte H. Coursen</dcterms:title>
+   <dcterms:title>Amore e dolore</dcterms:title>
+   <dcterms:title>Amour et douleur</dcterms:title>
+   <dcterms:title>Minuit c'est l'heure</dcterms:title>
+   <dcterms:title>The midnight hour, the hour when I in dreams delighting</dcterms:title>
+   <dcterms:title>È mezzanotte e l'ora</dcterms:title>
+   <dcterms:title>Gelli, Ettore. Amour et douleur. Polyglot</dcterms:title>
+   <dcterms:creator>Bordèse, Stéphan, 1847-</dcterms:creator>
+   <dcterms:creator>Coursen, Charlotte H.</dcterms:creator>
+   <dcterms:creator>Gelli, Ettore.</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1885</dcterms:created>
+   <dcterms:extent>1 score (11 p.)</dcterms:extent>
+   <dcterms:extent>1 part ([1] p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>baritone voice, flute, piano</dcterms:description>
+   <dcterms:description>baritone voice, violin, piano</dcterms:description>
+   <dcterms:description>baritone voice, violoncello, piano</dcterms:description>
+   <dcterms:description>mezzo-soprano voice, flute, piano</dcterms:description>
+   <dcterms:description>mezzo-soprano voice, violin, piano</dcterms:description>
+   <dcterms:description>mezzo-soprano voice, violoncello, piano</dcterms:description>
+   <dcterms:description>M.-sop. or baritone in B♭.</dcterms:description>
+   <dcterms:description>For medium voice and piano, with violin, flute or cello.</dcterms:description>
+   <dcterms:description>French words by Stéphan Bordèse, with English and Italian translation.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.169 no.28; Part for violin; has plate number 4217.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .A2 no.2622; Different printing of series title page. Part for cello; has plate number 4219.</dcterms:description>
+   <dcterms:isPartOf>Social evenings : a collection of favorite songs : with accompaniment of piano and another instrument</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Medium voice) with instrumental ensemble</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1149553/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1149552</edm:isShownAt>
+</mdRecord>

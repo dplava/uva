@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:49 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61647</dcterms:identifier>
+   <dcterms:title>Orion: an epic poem, in three books</dcterms:title>
+   <dcterms:creator>Horne, R. H. (Richard H.), 1802-1884</dcterms:creator>
+   <dcterms:publisher>Roberts brothers</dcterms:publisher>
+   <dcterms:created>1872</dcterms:created>
+   <dcterms:extent>xxvii, 158 p. 19 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>9th ed.</dcterms:description>
+   <dcterms:description>Item X001269663 has bookplate data: Thomas Randolph Price.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1645859/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61647</edm:isShownAt>
+</mdRecord>

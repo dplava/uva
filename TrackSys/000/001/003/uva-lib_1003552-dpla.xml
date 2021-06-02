@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:24 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003552</dcterms:identifier>
+   <dcterms:title>Gray's new topographical map of Virginia and West Virginia / by Frank A. Gray</dcterms:title>
+   <dcterms:title>New topographical map of Virginia and West Virginia</dcterms:title>
+   <dcterms:creator>Gray, Frank A.</dcterms:creator>
+   <dcterms:creator>O.W. Gray &amp; Son.</dcterms:creator>
+   <dcterms:publisher>O.W. Gray &amp; Son</dcterms:publisher>
+   <dcterms:created>1877</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>41 x 69 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Latest population figures printed on the map are from the 1870 census.</dcterms:description>
+   <dcterms:description>Two insets with same scale as map: Part of West Virginia the Panhandle -- South western Part of Virginia.</dcterms:description>
+   <dcterms:description>Four insets with different scales: Environs of Harper's Ferry (1:200,000) -- Hampton Roads and the approaches (1:250,000) -- Hypsometric sketch of Virginia and West Virginia 91:10,000,000) -- Norfolk Harbor (1:80,000)</dcterms:description>
+   <dcterms:description>With several textual notes printed on map.</dcterms:description>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>Numbers "68" and "69" printed above left and right upper neatlines, respectively; without text on verso.</dcterms:description>
+   <dcterms:description>Issued in editions of Gray's National Atlas. See: Phillips, Atlases, no. 904 etc.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 2: Broken in two pieces at the fold. Elizabeth Cocke Coles Fund.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,000,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Virginia--Maps--19th century.</dcterms:subject>
+   <dcterms:subject>West Virginia--Maps--19th century.</dcterms:subject>
+   <dcterms:temporal>19th century.</dcterms:temporal>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>West Virginia</dcterms:spatial>
+   <dcterms:spatial>Philadelphia, Pennsylvania, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904691/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003552</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:55 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65144</dcterms:identifier>
+   <dcterms:title>Memoir of Col. Joshua Fry, sometime professor in William and Mary college, Virginia, and Washington's senior in command of Virginia forces, 1754, etc., etc., with an autobiography of his son</dcterms:title>
+   <dcterms:creator>Fry, Henry, 1738-1823</dcterms:creator>
+   <dcterms:creator>Slaughter, Philip, 1808-1890</dcterms:creator>
+   <dcterms:publisher>Randolph &amp; English</dcterms:publisher>
+   <dcterms:created>1880</dcterms:created>
+   <dcterms:extent>112 p., 1 l. 24 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Item X000313852 has bookplate data: Gov. Frederick W. M. Holliday.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Fry family (Joshua Fry, 1632-1754)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2134569/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65144</edm:isShownAt>
+</mdRecord>

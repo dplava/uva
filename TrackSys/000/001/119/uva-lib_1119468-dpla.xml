@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 4:44 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1119468</dcterms:identifier>
+   <dcterms:title>Down by the old mill stream / words and music by John Read</dcterms:title>
+   <dcterms:title>You must know that my uncle is a farmer</dcterms:title>
+   <dcterms:creator>Read, John, 1839-1920</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>[1880..1889]</dcterms:created>
+   <dcterms:extent>1 score (3 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Dealer's stamp on t.p.: "W. Orin Tasker."</dcterms:description>
+   <dcterms:isPartOf>Sparkling gems of song ; 2</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Suicide--Songs and music.</dcterms:subject>
+   <dcterms:subject>Drowning--Songs and music.</dcterms:subject>
+   <dcterms:subject>Fathers and daughters--Songs and music.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1119469/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1119468</edm:isShownAt>
+</mdRecord>

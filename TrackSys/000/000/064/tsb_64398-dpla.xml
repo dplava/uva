@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:35 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64398</dcterms:identifier>
+   <dcterms:title>The works of Francis Beaumont and John Fletcher</dcterms:title>
+   <dcterms:creator>Beaumont, Francis, 1584-1616</dcterms:creator>
+   <dcterms:creator>Fletcher, John, 1579-1625</dcterms:creator>
+   <dcterms:creator>Glover, Arnold, 1865-1905</dcterms:creator>
+   <dcterms:creator>Waller, A. R. (Alfred Rayney), 1867-1922</dcterms:creator>
+   <dcterms:publisher>University Press</dcterms:publisher>
+   <dcterms:created>1905/..</dcterms:created>
+   <dcterms:extent>10 v. 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>v. 1. The maids tragedy. Philaster. A king, and no king. The scornful lady. The custom of the country.--v. 2. The elder brother. The Spanish curate. Wit without money. Beggars bush. The humourous lieutenant. The faithful shepherdess.--v. 3. The mad lover. The loyal subject. Rule a wife, and have a wife. The laws of Candy. The false one. The little French lawyer.--v. 4. The tragedy of Valentinian. Monsieur Thomas. The chances. The bloody brother. The wild-goose chase.--v. 5. A wife for a month. The lovers progress. The pilgrim. The captain. The prophetess.--v. 6. The Queen of Corinth. Bonduca. The knight of the burning pestle. Lovers pilgrimage. The double marriage.--v. 7. The maid in the mill. The knight of Malta. Loves cure, or The martial maid. Women pleas'd. The night-walker, or The little thief.--v. 8. The woman's prize. The island princess. The noble gentleman. The coronation. The coxcomb.--v. 9. The sea-voyage. Wit at several weapons. The fair maid of the inn. Cupid's revenge. The two noble kinsmen.--v. 10. Thierry and Theodoret. The woman-hater. Nice valour. The honest man's fortune. The masque of the gentlemen of Grays-Inne and the Inner-Temple. Four plays, or moral representations in one.</dcterms:description>
+   <dcterms:description>Each volume has special t.p.</dcterms:description>
+   <dcterms:description>Editors: v. 1, Arnold Glover; v. 2, Arnold Glover and A. R. Waller; v. 3-10, A. R. Waller.</dcterms:description>
+   <dcterms:description>Item X030552489 has bookplate data: Bennett Wood Green. Item X000425417 has bookplate data: Bennett Wood Green. Item X030552491 has bookplate data: Bennett Wood Green. Item X001533155 has bookplate data: Bennett Wood Green. Item X002613544 has bookplate data: Bennett Wood Green. Item X002613546 has bookplate data: Bennett Wood Green. Item X000431227 has bookplate data: Mrs. Samuel B. Green. Item X002400153 has bookplate data: William H. Coke. Item X000425419 has bookplate data: William H. Coke. Item X000317712 has bookplate data: William H. Coke. Item X001851129 has bookplate data: William H. Coke. Item X030552492 has bookplate data: William H. Coke.</dcterms:description>
+   <dcterms:isPartOf>Cambridge English classics</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1961977/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64398</edm:isShownAt>
+</mdRecord>

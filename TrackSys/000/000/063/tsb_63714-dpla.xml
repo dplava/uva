@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:17 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63714</dcterms:identifier>
+   <dcterms:title>The poor girl and true woman: or, Elements of woman's success drawn from the life of Mary Lyon and others / A book for girls</dcterms:title>
+   <dcterms:creator>Thayer, William M., 1820-1898</dcterms:creator>
+   <dcterms:publisher>Sheldon, Blakeman &amp; co.</dcterms:publisher>
+   <dcterms:created>1859</dcterms:created>
+   <dcterms:extent>1 p.l., xvii, [19]-353 p. 18 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>One copy: Photocopy. Charlestown, Mass. : Acme Bookbinding, 2000. 19 cm.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Lyon, Mary, 1797-1849</dcterms:subject>
+   <dcterms:subject>Women</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1707802/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63714</edm:isShownAt>
+</mdRecord>

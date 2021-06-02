@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:25 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003603</dcterms:identifier>
+   <dcterms:title>Map of the Chesapeake &amp; Ohio Railway and connections</dcterms:title>
+   <dcterms:title>Map of the Chesapeake and Ohio Railway and connections</dcterms:title>
+   <dcterms:creator>A. Hoen &amp; Co.</dcterms:creator>
+   <dcterms:creator>Chesapeake and Ohio Railway Company.</dcterms:creator>
+   <dcterms:publisher>Chesapeake and Ohio Railway Company</dcterms:publisher>
+   <dcterms:created>1909</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>23 x 62 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Legend dated 1909.</dcterms:description>
+   <dcterms:description>Relief indicated by hachures.</dcterms:description>
+   <dcterms:description>Covers railroad connections from Baltimore south to Norfolk, Va. and westward to Louisville, Ky.</dcterms:description>
+   <dcterms:description>Color coded for Chesapeake &amp; Ohio Railway lines, leased lines, tracks of other companies used jointly, and double track.</dcterms:description>
+   <dcterms:description>Scale ca. 1:1,650,000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Chesapeake and Ohio Railway Company--Maps.</dcterms:subject>
+   <dcterms:subject>Railroads--East (U.S.)--Maps.</dcterms:subject>
+   <dcterms:subject>Railroads--Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Railroads--West Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Railroads--Kentucky--Maps.</dcterms:subject>
+   <dcterms:subject>Railroads--Ohio--Maps.</dcterms:subject>
+   <dcterms:spatial>East (U.S.)</dcterms:spatial>
+   <dcterms:spatial>Kentucky</dcterms:spatial>
+   <dcterms:spatial>Ohio</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>West Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904878/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003603</edm:isShownAt>
+</mdRecord>

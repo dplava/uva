@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:45 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61490</dcterms:identifier>
+   <dcterms:title>Osiris and the Egyption resurrection</dcterms:title>
+   <dcterms:creator>Budge, E. A. Wallis (Ernest Alfred Wallis) Sir, 1857-1934</dcterms:creator>
+   <dcterms:publisher>P. L. Warner</dcterms:publisher>
+   <dcterms:publisher>G. P. Putnam's sons</dcterms:publisher>
+   <dcterms:created>1911</dcterms:created>
+   <dcterms:extent>2 v. fold. col. fronts., illus., plates (part fold.) 26 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>plates (part fold.)</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Osiris, (Egyptian deity)</dcterms:subject>
+   <dcterms:subject>Eschatology, Egyptian</dcterms:subject>
+   <dcterms:spatial>Egypt</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1592206/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61490</edm:isShownAt>
+</mdRecord>

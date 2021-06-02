@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:07 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65575</dcterms:identifier>
+   <dcterms:title>Monopolies and trusts / by Richard T. Ely</dcterms:title>
+   <dcterms:creator>Ely, Richard Theodore, 1854-1943</dcterms:creator>
+   <dcterms:publisher>Macmillan Co.</dcterms:publisher>
+   <dcterms:created>1906</dcterms:created>
+   <dcterms:extent>xi pages, 1 leaf, 284 pages</dcterms:extent>
+   <dcterms:extent>20 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Series title also at head of t.p.</dcterms:description>
+   <dcterms:isPartOf>The citizen's library of economics, politics, and sociology</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Part VII, bk. I, of the author's larger work "The distribution of wealth." cf. Pref</dcterms:subject>
+   <dcterms:subject>Trusts, Industrial</dcterms:subject>
+   <dcterms:subject>Monopolies</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2299373/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65575</edm:isShownAt>
+</mdRecord>

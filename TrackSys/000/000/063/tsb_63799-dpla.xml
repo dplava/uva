@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:20 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63799</dcterms:identifier>
+   <dcterms:title>The mediaeval mind: a history of the development of thought and emotion in the middle ages / by Henry Osborn Taylor</dcterms:title>
+   <dcterms:creator>Taylor, Henry Osborn, 1856-1941</dcterms:creator>
+   <dcterms:publisher>Macmillan</dcterms:publisher>
+   <dcterms:created>1911</dcterms:created>
+   <dcterms:extent>2 v. 23 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Item X000438909 has bookplate data: C. F. Goddard.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Middle Ages</dcterms:subject>
+   <dcterms:subject>Civilization, Medieval</dcterms:subject>
+   <dcterms:subject>Philosophy, Medieval</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1738032/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63799</edm:isShownAt>
+</mdRecord>

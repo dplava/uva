@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:36 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1145954</dcterms:identifier>
+   <dcterms:title>Listen to the mocking bird: as sung by Rose Merrifield / written and arranged by Alice Hawthorne</dcterms:title>
+   <dcterms:title>I'm dreaming now of Hally</dcterms:title>
+   <dcterms:title>Listen to the mocking bird</dcterms:title>
+   <dcterms:creator>Dutcher, Aaron R.</dcterms:creator>
+   <dcterms:creator>Merrifield, Rose</dcterms:creator>
+   <dcterms:creator>Winner, Septimus, 1827-1902</dcterms:creator>
+   <dcterms:publisher>Lee &amp; Walker</dcterms:publisher>
+   <dcterms:created>1856</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, mixed chorus (4), piano</dcterms:description>
+   <dcterms:description>For voice and piano, with chorus refrain (SATB).</dcterms:description>
+   <dcterms:description>Title page illustration: A mocking bird sitting on a branch.</dcterms:description>
+   <dcterms:description>At head of title page: "Respectfully dedicated to Aaron R. Dutcher, Esq."</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: Listings from the catalog of Lee &amp; Walker.</dcterms:description>
+   <dcterms:description>Alice Hawthorne is a pseudonym for Septimus Winner.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1145955/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145954</edm:isShownAt>
+</mdRecord>

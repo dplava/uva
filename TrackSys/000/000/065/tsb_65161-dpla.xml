@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65161</dcterms:identifier>
+   <dcterms:title>India, Ceylon, Straits settlements, British North Borneo, Hong- Kong</dcterms:title>
+   <dcterms:publisher>K. Paul, Trench, Trübner &amp; co., ltd.</dcterms:publisher>
+   <dcterms:created>1899</dcterms:created>
+   <dcterms:extent>xxvii, 536 p. 2 fold. maps, fold. tab. 22 cm.</dcterms:extent>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Collection of papers, most of them originally given as lectures at the South Place institute.</dcterms:description>
+   <dcterms:description>Prefatory note by Wm. Sheowring, honorary secretary.</dcterms:description>
+   <dcterms:description>Item X030740805 has bookplate data: Bennett Wood Green.</dcterms:description>
+   <dcterms:isPartOf>The British empire series. vol. I</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Great Britain--Colonies--India.</dcterms:subject>
+   <dcterms:subject>Great Britain--Colonies--Straits Settlements.</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <dcterms:spatial>India.</dcterms:spatial>
+   <dcterms:spatial>Straits Settlements.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2140649/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65161</edm:isShownAt>
+</mdRecord>

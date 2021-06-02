@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:32 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64264</dcterms:identifier>
+   <dcterms:title>Musica, ballo e drammatica alla corte Medicea dal 1600 al 1637: notizie tratte da un diario, con appendice di testi inediti e rari</dcterms:title>
+   <dcterms:creator>Solerti, Angelo, 1865-1907</dcterms:creator>
+   <dcterms:publisher>R. Bemporad &amp; figlio; [etc., etc.</dcterms:publisher>
+   <dcterms:created>1905</dcterms:created>
+   <dcterms:extent>xvi, 594 p. illus. 24 cm.</dcterms:extent>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>Prefazione.--Feste florentine del secolo XVI.--Diario delle feste dal 1600 al 1637.--Il principe Mattias de' Medici governatore di Siena (1629-1631)--Balli e favolette per musica inediti o rari: Dialogo di Giunone e Minerva di B. Guarini (1600) Rime cantate nel giardino del sig. R. Riccardi (1600) Notte d'amore; veglia di F. Cini (1608) Il passatempo e il balletto della cortesia di M. A. Buonarroti (1615) Scherzi e balli di giovinette montanine (1614) Balletto fatto nel battesimo del terzogenito delle altezze di Toscana (1614) Ballo delle Zingare (1615) Ballo di donne turche (1615) Orfeo dolente di G. Chiabrera &lt;?&gt; musicato da D. Belli (1616) Intermedi di F. Vitali (1622) Prologo di C. Achillini e Intermedit di a. Pio di Savoia (1628) Mercurio e Marte; torneo di C. Achillini (1628) La Siringa di M. A. Buonarroti (1635)</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Medici, House of</dcterms:subject>
+   <dcterms:subject>Opera--Italy.</dcterms:subject>
+   <dcterms:subject>Italian drama--History and criticism.</dcterms:subject>
+   <dcterms:spatial>Italy.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1917364/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64264</edm:isShownAt>
+</mdRecord>

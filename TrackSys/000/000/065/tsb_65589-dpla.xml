@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:07 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65589</dcterms:identifier>
+   <dcterms:title>History of the Ohio state university</dcterms:title>
+   <dcterms:creator>Cope, Alexis, 1841-1918</dcterms:creator>
+   <dcterms:creator>Hooper, Osman Castle, 1858-1941</dcterms:creator>
+   <dcterms:creator>Mendenhall, Thomas C. (Thomas Corwin), 1910-1998</dcterms:creator>
+   <dcterms:creator>Ohio State University.</dcterms:creator>
+   <dcterms:creator>Siebert, Wilbur Henry, 1866-1961</dcterms:creator>
+   <dcterms:publisher>The Ohio state university press</dcterms:publisher>
+   <dcterms:created>1920</dcterms:created>
+   <dcterms:extent>v. in fronts., illus. (maps) plates (incl. music)ports., facsims., diagr. 24 cm.</dcterms:extent>
+   <dcterms:medium>diagrams</dcterms:medium>
+   <dcterms:medium>illustrations (maps)</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>plates (incl. music)</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>I. 1870-1910, by Alexis Cope, ed. by T. C. Mendenhall.-II. Continuation of the narrative from 1910 to 1925, by O. C. Hooper, ed. by T. C. Mendenhall.-III. Addresses and proceedings of the semicentennial celebration, October 13-16, 1920, ed. by T. C. Mendenhall, assisted by J. S. Myers.-IV. The university in the great war: pt. 1. Wartime on the campus, by W. H. Siebert, with a chapter by Carl Whittke. pt. 2. Our men in military and naval service, supervised and ed. by W. H. Siebert, except chapters II to IX, inclusive, by E. H. McNeal.-V. Addresses and proceedings of the inauguration of Howard Landis Bevis, October 24 and 25, 1940, ed. by William McPherson and H. K. Schellenger.-VI. Addresses and proceedings of the seventy-fifth anniversary, 1948-49.-VII. The Bevis administration, 1940-1956. Pt. 1. The university in a world at war, 1940-1945.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Ohio State University--History.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2303717/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65589</edm:isShownAt>
+</mdRecord>

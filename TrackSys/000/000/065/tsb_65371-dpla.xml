@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:01 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65371</dcterms:identifier>
+   <dcterms:title>La logique sociale</dcterms:title>
+   <dcterms:creator>Tarde, Gabriel de, 1843-1904</dcterms:creator>
+   <dcterms:publisher>F. Alcan</dcterms:publisher>
+   <dcterms:created>1898</dcterms:created>
+   <dcterms:extent>xvi p., 1 l., 466 p. 22 cm.</dcterms:extent>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>3. ed., rev. et augm.</dcterms:description>
+   <dcterms:isPartOf>Bibliotheque de philosophiecontemporaine</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sociology</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2221713/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65371</edm:isShownAt>
+</mdRecord>

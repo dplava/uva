@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:24 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63949</dcterms:identifier>
+   <dcterms:title>The Pittsburgh district civic frontage</dcterms:title>
+   <dcterms:publisher>Survey associates, inc.</dcterms:publisher>
+   <dcterms:created>1914</dcterms:created>
+   <dcterms:extent>xviii, 554 p. front., illus., plates, ports., plans, diagrs. 24 cm.</dcterms:extent>
+   <dcterms:medium>diagrams</dcterms:medium>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>plans</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>I. The community: Pittsburgh the year of the survey, by E. T. Devine. Pittsburgh: an interpretation of its growth, by R. A. Woods. Coalition of Pittsburgh's civic forces, by A. T. Burns.--II. Civic conditions: Civic improvement possibilities in Pittsburgh, by C. M. Robinson. Thirty-five years of typhoid, by F. E. Wing. The housing of Pittsburgh's workers, by Emily W. Dinwiddie and F. Elisabeth Crowell. Three studies in housing and responsibility: Skunk hollow, by Florence L. Lattimore. Painter's row, Tammany hall, by F. Elisabeth Crowell. The aldermen and their courts, by H. V. Blaxter and A. H. Kerr. The disproportion of taxation in Pittsburgh, by S. M. Harrison.--III. Children and the city: Pittsburgh schools, by Lila Ver P. North. The playgrounds of Pittsburgh, by Beulah Kennard. The public library, by Frances J. Olcott. Pittsburgh as a foster mother, by Florence L. Lattimore.--Appendices.</dcterms:description>
+   <dcterms:description>At head of title: Russell Sage foundation.</dcterms:description>
+   <dcterms:isPartOf>Pittsburgh survey. v. 5</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Labor--Dwellings.</dcterms:subject>
+   <dcterms:subject>Housing--Pittsburgh.</dcterms:subject>
+   <dcterms:subject>Working class--Dwellings.</dcterms:subject>
+   <dcterms:subject>Labor movement--Dwellings.</dcterms:subject>
+   <dcterms:subject>Pittsburgh (Pa.)--Sanitary affairs.</dcterms:subject>
+   <dcterms:subject>Pittsburgh (Pa.)--Social conditions.</dcterms:subject>
+   <dcterms:subject>Pittsburgh (Pa.)--Civic improvement.</dcterms:subject>
+   <dcterms:spatial>Pittsburgh (Pa.)</dcterms:spatial>
+   <dcterms:spatial>Pittsburgh.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1796903/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63949</edm:isShownAt>
+</mdRecord>

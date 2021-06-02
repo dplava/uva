@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:19 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63757</dcterms:identifier>
+   <dcterms:title>Characters and events</dcterms:title>
+   <dcterms:creator>Dewey, John, 1859-1952</dcterms:creator>
+   <dcterms:creator>Ratner, Joseph, 1901-</dcterms:creator>
+   <dcterms:publisher>H. Holt and company</dcterms:publisher>
+   <dcterms:created>1929</dcterms:created>
+   <dcterms:extent>2 v. front. (port.) 21 cm.</dcterms:extent>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>ALDERMAN: One copy : Photocopy. Charlestown, Mass : Acme Bookbinding, 1999. 23 cm.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Social sciences</dcterms:subject>
+   <dcterms:subject>Political science</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1724642/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63757</edm:isShownAt>
+</mdRecord>

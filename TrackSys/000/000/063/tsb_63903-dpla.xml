@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:22 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63903</dcterms:identifier>
+   <dcterms:title>A course of lectures on dramatic art and literature / by Augustus William Schlegel. Tr. by John Black</dcterms:title>
+   <dcterms:creator>Black, John, 1783-1855</dcterms:creator>
+   <dcterms:creator>Morrison, A. J. W. (Alexander James William), 1806-1865</dcterms:creator>
+   <dcterms:creator>Schlegel, August Wilhelm von, 1767-1845</dcterms:creator>
+   <dcterms:publisher>Henry G. Bohn</dcterms:publisher>
+   <dcterms:created>1846</dcterms:created>
+   <dcterms:extent>1 preliminary leaf, [v]-viii, 535, [1] pages frontispiece (portrait) 18 cm</dcterms:extent>
+   <dcterms:medium>portrait</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Rev. according to the last German ed.,</dcterms:description>
+   <dcterms:description>Publisher's advertisements on blank p. at front and end.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Rebound in green cloth. From the Library Bequeathed by Governor Holliday, with his signature and date "Jan. '75" on t.p.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Holliday, Fred W. M. (Frederick William Mackey), 1828-1899--Library--Personal copy.</dcterms:subject>
+   <dcterms:subject>Drama--History and criticism.</dcterms:subject>
+   <dcterms:subject>Drama--Technique.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1779802/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63903</edm:isShownAt>
+</mdRecord>

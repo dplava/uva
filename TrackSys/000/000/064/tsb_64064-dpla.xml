@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:27 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64064</dcterms:identifier>
+   <dcterms:title>The works of Edgar Allan Poe: newly collected and edited, with a memoir, critical introductions, and notes / by Edmund Clarence Stedman and George Edward Woodberry ; the illustrations by Albert Edward Sterner</dcterms:title>
+   <dcterms:creator>Book Traces Project.</dcterms:creator>
+   <dcterms:creator>Poe, Edgar Allan, 1809-1849</dcterms:creator>
+   <dcterms:creator>Stedman, Edmund Clarence, 1833-1908</dcterms:creator>
+   <dcterms:creator>Woodberry, George Edward, 1855-1930</dcterms:creator>
+   <dcterms:publisher>Stone &amp; Kimball</dcterms:publisher>
+   <dcterms:created>1894/1895</dcterms:created>
+   <dcterms:extent>10 v., [36] leaves of plates</dcterms:extent>
+   <dcterms:extent>20 cm. [original]</dcterms:extent>
+   <dcterms:medium>facsimiles</dcterms:medium>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>V. 1. Tales of the grotesque and arabesque. I: Memoire. Introduction to the tales. Romances of death. Old-world romance -- v. 2. Tales of the grotesque and arabesque. II: Tales of conscience. Tales of natural beauty. Tales of pseudo-science -- v. 3. Tales of the grotesque and arabesque. III: Tales of ratiocination. Tales of illusion -- v. 4. Tales of the grotesque and arabesque. IV: Extravaganza and caprice -- v. 5. Tales of adventure and exploration: Narrative of Arthur Gordon Pym. The journal of Julius Rodman -- v. 6. Literary criticism. I: Introduction to the literary criticism. On poetry and the poets -- v. 7. Literary criticism. II: On novels, essays, and travels. Marginalia -- v. 8. Literary criticism. III: The literati. Minor contemporaries. A chapter of suggestions -- v. 9. Eureka: a prose poem. Miscellanies -- v. 10. Poems.</dcterms:description>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:description>Bibliography: v. 10, p. 267-281.</dcterms:description>
+   <dcterms:description>Subject entries from the Provenance Evidence Thesaurus describe copies analyzed by Book Traces @ UVA.</dcterms:description>
+   <dcterms:description>Item X000177868 has bookplate data: Thomas Randolph Price. Item X030557408 has bookplate data: Thomas Randolph Price. Item X030557409 has bookplate data: Thomas Randolph Price.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Poetry</dcterms:subject>
+   <dcterms:subject>American literature--History and criticism.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1843449/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64064</edm:isShownAt>
+</mdRecord>

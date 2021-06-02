@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 4:52 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1123438</dcterms:identifier>
+   <dcterms:title>Consider the lilies of the field / R. Topliff ; [words from] St. Matthew, chap. 6th, verses 25, 26, 28, &amp; 29</dcterms:title>
+   <dcterms:title>Is not the life more than meat</dcterms:title>
+   <dcterms:title>Topliff, R. (Robert), 1793-1868. Sabbath melodies. Consider the lillies</dcterms:title>
+   <dcterms:creator>Topliff, R. (Robert), 1793-1868</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>187X</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: Selected catalogue of the best instruction and singing books.</dcterms:description>
+   <dcterms:isPartOf>Favorite songs</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sacred songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1123439/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1123438</edm:isShownAt>
+</mdRecord>

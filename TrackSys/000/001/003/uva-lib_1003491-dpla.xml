@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:23 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003491</dcterms:identifier>
+   <dcterms:title>Profile section from Jeffersonville, Montgomery Co., by Frenchburg to Blackwater Cr</dcterms:title>
+   <dcterms:creator>N.Y. Map &amp; Relief Line Engraving Co.</dcterms:creator>
+   <dcterms:publisher>N.Y. Map &amp; Relief Line Eng. Co.</dcterms:publisher>
+   <dcterms:created>[1880..1890]</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>20 x 25 cm. on sheet 23 x 28 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown pictorially.</dcterms:description>
+   <dcterms:description>Mistakenly identified by E.G. Swem as a Virginia map? CF. Swem, E.G. Maps relating to Virginia, 2031.</dcterms:description>
+   <dcterms:description>Vertical scale ca. 1:6,000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Soil profiles--Kentucky--Montgomery County.</dcterms:subject>
+   <dcterms:subject>Soil profiles--Kentucky--Menifee County.</dcterms:subject>
+   <dcterms:subject>Soil profiles--Kentucky--Morgan County.</dcterms:subject>
+   <dcterms:subject>Soil profiles--Kentucky.</dcterms:subject>
+   <dcterms:spatial>Kentucky</dcterms:spatial>
+   <dcterms:spatial>Menifee County.</dcterms:spatial>
+   <dcterms:spatial>Montgomery County.</dcterms:spatial>
+   <dcterms:spatial>Morgan County.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:897905/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003491</edm:isShownAt>
+</mdRecord>

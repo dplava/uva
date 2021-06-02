@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:17 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63713</dcterms:identifier>
+   <dcterms:title>Vital records of Shrewsbury, Massachusetts, to the end of the year 1849</dcterms:title>
+   <dcterms:creator>Shrewsbury (Mass.)</dcterms:creator>
+   <dcterms:publisher>Rice</dcterms:publisher>
+   <dcterms:created>1904</dcterms:created>
+   <dcterms:extent>282 p. 24 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>An alphabetical index to the manuscript records of the town, supplemented by information from church registers, cemetery inscriptions and other sources.</dcterms:description>
+   <dcterms:isPartOf>Systematic history fund [publications]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Registers of births, etc--Massachusetts--Shrewsbury.</dcterms:subject>
+   <dcterms:spatial>Massachusetts</dcterms:spatial>
+   <dcterms:spatial>Shrewsbury.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1707682/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63713</edm:isShownAt>
+</mdRecord>

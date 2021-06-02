@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:05 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:62451</dcterms:identifier>
+   <dcterms:title>Coleridge's The ancient mariner, Lowell's The vision of Sir Launfal [and] Burns' The cotter's Saturday night</dcterms:title>
+   <dcterms:title>The coffer's Saturday night</dcterms:title>
+   <dcterms:title>The vision of Sir Launfal</dcterms:title>
+   <dcterms:creator>Coleridge, Samuel Taylor, 1772-1834</dcterms:creator>
+   <dcterms:publisher>Sibley</dcterms:publisher>
+   <dcterms:created>[1900..1909]</dcterms:created>
+   <dcterms:extent>3 v. in 1.</dcterms:extent>
+   <dcterms:extent>16 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>VIVA Repository Copy 2014.</dcterms:description>
+   <dcterms:isPartOf>The Students' series of English classics</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2311839/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:62451</edm:isShownAt>
+</mdRecord>

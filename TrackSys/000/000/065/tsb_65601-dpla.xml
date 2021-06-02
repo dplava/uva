@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:07 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65601</dcterms:identifier>
+   <dcterms:title>University of Michigan: its origin, growth and principles of government / comp. by Lucius L. Hubbard</dcterms:title>
+   <dcterms:creator>Hubbard, Lucius L. (Lucius Lee), 1849-1933</dcterms:creator>
+   <dcterms:creator>University of Michigan.</dcterms:creator>
+   <dcterms:created>1923</dcterms:created>
+   <dcterms:extent>49, xviii, 94 p.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>This copy has been corrected to include all changes through the Regents' Meeting of June, 1931.</dcterms:description>
+   <dcterms:description>Cover title: Constitutional and legislative acts, legal decisions and by-laws of the University of Michigan.</dcterms:description>
+   <dcterms:description>"Organization and aims of the University of Michigan as reflected in its by-laws restated in part from the laws and by-laws of July 18, 1883 and rom the record of the Regents' proceedings" has special t.-p. and paging.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>University of Michigan.</dcterms:subject>
+   <dcterms:subject>Educational law and legislation--Michigan.</dcterms:subject>
+   <dcterms:spatial>Michigan.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2308877/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65601</edm:isShownAt>
+</mdRecord>

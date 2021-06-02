@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:00 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65311</dcterms:identifier>
+   <dcterms:title>The story of Avignon</dcterms:title>
+   <dcterms:creator>Okey, Thomas, 1852-1935</dcterms:creator>
+   <dcterms:publisher>J. M. Dent &amp; sons, ltd.</dcterms:publisher>
+   <dcterms:publisher>E. P. Dutton &amp; co.</dcterms:publisher>
+   <dcterms:created>1911</dcterms:created>
+   <dcterms:extent>xiv, 407, [1] p. incl. front., illus. plates, ports., 2 fold. plans. 18 cm.</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>plans</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:isPartOf>Mediaeval town series</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Avignon (France)--History.</dcterms:subject>
+   <dcterms:subject>Avignon (France)--Description and travel.</dcterms:subject>
+   <dcterms:spatial>Avignon (France)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2199078/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65311</edm:isShownAt>
+</mdRecord>

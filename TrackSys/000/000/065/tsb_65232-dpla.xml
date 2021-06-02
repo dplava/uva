@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:58 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65232</dcterms:identifier>
+   <dcterms:title>Original journals of the Lewis and Clark Expedition, 1804-1806: printed from the original manuscripts in the library of the American Philosophical Society and by direction of its committee on historical documents / together with manuscript material of Lewis and Clark from other sources, including note-books, letters, maps, etc., and the journals of Charles Floyd and Joseph Whitehouse, now for the first time published in full and exactly as written; ed., with introduction, notes, and index, by Reuben Gold Thwaites</dcterms:title>
+   <dcterms:creator>Book Traces Project.</dcterms:creator>
+   <dcterms:creator>Clark, William, 1770-1838</dcterms:creator>
+   <dcterms:creator>Floyd, Charles, -1804</dcterms:creator>
+   <dcterms:creator>Lewis, Meriwether, 1774-1809</dcterms:creator>
+   <dcterms:creator>Thwaites, Reuben Gold, 1853-1913</dcterms:creator>
+   <dcterms:creator>Whitehouse, Joseph, approximately 1775-approximately 1860</dcterms:creator>
+   <dcterms:publisher>Dodd, Mead &amp; Company</dcterms:publisher>
+   <dcterms:created>1904/1905</dcterms:created>
+   <dcterms:extent>8 v.</dcterms:extent>
+   <dcterms:extent>25 cm. [original]</dcterms:extent>
+   <dcterms:medium>facsimiles</dcterms:medium>
+   <dcterms:medium>illustrations (part fold.)</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:medium>maps (part fold.)</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Vols. 1-2 have date 1904; vols. 3-8 have date 1905.</dcterms:description>
+   <dcterms:description>Vol. 8 has title: Atlas accompanying the original journals of the Lewis and Clark expedition, 1804-1806, being facsimile reproductions of maps chiefly by William Clark ... Now for the first time published, from the original manuscripts, together with a modern map of the route ...</dcterms:description>
+   <dcterms:description>"Bibliographical data," by V. H. Palsits, v. 1. p. lxi-xciii.</dcterms:description>
+   <dcterms:description>Photocopy. Charlottesville, VA : University of Virginia Preservation-Acquisitions Dept., 1996.</dcterms:description>
+   <dcterms:description>Subject entries from the Provenance Evidence Thesaurus describe copies analyzed by Book Traces @ UVA.</dcterms:description>
+   <dcterms:description>Item X000464625 has bookplate data: Byrd Library. Item X006172542 has bookplate data: Byrd Library. Item X000299231 has bookplate data: Byrd Library. Item X000299228 has bookplate data: Byrd Library.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Lewis and Clark Expedition (1804-1806)</dcterms:subject>
+   <dcterms:subject>West (U.S.)--Description and travel.</dcterms:subject>
+   <dcterms:spatial>Columbia River</dcterms:spatial>
+   <dcterms:spatial>Missouri River</dcterms:spatial>
+   <dcterms:spatial>West (U.S.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2167166/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65232</edm:isShownAt>
+</mdRecord>

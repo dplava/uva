@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:03 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65437</dcterms:identifier>
+   <dcterms:title>A history of Siena</dcterms:title>
+   <dcterms:creator>Douglas, R. Langton (Robert Langton), 1864-1951</dcterms:creator>
+   <dcterms:publisher>J. Murray</dcterms:publisher>
+   <dcterms:created>1902</dcterms:created>
+   <dcterms:extent>xxvi p., 1 l., 500 p. front., 76 pl. (incl. port.) fold. map, fold. plan. 24 cm.</dcterms:extent>
+   <dcterms:medium>map</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:medium>plan</dcterms:medium>
+   <dcterms:medium>plans</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Art--Italy--Siena.</dcterms:subject>
+   <dcterms:subject>Siena (Italy)--History.</dcterms:subject>
+   <dcterms:spatial>Italy</dcterms:spatial>
+   <dcterms:spatial>Siena (Italy)</dcterms:spatial>
+   <dcterms:spatial>Siena.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2245985/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65437</edm:isShownAt>
+</mdRecord>

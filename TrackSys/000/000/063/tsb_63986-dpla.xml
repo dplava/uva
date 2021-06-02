@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:25 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63986</dcterms:identifier>
+   <dcterms:title>The social creed of the churches / ed. by Harry F. Ward</dcterms:title>
+   <dcterms:creator>Ward, Harry Frederick, 1873-1966</dcterms:creator>
+   <dcterms:publisher>Eaton &amp; Maine</dcterms:publisher>
+   <dcterms:publisher>Jennings &amp; Graham</dcterms:publisher>
+   <dcterms:created>1912</dcterms:created>
+   <dcterms:extent>185 p. 19 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"This volume is authorized by the Commission on the Church and Social Service of the Federal Council of the Churches of Christ of American."</dcterms:description>
+   <dcterms:description>References at end of each chapter.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Christian sociology</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1811907/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63986</edm:isShownAt>
+</mdRecord>

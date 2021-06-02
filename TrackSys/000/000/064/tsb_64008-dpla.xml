@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:25 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64008</dcterms:identifier>
+   <dcterms:title>Animals' rights considered in relation to social progress: with a bibliographical appendix / by Henry S. Salt ; also an essay on vivisection in America by Albert Leffingwell</dcterms:title>
+   <dcterms:title>On vivisection in America</dcterms:title>
+   <dcterms:creator>Salt, Henry S., 1851-1939</dcterms:creator>
+   <dcterms:publisher>Macmillan</dcterms:publisher>
+   <dcterms:created>1894</dcterms:created>
+   <dcterms:extent>1 leaf, x, 176 p., [1] leaf, [4] p.</dcterms:extent>
+   <dcterms:extent>17 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Advertisements: [4] p., at end.</dcterms:description>
+   <dcterms:description>Includes bibliographical references (p. 105-132).</dcterms:description>
+   <dcterms:description>Includes bibliographical references.</dcterms:description>
+   <dcterms:description>Bibliographical advertisement for H.S. Salt: verso of 1st preliminary leaf.</dcterms:description>
+   <dcterms:description>One copy: Photocopy. North Manchester, IN : Heckman Bindery, Inc., [2005].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Animal welfare</dcterms:subject>
+   <dcterms:subject>Vivisection</dcterms:subject>
+   <dcterms:subject>Vivisection--United States.</dcterms:subject>
+   <dcterms:spatial>United States.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1819503/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64008</edm:isShownAt>
+</mdRecord>

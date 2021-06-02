@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 9:50 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:58847</dcterms:identifier>
+   <dcterms:title>The fairy bells: a ballad / by the Hon. Mrs. Norton</dcterms:title>
+   <dcterms:title>I dreamt, 'twas but a dream, thou wert my bride</dcterms:title>
+   <dcterms:creator>Norton, Caroline Sheridan, 1808-1877</dcterms:creator>
+   <dcterms:publisher>Published by Oliver Ditson</dcterms:publisher>
+   <dcterms:created>[1847..1848]</dcterms:created>
+   <dcterms:extent>1 score (4 p.)</dcterms:extent>
+   <dcterms:extent>33 cm. [original]</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title; lacking title page, as issued.</dcterms:description>
+   <dcterms:description>Publication date inferred from publisher's plate number. Oliver Ditson was at this address between 1844 and 1857. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Ninth title in a bound volume of sheet music from the library of Mrs. Harriet Irvine.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1563168/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58847</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:25 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64010</dcterms:identifier>
+   <dcterms:title>A history of Eton College, 1440-1884</dcterms:title>
+   <dcterms:creator>Lyte, Henry Churchill-Maxwell Sir, 1848-1940</dcterms:creator>
+   <dcterms:publisher>Macmillan</dcterms:publisher>
+   <dcterms:created>1889</dcterms:created>
+   <dcterms:extent>xxiii, 543 p. illus. (part col.) ports. 24 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>illustrations (part col.)</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>A new ed.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Eton College.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1819895/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64010</edm:isShownAt>
+</mdRecord>

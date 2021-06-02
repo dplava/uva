@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 7:49 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2180952</dcterms:identifier>
+   <dcterms:title>Odd and even system: The holder of two tickets or two shares, will be certain of obtaining at least one prize, and may draw three! : Grand State Lottery of Virginia, First Class. : The whole to be drawn in one day, and will take place in the city of Richmond, on Wednesday, the 27th of September / J.I. Cohen Jr. &amp; Brothers, have the pleasure to announce to the public the first scheme of the Grand State Lottery of Virginia, for the promotion of education and the benefit of the Monongalia Academy</dcterms:title>
+   <dcterms:title>Grand State Lottery of Virginia, First Class</dcterms:title>
+   <dcterms:creator>J.I. Cohen, Jr. &amp; Brothers.</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1826</dcterms:created>
+   <dcterms:extent>1 folded sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>26 x 20 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Title continued: Orders from any part of the United States, either by mail (post paid) or private conveyance, enclosing the cash or prize tickets in any of the lotteries, will meet the same prompt and punctual attention as if on personal application. Address to J.I. Cohen, Jr. &amp; Brothers. July, 1826.</dcterms:description>
+   <dcterms:description>Printed on p. [1] of a 4 page folded sheet. Text described above is printed across the sheet (in a block 19 x 11.5 cm.), with the type running parallel with the fold. Printed at the bottom of p. [1], with type in normal position, is a printed form: Cohen's Office, September ---- 1826. Sir, Agreeably to your order of --- enclosing --- Dolls. you will receive herewith --- ticket- in the Virginia State Lottery, 1st class ...</dcterms:description>
+   <dcterms:description>Following the form is a notice that "The Lottery and Exchange Business heretofore conducted in Baltimore by J.I. Cohen, Jr. will for the future, be conducted in that city, and also in the cities of New-York, Philadelphia, Richmond, Norfolk, and Charleston, under the firm of J.I. Cohen Jr. &amp; Brothers." With the street addresses of all the offices.</dcterms:description>
+   <dcterms:description>Form is filled out as a receipt for Joseph Rogers, Rogersville, E. Ten. and is addressed to Joseph Rogers Esq. Rogersville, E Tennessee on p. [4], with return address of Baltimore.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Coles Fund.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Monongalia Academy (Morgantown, W. Va.)</dcterms:subject>
+   <dcterms:subject>Lotteries--Virginia.</dcterms:subject>
+   <dcterms:spatial>Virginia.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2186383/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2180952</edm:isShownAt>
+</mdRecord>

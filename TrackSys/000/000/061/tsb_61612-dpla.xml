@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:48 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61612</dcterms:identifier>
+   <dcterms:title>English surnames: their sources and significations / By Charles Wareing Bardsley, M. A</dcterms:title>
+   <dcterms:creator>Bardsley, Charles Wareing Endell, 1843-1898</dcterms:creator>
+   <dcterms:publisher>Chatto and Windus</dcterms:publisher>
+   <dcterms:created>1889.</dcterms:created>
+   <dcterms:extent>xxv p., 1 l., 612 p. 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>4th ed.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2017.</dcterms:description>
+   <dcterms:description>Item X000130007 has bookplate data: Rev. Haslett McKim.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Names, Personal--English.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1634717/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61612</edm:isShownAt>
+</mdRecord>

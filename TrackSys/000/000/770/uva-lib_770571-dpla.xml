@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 11:32 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:770571</dcterms:identifier>
+   <dcterms:title>Tableaux sacre des figures mystiques du tres-auguste sacrifice et sacrement de l'Eucharistie / de diez, a la tres chrestienne royne de France et de Nauarre Marie de Medicis par Louis Richeome, Prouençal de la compagnie de Iesus</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Gaultier, Léonard, 1561-1641</dcterms:creator>
+   <dcterms:creator>Leu, Thomas de, 1560-1612</dcterms:creator>
+   <dcterms:creator>Mallery, Karel van, 1571-approximately 1635</dcterms:creator>
+   <dcterms:creator>Richeome, Louis, 1544-1625</dcterms:creator>
+   <dcterms:creator>Sonnius, Laurens</dcterms:creator>
+   <dcterms:publisher>Chez Laurens Sonnius ...</dcterms:publisher>
+   <dcterms:created>1601</dcterms:created>
+   <dcterms:extent>[45], 518, [39] p.</dcterms:extent>
+   <dcterms:extent>20 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Signatures: ã⁸ ẽ⁸ ĩ⁸ (leaf ẽ8 is blank) a-z⁸ A-I⁸ K⁴ L-M⁸ N³.</dcterms:description>
+   <dcterms:description>Title within illustrated border signed Thomas de Leu; ill. signed by Leu, C.D. Mallery and Léonard Gaultier.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: From the library of Petros Crozon, and his wife Catharina (or Catherina) Payen, with their combined monogram "PP" and "CC" in each corner of both covers, and on spine; motto "Charite na peine" on covers; "Roc perronize" on spine. Related ms. records at end of text. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 368.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Lord's Supper--Catholic Church.</dcterms:subject>
+   <dcterms:subject>Typology (Theology)</dcterms:subject>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:858514/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770571</edm:isShownAt>
+</mdRecord>

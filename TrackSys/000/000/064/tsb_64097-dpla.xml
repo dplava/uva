@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:28 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64097</dcterms:identifier>
+   <dcterms:title>Social control: a survey of the foundations of order</dcterms:title>
+   <dcterms:creator>Book Traces Project.</dcterms:creator>
+   <dcterms:creator>Ross, Edward Alsworth, 1866-1951</dcterms:creator>
+   <dcterms:publisher>Macmillan</dcterms:publisher>
+   <dcterms:created>1906</dcterms:created>
+   <dcterms:extent>xii, 463 p.</dcterms:extent>
+   <dcterms:extent>19 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"Partial list of authorities cited": p.443-448.</dcterms:description>
+   <dcterms:description>Item X001817571 contains annotations and marginalia.</dcterms:description>
+   <dcterms:description>Subject entries from the Provenance Evidence Thesaurus describe copies analyzed by Book Traces @ UVA.</dcterms:description>
+   <dcterms:description>ALDERMAN: One copy: Photocopy. North Manchester, IN : Heckman Bindery, Inc., [2005].</dcterms:description>
+   <dcterms:description>Item X004893828 has bookplate data: William Harry Heck.</dcterms:description>
+   <dcterms:isPartOf>Citizen's library of economics, politics, and sociology</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Social sciences</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1855992/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64097</edm:isShownAt>
+</mdRecord>

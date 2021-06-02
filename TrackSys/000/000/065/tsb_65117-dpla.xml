@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:54 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65117</dcterms:identifier>
+   <dcterms:title>The works of Oliver Goldsmith / edited by Peter Cunningham</dcterms:title>
+   <dcterms:creator>Cunningham, Peter, 1816-1869</dcterms:creator>
+   <dcterms:creator>Goldsmith, Oliver, 1730?-1774</dcterms:creator>
+   <dcterms:publisher>Harper &amp; Bros.</dcterms:publisher>
+   <dcterms:created>1900</dcterms:created>
+   <dcterms:extent>volumes</dcterms:extent>
+   <dcterms:extent>22 cm [original]</dcterms:extent>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Library ed.</dcterms:description>
+   <dcterms:description>v. 1. Introduction by Austin Dobson. Poetical works. The good-natured man.--v. 2 She stoops to conquer. Scene from the Grumbler. The vicar of Wakefield.--v. 3 An inquiry into the state of polite learning in Europe. The citizen of the world.--v. 4 The citizen of the world.--v. 5 The bee. Essays.--v. 6 Unacknowledged essays. Prefaces, introductions, etc.--v. 8 Biographies. Reviews.--v. 8 Reviews. Letters. Miscellany.</dcterms:description>
+   <dcterms:description>Added t.p.</dcterms:description>
+   <dcterms:description>Item X002153471 has bookplate data: George Gordon Battle; Ellen M. Bagby. Item X002153475 has bookplate data: George Gordon Battle; Ellen M. Bagby. Item X002153477 has bookplate data: George Gordon Battle; Ellen M. Bagby. Item X002153483 has bookplate data: George Gordon Battle; Ellen M. Bagby.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Goldsmith, Oliver, 1730?-1774</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2124475/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65117</edm:isShownAt>
+</mdRecord>

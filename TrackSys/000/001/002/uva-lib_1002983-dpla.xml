@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:20 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1002983</dcterms:identifier>
+   <dcterms:title>Sonate a due violino, e basso per suonarsi con flauto, o'vero violino</dcterms:title>
+   <dcterms:title>Bitti, Martino. Sonatas</dcterms:title>
+   <dcterms:creator>Bitti, Martino.</dcterms:creator>
+   <dcterms:publisher>Printed for J. Walsh &amp; J. Hare</dcterms:publisher>
+   <dcterms:created>1710</dcterms:created>
+   <dcterms:extent>31 p. 26 x 38 cm.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>SPECIAL COLLECTIONS: Mackay-Smith fund.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Flute and violin music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:877575/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002983</edm:isShownAt>
+</mdRecord>

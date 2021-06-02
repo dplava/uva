@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:06 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65541</dcterms:identifier>
+   <dcterms:title>The mystery of Mary Stuart</dcterms:title>
+   <dcterms:creator>Lang, Andrew, 1844-1912</dcterms:creator>
+   <dcterms:publisher>Longmans, Green</dcterms:publisher>
+   <dcterms:created>1902</dcterms:created>
+   <dcterms:extent>xxiv, 452 p. 9 pl., 5 port. (incl. front.) col. plan, 5 facsim. 24 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>facsimiles</dcterms:medium>
+   <dcterms:medium>plan</dcterms:medium>
+   <dcterms:medium>plans</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>New ed.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Mary, Queen of Scots, 1542-1587</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2285879/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65541</edm:isShownAt>
+</mdRecord>

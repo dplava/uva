@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:35 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64377</dcterms:identifier>
+   <dcterms:title>The Christian education of children and youth</dcterms:title>
+   <dcterms:creator>Janeway, J. J. (Jacob Jones), 1774-1858</dcterms:creator>
+   <dcterms:creator>Miller, Samuel, 1769-1850</dcterms:creator>
+   <dcterms:publisher>Presbyterian board of publication</dcterms:publisher>
+   <dcterms:created>1840</dcterms:created>
+   <dcterms:extent>66 p., 15 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Presbyterian Church in the U.S.A.--Education.</dcterms:subject>
+   <dcterms:subject>Church schools--United States.</dcterms:subject>
+   <dcterms:spatial>United States.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1954340/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64377</edm:isShownAt>
+</mdRecord>

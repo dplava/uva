@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:09 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65673</dcterms:identifier>
+   <dcterms:title>Education for life: the story of Hampton Institute, told in connection with the fiftieth anniversary of the foundation of the school / by Francis Greenwood Peabody</dcterms:title>
+   <dcterms:creator>Peabody, Francis Greenwood, 1847-1936</dcterms:creator>
+   <dcterms:publisher>Doubleday, Page &amp; Company</dcterms:publisher>
+   <dcterms:created>1918</dcterms:created>
+   <dcterms:extent>xxiv, 393, [1] p. ill., maps., facsim.</dcterms:extent>
+   <dcterms:extent>24 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>SPECIAL COLLECTIONS: Original red cloth, stamped in gold; bookplate of Edwin Anderson Alderman.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Alderman, Edwin Anderson, 1861-1931--Library--Personal copy.</dcterms:subject>
+   <dcterms:subject>Hampton Normal and Agricultural Institute (Va.)</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2339949/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65673</edm:isShownAt>
+</mdRecord>

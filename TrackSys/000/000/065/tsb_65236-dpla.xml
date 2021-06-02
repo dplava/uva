@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:58 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65236</dcterms:identifier>
+   <dcterms:title>Fast day sermons: or, The pulpit on the state of the country</dcterms:title>
+   <dcterms:publisher>Rudd &amp; Carleton</dcterms:publisher>
+   <dcterms:created>1861</dcterms:created>
+   <dcterms:extent>viii, 336 p. 19 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Thornwell, J. H. Our national sin.--Palmer, B. M. Slavery a divine trust.-- Dabney, R. L. The Christians̕ best motive for patriotism.--Breckinridge, R. J. The union to be preserved.--Van Dyke, H. J. The character and influence of abolitionism.--Lewis, T. Patriarchal and Jewish servitude no argument for American slavery.--Raphall, M. J. Bible view of slavery.--Vinton, F. Fanaticism rebuked.--Beecher, H. W. Peace, be still.--Bellows, H. W. The crisis of our national disease.--Adams, W. Prayers for rulers; or duty of Christian patriots.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>United States--History--Civil War, 1861-1865.</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2168768/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65236</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:08 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65620</dcterms:identifier>
+   <dcterms:title>National system of political economy</dcterms:title>
+   <dcterms:creator>Colwell, Stephen, 1800-1871</dcterms:creator>
+   <dcterms:creator>List, Friedrich, 1789-1846</dcterms:creator>
+   <dcterms:creator>Matile, G.-A. (George-Auguste), 1807-1881</dcterms:creator>
+   <dcterms:creator>Richelot, Henri Ange Jules François, 1811-1864</dcterms:creator>
+   <dcterms:publisher>J. B. Lippincott &amp; co.</dcterms:publisher>
+   <dcterms:created>1856</dcterms:created>
+   <dcterms:extent>1 p.l., v-lxxxiv, 61-497 p. 23 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Tr. of: Das nationale system der politischen oekonomie.</dcterms:description>
+   <dcterms:description>Item X000242983 has bookplate data: William Mynn Thornton.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Economics</dcterms:subject>
+   <dcterms:subject>Free trade</dcterms:subject>
+   <dcterms:subject>Protectionism</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2318085/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65620</edm:isShownAt>
+</mdRecord>

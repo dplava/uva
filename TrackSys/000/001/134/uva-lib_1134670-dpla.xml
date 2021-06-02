@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:10 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1134670</dcterms:identifier>
+   <dcterms:title>When 'tis moonlight: waltz song / words and music by C.A. White</dcterms:title>
+   <dcterms:creator>White, C. A. (Charles Albert), 1832-1892</dcterms:creator>
+   <dcterms:publisher>White, Smith &amp; Company</dcterms:publisher>
+   <dcterms:created>[1870..1879]</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:extent>35 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, piano</dcterms:description>
+   <dcterms:description>Contralto.</dcterms:description>
+   <dcterms:description>"To Mrs. O.T. Kimball."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: [Sheet music collection, v.15, no.21]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <dcterms:subject>Waltzes</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1134671/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1134670</edm:isShownAt>
+</mdRecord>

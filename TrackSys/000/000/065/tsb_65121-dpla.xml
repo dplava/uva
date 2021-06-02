@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:55 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65121</dcterms:identifier>
+   <dcterms:title>Lessons in elementary physiology / by Thomas H. Huxley</dcterms:title>
+   <dcterms:creator>Huxley, Thomas Henry, 1825-1895</dcterms:creator>
+   <dcterms:publisher>Macmillan</dcterms:publisher>
+   <dcterms:created>1866</dcterms:created>
+   <dcterms:extent>xix, 319 p.</dcterms:extent>
+   <dcterms:extent>16 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:description>SCIENCE &amp; ENGINEERING: On cover: Macmillan's school class books.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:isPartOf>Macmillan's school class books</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Physiology</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2125409/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65121</edm:isShownAt>
+</mdRecord>

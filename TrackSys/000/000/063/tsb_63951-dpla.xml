@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:24 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63951</dcterms:identifier>
+   <dcterms:title>Problems of American civilization: their practical solution the pressing Christian duty of today / by presidents McCosh and Gates [and others]</dcterms:title>
+   <dcterms:creator>Boyesen, Hjalmar Hjorth, 1848-1895</dcterms:creator>
+   <dcterms:creator>Coxe, A. Cleveland (Arthur Cleveland), 1818-1896</dcterms:creator>
+   <dcterms:creator>Dorchester, Daniel, 1827-1907</dcterms:creator>
+   <dcterms:creator>Gates, Merrill Edwards, 1848-1922</dcterms:creator>
+   <dcterms:creator>Greene, Jacob Lyman, 1837-1905</dcterms:creator>
+   <dcterms:creator>Haygood, Atticus G. (Atticus Greene), 1839-1896</dcterms:creator>
+   <dcterms:creator>Loomis, Samuel Lane, 1856-1938</dcterms:creator>
+   <dcterms:creator>Low, Seth, 1850-1916</dcterms:creator>
+   <dcterms:creator>McCosh, James, 1811-1894</dcterms:creator>
+   <dcterms:creator>McPherson, Simon John, 1850-1919</dcterms:creator>
+   <dcterms:creator>Pierson, Arthur T., 1837-1911</dcterms:creator>
+   <dcterms:publisher>Baker &amp; Taylor co.</dcterms:publisher>
+   <dcterms:created>1888</dcterms:created>
+   <dcterms:extent>171 p. 19 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Immigration. By H.H. Boyesen.--The misuse of wealth. By M.E. Gates.--Estrangement of the masses from the church. By A. T. Pierson.--Ultramontanism. By A. C. Cox.--The saloon. By A. G. Haygood.--The social vice. By J. L. Greene.--Relation of the church to the capital and labor question. By J. McCosh.--Relation of the church to the capital and labor question. By S. Low.--The city as a peril.--By D. Dorchester. The city as a peril. By S. J. McPherson.--The city as a peril.--By S. L. Loomis.</dcterms:description>
+   <dcterms:description>First published in National perils and opportunities, discussions of the general Christian conference held in Washington, D.C., 1887 under the auspices of the Evangelical alliance for the United States. New York,1887.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Social problems</dcterms:subject>
+   <dcterms:subject>Christian sociology</dcterms:subject>
+   <dcterms:subject>United States--Social conditions.</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1797943/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63951</edm:isShownAt>
+</mdRecord>

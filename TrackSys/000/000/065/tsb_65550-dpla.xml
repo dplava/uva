@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:06 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65550</dcterms:identifier>
+   <dcterms:title>Contes de fées / tirés de Claude [!] Perrault, de Mme. d'Aulnoy et Leprince de Beaumont et illustrés de 65 vignettes dessinées sur bois par Bertall Beaucé, etc</dcterms:title>
+   <dcterms:title>Perrault, Charles, 1628-1703. Contes des fées</dcterms:title>
+   <dcterms:creator>Aulnoy, (Marie-Catherine) Madame d', 1650 or 1651-1705</dcterms:creator>
+   <dcterms:creator>Leprince de Beaumont, Jeanne-Marie, 1711-1780</dcterms:creator>
+   <dcterms:creator>Perrault, Charles, 1628-1703</dcterms:creator>
+   <dcterms:publisher>Hachette</dcterms:publisher>
+   <dcterms:created>1914</dcterms:created>
+   <dcterms:extent>375 p. ill., plates. 17 cm.</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Nouv. éd.</dcterms:description>
+   <dcterms:description>Contes de Perrault: La Barbe Bleue. Le Petit Chaperon Rouge. La Belle au Bois dormant. Le Chat Botté. Cendrillon. Riquet à la Houppe. Le Petit Poucet. Peau d'Ane.--Contes de Madame d'Aulnoy: La Belle aux Cheveux d'Or. L'Oiseau Bleu. La Chatte Blanche. La Biche au Bois.--Contes de Madame Leprince de Beaumont: Le prince Chéri. La Belle et la Bête.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Fairy tales</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2289903/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65550</edm:isShownAt>
+</mdRecord>

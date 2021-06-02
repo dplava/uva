@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:25 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003634</dcterms:identifier>
+   <dcterms:title>Les provinces des Pays-Bas Catholiques ou A most exact map of Flanders or ye Austrian Netherlands &amp;c: It comprehends all the towns, villages, abbeys, monasteries throughout all these provinces &amp;c / By H. Moll, Geographer</dcterms:title>
+   <dcterms:title>Most exact map of Flanders or ye Austrian Netherlands &amp;c</dcterms:title>
+   <dcterms:creator>Bowles, John, 1701-1779</dcterms:creator>
+   <dcterms:creator>Bowles, Thomas, -1767</dcterms:creator>
+   <dcterms:creator>Fricx, Eugène-Henri, 1644-1730</dcterms:creator>
+   <dcterms:creator>King, John.</dcterms:creator>
+   <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+   <dcterms:creator>Ormonde, James Butler Duke of, 1665-1745</dcterms:creator>
+   <dcterms:publisher>Sold by H. Moll over against Devereux Court between Temple Bar and St. Clements Church in ye Strand. I. Bowles Print and Map seller at the Black Horse in Cornhill &amp; T. Bowles Print and mapseller next to ye Chapter house in S. Pauls Ch. yard. And John King at the Globe in the Poultry.</dcterms:publisher>
+   <dcterms:created>1730</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>61 x 100 cm. on sheet 64 x 106 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>bathymetry/soundings</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown pictorially and by soundings.</dcterms:description>
+   <dcterms:description>Prime meridians: London and Ferro Island.</dcterms:description>
+   <dcterms:description>Text just to the right of the title cartouche describes terms of a "treaty for settling the barrier in the Netherlands" which was signed at Antwerp in November 1715.</dcterms:description>
+   <dcterms:description>Insets: Plan du toutes sortes d'ouvrages dont on se sert dans les fortifications... = A plan of all manner of works used in fortification... -- Carte des Grand Chemins de Paris a Valenciene = A map of the roads from Paris to Valenciene -- La partie meridionale de Luxembourgh est continuée icy = The south part of Luxembourgh is continued here.</dcterms:description>
+   <dcterms:description>Some notes are in French and English.</dcterms:description>
+   <dcterms:description>Note at lower center explains that this map is based on a survey of the Spanish Netherlands published at Brussels by Mr. Fricz.</dcterms:description>
+   <dcterms:description>Towns color coded to show French, Dutch and Flemish possessions.</dcterms:description>
+   <dcterms:description>Dedication: To His Grace Iames Duke of Ormond, Captain General of Her Majesty's Forces &amp;c. This map is humbly dedicated by your Lordship's most humble servant Herman Moll Geogr.</dcterms:description>
+   <dcterms:description>An earlier issue of the map, ca. 1914, has only the Moll imprint.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: "Flanders" written in brown ink on verso.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:435,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Benelux countries--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Belgium--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Luxembourg--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Netherlands--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:spatial>Belgium</dcterms:spatial>
+   <dcterms:spatial>Benelux countries</dcterms:spatial>
+   <dcterms:spatial>Luxembourg</dcterms:spatial>
+   <dcterms:spatial>Netherlands</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:906138/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003634</edm:isShownAt>
+</mdRecord>

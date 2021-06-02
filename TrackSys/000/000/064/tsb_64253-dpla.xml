@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:32 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64253</dcterms:identifier>
+   <dcterms:title>The emancipation of Massachusetts / By Brooks Adams</dcterms:title>
+   <dcterms:creator>Adams, Brooks, 1848-1927</dcterms:creator>
+   <dcterms:publisher>Houghton, Mifflin and Company</dcterms:publisher>
+   <dcterms:created>1887</dcterms:created>
+   <dcterms:extent>vi, 382 p. 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>The commonweatlh.--The Antinomians.--The Cambridge platform.--The Anabaptists.--The Quakers.--The scire facias.--The witchcraft.--Brattle church.--Harvard college.--The lawyers.--The revolution.</dcterms:description>
+   <dcterms:description>Item X000512203 has bookplate data: Tracy W. McGregor.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Puritans</dcterms:subject>
+   <dcterms:subject>Massachusetts--Church history.</dcterms:subject>
+   <dcterms:subject>Massachusetts--History--Colonial period, ca. 1600-1775.</dcterms:subject>
+   <dcterms:temporal>Colonial period, ca. 1600-1775.</dcterms:temporal>
+   <dcterms:spatial>Massachusetts</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1913924/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64253</edm:isShownAt>
+</mdRecord>

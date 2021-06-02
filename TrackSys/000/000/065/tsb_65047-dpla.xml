@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:53 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65047</dcterms:identifier>
+   <dcterms:title>American animals: a popular guide to the mammals of North America north of Mexico, with intimate biographies of the more familiar species / by Witmer Stone and William Everett Cram</dcterms:title>
+   <dcterms:creator>Cram, William Everett, 1871-1947</dcterms:creator>
+   <dcterms:creator>Stone, Witmer, 1866-1939</dcterms:creator>
+   <dcterms:publisher>Doubleday, Page &amp; Company</dcterms:publisher>
+   <dcterms:created>1902</dcterms:created>
+   <dcterms:extent>xxiii, 3-318 p. col. front., illus., plates (part col.) 27 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>plates (part col.)</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"The text figures are all reproduced from standard works, while the plates are largely from the brush or camera of Mr. A. Radclyffe Dugmore."--Pref.</dcterms:description>
+   <dcterms:description>Bibliography: p. 301-303.</dcterms:description>
+   <dcterms:description>Item X000991120 has bookplate data: Mrs. Martha Ayling.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Mammals--North America.</dcterms:subject>
+   <dcterms:subject>Mammals</dcterms:subject>
+   <dcterms:spatial>North America.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2096989/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65047</edm:isShownAt>
+</mdRecord>

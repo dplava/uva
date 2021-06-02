@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:49 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61663</dcterms:identifier>
+   <dcterms:title>The distribution of products</dcterms:title>
+   <dcterms:creator>Atkinson, Edward, 1827-1905</dcterms:creator>
+   <dcterms:publisher>G. P. Putnam's sons</dcterms:publisher>
+   <dcterms:created>1892</dcterms:created>
+   <dcterms:extent>v, [2], 365 p. incl. tables. 20 cm.</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>5th ed.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Economics</dcterms:subject>
+   <dcterms:subject>Banks and banking</dcterms:subject>
+   <dcterms:subject>Wages</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1649618/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61663</edm:isShownAt>
+</mdRecord>

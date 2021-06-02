@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:25 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63981</dcterms:identifier>
+   <dcterms:title>Happy Sundays with the Bible, arranged for the fifty-two Sundays of the year: an interesting method of fixing indelibly upon the minds of young and old, the important truths of the Old Testament and of the New Testament, by symbols, pictures and stories / ed. by Lindley Smith, jr., illustrated with lithograph and halftone plates and pictures in the text</dcterms:title>
+   <dcterms:creator>Smyth, Lindley.</dcterms:creator>
+   <dcterms:publisher>Uplift publishing company</dcterms:publisher>
+   <dcterms:created>1908</dcterms:created>
+   <dcterms:extent>344 p. incl. col. front., illus. (partly col.) col. plates. 24 1/2 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>illustrations (partly col.)</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1809119/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63981</edm:isShownAt>
+</mdRecord>

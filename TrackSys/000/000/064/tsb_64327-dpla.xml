@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:34 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64327</dcterms:identifier>
+   <dcterms:title>A French Eton: or, Middle-class education and the state, to which is added, Schools and universities in France ; being a part of a volume on 'Schools and universities on the continent' published in 1868 / by Matthew Arnold</dcterms:title>
+   <dcterms:title>Middle-class education and the state</dcterms:title>
+   <dcterms:title>Schools and universities in France</dcterms:title>
+   <dcterms:creator>Arnold, Matthew, 1822-1888</dcterms:creator>
+   <dcterms:publisher>Macmillan and Co.</dcterms:publisher>
+   <dcterms:created>1892</dcterms:created>
+   <dcterms:extent>416 p.</dcterms:extent>
+   <dcterms:extent>20 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Education--England.</dcterms:subject>
+   <dcterms:subject>Education and state</dcterms:subject>
+   <dcterms:subject>Education, Secondary</dcterms:subject>
+   <dcterms:subject>Education--France.</dcterms:subject>
+   <dcterms:subject>Universities and colleges--France.</dcterms:subject>
+   <dcterms:spatial>England.</dcterms:spatial>
+   <dcterms:spatial>France.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1936482/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64327</edm:isShownAt>
+</mdRecord>

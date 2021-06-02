@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65191</dcterms:identifier>
+   <dcterms:title>Life and writings of George W. Abell</dcterms:title>
+   <dcterms:creator>Ainslie, Peter, 1816-1887</dcterms:creator>
+   <dcterms:publisher>Clemmitt &amp; Jones</dcterms:publisher>
+   <dcterms:created>1875</dcterms:created>
+   <dcterms:extent>xi, 227 p. front. (mounted phot.) 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Abell, George Washington, 1818-1874</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2152016/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65191</edm:isShownAt>
+</mdRecord>

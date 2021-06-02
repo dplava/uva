@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:19 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63779</dcterms:identifier>
+   <dcterms:title>The Molly Maguires</dcterms:title>
+   <dcterms:creator>Dewees, F. P. (Francis Percival)</dcterms:creator>
+   <dcterms:publisher>J. B. Lippincott &amp; co.</dcterms:publisher>
+   <dcterms:created>1877</dcterms:created>
+   <dcterms:extent>v, [1], ix-xi, 9-380 p. incl. map. 20 cm.</dcterms:extent>
+   <dcterms:medium>map</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Molly Maguires (Organization)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1733348/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63779</edm:isShownAt>
+</mdRecord>

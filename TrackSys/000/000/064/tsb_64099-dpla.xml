@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:28 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64099</dcterms:identifier>
+   <dcterms:title>The last of the Masai / by Sidney Langford Hinde and Hildegarde Hinde; with illustrations from photographs and drawings</dcterms:title>
+   <dcterms:creator>Hinde, Hildegarde Beatrice Ginsburg</dcterms:creator>
+   <dcterms:creator>Hinde, Sidney Langford, 1863-1930</dcterms:creator>
+   <dcterms:publisher>W. Heinemann</dcterms:publisher>
+   <dcterms:created>1901</dcterms:created>
+   <dcterms:extent>xix, 180 p. incl. front., illus., plates. col. pl. 26 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>pt.1. The Masai race.--pt.2. Field notes on the game of East Africa.</dcterms:description>
+   <dcterms:description>Title vignette.</dcterms:description>
+   <dcterms:description>Editor's note signed: "E. C. M."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Maasai (African people)</dcterms:subject>
+   <dcterms:subject>Hunting--Africa, East.</dcterms:subject>
+   <dcterms:spatial>Africa, East.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1856958/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64099</edm:isShownAt>
+</mdRecord>

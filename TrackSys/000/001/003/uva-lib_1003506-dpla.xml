@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:24 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003506</dcterms:identifier>
+   <dcterms:title>Plan of the Portsmouth &amp; Roanoke Rail-Road and trace of the Petersburg Rail Road / drawn by Thos. H. Williamson Asst. Engr. under the direction of Walter Gwinn, Engineer P &amp; R.R.</dcterms:title>
+   <dcterms:title>Plan of the Portsmouth and Roanoke Rail Road</dcterms:title>
+   <dcterms:creator>Penniman, John, approximately 1817-1850</dcterms:creator>
+   <dcterms:creator>Portsmouth and Roanoke Railroad Company.</dcterms:creator>
+   <dcterms:creator>Williamson, Thomas H. (Thomas Hoomes)</dcterms:creator>
+   <dcterms:publisher>Portsmouth &amp; Roanoke Rail-Road</dcterms:publisher>
+   <dcterms:publisher>Lith. of J. Penniman)</dcterms:publisher>
+   <dcterms:created>[1835..1840]</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>67 x 52 cm. on sheet 85 x 59 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief not shown.</dcterms:description>
+   <dcterms:description>Shows the area of Southside Virginia, south through eastern North Carolina to Albemarle Sound.</dcterms:description>
+   <dcterms:description>John Penniman was active in Baltimore from 1835 to 1840 according to the Dictionary of artists in America, 1564-1860.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:316,800].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Portsmouth and Roanoke Railroad Company--Maps.</dcterms:subject>
+   <dcterms:subject>Petersburg Railroad Company.</dcterms:subject>
+   <dcterms:subject>Railroads--Virginia--Southside Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Railroads--North Carolina--Maps.</dcterms:subject>
+   <dcterms:subject>Southside Virginia (Va.)--Maps.</dcterms:subject>
+   <dcterms:subject>North Carolina--Maps.</dcterms:subject>
+   <dcterms:spatial>North Carolina</dcterms:spatial>
+   <dcterms:spatial>Southside Virginia</dcterms:spatial>
+   <dcterms:spatial>Southside Virginia (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Baltimore, Maryland, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:897936/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003506</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:55 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65127</dcterms:identifier>
+   <dcterms:title>Essays, civil and moral: and The new Atlantis / by Francis Bacon. Areopagitica and Tractate on education / by John Milton. Religio medici / by Sir Thomas Browne ; with introductions and notes</dcterms:title>
+   <dcterms:title>Areopagitica</dcterms:title>
+   <dcterms:title>Religio medici</dcterms:title>
+   <dcterms:title>The new Atlantis</dcterms:title>
+   <dcterms:title>Tractate on education</dcterms:title>
+   <dcterms:creator>Bacon, Francis, 1561-1626</dcterms:creator>
+   <dcterms:publisher>P. F. Collier</dcterms:publisher>
+   <dcterms:created>1909</dcterms:created>
+   <dcterms:extent>347 p., [1] leaf of plates</dcterms:extent>
+   <dcterms:extent>20 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Item X001172422 has bookplate data: Mrs. A. R. Hoover.</dcterms:description>
+   <dcterms:isPartOf>Harvard classics v. 3</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2127229/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65127</edm:isShownAt>
+</mdRecord>

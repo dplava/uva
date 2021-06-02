@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:55 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65143</dcterms:identifier>
+   <dcterms:title>The works of James McNeill Whistler / a study by Elisabeth Luther Cary, with a tentative list of the artist's works</dcterms:title>
+   <dcterms:creator>Cary, Elisabeth Luther, 1867-1936</dcterms:creator>
+   <dcterms:publisher>Moffat, Yard &amp; company</dcterms:publisher>
+   <dcterms:created>1907</dcterms:created>
+   <dcterms:extent>302 p. front., plates, ports. 26 cm.</dcterms:extent>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Whistler, James McNeill, 1834-1903</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2134185/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65143</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:59 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65299</dcterms:identifier>
+   <dcterms:title>The analogy of religion, natural and revealed, to the constitution and course of nature: to which are added, two brief dissertations: on personal identity, and on the nature of virtue; and fifteen sermons / by Joseph Butler ; with a pref. by Samuel Halifax</dcterms:title>
+   <dcterms:creator>Butler, Joseph, 1692-1752</dcterms:creator>
+   <dcterms:creator>Haallifax, Samuel Bp. of St. Asaph, 1733-1790</dcterms:creator>
+   <dcterms:publisher>H. G. Bohn</dcterms:publisher>
+   <dcterms:created>1856</dcterms:created>
+   <dcterms:extent>vi, 546 p.</dcterms:extent>
+   <dcterms:extent>19 cm. [original]</dcterms:extent>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>New ed.</dcterms:description>
+   <dcterms:description>Includes bibliographical references and index.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:isPartOf>Bohn's standard library</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Analogy (Religion)</dcterms:subject>
+   <dcterms:subject>Natural theology</dcterms:subject>
+   <dcterms:subject>Apologetics--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Revelation</dcterms:subject>
+   <dcterms:subject>Eschatology</dcterms:subject>
+   <dcterms:subject>Apologetics--History--18th century.</dcterms:subject>
+   <dcterms:temporal>18th century.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2194446/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65299</edm:isShownAt>
+</mdRecord>

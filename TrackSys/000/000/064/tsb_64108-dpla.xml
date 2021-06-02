@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:28 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64108</dcterms:identifier>
+   <dcterms:title>Oliver Cromwell and the English people / by Ernest Barker</dcterms:title>
+   <dcterms:creator>Barker, Ernest Sir, 1874-1960</dcterms:creator>
+   <dcterms:publisher>University Press</dcterms:publisher>
+   <dcterms:created>1937</dcterms:created>
+   <dcterms:extent>105 p. 17 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>An address delivered before the Friedrich Sthamer-Gesellschaft in Hamburg, a branch of the Deutsch-englische Gesellschaft in Berlin, on 17 December 1936. cf. Pref.</dcterms:description>
+   <dcterms:description>One copy: Photocopy. North Manchester, IN : Heckman Bindery, Inc., [2005].</dcterms:description>
+   <dcterms:isPartOf>The Cambridge miscellany, 18</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Cromwell, Oliver, 1599-1658</dcterms:subject>
+   <dcterms:subject>Church and state--Great Britain.</dcterms:subject>
+   <dcterms:subject>Church and state--Germany--1933-1945.</dcterms:subject>
+   <dcterms:subject>Freedom of religion</dcterms:subject>
+   <dcterms:temporal>1933-1945.</dcterms:temporal>
+   <dcterms:spatial>Germany</dcterms:spatial>
+   <dcterms:spatial>Great Britain.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1860088/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64108</edm:isShownAt>
+</mdRecord>

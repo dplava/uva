@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:42 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64633</dcterms:identifier>
+   <dcterms:title>Studies scientific &amp; social</dcterms:title>
+   <dcterms:creator>Wallace, Alfred Russel, 1823-1913</dcterms:creator>
+   <dcterms:publisher>Macmillan and co., limited</dcterms:publisher>
+   <dcterms:publisher>The Macmillan company</dcterms:publisher>
+   <dcterms:created>1900</dcterms:created>
+   <dcterms:extent>2 v. illus., fold. map. 20 cm.</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>map</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Science</dcterms:subject>
+   <dcterms:subject>Sociology</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2058062/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64633</edm:isShownAt>
+</mdRecord>

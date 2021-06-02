@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:24 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003517</dcterms:identifier>
+   <dcterms:title>Topographical map of Petersburgh Dinwiddie Co., Va: from actual surveys and records / by F.W. Beers, C.E.</dcterms:title>
+   <dcterms:title>Topographical map of Petersburg, Dinwiddie Co., Va</dcterms:title>
+   <dcterms:creator>Beers, F. W. (Frederick W.)</dcterms:creator>
+   <dcterms:creator>F.W. Beers &amp; Co.</dcterms:creator>
+   <dcterms:creator>Southern and Southwestern Surveying and Publishing Company.</dcterms:creator>
+   <dcterms:publisher>Published for the Southern and Southwestern Surveying and Pub. Co.</dcterms:publisher>
+   <dcterms:created>1877</dcterms:created>
+   <dcterms:extent>1 map on 4 sheets</dcterms:extent>
+   <dcterms:extent>each image ca. 63 x 75 cm. on sheets 71 x 85 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief not shown.</dcterms:description>
+   <dcterms:description>"J. P. Brown Manager. Offices: 2 Goddin Hall, Richmond, Va. and Concord, Va."</dcterms:description>
+   <dcterms:description>"Entered according to Act of Congress in the year 1877 by F.W. Beers &amp; Co. in the office of the Librarian of Congress at Washington, D.C."</dcterms:description>
+   <dcterms:description>Title appears on southeastern sheet.</dcterms:description>
+   <dcterms:description>Shows street names and lots with buildings and names of indivdual property owners.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:3,000]; 250 feet to the inch.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Landowners--Virginia--Petersburg--Maps.</dcterms:subject>
+   <dcterms:subject>Real property--Virginia--Petersburg--Maps.</dcterms:subject>
+   <dcterms:subject>Petersburg (Va.)--Maps.</dcterms:subject>
+   <dcterms:subject>Petersburg (Va.)--Maps, Topographic.</dcterms:subject>
+   <dcterms:spatial>Petersburg</dcterms:spatial>
+   <dcterms:spatial>Petersburg (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Richmond, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:901681/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003517</edm:isShownAt>
+</mdRecord>

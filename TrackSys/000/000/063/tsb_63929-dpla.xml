@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:23 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63929</dcterms:identifier>
+   <dcterms:title>Ward and Lock's (late Shaw's) illustrated guide to, and popular history of the Isle of Wight</dcterms:title>
+   <dcterms:creator>Ward, Lock &amp; Co.</dcterms:creator>
+   <dcterms:publisher>Ward, Lock, Bowden, and co.</dcterms:publisher>
+   <dcterms:created>1892</dcterms:created>
+   <dcterms:extent>130 p.</dcterms:extent>
+   <dcterms:extent>17 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>10th ed.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Isle of Wight (England)--Guidebooks.</dcterms:subject>
+   <dcterms:spatial>Isle of Wight (England)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1789454/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63929</edm:isShownAt>
+</mdRecord>

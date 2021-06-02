@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64233</dcterms:identifier>
+   <dcterms:title>The struggle of Protestant dissenters for religious toleration in Virginia</dcterms:title>
+   <dcterms:creator>McIlwaine, H. R. (Henry Read), 1864-1934</dcterms:creator>
+   <dcterms:publisher>The Johns Hopkins press</dcterms:publisher>
+   <dcterms:created>1894</dcterms:created>
+   <dcterms:extent>67 p.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Also issued as no. IV of Institutional and economic history, which forms the 12th series of Johns Hopkins University studies in historical and political science.</dcterms:description>
+   <dcterms:description>ALDERMAN: Bound-with other titles in the series.</dcterms:description>
+   <dcterms:isPartOf>Johns Hopkins University studies in historical and political science 12th ser., 4</dcterms:isPartOf>
+   <dcterms:isPartOf>Institutional and economic history ; no. 4</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Toleration</dcterms:subject>
+   <dcterms:subject>Virginia--church history.</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1907087/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64233</edm:isShownAt>
+</mdRecord>

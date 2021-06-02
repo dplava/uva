@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:36 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64410</dcterms:identifier>
+   <dcterms:title>Devotional commentary on the Gospel narrative / by Isaac Williams</dcterms:title>
+   <dcterms:creator>Book Traces Project.</dcterms:creator>
+   <dcterms:creator>Williams, Isaac, 1802-1865</dcterms:creator>
+   <dcterms:publisher>Rivingtons</dcterms:publisher>
+   <dcterms:created>1873/1880</dcterms:created>
+   <dcterms:extent>8 v.</dcterms:extent>
+   <dcterms:extent>19 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>New ed.</dcterms:description>
+   <dcterms:description>v.I. Thoughts on the study of the holy Gospels -- v.II. A harmony of the four evangelists -- v.III. Our Lord's nativity -- v.IV. Our Lord's ministry (the second year) -- v.V. Our Lord's ministry (the third year) -- v.VI. The holy week -- v.VII. Our Lord's passion -- v.VIII. Our Lord's resurrection.</dcterms:description>
+   <dcterms:description>Volumes four and six have the earliest publication date (1873); volume one published 1876.</dcterms:description>
+   <dcterms:description>Volume 8 contains inscriptions and a loose insertion: "The United Offering of 1910: Resolved: That the United Offering of 1910 be given to the Boards of Missions for woman's work in the Mission field; including the training, sending and support of the women workers including of such workers when sick and disabled; but that a sum not exceeding $15,000 be devoted to a building, or buildings, aproved by the Board of Missions on the recommendation of the General Secretary and the Secretary of the Woman's Auxiliary. Also, that to our united gifts there shall be added our united and earnest prayers, that God will put into the hearts of many faithful women to give themselves to the work of the Master in the Mission field", note boxes and leaflets for the United Offering may be obtained from the Secretary of the Womans Auxiliary, Church Missions House, 281 Fourth Avenue, New York inserted at page 78 in the sermons.</dcterms:description>
+   <dcterms:description>Subject entries from the Provenance Evidence Thesaurus describe copies analyzed by Book Traces @ UVA.</dcterms:description>
+   <dcterms:description>Item X002263078 has bookplate data: Mrs. William Weaver Lukens. Item X000233861 has bookplate data: Mrs. William Weaver Lukens. Item X000233753 has bookplate data: Mrs. William Weaver Lukens.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Jesus Christ--Biography.</dcterms:subject>
+   <dcterms:subject>Bible, Gospels--Criticism, interpretation, etc.</dcterms:subject>
+   <dcterms:subject>Bible, Gospels--Commentaries.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1967009/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64410</edm:isShownAt>
+</mdRecord>

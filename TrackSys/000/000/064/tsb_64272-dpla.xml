@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:32 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64272</dcterms:identifier>
+   <dcterms:title>The Moral instruction of children / by Felix Adler</dcterms:title>
+   <dcterms:creator>Adler, Felix, 1851-1933</dcterms:creator>
+   <dcterms:publisher>D. Appleton and company</dcterms:publisher>
+   <dcterms:created>1905, c1892.</dcterms:created>
+   <dcterms:extent>xiii, 278 p.</dcterms:extent>
+   <dcterms:extent>19 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>HathiTrust shared print program 2017.</dcterms:description>
+   <dcterms:description>ALDERMAN: Photocopy. North Manchester, IN : Heckman Bindery, Inc., [2005].</dcterms:description>
+   <dcterms:isPartOf>International education series, ed. by W. T. Harris, vol. XXI</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Moral education</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1921024/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64272</edm:isShownAt>
+</mdRecord>

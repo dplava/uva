@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:49 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61637</dcterms:identifier>
+   <dcterms:title>Phèdre: tragédie en cinq actes / par J. Racine with grammatical and explanatory notes by Henri Bué</dcterms:title>
+   <dcterms:creator>Racine, Jean, 1639-1699</dcterms:creator>
+   <dcterms:publisher>Librairie Hachette</dcterms:publisher>
+   <dcterms:created>1880</dcterms:created>
+   <dcterms:extent>84 p. 18 cm.</dcterms:extent>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>2nd ed.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:isPartOf>Hachette's French classics</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1642027/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61637</edm:isShownAt>
+</mdRecord>

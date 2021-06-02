@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:23 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63911</dcterms:identifier>
+   <dcterms:title>Mélanges d'histoire offerts à Henri Pirenne par ses anciens élèves et ses amis à l'occasion de sa quarantième année d'enseignement à l'Université de Gand 1886-1926</dcterms:title>
+   <dcterms:creator>Dept, Gaston G.</dcterms:creator>
+   <dcterms:creator>Ganshof, François L.</dcterms:creator>
+   <dcterms:creator>Linden, H. vander (Herman vander), 1868-1956</dcterms:creator>
+   <dcterms:publisher>Vromant &amp; co</dcterms:publisher>
+   <dcterms:created>1926</dcterms:created>
+   <dcterms:extent>2 v. front. (port.) illus. (maps) pl., facsims., diagr. 25 cm.</dcterms:extent>
+   <dcterms:medium>diagrams</dcterms:medium>
+   <dcterms:medium>facsimiles</dcterms:medium>
+   <dcterms:medium>illustrations (maps)</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Pirenne, Henri, 1862-1935</dcterms:subject>
+   <dcterms:subject>History--Collections.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1783114/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63911</edm:isShownAt>
+</mdRecord>

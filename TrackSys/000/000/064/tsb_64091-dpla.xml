@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:28 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64091</dcterms:identifier>
+   <dcterms:title>Aris sonis focisque: being a memoir of an American family, the Harrisons of Skimino, and particularly of Jesse Burton Harrison and Burton Norvell Harrison / edited by Fairfax Harrison from material collected by Francis Burton Harrison</dcterms:title>
+   <dcterms:title>Harrisons of Skimino</dcterms:title>
+   <dcterms:creator>Harrison, Burton Norton, 1838-1904</dcterms:creator>
+   <dcterms:creator>Harrison, Fairfax, 1869-1938</dcterms:creator>
+   <dcterms:creator>Harrison, J. B. (Jesse Burton), 1805-1841</dcterms:creator>
+   <dcterms:publisher>The De Vinne Press</dcterms:publisher>
+   <dcterms:created>1910</dcterms:created>
+   <dcterms:extent>413 p.</dcterms:extent>
+   <dcterms:extent>25 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Aris sonis focisque: The planter forebears (1600-1771) The Quaker forebears (1600-1767) William Harrison of Skimino (1740-1819) Samuel Jordan Harrison of Lynchburg (1771-1846) Jesse Burton Harrison of New Orleans (1805-1841) Burton Norvell Harrison of New York (1838-1904) -- The capture of Jefferson Davis, by Burton N. Harrison, with notes by Jefferson Davis. -- Essays by Jesse Burton Harrison: The prospects of letters and taste in Virginia, 1828. English civilization, 1832. The slavery question in Virginia, 1832. -- Index.</dcterms:description>
+   <dcterms:description>Cover title: "The Harrisons of Skimino."</dcterms:description>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Harrison family</dcterms:subject>
+   <dcterms:subject>Davis, Jefferson, 1808-1889</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1853628/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64091</edm:isShownAt>
+</mdRecord>

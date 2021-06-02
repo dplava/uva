@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 11:31 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:743723</dcterms:identifier>
+   <dcterms:title>Map of the iron ore bearing portion of Virginia: showing the location of the principal mines and the kinds of ore</dcterms:title>
+   <dcterms:creator>J.P. Bell Co.</dcterms:creator>
+   <dcterms:publisher>J.P. Bell Co.</dcterms:publisher>
+   <dcterms:created>1907</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>38 x 108 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief not shown.</dcterms:description>
+   <dcterms:description>Legend with locations of ore and furnaces.</dcterms:description>
+   <dcterms:description>Covers area of Virginia from Wise County eastward to Fairfax County.</dcterms:description>
+   <dcterms:description>Proof copy, with manuscript notes. A version of this map appeared in T.L. Watson's Mineral resources of Virginia, Lynchburg, J.P. Bell, 1907 -- cf. Swem, E.G., Maps relating to Virginia, no. 1866.</dcterms:description>
+   <dcterms:description>Scale ca. 1:570,000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Iron ores--Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Mines and mineral resources--Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Virginia--Maps.</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096387/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:743723</edm:isShownAt>
+</mdRecord>

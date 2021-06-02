@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:10 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65849</dcterms:identifier>
+   <dcterms:title>Argumentum anti-normannicum: or An argument proving, from ancient histories and records, that William, duke of Normandy, made no absolute conquest of England by the sword; in the sense of our modern writers. Being an answer to these four questions; viz. I. Whether William the First made an absolute conquest of this nation at his first entrance? II. Whether he cancelled and abolished all the Confessor's laws? III. Whether he divided all our estates and fortunes between himself and his nobles? IV. Whether it be an error to affirm, that there were no English-men in the Common council of the whole kingdom?</dcterms:title>
+   <dcterms:creator>Atwood, William, -1712</dcterms:creator>
+   <dcterms:creator>Cooke, Edward (Of the Middle Temple)</dcterms:creator>
+   <dcterms:creator>Johnson, Samuel, 1649-1703</dcterms:creator>
+   <dcterms:publisher>Printed by John Darby</dcterms:publisher>
+   <dcterms:created>1682</dcterms:created>
+   <dcterms:extent>[12] clxiv p. front. 18.5 cm.</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Wing. 2nd ed. C4907A.</dcterms:description>
+   <dcterms:description>"This publication, occasioned by a work of William Pettyt's, entitled 'Ancient rights of commons in England,' was answered by Dr. Brady in his Introduction to Old English history. It is by some attributed to Atwood, and by others to Cooke or Johnson."--Lowndes.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Great Britain--History--William I, 1066-1087.</dcterms:subject>
+   <dcterms:temporal>William I, 1066-1087.</dcterms:temporal>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <dcterms:spatial>England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2372658/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65849</edm:isShownAt>
+</mdRecord>

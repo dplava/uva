@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:17 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63707</dcterms:identifier>
+   <dcterms:title>Memoirs of a Huguenot family / tr. and comp. from the original autobiography of the Rev. James Fontaine, and other family manuscripts; comprising an original journal of travels in Virginia, New-York, etc., in 1715 and 1716. By Ann Maury. With an appendix, containing a translation of the Edict of Nantes, the Edict of revocation, and other interesting historical documents</dcterms:title>
+   <dcterms:creator>Fontaine, James, 1658-1728</dcterms:creator>
+   <dcterms:creator>Fontaine, John, 1693-</dcterms:creator>
+   <dcterms:creator>France</dcterms:creator>
+   <dcterms:creator>Maury, Ann, 1803-1876</dcterms:creator>
+   <dcterms:creator>Maury, James, 1718-1769</dcterms:creator>
+   <dcterms:publisher>G.P. Putnam &amp; Co.</dcterms:publisher>
+   <dcterms:created>1853</dcterms:created>
+   <dcterms:extent>512 p. incl. front. port. 19 cm.</dcterms:extent>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>First published in 1838 under title: A tale of the Huguenots.</dcterms:description>
+   <dcterms:description>Journal of John Fontaine, 1710-1718: p. [245]-310.</dcterms:description>
+   <dcterms:description>Letters of the Rev. James Maury: p. [378]-441.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 1: Gift of Bennett Woods Green.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 2: Gift of Robert L. Parrish.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 3: Gift of Hartwell Cabell.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Fontaine family</dcterms:subject>
+   <dcterms:subject>Morey family</dcterms:subject>
+   <dcterms:subject>France.--Edit de Nantes</dcterms:subject>
+   <dcterms:subject>Huguenots--Virginia.</dcterms:subject>
+   <dcterms:spatial>Virginia.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1705591/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63707</edm:isShownAt>
+</mdRecord>

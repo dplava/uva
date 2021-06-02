@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:50 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61717</dcterms:identifier>
+   <dcterms:title>Historic Pulaski: birthplace of the Ku Klux Klan, scene of execution of Sam Davis</dcterms:title>
+   <dcterms:creator>Brown, Joshua, 1949-</dcterms:creator>
+   <dcterms:creator>Brunson, R. J.</dcterms:creator>
+   <dcterms:creator>Richardson, William Thomas, 1858-</dcterms:creator>
+   <dcterms:publisher>Methodist Publishing House, printer</dcterms:publisher>
+   <dcterms:created>1913</dcterms:created>
+   <dcterms:extent>108 p. illus. (facsim.) plates. 19 cm.</dcterms:extent>
+   <dcterms:medium>facsimiles</dcterms:medium>
+   <dcterms:medium>illustrations (facsim.)</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Based on information furnished by R.J. Brunson.</dcterms:description>
+   <dcterms:description>Original Prescript and cipher code used by the Ku Klux Klan: p. 81-97.</dcterms:description>
+   <dcterms:description>"Sam Davis: his capture, trial and execution [in 1863] By Joshua Brown": p. 102-108.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Davis, Sam, 1842-1863</dcterms:subject>
+   <dcterms:subject>Ku Klux Klan (19th century)</dcterms:subject>
+   <dcterms:spatial>Pulaski (Tenn.)</dcterms:spatial>
+   <dcterms:spatial>Tennessee</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1655677/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61717</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 4:41 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1109571</dcterms:identifier>
+   <dcterms:title>Portraits of the Presidents and Declaration of Independence</dcterms:title>
+   <dcterms:title>In Congress, July 4th 1776</dcterms:title>
+   <dcterms:title>United States. Declaration of Independence</dcterms:title>
+   <dcterms:creator>Albert H. Small Declaration of Independence Collection (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Colton, J. H. (Joseph Hutchins), 1800-1893</dcterms:creator>
+   <dcterms:creator>Michelin, Francis, 1809 or 1810-1878</dcterms:creator>
+   <dcterms:creator>United States.</dcterms:creator>
+   <dcterms:creator>United States. Continental Congress.</dcterms:creator>
+   <dcterms:publisher>Published by J.H. Colton</dcterms:publisher>
+   <dcterms:created>1849</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>The text of the Declaration of Independence, with facsimile signatures, is in an oval framed by a border of 12 presidential portraits, from Washington through President Zachary Taylor. A banner below each portrait contains the name of the president, with his birth date, term of office, and if appropriate, death date. The dates of Zachary Taylor's presidency are given as "1849 to 18 ."</dcterms:description>
+   <dcterms:description>Full imprint printed at bottom of sheet: "Entered according to Act of Congress, in the year 1846, by J.H. Colton, in the Clerks Office of the District Court of the Southern District of New York. Lithography of F. Michelin, 111 Nassau St. N.Y. Published by J.H. Colton No. 86 Cedar St. New York."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Uniformly browned; marginal tears, fabric backed. Albert H. Small Declaration of Independence Collection. Gift of Albert H. Small, July 2010.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Presidents--United States--Portraits.</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1114405/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1109571</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:01 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65377</dcterms:identifier>
+   <dcterms:title>Our benevolent feudalism / by W. J. Ghent</dcterms:title>
+   <dcterms:creator>Ghent, William J. (William James), 1866-1942</dcterms:creator>
+   <dcterms:publisher>Macmillan</dcterms:publisher>
+   <dcterms:created>1902</dcterms:created>
+   <dcterms:extent>vii, 202 p. 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Utopias and other forecasts.--Combination and coalescence.--Our magnates.--Our farmers and wage-earners.--Our makers of law.--Our interpreters of law.--Our moulders of opinion.--General social changes.--Transition and fulfilment.</dcterms:description>
+   <dcterms:description>"The germ of this book was contained in an article published in the Independent, April 3, 1902."--Pref.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2017.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Trusts, Industrial--United States.</dcterms:subject>
+   <dcterms:subject>Labor--United States.</dcterms:subject>
+   <dcterms:subject>Working class--United States.</dcterms:subject>
+   <dcterms:subject>Labor movement--United States.</dcterms:subject>
+   <dcterms:subject>United States--Politics and government.</dcterms:subject>
+   <dcterms:subject>United States--Social conditions.</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2223337/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65377</edm:isShownAt>
+</mdRecord>

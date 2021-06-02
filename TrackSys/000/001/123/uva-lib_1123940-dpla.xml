@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 4:53 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1123940</dcterms:identifier>
+   <dcterms:title>The sweetest flower = Die schönste Blume : alto or bass / Frank van der Stucken ; words by Frederick Peterson ; German version by F.A. Rockar</dcterms:title>
+   <dcterms:title>Die schönste Blume die blüht</dcterms:title>
+   <dcterms:title>Schönste Blume</dcterms:title>
+   <dcterms:title>The sweetest flower that blows</dcterms:title>
+   <dcterms:title>Van der Stucken, Frank V. 1858-1929. Sweetest flower. German &amp; English</dcterms:title>
+   <dcterms:creator>Blauvelt, Lillian, 1873-1947</dcterms:creator>
+   <dcterms:creator>Peterson, Frederick, 1859-1938</dcterms:creator>
+   <dcterms:creator>Rockar, F. A.</dcterms:creator>
+   <dcterms:creator>Van der Stucken, Frank V., 1858-1929</dcterms:creator>
+   <dcterms:publisher>F.A. Rockar</dcterms:publisher>
+   <dcterms:created>1890</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, alto voice</dcterms:description>
+   <dcterms:description>piano, bass voice</dcterms:description>
+   <dcterms:description>Alto or bass in C.</dcterms:description>
+   <dcterms:description>For alto or bass and piano.</dcterms:description>
+   <dcterms:description>Illustration: portrait of Frank van der Stucken.</dcterms:description>
+   <dcterms:description>Advertisement: Incipits for other Rockar publications: If we had no pretty girls; Only a woman that's all, et al.</dcterms:description>
+   <dcterms:description>"To Miss Lillian Blauvelt."</dcterms:description>
+   <dcterms:description>English words with German translation.</dcterms:description>
+   <dcterms:isPartOf>Five songs / by Frank van der Stucken</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Van der Stucken, Frank V, 1858-1929--Portraits.</dcterms:subject>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1123941/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1123940</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 11:31 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:743726</dcterms:identifier>
+   <dcterms:title>Map of Virginia / by Jed. Hotchkiss, Top. Eng., Staunton, Va., 1874; The Geology by William B. Rogers, chiefly from the State Survey, 1835-41, with later observations in some parts ; lith. by A. Hoen &amp; Co., Richmond, Va</dcterms:title>
+   <dcterms:creator>A. Hoen &amp; Co.</dcterms:creator>
+   <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+   <dcterms:creator>Rogers, William Barton, 1804-1882</dcterms:creator>
+   <dcterms:publisher>R. F. Walker, Superintendent of Public Printing</dcterms:publisher>
+   <dcterms:created>1876</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>25 x 55 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Includes much of West Virginia.</dcterms:description>
+   <dcterms:description>Includes explanation of colors (showing colors of different geological periods).</dcterms:description>
+   <dcterms:description>From: Virginia; a geographical and political summary / compiled by Jedediah Hotchkiss, 1876, map between p. 46 and 47.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Hotchkiss B; copy 1: mounted on linen (Writing on back made illegible by mounting); copy 2: piece missing in Maryland section where folded</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,540,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Geology--Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Geology--West Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>West Virginia--Maps.</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>West Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096390/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:743726</edm:isShownAt>
+</mdRecord>

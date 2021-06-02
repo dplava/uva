@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:38 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64500</dcterms:identifier>
+   <dcterms:title>Autobiography of Anton Rubinstein, 1829-1889 / Translated from the Russian by Aline Delano</dcterms:title>
+   <dcterms:creator>Delano, Aline, 1845-</dcterms:creator>
+   <dcterms:creator>Rubinstein, Anton, 1829-1894</dcterms:creator>
+   <dcterms:publisher>Little, Brown, and company</dcterms:publisher>
+   <dcterms:created>1890</dcterms:created>
+   <dcterms:extent>xii. 171 p. front. (port.) 18 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Russian</dcterms:language>
+   <dcterms:description>"Supplement: Rubinstein as a composer. Rubinstein as a pianist."</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2017.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2006377/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64500</edm:isShownAt>
+</mdRecord>

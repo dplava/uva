@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:57 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2155337</dcterms:identifier>
+   <dcterms:title>Nursing student</dcterms:title>
+   <dcterms:creator>Thompson, Ralph R.</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:description>Nursing student Edna Long. Notation on back, "What Happens to 'Miss America' Candidates? Edna Long of Richmond, who was "Miss Virginia" in the Atlantic City contest three years ago is in training as a student nurse at the University of Virginia. After taking time out to pose for fashion pictures for Mademoiselle Magazine and to model in a Richmond fashion show, she is back preparing for the nursing career she selected long before her first adventure as a glamour girl."</dcterms:description>
+   <dcterms:description>Original Negative Present [original]</dcterms:description>
+   <dcterms:description>Neg 4x5 477C [original]</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Visual History Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia</dcterms:subject>
+   <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2155337/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2155337</edm:isShownAt>
+</mdRecord>

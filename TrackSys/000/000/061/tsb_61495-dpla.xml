@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:46 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61495</dcterms:identifier>
+   <dcterms:title>Rameses the Great: or, Egypt 3300 years ago / Translated from the French of F. de Lanoye. With thirty-nine wood cuts by Lancelot, Sellier and Bayard</dcterms:title>
+   <dcterms:creator>Lanoye, F. de (Ferdinand), 1810-1870</dcterms:creator>
+   <dcterms:publisher>C. Scribner</dcterms:publisher>
+   <dcterms:created>1870</dcterms:created>
+   <dcterms:extent>296 p. incl. illus., plates. front. 18 cm.</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:isPartOf>Illustrated library of wonders</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Ramses, II, King of Egypt</dcterms:subject>
+   <dcterms:subject>Egypt--History, Ancient.</dcterms:subject>
+   <dcterms:spatial>Egypt</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1594054/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61495</edm:isShownAt>
+</mdRecord>

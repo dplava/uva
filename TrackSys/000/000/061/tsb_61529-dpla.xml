@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:46 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61529</dcterms:identifier>
+   <dcterms:title>Rudyard Kipling's verse</dcterms:title>
+   <dcterms:title>Verse</dcterms:title>
+   <dcterms:title>Kipling, Rudyard, 1865-1936. Poems</dcterms:title>
+   <dcterms:creator>Colt Kipling Collection (Library of Congress)</dcterms:creator>
+   <dcterms:creator>Kipling, Rudyard, 1865-1936</dcterms:creator>
+   <dcterms:publisher>Hodder and Stoughton</dcterms:publisher>
+   <dcterms:created>1921</dcterms:created>
+   <dcterms:extent>xiv, 787 pages</dcterms:extent>
+   <dcterms:extent>23 cm [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Inclusive ed., 1885-1918.</dcterms:description>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1606305/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61529</edm:isShownAt>
+</mdRecord>

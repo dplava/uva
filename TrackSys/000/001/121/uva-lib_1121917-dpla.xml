@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 4:48 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1121917</dcterms:identifier>
+   <dcterms:title>The mellow horn: a very popular song / composed and sung with rapturous applause by Mr. Jones at the Park Theatre ; [the words by C.W. Hyatt]</dcterms:title>
+   <dcterms:creator>Eastburn, John Henry, 1804 or 1805-1873</dcterms:creator>
+   <dcterms:creator>Hyatt, C. W.</dcterms:creator>
+   <dcterms:creator>Jones, J. (John), 1796-1861</dcterms:creator>
+   <dcterms:publisher>George Willig Junr.</dcterms:publisher>
+   <dcterms:created>[1829..1867]</dcterms:created>
+   <dcterms:extent>1 score (4 p.)</dcterms:extent>
+   <dcterms:extent>33 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>For voice and piano, with introductory passage marked for solo horn.</dcterms:description>
+   <dcterms:description>"Respectfully dedicated to J. H. Eastburn, of Boston"--Caption.</dcterms:description>
+   <dcterms:description>Illustration: Hunters on horseback and dog chasing a deer. Image inscribed inside the loop of a horn.</dcterms:description>
+   <dcterms:description>Publication date derived from form of publisher's name. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v. 148, no. 4]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Songs with instrumental ensemble</dcterms:subject>
+   <dcterms:subject>Hunting--Songs and music.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1121918/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1121917</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:20 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1002976</dcterms:identifier>
+   <dcterms:title>Le promptuaire des conciles de leglise catholique, auec les scismes &amp; la differēce diceulx / faict par Iehā le Maire de Belges elegant hystoriographe. ; Traicte singulier &amp; exquiz</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Lemaire de Belges, Jean, 1473-1524?</dcterms:creator>
+   <dcterms:creator>Morin, Romain, -1560</dcterms:creator>
+   <dcterms:creator>Trautz, Georges, 1808-1879</dcterms:creator>
+   <dcterms:publisher>On les vēd a Lyon, en la boutique de Romain Morin libraire demourant en la Rue Merciere</dcterms:publisher>
+   <dcterms:created>1533</dcterms:created>
+   <dcterms:extent>72 leaves</dcterms:extent>
+   <dcterms:extent>15 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Imprime nouuellement.</dcterms:description>
+   <dcterms:description>Signatures: a-i⁸.</dcterms:description>
+   <dcterms:description>Printed by Denys de Harsy.</dcterms:description>
+   <dcterms:description>Also published under titles "Le traictie intitule De la difference des scismes et des cōcilles de leglise" and "Traicte de la difference des scismes et des concilles de leglise." See Tchemerzine, Baudrier and Munn.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Trautz-Bauzonnet. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 180.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Catholic Church--France--History.</dcterms:subject>
+   <dcterms:subject>Gallicanism</dcterms:subject>
+   <dcterms:subject>Councils and synods</dcterms:subject>
+   <dcterms:subject>Schism</dcterms:subject>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Lyon, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:876388/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002976</edm:isShownAt>
+</mdRecord>

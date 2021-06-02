@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 4:42 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1117137</dcterms:identifier>
+   <dcterms:title>Moonlight, music, love &amp; flowers: arranged for two voices with an accompaniment for the piano forte</dcterms:title>
+   <dcterms:title>Moonlight, music, love and flowers</dcterms:title>
+   <dcterms:title>Oh, listen dear, there's a voice above</dcterms:title>
+   <dcterms:creator>Barnett, John, 1802-1890</dcterms:creator>
+   <dcterms:creator>Webb, L. W.</dcterms:creator>
+   <dcterms:publisher>Saml. Carusi</dcterms:publisher>
+   <dcterms:created>[1839..1845]</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice (2), piano</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>"L.W. Webb"--Colophon.</dcterms:description>
+   <dcterms:description>Publ. operated in Baltimore from 1839 to 1845. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Vocal duets with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1117138/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1117137</edm:isShownAt>
+</mdRecord>

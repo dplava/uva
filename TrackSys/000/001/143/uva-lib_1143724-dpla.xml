@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:30 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1143724</dcterms:identifier>
+   <dcterms:title>Some day I'll wander back again: song and chorus / words by Arthur W. French ; music by William A. Huntley</dcterms:title>
+   <dcterms:title>Some day I'll wander back, yes, again</dcterms:title>
+   <dcterms:creator>French, Arthur W.</dcterms:creator>
+   <dcterms:creator>Huntley, William A.</dcterms:creator>
+   <dcterms:publisher>W.F. Shaw</dcterms:publisher>
+   <dcterms:created>1879</dcterms:created>
+   <dcterms:extent>1 score (p. 92-95)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, mixed chorus (4), piano</dcterms:description>
+   <dcterms:description>For voice and piano, with chorus refrain (SATB).</dcterms:description>
+   <dcterms:description>At head of title: "To my mother."</dcterms:description>
+   <dcterms:description>Publisher's address derived from publisher's name. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1143725/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1143724</edm:isShownAt>
+</mdRecord>

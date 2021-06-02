@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:59 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65291</dcterms:identifier>
+   <dcterms:title>The man of feeling: and The man of the world / by Henry Mackenzie</dcterms:title>
+   <dcterms:title>The man of the world</dcterms:title>
+   <dcterms:creator>Mackenzie, Henry, 1745-1831</dcterms:creator>
+   <dcterms:publisher>G. Routledge</dcterms:publisher>
+   <dcterms:publisher>Dutton</dcterms:publisher>
+   <dcterms:created>1906</dcterms:created>
+   <dcterms:extent>viii, 424 p.</dcterms:extent>
+   <dcterms:extent>16 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"Sketch of the author's life" : p. [v]-viii.</dcterms:description>
+   <dcterms:description>"Printed in Holland."</dcterms:description>
+   <dcterms:description>Item X000315828 has bookplate data: Benjamin K. Symmers.</dcterms:description>
+   <dcterms:isPartOf>The New universal library</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2190287/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65291</edm:isShownAt>
+</mdRecord>

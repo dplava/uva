@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:21 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1003218</dcterms:identifier>
+   <dcterms:title>Imperium in imperio / by Sutton E. Griggs</dcterms:title>
+   <dcterms:creator>Editor Publishing Co.</dcterms:creator>
+   <dcterms:creator>Griggs, Sutton E. (Sutton Elbert), 1872-1933</dcterms:creator>
+   <dcterms:publisher>The Editor Publishing Co.</dcterms:publisher>
+   <dcterms:created>1899</dcterms:created>
+   <dcterms:extent>[2] unnumbered leaves, I-II, 265 pages</dcterms:extent>
+   <dcterms:extent>18 cm [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>SPECIAL COLLECTIONS: Original green cloth. Ownership stamp and bookplate of T. L. Holcomb Library, American Baptist Theological Seminary. Clifton Waller Barrett Library, Wright Collection of Minor American Fiction.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Racially mixed people--Fiction.</dcterms:subject>
+   <dcterms:subject>African American men--Fiction.</dcterms:subject>
+   <dcterms:subject>Black nationalism--Fiction.</dcterms:subject>
+   <dcterms:subject>Radicals--Fiction.</dcterms:subject>
+   <dcterms:subject>Racism--Fiction.</dcterms:subject>
+   <dcterms:subject>Texas--Fiction.</dcterms:subject>
+   <dcterms:spatial>Texas</dcterms:spatial>
+   <dcterms:spatial>Cincinnati, Ohio, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:941962/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003218</edm:isShownAt>
+</mdRecord>

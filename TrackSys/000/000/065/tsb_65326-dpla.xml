@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:00 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65326</dcterms:identifier>
+   <dcterms:title>Addresses and papers bearing chiefly on education / Richard McIlwaine</dcterms:title>
+   <dcterms:creator>McIlwaine, Richard, 1834-</dcterms:creator>
+   <dcterms:publisher>Whittet &amp; Shepperson, Printers</dcterms:publisher>
+   <dcterms:created>1908</dcterms:created>
+   <dcterms:extent>184 p.</dcterms:extent>
+   <dcterms:extent>21 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Inaugural address (Hampden-Sidney [sic], Virginia, June 13, 1883) -- The relation and services of Hampden-Sidney [sic] College to the Presbyterian Church and to the cause of education and religion (Second Presbyterian Church, Richmond, Virginia, February 5, 1888) -- Hampden-Sidney [sic] College as an educational force, from the war of the Revolution, to the war between the states (Memorial Chapel, Hampden-Sidney [sic], April 20, 1903) -- Does college education pay? (issued and circulated about 1896 or 1897) -- Lewis Littlepage Holladay (Hampden-Sidney [sic] Magazine, April, 1892) -- Some essentials in the improvement of our public schools (Opera House, Farmville, Virginia, September 16, 1902) -- Local taxation for public schools under the present state constitution (Cooperative Education Commission, University of Virginia, July, 1904) -- The relation of the citizen to the public schools (Hampton, Virginia, December 7, 1904, under the auspices of the Co-operative Education Commission) -- The family and the school (Second Presbyterian Church, Richmond, January 6, 1905) -- Matthew Fontaine Maury (The public school teachers and older pupils, Manchester, Virginia, April 14, 1905) -- President William McKinley (Memorial service of the Constitutional Convention of Virginia, September 19, 1901) -- Suffrage (Democratic Conference of the Constitutional Convention, January 6, 1902).</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: From the books of William Mynn Thornton; original red cloth, stamped in gold.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Holladay, Lewis Littlepage, 1806-1869</dcterms:subject>
+   <dcterms:subject>Maury, Matthew Fontaine, 1806-1873</dcterms:subject>
+   <dcterms:subject>McKinley, William, 1843-1901</dcterms:subject>
+   <dcterms:subject>Thornton, William M. (William Mynn), 1851-1935--Library--Personal copy.</dcterms:subject>
+   <dcterms:subject>Hampden-Sydney College.</dcterms:subject>
+   <dcterms:subject>Virginia. Constitutional Convention, (1901-1902)</dcterms:subject>
+   <dcterms:subject>Education--Virginia.</dcterms:subject>
+   <dcterms:subject>Public schools--Virginia.</dcterms:subject>
+   <dcterms:spatial>Virginia.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2204998/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65326</edm:isShownAt>
+</mdRecord>

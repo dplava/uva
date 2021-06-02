@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:59 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65274</dcterms:identifier>
+   <dcterms:title>Mentally defective children / by Alfred Binet and Th. Simon ; authorized translation by W.B. Drummond ; with an appendix containing the Binet-Simon tests of intelligence by Margaret Drummond, and an introduction by Alexander Darroch</dcterms:title>
+   <dcterms:creator>Binet, Alfred, 1857-1911</dcterms:creator>
+   <dcterms:creator>Drummond, William Blackley</dcterms:creator>
+   <dcterms:creator>Simon, Théodore, 1873-</dcterms:creator>
+   <dcterms:publisher>E. Arnold</dcterms:publisher>
+   <dcterms:created>1914</dcterms:created>
+   <dcterms:extent>xi, 179 p.</dcterms:extent>
+   <dcterms:extent>20 cm. [original]</dcterms:extent>
+   <dcterms:medium>diagrams</dcterms:medium>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Translation of: Les enfants anormaux.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Children with mental disabilities--Education.</dcterms:subject>
+   <dcterms:subject>Children with mental disabilities--Psychological testing.</dcterms:subject>
+   <dcterms:subject>Exceptional children</dcterms:subject>
+   <dcterms:subject>Child psychology</dcterms:subject>
+   <dcterms:subject>Education</dcterms:subject>
+   <dcterms:subject>Psychophysiology</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2182781/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65274</edm:isShownAt>
+</mdRecord>

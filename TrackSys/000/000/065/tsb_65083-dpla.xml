@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:54 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65083</dcterms:identifier>
+   <dcterms:title>The life of Pizarro: with some account of his associates in the conquest of Peru</dcterms:title>
+   <dcterms:creator>Helps, Arthur Sir, 1813-1875</dcterms:creator>
+   <dcterms:publisher>Bell and Daldy</dcterms:publisher>
+   <dcterms:created>1896</dcterms:created>
+   <dcterms:extent>xxii, 320 p. 19 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Pizarro, Francisco, approximately 1475-1541</dcterms:subject>
+   <dcterms:subject>Peru--History--Conquest, 1522-1548.</dcterms:subject>
+   <dcterms:temporal>Conquest, 1522-1548.</dcterms:temporal>
+   <dcterms:spatial>Peru</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2111303/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65083</edm:isShownAt>
+</mdRecord>

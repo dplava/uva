@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:45 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61475</dcterms:identifier>
+   <dcterms:title>The great steel strike and its lessons / by William Z. Foster; introduction by John A. Fitch</dcterms:title>
+   <dcterms:creator>Foster, William Z., 1881-1961</dcterms:creator>
+   <dcterms:publisher>B. W. Huebsch, inc.</dcterms:publisher>
+   <dcterms:created>1920</dcterms:created>
+   <dcterms:extent>ix p., 4 l., 265 p. front., plates, ports., facsims. 19 cm.</dcterms:extent>
+   <dcterms:medium>facsimiles</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>ALDERMAN: One copy: Photocopy. Charlestown, Massachusetts : Acme Bookbinding, 2000.</dcterms:description>
+   <dcterms:description>Item X004504150 has bookplate data: William Jett Lauck.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>United States Steel Corporation.</dcterms:subject>
+   <dcterms:subject>Steel Strike, U.S., 1919-1920</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1586663/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61475</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:45 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61461</dcterms:identifier>
+   <dcterms:title>Historic Fredericksburg: the story of an old town</dcterms:title>
+   <dcterms:creator>Goolrick, John T. (John Tackett), 1844-1926</dcterms:creator>
+   <dcterms:publisher>Printed by Whittet &amp; Shepperson</dcterms:publisher>
+   <dcterms:created>1922</dcterms:created>
+   <dcterms:extent>200 p. front., plates. 25 cm.</dcterms:extent>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>ALDERMAN: Third copy: Photocopy. [Des Moine, Iowa] : LBS Archival Products, 1993/</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: F234 .F8 G6 1922: "Second printing, September, 1922; estate of Sallie W. Hamilton.</dcterms:description>
+   <dcterms:description>Item X000338176 has bookplate data: Paul G. McIntire. Item X002437787 has bookplate data: Tracy W. McGregor.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Fredericksburg (Va.)--History.</dcterms:subject>
+   <dcterms:spatial>Fredericksburg (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1581231/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61461</edm:isShownAt>
+</mdRecord>

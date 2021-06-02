@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:55 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65152</dcterms:identifier>
+   <dcterms:title>Reports of explorations and surveys: to ascertain the most practicable and economical route for a railroad from the Mississippi River to the Pacific Ocean / Made in 1853-[6]</dcterms:title>
+   <dcterms:creator>Baird, Spencer Fullerton, 1823-1887</dcterms:creator>
+   <dcterms:creator>Henry, Joseph, 1797-1878</dcterms:creator>
+   <dcterms:creator>United States. Army. Corps of Engineers.</dcterms:creator>
+   <dcterms:creator>United States. War Department</dcterms:creator>
+   <dcterms:publisher>A.O.P. Nicholson, Printer</dcterms:publisher>
+   <dcterms:created>1855/1860</dcterms:created>
+   <dcterms:extent>12 v. in 13. plates (part col., part fold.) maps (part fold.) 30 x 24 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:medium>maps (part fold.)</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>plates (part col., part fold.)</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Vols. I-XI were issued in the Congressional series of U.S. public documents as 33d Cong., 2d sess. House ex. doc. 91, and also as Senate ex. doc. 78. Vol. XI was issued also (1861) as 36th Cong., 2d sess. Senate ex. doc. [no number]</dcterms:description>
+   <dcterms:description>Supplement to vol. I (the material of which was published also in vol. XII, book I and book II) was issued in at least three forms: Supplement to vol. I, 1859, W.A. Harris, printer, as 35th Cong., 2d sess. Senate ex. doc. 46--Vol. XII, book I-II, 1860, T.H. Ford, printer, as 36th Cong., 1st sess. House ex. doc. 56, and Senate ex. doc. [no number]</dcterms:description>
+   <dcterms:description>The reports of the Pacific Railroad surveys were prepared under the direct supervision of the Engineer Department. The volumes dealing with the soil, climate, geology, botany and zoology of the regions surveyed were edited and revised by Professors Henry and Baird, of the Smithsonian Institution. cf. Ingersoll, Hist. of the War Department. 1879, p. 292-293.</dcterms:description>
+   <dcterms:description>For further information concerning the publication of the work and a list of serial numbers assigned to the volumes in the Congressional series of documents, see Checklist of United States public documents, 1911, p. 1274-1275.</dcterms:description>
+   <dcterms:description>Bookplate of Young Men's Christian Assoc., Winchester, Frederick Co.,Va.; v.10.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Vol. 1: gift of John Holloran; Vol.2-6: gift of E. McCormick; Vol. 9: Robert &amp; Virginia Tunstall Trust Fund, 2004/2005: Vol. 10: gift of Mrs. W. Bond; Vol. 12, pt. 1-2: gift of Dr. R. Haden.</dcterms:description>
+   <dcterms:isPartOf>Ex. doc. (United States. Congress. House) ; 33rd Congress, 2nd session, no. 91</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Pacific railroads--Exploration and surveys.</dcterms:subject>
+   <dcterms:subject>Natural history--West (U.S.)</dcterms:subject>
+   <dcterms:subject>Indians of North America--West (U.S.)</dcterms:subject>
+   <dcterms:subject>West (U.S.)--Description and travel.</dcterms:subject>
+   <dcterms:subject>United States--Discovery and exploration.</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>West (U.S.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2137005/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65152</edm:isShownAt>
+</mdRecord>

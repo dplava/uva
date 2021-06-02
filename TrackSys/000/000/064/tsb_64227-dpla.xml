@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64227</dcterms:identifier>
+   <dcterms:title>The evolution of marriage and of the family / by Ch. Letourneau</dcterms:title>
+   <dcterms:creator>Letourneau, Ch. (Charles), 1831-1902</dcterms:creator>
+   <dcterms:publisher>Scott Pub. Co.</dcterms:publisher>
+   <dcterms:publisher>Scribner's</dcterms:publisher>
+   <dcterms:created>1904</dcterms:created>
+   <dcterms:extent>xiii, 373 p.</dcterms:extent>
+   <dcterms:extent>19 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Tr. of L'evolution du mariage et de la famille.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:isPartOf>The contemporary science series</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Marriage</dcterms:subject>
+   <dcterms:subject>Families</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1904323/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64227</edm:isShownAt>
+</mdRecord>

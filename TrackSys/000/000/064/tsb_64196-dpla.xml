@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:30 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64196</dcterms:identifier>
+   <dcterms:title>La France parlementaire (1834-1851): œuvres oratoires et écrits politiques / par Alphonse de Lamartine, précédés d'une étude sur la vie et les œuvres de Lamartine, par Louis Ulbach</dcterms:title>
+   <dcterms:creator>Lamartine, Alphonse de, 1790-1869</dcterms:creator>
+   <dcterms:creator>Ulbach, Louis.</dcterms:creator>
+   <dcterms:publisher>A. Lacroix, Verboeckhoven</dcterms:publisher>
+   <dcterms:created>1864/1865</dcterms:created>
+   <dcterms:extent>6 v. 23 cm.</dcterms:extent>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>t. 1-2. Première série : 1834-1840.--t. 3-4. Deuxième série: 1840-1847.--t. 5-6. Troisième série: 1847-1851.</dcterms:description>
+   <dcterms:description>ALDERMAN: Vol.1: One copy: Photocopy. Charlestown, Massachusetts : Acme Bookbinding, 2004.</dcterms:description>
+   <dcterms:description>Item X004825084 has bookplate data: Charles Glenn Wallis.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>France--Politics and government--Louis Philip, 1830-1848.</dcterms:subject>
+   <dcterms:subject>France--Politics and government--Second Republic, 1848-1852.</dcterms:subject>
+   <dcterms:temporal>Louis Philip, 1830-1848.</dcterms:temporal>
+   <dcterms:temporal>Second Republic, 1848-1852.</dcterms:temporal>
+   <dcterms:spatial>France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1892065/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64196</edm:isShownAt>
+</mdRecord>

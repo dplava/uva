@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:30 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64167</dcterms:identifier>
+   <dcterms:title>Intermediate types among primitive folk: a study in social evolution / by Edward Carpenter</dcterms:title>
+   <dcterms:creator>Carpenter, Edward, 1844-1929</dcterms:creator>
+   <dcterms:publisher>Mitchell Kennerley</dcterms:publisher>
+   <dcterms:created>1914</dcterms:created>
+   <dcterms:extent>185 pages</dcterms:extent>
+   <dcterms:extent>22 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:description>Pt. 1 originally published in the American Journal of Religious Psychology, 1911, and in the Revue d'Ethnographie et de Sociologie, 1911.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Disorders of Sex Development--ethnology.</dcterms:subject>
+   <dcterms:subject>Sex</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1880295/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64167</edm:isShownAt>
+</mdRecord>

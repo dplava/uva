@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:30 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64169</dcterms:identifier>
+   <dcterms:title>The American angler's book / embracing the natural history of sporting fish, and the art of taking them. With instructions in fly-fishing, fly-making, and rod-making; and directions for fish breeding. To which is added Dies piscatoriae. With a supplement, containing descriptions of salmon rivers, inland trout fishing, etc., etc</dcterms:title>
+   <dcterms:creator>Norris, Thaddeus, 1811-1877</dcterms:creator>
+   <dcterms:publisher>Porter &amp; Coates</dcterms:publisher>
+   <dcterms:created>[c1865]</dcterms:created>
+   <dcterms:extent>xxii, 701 p. port., illus., plates. 24 cm.</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>At head of title: Memorial edition.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Fishing</dcterms:subject>
+   <dcterms:subject>Fishes--North America.</dcterms:subject>
+   <dcterms:spatial>North America.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1881053/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64169</edm:isShownAt>
+</mdRecord>

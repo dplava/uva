@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:54 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65100</dcterms:identifier>
+   <dcterms:title>A life of the great Lord Fairfax, commander-in-chief of the army of the Parliament of England</dcterms:title>
+   <dcterms:creator>Markham, Clements R. (Clements Robert) Sir, 1830-1916</dcterms:creator>
+   <dcterms:publisher>Macmillan and co.</dcterms:publisher>
+   <dcterms:created>1870</dcterms:created>
+   <dcterms:extent>xii p., 1 l., 480 p., 23 cm.</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:medium>plans</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Item X000276087 has bookplate data: Barnard Shipp.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Fairfax, Thomas Fairfax, Baron, 1612-1671</dcterms:subject>
+   <dcterms:subject>Great Britain--History--Civil War, 1642-1649.</dcterms:subject>
+   <dcterms:temporal>Civil War, 1642-1649.</dcterms:temporal>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2119199/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65100</edm:isShownAt>
+</mdRecord>

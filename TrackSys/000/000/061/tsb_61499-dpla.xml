@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:46 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61499</dcterms:identifier>
+   <dcterms:title>Religious education and American democracy / by Walter Scott Athearn</dcterms:title>
+   <dcterms:creator>Athearn, Walter S. (Walter Scott), 1872-1934</dcterms:creator>
+   <dcterms:publisher>The Pilgrim press</dcterms:publisher>
+   <dcterms:created>1917</dcterms:created>
+   <dcterms:extent>xi, 394 p. illus. 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Contains references.</dcterms:description>
+   <dcterms:description>"Chapters I, II, and III were published during the past year as the Malden leaflets... A portion of chapter V has previously appeared in the columns of Religious education."--Foreword.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Religious education--United States.</dcterms:subject>
+   <dcterms:spatial>United States.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1595394/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61499</edm:isShownAt>
+</mdRecord>

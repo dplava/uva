@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:53 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65049</dcterms:identifier>
+   <dcterms:title>The cause and cure of a wounded conscience</dcterms:title>
+   <dcterms:title>Antheologia, or, The speech of flowers</dcterms:title>
+   <dcterms:title>Ornithologie, or, The speech of birds</dcterms:title>
+   <dcterms:title>Triana: or, A threefold romanza</dcterms:title>
+   <dcterms:creator>Fuller, Thomas, 1608-1661</dcterms:creator>
+   <dcterms:publisher>W. Tegg</dcterms:publisher>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>3 p. l., [3]-321 p., 1 l. 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sin</dcterms:subject>
+   <dcterms:subject>Conscience, Examination of</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2097729/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65049</edm:isShownAt>
+</mdRecord>

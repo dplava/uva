@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:27 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1015259</dcterms:identifier>
+   <dcterms:title>Historiarum ueteris instrumenti icones ad uiuum expressae: Unà cum breui, sed quoad fieri potuit, dilucida earundem expositione</dcterms:title>
+   <dcterms:title>Holbein, Hans, 1497-1543. Historiarum Veteris Testamenti icones</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Frellonius, Franciscus, -1546?</dcterms:creator>
+   <dcterms:creator>Holbein, Hans, 1497-1543</dcterms:creator>
+   <dcterms:creator>Trechsel, Gaspard, active 1529-1549</dcterms:creator>
+   <dcterms:creator>Trechsel, Melchior, active 1529-1549</dcterms:creator>
+   <dcterms:publisher>Sub Scuto Coloniensi</dcterms:publisher>
+   <dcterms:created>1538</dcterms:created>
+   <dcterms:extent>[95] p.</dcterms:extent>
+   <dcterms:extent>20 cm. (4to) [original]</dcterms:extent>
+   <dcterms:medium>illustrations (woodcuts)</dcterms:medium>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Colophon: Excudebant Lugduni Melchior et Gaspar Trechsel fratres, 1538.</dcterms:description>
+   <dcterms:description>Second issue: signatures I-M reset, using larger type for signature marks and with the blocks and text for Job XV and XXXVIII on leaves I1v and I2r, having been transposed with the blocks for Judith X and XIII.</dcterms:description>
+   <dcterms:description>The illustrations are by Hans Holbein the Younger, although the artist is not named.</dcterms:description>
+   <dcterms:description>Preface by François Frellon on verso of title page.</dcterms:description>
+   <dcterms:description>Signatures: A-M⁴.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Signatures of François Rasse des Noeux, 1546, Iac. Aug. Thuani, Agnes Darby Parr, and Lucinda Darby Griffith. Bookplates of Edouard Rahir, Baron Dimsdale and Docteur Lucien-Graux. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 338.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Bible, Old Testament--Illustrations.</dcterms:subject>
+   <dcterms:subject>Wood-engraving, German</dcterms:subject>
+   <dcterms:subject>Wood-engraving--16th century--Germany.</dcterms:subject>
+   <dcterms:temporal>16th century</dcterms:temporal>
+   <dcterms:spatial>Germany.</dcterms:spatial>
+   <dcterms:spatial>Lyon, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1021852/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1015259</edm:isShownAt>
+</mdRecord>

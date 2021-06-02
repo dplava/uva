@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:18 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63738</dcterms:identifier>
+   <dcterms:title>Masterpieces of negro eloquence</dcterms:title>
+   <dcterms:title>Negro eloquence</dcterms:title>
+   <dcterms:creator>Dunbar-Nelson, Alice Moore, 1875-1935</dcterms:creator>
+   <dcterms:publisher>The Bookery publishing company</dcterms:publisher>
+   <dcterms:created>1914</dcterms:created>
+   <dcterms:extent>512 p. front. (port.) 23 cm.</dcterms:extent>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Speeches, addresses, etc., American</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1716929/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63738</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65163</dcterms:identifier>
+   <dcterms:title>A prince of pleasure: Philip of France and his court, 1640-1701 / by Hugh Stokes ; with a frontispiece in photogravure and 16 other illustrations</dcterms:title>
+   <dcterms:creator>Stokes, Hugh, 1875-1932</dcterms:creator>
+   <dcterms:publisher>Brentano's</dcterms:publisher>
+   <dcterms:publisher>Herbert Jenkins</dcterms:publisher>
+   <dcterms:created>1913</dcterms:created>
+   <dcterms:extent>xx, 377 p., [17] p. of plates</dcterms:extent>
+   <dcterms:extent>22 cm. [original]</dcterms:extent>
+   <dcterms:medium>genealogical tables</dcterms:medium>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:description>Bibliography: p. 369-370.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Orléans, Philippe, duc d', 1640-1701</dcterms:subject>
+   <dcterms:subject>France--Court and courtiers.</dcterms:subject>
+   <dcterms:spatial>France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2141457/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65163</edm:isShownAt>
+</mdRecord>

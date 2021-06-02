@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:10 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1134697</dcterms:identifier>
+   <dcterms:title>The bugle horn: quartette for male voices / words &amp; music by C.A. White ; arranged by Wm. Gooch</dcterms:title>
+   <dcterms:title>The bugle, bugle horn</dcterms:title>
+   <dcterms:creator>Gooch, William</dcterms:creator>
+   <dcterms:creator>White, C. A. (Charles Albert), 1832-1892</dcterms:creator>
+   <dcterms:publisher>White, Smith &amp; Co.</dcterms:publisher>
+   <dcterms:created>1878</dcterms:created>
+   <dcterms:extent>1 score (9 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>men's chorus (4), piano</dcterms:description>
+   <dcterms:description>For piano and 4-part male quartet or chorus (TTBB).</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>At head of title: "To the quartette singers of America."</dcterms:description>
+   <dcterms:description>Advertisement on p. [10]: "C.A. White's sacred songs, C.A. White's temperance songs," et al.</dcterms:description>
+   <dcterms:isPartOf>C.A. White's secular quartettes for male voices</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Choruses (Men's voices, 4 parts) with piano</dcterms:subject>
+   <dcterms:subject>Vocal quartets with piano</dcterms:subject>
+   <dcterms:subject>Bugle--Songs and music.</dcterms:subject>
+   <dcterms:subject>Hunting--Songs and music.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1134698/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1134697</edm:isShownAt>
+</mdRecord>

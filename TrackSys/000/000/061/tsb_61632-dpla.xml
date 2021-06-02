@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:49 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61632</dcterms:identifier>
+   <dcterms:title>The family and its members / by Anna Garlin Spencer</dcterms:title>
+   <dcterms:creator>Spencer, Anna Garlin, 1851-1931</dcterms:creator>
+   <dcterms:publisher>J. B. Lippincott</dcterms:publisher>
+   <dcterms:created>1923</dcterms:created>
+   <dcterms:extent>322 p. diagrs. 20 cm.</dcterms:extent>
+   <dcterms:medium>diagrams</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Bibliography: p. 314-322.</dcterms:description>
+   <dcterms:isPartOf>Lippincott's family life series</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Families</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1640937/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61632</edm:isShownAt>
+</mdRecord>

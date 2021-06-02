@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:19 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63752</dcterms:identifier>
+   <dcterms:title>Sketch of the life of J. F. D. Lanier / (Printed for the use of his family only.)</dcterms:title>
+   <dcterms:creator>Lanier, J. F. D. (James Franklin Doughty), 1800-1881</dcterms:creator>
+   <dcterms:creator>Lanier, Sidney, 1842-1881</dcterms:creator>
+   <dcterms:created>1877</dcterms:created>
+   <dcterms:extent>87 p. front. (port.) 24 cm.</dcterms:extent>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>2d ed.</dcterms:description>
+   <dcterms:description>"The late Richard H. Winslow": p. 56-58.</dcterms:description>
+   <dcterms:description>Appendix: Letter from Sidney Lanier containing a short genealogy of the Lanier fanmily: p. 75-87.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Winslow, Richard H, d. 1861</dcterms:subject>
+   <dcterms:subject>Lanier family</dcterms:subject>
+   <dcterms:subject>Indiana--Politics and government.</dcterms:subject>
+   <dcterms:spatial>Indiana</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1722275/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63752</edm:isShownAt>
+</mdRecord>

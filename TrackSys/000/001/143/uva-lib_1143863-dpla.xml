@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:31 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1143863</dcterms:identifier>
+   <dcterms:title>Evening star: romanza from Tannhauser / arranged by Franz Liszt</dcterms:title>
+   <dcterms:title>O du mein holder, Abendstern</dcterms:title>
+   <dcterms:title>Wagner, Richard, 1813-1883. Tannhäuser. O du mein holder Abendstern.</dcterms:title>
+   <dcterms:creator>Liszt, Franz, 1811-1886</dcterms:creator>
+   <dcterms:creator>Wagner, Richard, 1813-1883</dcterms:creator>
+   <dcterms:publisher>National Music Co.</dcterms:publisher>
+   <dcterms:publisher>Benj. W. Hitchcock</dcterms:publisher>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>1 vocal score (4 p.)</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Advertisement on p. [5]: Contents of the Champion song folio.</dcterms:description>
+   <dcterms:description>German words; music printed on two staves, with words printed above treble line.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano.</dcterms:subject>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1143864/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1143863</edm:isShownAt>
+</mdRecord>

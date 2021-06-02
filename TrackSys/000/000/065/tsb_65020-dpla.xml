@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:52 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65020</dcterms:identifier>
+   <dcterms:title>The life and letters of James Henley Thornwell</dcterms:title>
+   <dcterms:creator>Palmer, B. M. (Benjamin Morgan), 1818-1902</dcterms:creator>
+   <dcterms:publisher>Whittet &amp; Shepperson</dcterms:publisher>
+   <dcterms:created>1875</dcterms:created>
+   <dcterms:extent>xi p., 1 l., 614 p. front. (port.) 23 cm.</dcterms:extent>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Thornwell, James Henley, 1812-1862</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2086523/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65020</edm:isShownAt>
+</mdRecord>

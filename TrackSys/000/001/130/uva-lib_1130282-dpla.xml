@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:00 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1130282</dcterms:identifier>
+   <dcterms:title>The old door stone / arranged for the Spanish guitar by Ch. C. Converse ; composed by I.B. Woodbury</dcterms:title>
+   <dcterms:title>A song a song for the old door stone</dcterms:title>
+   <dcterms:creator>Converse, Charles C. (Charles Crozat), 1832-1918</dcterms:creator>
+   <dcterms:creator>Kirk, G.</dcterms:creator>
+   <dcterms:creator>Woodbury, I. B. (Isaac Baker), 1819-1858</dcterms:creator>
+   <dcterms:publisher>Horace Waters</dcterms:publisher>
+   <dcterms:created>1854</dcterms:created>
+   <dcterms:extent>1 score (3 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, guitar</dcterms:description>
+   <dcterms:description>For guitar and voice.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>"G. Kirk, Engr."--Colophon.</dcterms:description>
+   <dcterms:isPartOf>Beautiful melodies arranged for the Spanish guitar / by Charlie C. Converse ; no. 3</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with guitar, Arranged</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1130283/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1130282</edm:isShownAt>
+</mdRecord>

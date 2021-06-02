@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:47 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1151569</dcterms:identifier>
+   <dcterms:title>Last night = Sehnsucht / by Halfdan Kjerulf</dcterms:title>
+   <dcterms:title>Ich konnte heute nicht schlafen</dcterms:title>
+   <dcterms:title>Last night the nightingale woke me</dcterms:title>
+   <dcterms:title>Sehnsucht</dcterms:title>
+   <dcterms:title>Kjerulf, Halfdan, 1815-1868. Sånger. op. 3. English &amp; German. Laengsel. English &amp; German</dcterms:title>
+   <dcterms:creator>Kjerulf, Halfdan, 1815-1868</dcterms:creator>
+   <dcterms:creator>Winther, Christian, 1796-1876</dcterms:creator>
+   <dcterms:publisher>Emerson Drug Co.</dcterms:publisher>
+   <dcterms:created>1893</dcterms:created>
+   <dcterms:extent>1 score (2 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>voice, organ</dcterms:description>
+   <dcterms:description>For voice and piano or organ.</dcterms:description>
+   <dcterms:description>Text by Christian Winther.</dcterms:description>
+   <dcterms:description>Imprint date inferred from advertisement on title page: "See the Stieff piano at World's Exposition, Chicago, 1893."</dcterms:description>
+   <dcterms:description>Title page illustration: Cartouche with woman playing a Stieff piano and a bottle of Bromo-Seltzer / B.G. Malone, Balto.</dcterms:description>
+   <dcterms:description>Advertisement on p. [3]: "Bromo-Seltzer cures all headaches."</dcterms:description>
+   <dcterms:description>English and German words; verses 2-3 printed as text following score.</dcterms:description>
+   <dcterms:isPartOf>Bromo-Seltzer collection of 54 popular songs : complete and unabridged, full music size with piano &amp; organ accompaniment</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Winther, Christian, 1796-1876--Musical settings.</dcterms:subject>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Songs with organ</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1151570/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1151569</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:49 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61624</dcterms:identifier>
+   <dcterms:title>Poems / of Henry Wadsworth Longfellow</dcterms:title>
+   <dcterms:title>Longfellow's poems</dcterms:title>
+   <dcterms:title>Longfellow, Henry Wadsworth, 1807-1882. Poems. 1877</dcterms:title>
+   <dcterms:creator>Longfellow, Henry Wadsworth, 1807-1882</dcterms:creator>
+   <dcterms:publisher>J.R. Osgood and Co.</dcterms:publisher>
+   <dcterms:created>1877</dcterms:created>
+   <dcterms:extent>xiv, 391 p., [20] leaves of plates</dcterms:extent>
+   <dcterms:extent>21 cm. [original]</dcterms:extent>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>New rev. ed.</dcterms:description>
+   <dcterms:description>Half-title: Longfellow's poems.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1639033/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61624</edm:isShownAt>
+</mdRecord>

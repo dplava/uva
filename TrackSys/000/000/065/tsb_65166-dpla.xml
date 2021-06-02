@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65166</dcterms:identifier>
+   <dcterms:title>The mission to Spain of Pierre Soulé, 1853-1855</dcterms:title>
+   <dcterms:creator>Ettinger, Amos Aschbach, 1901-</dcterms:creator>
+   <dcterms:publisher>Yale university press</dcterms:publisher>
+   <dcterms:publisher>H. Milford, Oxford university press</dcterms:publisher>
+   <dcterms:created>1932</dcterms:created>
+   <dcterms:extent>xi p., 2 l., 559 p. front., ports. 23 cm.</dcterms:extent>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:isPartOf>Yale historical publications. Miscellany. XXII</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Soulé, Pierre, 1801-1870</dcterms:subject>
+   <dcterms:subject>Cuban question--To 1895.</dcterms:subject>
+   <dcterms:subject>United States--Foreign relations--Spain.</dcterms:subject>
+   <dcterms:subject>Spain--Foreign relations--United States.</dcterms:subject>
+   <dcterms:subject>United States--Foreign relations--1853-1857.</dcterms:subject>
+   <dcterms:temporal>1853-1857.</dcterms:temporal>
+   <dcterms:temporal>To 1895.</dcterms:temporal>
+   <dcterms:spatial>Spain</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2142291/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65166</edm:isShownAt>
+</mdRecord>

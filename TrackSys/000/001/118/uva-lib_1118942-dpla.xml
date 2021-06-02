@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 4:43 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1118942</dcterms:identifier>
+   <dcterms:title>Twickenham Ferry / Theo. Marzials</dcterms:title>
+   <dcterms:title>O-hoi-ye-ho, ho-ye-ho</dcterms:title>
+   <dcterms:title>Marzials, Theophilus, 1850-1920. Twickenham Ferry</dcterms:title>
+   <dcterms:creator>Marzials, Theophilus, 1850-1920</dcterms:creator>
+   <dcterms:creator>Sherman</dcterms:creator>
+   <dcterms:publisher>R.A. Saalfield</dcterms:publisher>
+   <dcterms:created>[1800..1899]</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:extent>35 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, piano</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>"Sherman, Eng."--Colophon.</dcterms:description>
+   <dcterms:description>Includes advertisement: "Selected list of the choicest and most popular new music"--P. [6].</dcterms:description>
+   <dcterms:description>Sherman, Eng.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: [Sheet music collection, v.15, no.19]</dcterms:description>
+   <dcterms:isPartOf>Standard popular ballads</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1118943/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1118942</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:08 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65633</dcterms:identifier>
+   <dcterms:title>Industry and education: a preliminary study of manufacturing establishments of New Orleans and mechanical occupations of boys and men with reference to education and a plan for the Delgado school / by David Spence Hill</dcterms:title>
+   <dcterms:creator>Hill, David Spence, 1873-1951</dcterms:creator>
+   <dcterms:creator>New Orleans (La.). Dept. of Superintendence of the Public Schools. Division of Educational Research.</dcterms:creator>
+   <dcterms:publisher>Commission Council</dcterms:publisher>
+   <dcterms:created>1916</dcterms:created>
+   <dcterms:extent>xiii, 409 p.</dcterms:extent>
+   <dcterms:extent>23 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Vocational education--Louisiana.</dcterms:subject>
+   <dcterms:subject>Educational surveys</dcterms:subject>
+   <dcterms:subject>New Orleans (La.)--Industries.</dcterms:subject>
+   <dcterms:spatial>Louisiana.</dcterms:spatial>
+   <dcterms:spatial>New Orleans (La.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2322675/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65633</edm:isShownAt>
+</mdRecord>

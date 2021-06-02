@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:23 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63913</dcterms:identifier>
+   <dcterms:title>Readings on the Purgatorio of Dante: chiefly based on the commentary of Benvenuto da Imola / by the Hon. William Warren Vernon. With an introduction by the late Very Rev. Dean of St. Paul's</dcterms:title>
+   <dcterms:creator>Benvenutus de Imola, -1387 or 1388</dcterms:creator>
+   <dcterms:creator>Vernon, William Warren, 1834-1919</dcterms:creator>
+   <dcterms:publisher>Macmillan and co., limited</dcterms:publisher>
+   <dcterms:created>1897</dcterms:created>
+   <dcterms:extent>2 v. front. (col. port.) plan, diagrs. 20 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>diagrams</dcterms:medium>
+   <dcterms:medium>plan</dcterms:medium>
+   <dcterms:medium>plans</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>2d ed., rev. and enl.</dcterms:description>
+   <dcterms:description>v. 1. Preliminary chapter: Description of Purgatory. Time occupied in passing through Purgatory and supposed date of the vision. The principal divisions of the Purgatorio. Date when the Purgatorio was written. Nature of the Purgatorio as compared with the Inferno. Dante's itinerary through Purgatory. Supplementary list of authors and editions quoted (v. l. p. xlvii-lii) Text, translation, and commentary, canto I-XV.--v. 2. Text, translation, and commentary, canto XVI-XXXIII. Index.</dcterms:description>
+   <dcterms:description>Frontispiece: "Dante by Giotto after a drawing ... by Baron Seymour Kirkup made before the restoration of the fresco in 1841."</dcterms:description>
+   <dcterms:description>One copy: Photocopy. North Manchester, IN : Heckman Bindery, Inc., [2005].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Dante Alighieri, 1265-1321--Purgatorio</dcterms:subject>
+   <dcterms:subject>Dante Alighieri, 1265-1321--Commentaries.</dcterms:subject>
+   <dcterms:subject>Dante Alighieri, 1265-1321--Travel.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1783858/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63913</edm:isShownAt>
+</mdRecord>

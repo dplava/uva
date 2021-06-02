@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:40 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64571</dcterms:identifier>
+   <dcterms:title>Makers of American history: The Lewis &amp; Clark exploring expedition, 1804-'06 / by G. Mercer Adam; John Charles Fremont, by Charles Wentworth Upham</dcterms:title>
+   <dcterms:creator>Adam, G. Mercer (Graeme Mercer), 1830-1912</dcterms:creator>
+   <dcterms:creator>Upham, Charles Wentworth, 1802-1875</dcterms:creator>
+   <dcterms:publisher>University Society</dcterms:publisher>
+   <dcterms:created>1904</dcterms:created>
+   <dcterms:extent>189, 176 pages frontispiece (portrait) 19 cm</dcterms:extent>
+   <dcterms:medium>portrait</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Frémont, John Charles, 1813-1890</dcterms:subject>
+   <dcterms:subject>Lewis and Clark Expedition (1804-1806)</dcterms:subject>
+   <dcterms:subject>Discoveries in geography</dcterms:subject>
+   <dcterms:subject>Travel</dcterms:subject>
+   <dcterms:subject>West (U.S.)--Description and travel.</dcterms:subject>
+   <dcterms:subject>United States--Discovery and exploration.</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>West (U.S.)</dcterms:spatial>
+   <dcterms:spatial>West United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2030704/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64571</edm:isShownAt>
+</mdRecord>

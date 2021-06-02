@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:53 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65050</dcterms:identifier>
+   <dcterms:title>The speaking telephone, talking phonograph, and other novelties / By George B. Prescott</dcterms:title>
+   <dcterms:creator>Prescott, George B. (George Bartlett), 1830-1894</dcterms:creator>
+   <dcterms:publisher>D. Appleton &amp; Company</dcterms:publisher>
+   <dcterms:created>1878</dcterms:created>
+   <dcterms:extent>1 p. ℓ., ii p., 1 ℓ., vi, [5]-431 p. illus., diagrs. 22 cm.</dcterms:extent>
+   <dcterms:medium>diagrams</dcterms:medium>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>An enlarged edition was published in 1879, under title: The speaking telephone, electric light, and other recent electrical inventions.</dcterms:description>
+   <dcterms:description>One copy: Photocopy. North Manchester, IN : Heckman Bindery, Inc., [2005].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Electrical engineering</dcterms:subject>
+   <dcterms:subject>Telephone</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2098029/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65050</edm:isShownAt>
+</mdRecord>

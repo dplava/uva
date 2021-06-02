@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:49 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61639</dcterms:identifier>
+   <dcterms:title>Outline of practical sociology: With special reference to American conditions / By Carrol D. Wright</dcterms:title>
+   <dcterms:creator>Wright, Carroll D. (Carroll Davidson), 1840-1909</dcterms:creator>
+   <dcterms:publisher>Longmans, Green</dcterms:publisher>
+   <dcterms:created>1902</dcterms:created>
+   <dcterms:extent>xxvii, 431 p. maps, diagr. 21 cm.</dcterms:extent>
+   <dcterms:medium>diagrams</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>5th ed., rev.</dcterms:description>
+   <dcterms:description>Series title also at head of t.-p.</dcterms:description>
+   <dcterms:description>Bibliography: p. x-xvii.</dcterms:description>
+   <dcterms:isPartOf>American citizen series [v. 1]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sociology</dcterms:subject>
+   <dcterms:subject>United States--Social conditions.</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1642439/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61639</edm:isShownAt>
+</mdRecord>

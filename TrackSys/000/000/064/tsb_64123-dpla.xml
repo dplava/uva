@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:28 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64123</dcterms:identifier>
+   <dcterms:title>The Christian state: a political vision of Christ ; a course of six lectures delivered in churches in various American cities / By George D. Herron</dcterms:title>
+   <dcterms:creator>Herron, George Davis, 1862-1925</dcterms:creator>
+   <dcterms:publisher>T. Y. Crowell</dcterms:publisher>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>216 p.</dcterms:extent>
+   <dcterms:extent>17 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Christian sociology</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1865082/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64123</edm:isShownAt>
+</mdRecord>

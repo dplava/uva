@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:27 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64078</dcterms:identifier>
+   <dcterms:title>The mental traits of sex: an experimental investigation of the normal mind in men and women / by Helen Bradford Thompson</dcterms:title>
+   <dcterms:creator>Woolley, Helen Thompson, 1874-1947</dcterms:creator>
+   <dcterms:publisher>University of Chicago Press</dcterms:publisher>
+   <dcterms:created>1903</dcterms:created>
+   <dcterms:extent>vii, 188 p. diagrs. 21 cm.</dcterms:extent>
+   <dcterms:medium>diagrams</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Published also under title: "Psychological norms in men and women."</dcterms:description>
+   <dcterms:description>Bibliography: p. 183-188.</dcterms:description>
+   <dcterms:description>Item X000435368 has bookplate data: William Harry Heck.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sex (Psychology)</dcterms:subject>
+   <dcterms:subject>Psychophysiology</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1847831/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64078</edm:isShownAt>
+</mdRecord>

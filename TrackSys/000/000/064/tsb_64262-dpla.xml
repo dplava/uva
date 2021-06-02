@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:32 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64262</dcterms:identifier>
+   <dcterms:title>Specimens of Mississippi folk-lore: collected with the assistance of students and citizens of Mississippi and edited by Arthur Palmer Hudson / Published under the auspices of the Mississippi folk-lore society, 1928</dcterms:title>
+   <dcterms:creator>Hudson, Arthur Palmer, 1892-1978</dcterms:creator>
+   <dcterms:creator>Mississippi Folk-lore Society.</dcterms:creator>
+   <dcterms:publisher>Mimeographed and printed by Edwards brothers</dcterms:publisher>
+   <dcterms:created>1928</dcterms:created>
+   <dcterms:extent>6 p. l., xx numb. l., 2 l., 2- 173 numb. l. 27 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Autographed (on one side of leaf only) from type-written copy.</dcterms:description>
+   <dcterms:description>"Key to the abbreviations, contains a brief bibliographical description of all the books referred to in the notes": leaves 166-167.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Folklore--Mississippi.</dcterms:subject>
+   <dcterms:subject>Folk songs, English--United States.</dcterms:subject>
+   <dcterms:spatial>Mississippi.</dcterms:spatial>
+   <dcterms:spatial>United States.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1916942/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64262</edm:isShownAt>
+</mdRecord>

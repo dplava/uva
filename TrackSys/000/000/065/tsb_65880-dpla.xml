@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:11 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65880</dcterms:identifier>
+   <dcterms:title>A book of entries: containing perfect and approved presidents of counts, declarations, informations, pleints, indictments, barres, replications, rejoynders, pleadings, processes, continuances, essoines, issues, defaults, departure in despight of the court, demurrers, trials, judgements, executions, and all other matters and proceedings (in effect) concerning the practick part of the laws of England, in actions real, personal, and mixt, and in appeals. Being very necessary to be known, and of excellent use for the modern practice of the law, many of them containing matters in law, and points of great learning / Collected and published for the common good and benefit of the studious and learned professors of the laws of England</dcterms:title>
+   <dcterms:creator>Coke, Edward Sir, 1552-1634</dcterms:creator>
+   <dcterms:publisher>Printed by John Streater, James Flesher, and Henry Twyford, assigns of Richard Atkins and Edward Atkins [etc.</dcterms:publisher>
+   <dcterms:created>1671</dcterms:created>
+   <dcterms:extent>9 p. l., 713 numb. l., [17] p. 36 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>The 2d ed., carefully cor. ..</dcterms:description>
+   <dcterms:description>Irregularities in paging.</dcterms:description>
+   <dcterms:description>Head and tail pieces; printers' ornaments.</dcterms:description>
+   <dcterms:description>Preface signed: Edvv. Coke.</dcterms:description>
+   <dcterms:description>Prefaces in Latin and English; text in Latin; index in French.</dcterms:description>
+   <dcterms:description>Imperfect: lacking t-p. and p. [13]-[17] (2nd group)</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Pleading--Great Britain.</dcterms:subject>
+   <dcterms:subject>Forms (Law)--Great Britain.</dcterms:subject>
+   <dcterms:spatial>Great Britain.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2386974/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65880</edm:isShownAt>
+</mdRecord>

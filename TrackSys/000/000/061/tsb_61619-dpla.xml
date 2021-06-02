@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:48 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61619</dcterms:identifier>
+   <dcterms:title>Applied sociology: a treatise on the conscious improvement of society by society / by Lester F. Ward</dcterms:title>
+   <dcterms:creator>Ward, Lester F. (Lester Frank), 1841-1913</dcterms:creator>
+   <dcterms:publisher>Ginn &amp; Company</dcterms:publisher>
+   <dcterms:created>1906</dcterms:created>
+   <dcterms:extent>xviii, 384 p. 4 maps (2 double) fold. chart. 24 cm.</dcterms:extent>
+   <dcterms:medium>chart</dcterms:medium>
+   <dcterms:medium>charts</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:medium>maps (2 double)</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>pt. 1. Movement.--pt. 2. Achievement.--pt. 3. Improvement. List of authors and titles of works, articles, and memoirs quoted or cited, with critical and explanatory notes (p. 341-366)</dcterms:description>
+   <dcterms:description>Item X000429590 has bookplate data: William Harry Heck.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sociology</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1637291/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61619</edm:isShownAt>
+</mdRecord>

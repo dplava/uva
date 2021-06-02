@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:25 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003595</dcterms:identifier>
+   <dcterms:title>Map of northern Virginia / drawn from actual survey</dcterms:title>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1865</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>24 x 14 cm. on sheet 27 x 18 cm. [original]</dcterms:extent>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Shows local roads and railways, in area east of the Blue Ridge Mountains and north of the North Anna and Pamunkey rivers.</dcterms:description>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:850,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Virginia--Maps.</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904865/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003595</edm:isShownAt>
+</mdRecord>

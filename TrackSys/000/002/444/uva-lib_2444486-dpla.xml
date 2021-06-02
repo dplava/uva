@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 8:07 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2444486</dcterms:identifier>
+   <dcterms:title>Farmington</dcterms:title>
+   <dcterms:creator>Johnston, Frances Benjamin, 1864-1952</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1929/1935</dcterms:created>
+   <dcterms:description>Exterior, general view. Location: Charlottesville vicinity. Dwelling built for Francis Jerdone ca. 1760. House and property sold to George Divers 1785. Octagonal wing designed by Jefferson 1802, completed after 1852. House expanded and property adaptively reused as country club, 1927-present. Albemarle County, Virginia.</dcterms:description>
+   <dcterms:isPartOf>The Frances Benjamin Johnston Photographs</dcterms:isPartOf>
+   <dcterms:isPartOf>Carnegie Survey of the Architecture of the South</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Historic buildings--Virginia</dcterms:subject>
+   <dcterms:subject>Johnston, Frances Benjamin, 1864-1952</dcterms:subject>
+   <dcterms:subject>Jefferson, Thomas, 1743-1826</dcterms:subject>
+   <dcterms:subject>Country clubs</dcterms:subject>
+   <dcterms:subject>Architecture</dcterms:subject>
+   <dcterms:subject>Houses</dcterms:subject>
+   <dcterms:subject>Adaptive reuse</dcterms:subject>
+   <dcterms:subject>Outbuildings</dcterms:subject>
+   <dcterms:subject>Stone</dcterms:subject>
+   <dcterms:subject>Dormers</dcterms:subject>
+   <dcterms:subject>Brick</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Albemarle, Virginia, United States, North America</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2444486/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2444486</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:59 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65297</dcterms:identifier>
+   <dcterms:title>A source book for mediæval history: selected documents illustrating the history of Europe in the Middle Age / by Oliver J. Thatcher .. and Edgar H. McNeal</dcterms:title>
+   <dcterms:creator>McNeal, Edgar Holmes, 1874-1955</dcterms:creator>
+   <dcterms:creator>Thatcher, Oliver J. (Oliver Joseph), 1857-1937</dcterms:creator>
+   <dcterms:publisher>C. Scribner's Sons</dcterms:publisher>
+   <dcterms:created>1907</dcterms:created>
+   <dcterms:extent>xix, 619 p. 21 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Bibliography: p. 613-614.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Middle Ages--Sources.</dcterms:subject>
+   <dcterms:subject>Europe--History--476-1492--Sources.</dcterms:subject>
+   <dcterms:temporal>476-1492</dcterms:temporal>
+   <dcterms:spatial>Europe</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2193666/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65297</edm:isShownAt>
+</mdRecord>

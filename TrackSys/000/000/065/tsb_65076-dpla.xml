@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:53 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65076</dcterms:identifier>
+   <dcterms:title>On the improvement of society by the diffusion of knowledge: or, an illustration of the advantages which would result from a more general dissemination of rational and scientific information among all ranks / by Thomas Dick ; illustrated with engravings</dcterms:title>
+   <dcterms:title>An illustration of the advantages which would result from a more general dissemination of rational and scientific information among all ranks</dcterms:title>
+   <dcterms:creator>Dick, Thomas, 1774-1857</dcterms:creator>
+   <dcterms:publisher>J. &amp; J. Harper</dcterms:publisher>
+   <dcterms:created>1833</dcterms:created>
+   <dcterms:extent>5, [vii]-xv, [17]-442 p.</dcterms:extent>
+   <dcterms:extent>15 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Harper's stereotype ed.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Original brown cloth printed in black; backstrip repaired with clear tape. Signature of Gessner Harrison, University of Virginia, June 4th, 1834 on f.f.e.p. Gift of Mrs. C.W. Kent.</dcterms:description>
+   <dcterms:description>Item X004734625 has bookplate data: Charles Glenn Wallis.</dcterms:description>
+   <dcterms:isPartOf>Harper's family library ; v. 59</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Harrison, Gessner, 1807-1862--Library--Personal copy.</dcterms:subject>
+   <dcterms:subject>Science</dcterms:subject>
+   <dcterms:subject>Education</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2108217/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65076</edm:isShownAt>
+</mdRecord>

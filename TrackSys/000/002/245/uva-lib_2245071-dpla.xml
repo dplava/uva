@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 7:49 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2245071</dcterms:identifier>
+   <dcterms:title>The poor unhappy transported felon's sorrowful account of his 14 years transportation at Virginia, in America: In six parts. : Being a remarkable and succinct history of the life of John Lauson, who was put apprentice by his father to a cooper in the city of Bristol, where he got into bad company, and went a robbing with a gang of thieves, but his master got him back, yet he would not be kept from his old companions, but went a thieving with them again, for which he was transported for fourteen years. : With an account of the way the transports work, and the punishment they receive for committing any fault. : Concluding with a word of advice to all young men to be upon their guard, lest they go through the hardships he went through</dcterms:title>
+   <dcterms:creator>Lauson, John.</dcterms:creator>
+   <dcterms:publisher>Printed by G. Cass, where shopkeepers and travellers may be supplied with variety of godly books</dcterms:publisher>
+   <dcterms:created>1780</dcterms:created>
+   <dcterms:extent>8 p.</dcterms:extent>
+   <dcterms:extent>17 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Horizontal chain lines.</dcterms:description>
+   <dcterms:description>An altered version of James Revel's "Poor unhappy transported felon's sorrowful account." Although a cooper from Bristol rather than a tin-man from London, Lauson's experiences in Virginia are the same as Revel's, and are recorded in practically the same words.</dcterms:description>
+   <dcterms:description>In verse.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library, American History Collection. McGregor Fund. Unbound. "M.K's Book" in brown ink on t.p.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Lauson, John--Exile--Virginia.</dcterms:subject>
+   <dcterms:subject>Contract labor--Virginia--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Indentured servants--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Virginia--History--Colonial period, ca. 1600-1775.</dcterms:subject>
+   <dcterms:temporal>Colonial period, ca. 1600-1775.</dcterms:temporal>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Bridgwater, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2246214/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2245071</edm:isShownAt>
+</mdRecord>

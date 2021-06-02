@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:20 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1002827</dcterms:identifier>
+   <dcterms:title>La grande et merueilleuse et trescruelle oppugnation de la noble cite de Rhodes: prinse naguieres par Sultan Seliman a present grand Turcq, ennemy de la tres saincte foy Catholicque / redigee par escript par excellent et noble cheualier Frere Jacques bastard de Bourbon, commandeur de sainct Mauluiz, Doysemont et Fonteynes, au prieure de France</dcterms:title>
+   <dcterms:title>Oppugnation de la noble cite de Rhodes</dcterms:title>
+   <dcterms:creator>Bourbon, Jacques de, -1527</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Duru, Hippolyte, -1884</dcterms:creator>
+   <dcterms:creator>Gourmont, Gilles de</dcterms:creator>
+   <dcterms:creator>Vidoué, Pierre, -1543</dcterms:creator>
+   <dcterms:publisher>Et se vend a Paris a la rue sainct Jaques a lenseigne des troys couronnes, pres sainct Benoist</dcterms:publisher>
+   <dcterms:created>1525</dcterms:created>
+   <dcterms:extent>[6], li, [1] leaves</dcterms:extent>
+   <dcterms:extent>24 cm. (4to) [original]</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: a⁶ b-o⁴.</dcterms:description>
+   <dcterms:description>Title within ornamental border.</dcterms:description>
+   <dcterms:description>Colophon: ... Et imprimee a Paris par Maistre Pierre Vidoue, pour honneste personne Gilles de gourmōt libraire iure en luniuersite de Paris. Lan mil cinq. cens. xxv. Au moys de Decembre.</dcterms:description>
+   <dcterms:description>Errata: leaf [lii]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Duru, 1853. Monogram bookplate, GP, i.e. George Philippar, with motto Dominus illuminatio mea. The name "J. Coppinger" in gilt, inside front cover. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 460.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Rhodes (Greece : Island)--History--Siege, 1522.</dcterms:subject>
+   <dcterms:subject>Turkey--History--1453-1683.</dcterms:subject>
+   <dcterms:temporal>1453-1683.</dcterms:temporal>
+   <dcterms:temporal>Siege, 1522.</dcterms:temporal>
+   <dcterms:spatial>Rhodes (Greece : Island)</dcterms:spatial>
+   <dcterms:spatial>Turkey</dcterms:spatial>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:850842/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002827</edm:isShownAt>
+</mdRecord>

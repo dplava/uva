@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 11:32 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:768805</dcterms:identifier>
+   <dcterms:title>A plan of the town of Macon, Bibb County, Georgia / laid off according to an act of the Legislature of December, 1822, by James Smith, Oliver H. Prince, Abner Wimberly, Pleasant Phillips, William Hamilton, Commissioners. ; Pblished by George Dane. Rose &amp; Slade Printers, Macon, 1826. ; Copy by A.D. Wilcox, Ast. Engr., City Engineer's Office, August 8th, 1899</dcterms:title>
+   <dcterms:creator>Dane, George.</dcterms:creator>
+   <dcterms:creator>Macon (Ga.). City Engineer's Office.</dcterms:creator>
+   <dcterms:creator>Rose &amp; Slade.</dcterms:creator>
+   <dcterms:creator>Smith, James.</dcterms:creator>
+   <dcterms:creator>Wilcox, A. D.</dcterms:creator>
+   <dcterms:publisher>City Engineer's Office</dcterms:publisher>
+   <dcterms:created>1899</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>41 x 68 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Shows the city plan; lots, streets, and squares, as well as landowners.</dcterms:description>
+   <dcterms:description>Note: "The lots were intended to contain, and do contain about half an acre each... Where adjoining lots are owned by the same person the dividing lines is omitted."</dcterms:description>
+   <dcterms:description>Scale not given.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>City planning--Georgia--Macon--Maps.</dcterms:subject>
+   <dcterms:subject>Landowners--Georgia--Macon--Maps.</dcterms:subject>
+   <dcterms:subject>Macon (Ga.)--Maps.</dcterms:subject>
+   <dcterms:spatial>Georgia</dcterms:spatial>
+   <dcterms:spatial>Macon</dcterms:spatial>
+   <dcterms:spatial>Macon (Ga.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:793805/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:768805</edm:isShownAt>
+</mdRecord>

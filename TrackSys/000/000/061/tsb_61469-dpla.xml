@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:45 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61469</dcterms:identifier>
+   <dcterms:title>Our country: its possible future and its present crisis / by Josiah Strong ; with an introd. by Austin Phelps</dcterms:title>
+   <dcterms:creator>Congregational Home Missionary Society.</dcterms:creator>
+   <dcterms:creator>Strong, Josiah, 1847-1916</dcterms:creator>
+   <dcterms:publisher>Published by Baker &amp; Taylor for the American Home Missionary Society</dcterms:publisher>
+   <dcterms:created>1885</dcterms:created>
+   <dcterms:extent>x, 229 pages</dcterms:extent>
+   <dcterms:extent>19 cm [original]</dcterms:extent>
+   <dcterms:medium>diagrams</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>I. The time factor in the problem -- II. National resources -- III. western supremacy -- IV. Perils-immigration -- V. Perils-Romanism -- VI. Perils-Mormonism -- VII. Perils-intemperance -- VIII. Perils-socialism -- IX. Perils-wealth -- X. Perils-the city -- XI. The influence of early settlers -- XII. The exhaustion of the public lands -- XIII. The Anglo-Saxon and the world's future -- XIV. Money and the Kingdom.</dcterms:description>
+   <dcterms:description>Item X030122413 has bookplate data: Charles Glenn Wallis.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Home missions</dcterms:subject>
+   <dcterms:subject>United States--Moral conditions.</dcterms:subject>
+   <dcterms:subject>United States--Economic conditions.</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1584876/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61469</edm:isShownAt>
+</mdRecord>

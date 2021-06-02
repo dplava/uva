@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:27 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64072</dcterms:identifier>
+   <dcterms:title>Lady Palmerston and her times / by Mabell, countess of Airlie</dcterms:title>
+   <dcterms:creator>Airlie, Mabell Countess of, 1866-1956</dcterms:creator>
+   <dcterms:creator>Melbourne, Frederick James Lamb Viscount, 1782-1853</dcterms:creator>
+   <dcterms:creator>Palmerston, Emily Lamb Viscountess, 1787-1869</dcterms:creator>
+   <dcterms:publisher>Hodder and Stoughton</dcterms:publisher>
+   <dcterms:created>1922</dcterms:created>
+   <dcterms:extent>2 v. 4 port. (incl. fronts.) 23 cm.</dcterms:extent>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Most of the letters in these volumes "formed part of the ... correspondence between Lord Beauvale [Lord Melbourne] and his sister Lady Cowper, who became later the wife of Lord Palmerston".</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Palmerston, Henry John Temple, Viscount, 1784-1865</dcterms:subject>
+   <dcterms:subject>Great Britain--Court and courtiers.</dcterms:subject>
+   <dcterms:subject>Great Britain--Social life and customs.</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1845857/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64072</edm:isShownAt>
+</mdRecord>

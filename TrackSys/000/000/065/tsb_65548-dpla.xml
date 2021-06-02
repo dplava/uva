@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:06 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65548</dcterms:identifier>
+   <dcterms:title>Philipp Emanuel Bach in Hamburg: Beiträge zu seiner Biographie und zur Musikgeschichte seiner Zeit / von Dr. Heinrich Miesner</dcterms:title>
+   <dcterms:creator>Miesner, Heinrich, 1890-</dcterms:creator>
+   <dcterms:created>1929</dcterms:created>
+   <dcterms:extent>x, 134 p. [28] p. (music) 21 cm.</dcterms:extent>
+   <dcterms:medium>music</dcterms:medium>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>Biographisches.--E. Bachs "Singstücke für die Kirche und unterschiedene Feyerlichkeiten."--Beilagen nach Akten usw.--Notenanhang (Themenverzeichnis)</dcterms:description>
+   <dcterms:description>Errata slip inserted.</dcterms:description>
+   <dcterms:description>Label of Breitkipf &amp; Härtel, Leipzig, mounted over imprint.</dcterms:description>
+   <dcterms:description>Issued also as Inaugural-dissertation, Berlin.</dcterms:description>
+   <dcterms:description>"Zur Chronologie der Telemannischen Passionen": p. 133-134.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Bach, Carl Philipp Emanuel, 1714-1788</dcterms:subject>
+   <dcterms:subject>Music--Germany--Hamburg.</dcterms:subject>
+   <dcterms:spatial>Germany</dcterms:spatial>
+   <dcterms:spatial>Hamburg.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2289369/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65548</edm:isShownAt>
+</mdRecord>

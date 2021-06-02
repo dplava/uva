@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:28 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64120</dcterms:identifier>
+   <dcterms:title>Benjamin Jowett: master of Balliol / by Lionel A. Tollemache</dcterms:title>
+   <dcterms:creator>Tollemache, Lionel A. (Lionel Arthur), 1838-1919</dcterms:creator>
+   <dcterms:publisher>E. Arnold</dcterms:publisher>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>141 p. 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"First appeared in the Journal of education for May, 1895."</dcterms:description>
+   <dcterms:description>ALDERMAN: One copy: Photocopy. North Manchester, IN : Heckman Bindery, Inc., [2005].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Jowett, Benjamin, 1817-1893</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1864504/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64120</edm:isShownAt>
+</mdRecord>

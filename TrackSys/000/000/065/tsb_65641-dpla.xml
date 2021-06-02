@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:08 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65641</dcterms:identifier>
+   <dcterms:title>The war with the South: a history of the late rebellion / with biographical sketches of leading statesmen and distinguished naval and military commanders, etc</dcterms:title>
+   <dcterms:creator>Smith, Benjamin George.</dcterms:creator>
+   <dcterms:creator>Tomes, Robert, 1817-1882</dcterms:creator>
+   <dcterms:publisher>Virture &amp; Yorston.</dcterms:publisher>
+   <dcterms:created>1862/1867</dcterms:created>
+   <dcterms:extent>3 v. fronts., plates, ports., maps. 29 cm.</dcterms:extent>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>United States--History--Civil War, 1861-1865.</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2325513/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65641</edm:isShownAt>
+</mdRecord>

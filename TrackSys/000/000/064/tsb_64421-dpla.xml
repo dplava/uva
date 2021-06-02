@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:36 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64421</dcterms:identifier>
+   <dcterms:title>The pope, the kings and the people: a history of the movement to make the pope governor of the world by a universal reconstruction of society from the issue of the Syllabus to the close of the Vatican council / by the late William Arthur..ed. by W. Blair Neatby</dcterms:title>
+   <dcterms:creator>Arthur, William, 1819-1901</dcterms:creator>
+   <dcterms:creator>Neatby, William Blair</dcterms:creator>
+   <dcterms:publisher>Hodder and Stoughton</dcterms:publisher>
+   <dcterms:created>1903</dcterms:created>
+   <dcterms:extent>xlvii, 758 p. 24 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Title in red and black.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Pius, IX, Pope, 1792-1878</dcterms:subject>
+   <dcterms:subject>Vatican Council (1st : 1869-1870 : Basilica di San Pietro in Vaticano)</dcterms:subject>
+   <dcterms:subject>Popes--Temporal power.</dcterms:subject>
+   <dcterms:subject>Popes--Infallibility.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1972213/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64421</edm:isShownAt>
+</mdRecord>

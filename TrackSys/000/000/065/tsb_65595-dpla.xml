@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:07 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65595</dcterms:identifier>
+   <dcterms:title>Stories of the Old Dominion: from the settlement to the end of the revolution / by John Esten Cooke</dcterms:title>
+   <dcterms:creator>Cooke, John Esten, 1830-1886</dcterms:creator>
+   <dcterms:publisher>Harper &amp; brothers</dcterms:publisher>
+   <dcterms:created>1879</dcterms:created>
+   <dcterms:extent>337 p. incl. front., illus., plates, ports. 20 cm.</dcterms:extent>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>HathiTrust shared print program 2017.</dcterms:description>
+   <dcterms:description>Item X000674850 has bookplate data: Mabel Cook Wyllie.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Virginia--History--Colonial period, ca. 1600-1775.</dcterms:subject>
+   <dcterms:subject>Virginia--History--Revolution, 1775-1783.</dcterms:subject>
+   <dcterms:temporal>Colonial period, ca. 1600-1775.</dcterms:temporal>
+   <dcterms:temporal>Revolution, 1775-1783.</dcterms:temporal>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2306073/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65595</edm:isShownAt>
+</mdRecord>

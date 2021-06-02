@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64234</dcterms:identifier>
+   <dcterms:title>The vision of Piers the Plowman / done into modern English by the Rev. Prof. Skeat</dcterms:title>
+   <dcterms:title>Langland, William, 1330?-1400?. Piers Plowman. English</dcterms:title>
+   <dcterms:creator>Langland, William, 1330?-1400?</dcterms:creator>
+   <dcterms:creator>Skeat, Walter W. (Walter William), 1835-1912</dcterms:creator>
+   <dcterms:publisher>A. Moring</dcterms:publisher>
+   <dcterms:created>1905</dcterms:created>
+   <dcterms:extent>xxix, 151 p. illus.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>English, Middle (1100-1500)</dcterms:language>
+   <dcterms:isPartOf>The King's classics</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1907175/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64234</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:21 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1003171</dcterms:identifier>
+   <dcterms:title>The mystery of Marie Roget: A sequel to "The murders in the Rue Morgue."</dcterms:title>
+   <dcterms:creator>Poe, Edgar Allan, 1809-1849</dcterms:creator>
+   <dcterms:created>1842/1843</dcterms:created>
+   <dcterms:extent>4 pts. 28 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>First printing--Heartman.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: "Poe and the mystery of Mary Rogers", by William Kurtz Wimsatt, Jr. (230-248 p.) excerpted from the New England Quarterly, v. 14, Mar. 1941: laid in.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: From the library of Carroll Atwood Wilson. Clifton Waller Barrett Library, Edgar Allan Poe Collection. Gift of C.W. Barrett.</dcterms:description>
+   <dcterms:isPartOf>Ladies' Companion</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:925434/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003171</edm:isShownAt>
+</mdRecord>

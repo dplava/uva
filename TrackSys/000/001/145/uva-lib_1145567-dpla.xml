@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:35 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1145567</dcterms:identifier>
+   <dcterms:title>Concert sonate / Domenico Scarlatti ; Julia Rivé-King</dcterms:title>
+   <dcterms:title>Scarlatti, Domenico, 1685-1757. Sonatas, harpsichord. K. 113, A major</dcterms:title>
+   <dcterms:creator>Orth, John, 1850-1932</dcterms:creator>
+   <dcterms:creator>Rivé-King, Julie, 1854-1937</dcterms:creator>
+   <dcterms:creator>Scarlatti, Domenico, 1685-1757</dcterms:creator>
+   <dcterms:publisher>Kunkel Bros.</dcterms:publisher>
+   <dcterms:created>1879</dcterms:created>
+   <dcterms:extent>7 p. of music</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Illustration: Two columns with putti atop them. Between the columns is an image of a woman playing a lyre..</dcterms:description>
+   <dcterms:description>Advertisement on p. [2]: Kunkel's Musical Review. On p. [8]: Kunkel Bros.' latest publications.</dcterms:description>
+   <dcterms:description>At head of caption: "To John Orth, Esq."</dcterms:description>
+   <dcterms:isPartOf>Julia Rive-King</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sonatas (Piano)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1145568/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145567</edm:isShownAt>
+</mdRecord>

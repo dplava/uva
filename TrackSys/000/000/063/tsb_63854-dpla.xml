@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:21 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63854</dcterms:identifier>
+   <dcterms:title>The fifth book of Thucydides / edited with notes by C.E. Graves</dcterms:title>
+   <dcterms:creator>Graves, C. E. (Charles Edward), 1839-1920</dcterms:creator>
+   <dcterms:creator>Thucydides.</dcterms:creator>
+   <dcterms:publisher>Macmillan</dcterms:publisher>
+   <dcterms:created>1891</dcterms:created>
+   <dcterms:extent>ix, 276 p.</dcterms:extent>
+   <dcterms:extent>17 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Greek, Ancient (to 1453)</dcterms:language>
+   <dcterms:description>Text in Greek.</dcterms:description>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:isPartOf>Macmillan's school class books</dcterms:isPartOf>
+   <dcterms:isPartOf>Macmillan's classical series</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Greece--History--Peloponnesian War, 431-404 B.C.</dcterms:subject>
+   <dcterms:temporal>Peloponnesian War, 431-404 B.C.</dcterms:temporal>
+   <dcterms:spatial>Greece</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1761556/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63854</edm:isShownAt>
+</mdRecord>

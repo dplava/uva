@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:46 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1150985</dcterms:identifier>
+   <dcterms:title>My faith looks up to thee = anthem for soprano, alto, tenor and bass, with accompaniment of organ / by Robert Goldbeck</dcterms:title>
+   <dcterms:title>Abendfrieden</dcterms:title>
+   <dcterms:title>My faith looks up to thee</dcterms:title>
+   <dcterms:title>O Meer im Abendstrahl</dcterms:title>
+   <dcterms:title>Goldbeck, Robert, 1839-1908. My faith looks up to thee! German &amp; English</dcterms:title>
+   <dcterms:creator>Goldbeck, Robert, 1839-1908</dcterms:creator>
+   <dcterms:creator>Meissner, Alfred, 1822-1885</dcterms:creator>
+   <dcterms:creator>Thursby, Emma Cecilia, 1845-1931</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1879</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, soprano voice</dcterms:description>
+   <dcterms:description>Soprano solo.</dcterms:description>
+   <dcterms:description>For soprano and piano.</dcterms:description>
+   <dcterms:description>"Die deutschen Worte adaptirt nach Meissner"--Caption.</dcterms:description>
+   <dcterms:description>"Respectfully dedicated to Miss Emma C. Thursby."</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: Catalogue of sacred music.</dcterms:description>
+   <dcterms:description>German and English words.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Meissner, Alfred, 1822-1885--Musical settings.</dcterms:subject>
+   <dcterms:subject>Sacred songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1150986/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1150985</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:36 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64411</dcterms:identifier>
+   <dcterms:title>A new classical dictionary of Greek and Roman biography, mythology, and geography: partly based upon the Dictionary of Greek and Roman biography and mythology / By William Smith</dcterms:title>
+   <dcterms:creator>Anthon, Charles, 1797-1867</dcterms:creator>
+   <dcterms:creator>Smith, William, 1813-1893</dcterms:creator>
+   <dcterms:publisher>Harper &amp; Brothers</dcterms:publisher>
+   <dcterms:created>1851</dcterms:created>
+   <dcterms:extent>xv, 1039 p. incl. tables. plan. 24 cm.</dcterms:extent>
+   <dcterms:medium>plan</dcterms:medium>
+   <dcterms:medium>plans</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Rev.,</dcterms:description>
+   <dcterms:description>"Chronological tables of Greek and Roman history, civil and literary, from the first Olympiad, B.C. 776, to the fall of the Western Empire, A.D. 476. With tables of Greek and Roman measures, weights, and money. Ed. by William Smith ... ": p. [957]-1039.</dcterms:description>
+   <dcterms:description>ALDERMAN: Copy 1 (Withd. Aldermn)</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Classical dictionaries</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1967573/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64411</edm:isShownAt>
+</mdRecord>

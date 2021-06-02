@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:22 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003381</dcterms:identifier>
+   <dcterms:title>The Buena Vista property, Rockbridge County, Virginia / topographical survey by W.J. Hurlbul, Civil Engr. Buena Vista, Va., Sept. 1889</dcterms:title>
+   <dcterms:creator>Hurlbul, W. J.</dcterms:creator>
+   <dcterms:creator>Ruffner, William Henry, 1824-1908</dcterms:creator>
+   <dcterms:publisher>Buena Vista Company</dcterms:publisher>
+   <dcterms:created>1889</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>77 x 69 cm. on sheet 82 x 74 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>contours</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Color coded to show "Ore veins [identified by] Dr. W.H. Ruffner."</dcterms:description>
+   <dcterms:description>Relief shown by countour lines</dcterms:description>
+   <dcterms:description>Issued in pocket of: Report on the landed property of the Buena Vista Company / by W.H. Ruffner.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 1: Removed from pocket inside back cover of: Report on the landed property of the Buena Vista Company, by W.H. Ruffner.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:18,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Buena Vista Company (Lexington, Va.)--Maps.</dcterms:subject>
+   <dcterms:subject>Mines and mineral resources--Virginia--Rockbridge County--Maps.</dcterms:subject>
+   <dcterms:subject>Rockbridge County (Va.)--Maps.</dcterms:subject>
+   <dcterms:spatial>Rockbridge County</dcterms:spatial>
+   <dcterms:spatial>Rockbridge County (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Lexington, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:891476/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003381</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:02 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65392</dcterms:identifier>
+   <dcterms:title>The women of the Gospels: meditations on some traits of feminine character recorded by the Evangelists; selected from the works of Chrysostom, Augustine, Calvin, Jeremy Taylor, and other writers</dcterms:title>
+   <dcterms:creator>Charles, Elizabeth Rundle, 1828-1896</dcterms:creator>
+   <dcterms:publisher>Seeley, Jackson and Halliday</dcterms:publisher>
+   <dcterms:created>1868.</dcterms:created>
+   <dcterms:extent>iv, 88 p.</dcterms:extent>
+   <dcterms:extent>22 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"With twelve photographs after Raffaelle, Murillo, Paul Veronese, Rembrandt, Ary Scheffer, and other masters."</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Bible, New Testament--Biography.</dcterms:subject>
+   <dcterms:subject>Women in the Bible</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2229637/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65392</edm:isShownAt>
+</mdRecord>

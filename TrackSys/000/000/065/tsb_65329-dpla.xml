@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:00 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65329</dcterms:identifier>
+   <dcterms:title>Napoleon III in Italy: And other poems / By Elizabeth Barrett Browning</dcterms:title>
+   <dcterms:title>Poems before Congress</dcterms:title>
+   <dcterms:creator>Browning, Elizabeth Barrett, 1806-1861</dcterms:creator>
+   <dcterms:publisher>C. S. Francis &amp; co.</dcterms:publisher>
+   <dcterms:created>1860</dcterms:created>
+   <dcterms:extent>2p.l. [3]-72p., 9l. 17.5 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Napoleon III. in Italy.--The dance.--A tale of Villafranca.--A court lady.--An August voice.--Christmas gifts.--Italy and the world.--A curse for a nation.</dcterms:description>
+   <dcterms:description>"Author's edition. This volume is published in England under the title of 'Poems before Congress'."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2205852/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65329</edm:isShownAt>
+</mdRecord>

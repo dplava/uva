@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:52 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65040</dcterms:identifier>
+   <dcterms:title>Tabellarische übersicht der künstlichen organischen farbstoffe / von Gustov Schultz und Paul Julius</dcterms:title>
+   <dcterms:creator>Julius, Paul.</dcterms:creator>
+   <dcterms:creator>Schultz, Gustov Theodor August Otto, 1851-1928</dcterms:creator>
+   <dcterms:publisher>R. Gaertner:s verlagsbuchhandlung, Hermann Heyfelder</dcterms:publisher>
+   <dcterms:created>1888</dcterms:created>
+   <dcterms:extent>85 p.</dcterms:extent>
+   <dcterms:extent>27 cm. [original]</dcterms:extent>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Dyes and dyeing--Chemistry.</dcterms:subject>
+   <dcterms:subject>Coal-tar colors</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2094687/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65040</edm:isShownAt>
+</mdRecord>

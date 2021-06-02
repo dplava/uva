@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:05 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:62440</dcterms:identifier>
+   <dcterms:title>The seamy side of history, etc / Introduction by W. P. Trent</dcterms:title>
+   <dcterms:creator>Balzac, Honoré de, 1799-1850</dcterms:creator>
+   <dcterms:creator>Trent, William P. (William Peterfield), 1862-1939</dcterms:creator>
+   <dcterms:publisher>F. DeFau</dcterms:publisher>
+   <dcterms:created>1900</dcterms:created>
+   <dcterms:extent>391 p.</dcterms:extent>
+   <dcterms:extent>22 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Translation of: Le̓nvers de lh̓istoire contemporaine.</dcterms:description>
+   <dcterms:description>VIVA Repository Copy 2014.</dcterms:description>
+   <dcterms:description>Item X000389668 has bookplate data: Dr. Wilbur P. Morgan.</dcterms:description>
+   <dcterms:isPartOf>Works, [v.32]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2361779/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:62440</edm:isShownAt>
+</mdRecord>

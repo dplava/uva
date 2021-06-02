@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:47 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61560</dcterms:identifier>
+   <dcterms:title>Memoirs of a minister of state, from the year 1840 / by F. Guizot</dcterms:title>
+   <dcterms:creator>Guizot, François, 1787-1874</dcterms:creator>
+   <dcterms:publisher>R. Bentley</dcterms:publisher>
+   <dcterms:created>1864.</dcterms:created>
+   <dcterms:extent>viii, 400 p. 23 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Covers the period 1840-1842.</dcterms:description>
+   <dcterms:description>Translation of v. 6 of His Mémoirs pour sevir a ́lh́istoire de mon temps.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>France--History--Louis Philippe, 1830-1848</dcterms:subject>
+   <dcterms:subject>France--Politics and government--1830-1848.</dcterms:subject>
+   <dcterms:temporal>1830-1848.</dcterms:temporal>
+   <dcterms:temporal>Louis Philippe, 1830-1848</dcterms:temporal>
+   <dcterms:spatial>France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1617984/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61560</edm:isShownAt>
+</mdRecord>

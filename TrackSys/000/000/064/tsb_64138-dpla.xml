@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:29 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64138</dcterms:identifier>
+   <dcterms:title>Incidents and anecdotes of the civil war</dcterms:title>
+   <dcterms:creator>Porter, David D. (David Dixon), 1813-1891</dcterms:creator>
+   <dcterms:publisher>D.Appleton &amp; co.</dcterms:publisher>
+   <dcterms:created>1885</dcterms:created>
+   <dcterms:extent>357 p. front. (port.) 23 cm.</dcterms:extent>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Personal narratives.</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Naval operations.</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1870424/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64138</edm:isShownAt>
+</mdRecord>

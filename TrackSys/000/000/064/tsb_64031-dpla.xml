@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:26 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64031</dcterms:identifier>
+   <dcterms:title>Eliza Pinckney / by Harriott Horry Ravenel</dcterms:title>
+   <dcterms:creator>Ravenel, Harriott Horry, 1832-1912</dcterms:creator>
+   <dcterms:publisher>Scribner's Sons</dcterms:publisher>
+   <dcterms:created>1896</dcterms:created>
+   <dcterms:extent>xi, 331 p. fold. facsim. 18 cm.</dcterms:extent>
+   <dcterms:medium>facsimiles</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Series title also at head of t.-p.</dcterms:description>
+   <dcterms:description>Eliza Pinckney, wife of Chief Justice Charles Pinckney and mother of C.C. and Thomas Pinckney.</dcterms:description>
+   <dcterms:isPartOf>Women of colonial and revolutionary times</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Pinckney, Eliza Lucas, 1723-1793</dcterms:subject>
+   <dcterms:subject>Pinckney, Charles, d. 1758</dcterms:subject>
+   <dcterms:subject>South Carolina--History--Colonial period, ca. 1600-1775.</dcterms:subject>
+   <dcterms:subject>South Carolina--Politics and government--1775-1783.</dcterms:subject>
+   <dcterms:temporal>1775-1783.</dcterms:temporal>
+   <dcterms:temporal>Colonial period, ca. 1600-1775.</dcterms:temporal>
+   <dcterms:spatial>South Carolina</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1829879/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64031</edm:isShownAt>
+</mdRecord>

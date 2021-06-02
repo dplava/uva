@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:26 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64037</dcterms:identifier>
+   <dcterms:title>The improvement of the mind: or, A supplement to the Art of logic: containing a variety of remarks and rules for the attainment and communication of useful knowledge in religion, in the sciences, and in common life. To which is added, Discourse on the education of children and youth / By Isaac Watts. Two parts, complete in one volume</dcterms:title>
+   <dcterms:title>Art of logic</dcterms:title>
+   <dcterms:title>Discourse on the education of children and youth</dcterms:title>
+   <dcterms:creator>Watts, Isaac, 1674-1748</dcterms:creator>
+   <dcterms:publisher>Printed for F. &amp; C. Rivington [etc.</dcterms:publisher>
+   <dcterms:created>1801</dcterms:created>
+   <dcterms:extent>xii, 396 p.</dcterms:extent>
+   <dcterms:extent>22cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Logic</dcterms:subject>
+   <dcterms:subject>Self-culture</dcterms:subject>
+   <dcterms:subject>Education</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1832638/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64037</edm:isShownAt>
+</mdRecord>

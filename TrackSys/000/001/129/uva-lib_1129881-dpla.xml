@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 4:59 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1129881</dcterms:identifier>
+   <dcterms:title>In answer to thy prayer I'll come: reply to the popular song "O come to me in my dreams" as sung by Mrs. Seguin / words &amp; music by H.E. Loane ; arranged by Geo. W. Walter</dcterms:title>
+   <dcterms:title>In answer to thy prayer I'll come</dcterms:title>
+   <dcterms:title>O come to me in my dreams</dcterms:title>
+   <dcterms:creator>Hoblitzell, Ella A.</dcterms:creator>
+   <dcterms:creator>Loane, H. E.</dcterms:creator>
+   <dcterms:creator>Seguin, Anne, 1814-1888</dcterms:creator>
+   <dcterms:creator>T. Sinclair's Lith.</dcterms:creator>
+   <dcterms:creator>Walter, George W. (George William), 1909-</dcterms:creator>
+   <dcterms:publisher>Otto Sutro</dcterms:publisher>
+   <dcterms:created>1869</dcterms:created>
+   <dcterms:extent>7 p. of music</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Title page illustration: Despondent man seated in chair by fireplace, with angels and cherbs in cloud overhead.</dcterms:description>
+   <dcterms:description>At foot of title page: "T. Sinclair's Lith., Phila.</dcterms:description>
+   <dcterms:description>At head of title: "To Miss Ella A. Hoblitzell."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1129882/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1129881</edm:isShownAt>
+</mdRecord>

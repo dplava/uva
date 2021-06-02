@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 12:08 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65631</dcterms:identifier>
+   <dcterms:title>Gildersleeve's Latin grammar</dcterms:title>
+   <dcterms:creator>Book Traces Project.</dcterms:creator>
+   <dcterms:creator>Gildersleeve, Basil L. (Basil Lanneau), 1831-1924</dcterms:creator>
+   <dcterms:creator>Lodge, Gonzalez, 1863-1942</dcterms:creator>
+   <dcterms:publisher>University publishing company</dcterms:publisher>
+   <dcterms:created>1894</dcterms:created>
+   <dcterms:extent>x, 550 p. 19 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>3d ed., rev. and enl.</dcterms:description>
+   <dcterms:description>Item X001996625 contains annotations, inscriptions, and marginalia.</dcterms:description>
+   <dcterms:description>Subject entries from the Provenance Evidence Thesaurus describe copies analyzed by Book Traces @ UVA.</dcterms:description>
+   <dcterms:description>Item X000381344 has bookplate data: Robert Lewis Harrison. Item X001996625 has bookplate data: William E. Peters.</dcterms:description>
+   <dcterms:isPartOf>Gildersleeve-Lodge Latin series</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Latin language--Grammar.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2321719/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65631</edm:isShownAt>
+</mdRecord>

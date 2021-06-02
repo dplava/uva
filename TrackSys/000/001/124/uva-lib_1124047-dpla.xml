@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 4:53 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1124047</dcterms:identifier>
+   <dcterms:title>Künstler Leben = Artist's life : Walzer, op. 316 / Johann Strauss</dcterms:title>
+   <dcterms:title>Artist's life</dcterms:title>
+   <dcterms:title>Strauss, Johann, 1825-1899. Künstlerleben; arr</dcterms:title>
+   <dcterms:creator>Strauss, Johann, 1825-1899</dcterms:creator>
+   <dcterms:creator>Swain, George F.</dcterms:creator>
+   <dcterms:publisher>Lee &amp; Walker</dcterms:publisher>
+   <dcterms:created>[1872..1875]</dcterms:created>
+   <dcterms:extent>11 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo; originally for orchestra.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>At foot of series title page: "Swain, Phila."</dcterms:description>
+   <dcterms:isPartOf>Music of the dance : being a collection of the most popular &amp; favorite polkas, waltzes, quadrilles, cotillions, &amp;c</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music, Arranged</dcterms:subject>
+   <dcterms:subject>Waltzes</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1124048/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124047</edm:isShownAt>
+</mdRecord>

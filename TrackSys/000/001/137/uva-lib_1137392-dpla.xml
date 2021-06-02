@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 5:17 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1137392</dcterms:identifier>
+   <dcterms:title>Nancy Lee: ballad / by Stephen Adams</dcterms:title>
+   <dcterms:title>Of all the wives as e'er you know</dcterms:title>
+   <dcterms:creator>Adams, Stephen, 1844-1913</dcterms:creator>
+   <dcterms:creator>Weatherly, F. E. (Frederic Edward), 1848-1929</dcterms:creator>
+   <dcterms:publisher>Oliver Ditson &amp; Co.</dcterms:publisher>
+   <dcterms:created>[1858..1889]</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, baritone voice</dcterms:description>
+   <dcterms:description>For baritone in E flat.</dcterms:description>
+   <dcterms:description>For baritone voice and piano.</dcterms:description>
+   <dcterms:description>"Words by Fred. E. Weatherly"--Caption.</dcterms:description>
+   <dcterms:description>Publication date derived from form of publisher's name. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: "Something new! ... The musical record!"</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1137393/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1137392</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:34 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64367</dcterms:identifier>
+   <dcterms:title>A verbatim report, with indexes, of the debate in Parliament during the progress of the Elementary education bill, 1870 / together with a reprint of the act. Prepared under the direction of the National Education Union</dcterms:title>
+   <dcterms:creator>National Education Union.</dcterms:creator>
+   <dcterms:created>1870</dcterms:created>
+   <dcterms:extent>xx, 622 p. 22 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>At head of title: National education union.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Educational law and legislation--Great Britain.</dcterms:subject>
+   <dcterms:subject>Education, Elementary--Great Britain.</dcterms:subject>
+   <dcterms:subject>Education--Great Britain.</dcterms:subject>
+   <dcterms:spatial>Great Britain.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1950428/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64367</edm:isShownAt>
+</mdRecord>

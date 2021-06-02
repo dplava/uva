@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:32 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64271</dcterms:identifier>
+   <dcterms:title>Report of the Committee on salaries, tenure, and pensions of public school teachers in the United States to the National council of education, July, 1905</dcterms:title>
+   <dcterms:creator>National Education Association of the United States. Committee on Salaries, Tenure, and Pensions (appointed 1903)</dcterms:creator>
+   <dcterms:publisher>The Association</dcterms:publisher>
+   <dcterms:created>1905</dcterms:created>
+   <dcterms:extent>466 p. 24 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Teachers--United States.</dcterms:subject>
+   <dcterms:subject>Teachers--United States--Salaries, etc.</dcterms:subject>
+   <dcterms:subject>Teachers--United States--Pensions.</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1920546/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64271</edm:isShownAt>
+</mdRecord>

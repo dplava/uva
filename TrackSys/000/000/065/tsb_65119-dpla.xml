@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:55 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65119</dcterms:identifier>
+   <dcterms:title>Courses of study in the eight grades / by Charles A. McMurry, Ph.D.</dcterms:title>
+   <dcterms:creator>McMurry, Charles A. (Charles Alexander), 1857-1929</dcterms:creator>
+   <dcterms:publisher>Macmillan</dcterms:publisher>
+   <dcterms:created>1906.</dcterms:created>
+   <dcterms:extent>2 v. 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>v.l. Grades I to IV.--v.2. Grades V to VIII.</dcterms:description>
+   <dcterms:description>Contains short bibliographies.</dcterms:description>
+   <dcterms:description>ALDERMAN: Copy 1: v1-2 (withd. Aldermn)</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Teaching</dcterms:subject>
+   <dcterms:subject>Education</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2124963/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65119</edm:isShownAt>
+</mdRecord>

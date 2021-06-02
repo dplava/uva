@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:22 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63880</dcterms:identifier>
+   <dcterms:title>Anglo-Saxon superiority: to what it is due: ("A quoi tient la supériorité des Anglo-Saxons.") / By Edmond Demolins. Translated by Louis Bert. Lavigne</dcterms:title>
+   <dcterms:creator>Demolins, Edmond, 1852-1907</dcterms:creator>
+   <dcterms:creator>Lavigne, Louis Bertram</dcterms:creator>
+   <dcterms:publisher>R. F. Fenno &amp; company</dcterms:publisher>
+   <dcterms:created>1899</dcterms:created>
+   <dcterms:extent>[iii]-xxx, 343 p. illus. 20 cm.</dcterms:extent>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>At head of title: Translated from the tenth French edition. A work dealing from a French point of view with the causes of the superiority of the English-speaking peoples.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Anglo-Saxon race</dcterms:subject>
+   <dcterms:subject>Latin peoples</dcterms:subject>
+   <dcterms:subject>Competition, International</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1770755/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63880</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 4:51 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1123330</dcterms:identifier>
+   <dcterms:title>Forgetfulness! = Oblio! : alto / F. Paolo Tosti ; parole di Naborre Campanini ; English version by F.W. Rosier</dcterms:title>
+   <dcterms:title>I would be with thee</dcterms:title>
+   <dcterms:title>Oblio!</dcterms:title>
+   <dcterms:title>Vivere teco, e dale verdi sponde del finme riguardar</dcterms:title>
+   <dcterms:title>Tosti, F. Paolo (Francesco Paolo), 1846-1916. Oblio! English &amp; Italian</dcterms:title>
+   <dcterms:creator>Campanini, Naborre, 1850-1925</dcterms:creator>
+   <dcterms:creator>Edwards, Edward B. (Edward Bartholomew), 1873-1948</dcterms:creator>
+   <dcterms:creator>Rosier, F. W. (Fitz William)</dcterms:creator>
+   <dcterms:creator>Tosti, F. Paolo (Francesco Paolo), 1846-1916</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1899</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>piano, alto voice</dcterms:description>
+   <dcterms:description>For alto and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>At foot of series title page: "Edward B. Edwards, D.E.S."</dcterms:description>
+   <dcterms:description>Imprint varies: "Design copyright 1899"--Series title page.</dcterms:description>
+   <dcterms:description>Italian words with English translation.</dcterms:description>
+   <dcterms:isPartOf>Favorite songs / by F. Paolo Tosti</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1123331/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1123330</edm:isShownAt>
+</mdRecord>

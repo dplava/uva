@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:27 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64054</dcterms:identifier>
+   <dcterms:title>Foundations of sociology / by Edward Alsworth Ross</dcterms:title>
+   <dcterms:creator>Ross, Edward Alsworth, 1866-1951</dcterms:creator>
+   <dcterms:publisher>Macmillan</dcterms:publisher>
+   <dcterms:created>1905</dcterms:created>
+   <dcterms:extent>xiv, 410 p. 19 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>At head of title: The citizen's library.</dcterms:description>
+   <dcterms:description>Bibliography: p. 348-352.</dcterms:description>
+   <dcterms:description>"Sociological works cited or referred to in the text": p. 397-401.</dcterms:description>
+   <dcterms:description>Item X000548826 has bookplate data: William Harry Heck.</dcterms:description>
+   <dcterms:isPartOf>The citizen's library of economics, politics, and sociology</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sociology</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1839464/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64054</edm:isShownAt>
+</mdRecord>

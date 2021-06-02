@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:54 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65109</dcterms:identifier>
+   <dcterms:title>Le colonel Chabert: Honorine ; L'interdicton / H. de Balzac</dcterms:title>
+   <dcterms:title>Honorine</dcterms:title>
+   <dcterms:title>L'interdiction</dcterms:title>
+   <dcterms:creator>Balzac, Honoré de, 1799-1850</dcterms:creator>
+   <dcterms:publisher>Calmann Lévy</dcterms:publisher>
+   <dcterms:created>1896</dcterms:created>
+   <dcterms:extent>303 p.</dcterms:extent>
+   <dcterms:extent>19 cm. [original]</dcterms:extent>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>With: Le Marquis de Villemer : comédie en quatre actes, en prose / par George Sand. Nouvellle édition. Paris : Calmann Lévy, 1897.</dcterms:description>
+   <dcterms:isPartOf>Oeuvres complètes de H. de Balzac ; [v.5]</dcterms:isPartOf>
+   <dcterms:isPartOf>Scenes de la vie privee</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2122349/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65109</edm:isShownAt>
+</mdRecord>

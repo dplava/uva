@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:28 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:64105</dcterms:identifier>
+   <dcterms:title>Lettres persanes / texte établi et présenté par Élie Carcassonne</dcterms:title>
+   <dcterms:creator>Montesquieu, Charles de Secondat baron de, 1689-1755</dcterms:creator>
+   <dcterms:publisher>F. Roches</dcterms:publisher>
+   <dcterms:created>1929</dcterms:created>
+   <dcterms:extent>2 v. 21 cm.</dcterms:extent>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>ALDERMAN: ALD:v.2. One copy: Photocopy. Charlestown, MA : Acme Bookbinding, 1999.</dcterms:description>
+   <dcterms:isPartOf>Les textes francais. Collection des universites de France publiee sous les auspices de l'associaion Guillaume Bude</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Carcassonne, Elie, ed</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1859138/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64105</edm:isShownAt>
+</mdRecord>

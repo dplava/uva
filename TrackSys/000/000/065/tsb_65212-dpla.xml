@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:57 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65212</dcterms:identifier>
+   <dcterms:title>Educational adaptions</dcterms:title>
+   <dcterms:creator>Jones, Thomas Jesse, 1873-1950</dcterms:creator>
+   <dcterms:creator>Phelps-Stokes Fund.</dcterms:creator>
+   <dcterms:creator>Stokes, Olivia Egleston Phelps, 1847-1927</dcterms:creator>
+   <dcterms:publisher>Phelps-Stokes fund</dcterms:publisher>
+   <dcterms:created>1920</dcterms:created>
+   <dcterms:extent>92 p. front. (port.) diagrs. 26 cm.</dcterms:extent>
+   <dcterms:medium>diagrams</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>HathiTrust shared print program 2017.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Stokes, Caroline Phelps, 1854-1909</dcterms:subject>
+   <dcterms:subject>African Americans--Education.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2160277/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65212</edm:isShownAt>
+</mdRecord>

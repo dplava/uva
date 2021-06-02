@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:24 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63948</dcterms:identifier>
+   <dcterms:title>Misère et remèdes / par le comte d'Haussonville</dcterms:title>
+   <dcterms:creator>Haussonville comte d', 1843-1924</dcterms:creator>
+   <dcterms:publisher>Calmann Levy</dcterms:publisher>
+   <dcterms:created>1886</dcterms:created>
+   <dcterms:extent>552 p.</dcterms:extent>
+   <dcterms:extent>23 cm. [original]</dcterms:extent>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:isPartOf>Études sociales</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Social problems</dcterms:subject>
+   <dcterms:subject>Labor--France--Paris.</dcterms:subject>
+   <dcterms:subject>Working class--France--Paris.</dcterms:subject>
+   <dcterms:subject>Labor movement--France--Paris.</dcterms:subject>
+   <dcterms:subject>Paris (France)--Social conditions.</dcterms:subject>
+   <dcterms:subject>France--Social conditions--19th century.</dcterms:subject>
+   <dcterms:temporal>19th century.</dcterms:temporal>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Paris (France)</dcterms:spatial>
+   <dcterms:spatial>Paris.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1796347/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63948</edm:isShownAt>
+</mdRecord>

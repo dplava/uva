@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 10:48 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:61581</dcterms:identifier>
+   <dcterms:title>The passing of the great race: or, The racial basis of European history / by Madison Grant</dcterms:title>
+   <dcterms:title>Racial basis of European history</dcterms:title>
+   <dcterms:creator>Grant, Madison, 1865-1937</dcterms:creator>
+   <dcterms:publisher>Charles Scribner's Sons</dcterms:publisher>
+   <dcterms:created>1916</dcterms:created>
+   <dcterms:extent>xxi, 245 p. fold. maps, fold. tables. 24 cm.</dcterms:extent>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Bibliography: p. 229-232.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: GN575 .G75 1916 Copy 1: Signed by the author, Dec. 22, 1916. Gift of Hartwell Cabell.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: GN575 .G75 1916 Copy 2: "This book is a gift of the McGregor Fund to the general collection of the Alderman Library."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Ethnology--Europe.</dcterms:subject>
+   <dcterms:spatial>Europe.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1625495/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61581</edm:isShownAt>
+</mdRecord>

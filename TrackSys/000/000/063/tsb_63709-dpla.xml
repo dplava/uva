@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:17 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63709</dcterms:identifier>
+   <dcterms:title>Beginnings in industrial education, and other educational discussions</dcterms:title>
+   <dcterms:creator>Hanus, Paul Henry, 1855-1941</dcterms:creator>
+   <dcterms:publisher>Houghton Mifflin company</dcterms:publisher>
+   <dcterms:created>1908</dcterms:created>
+   <dcterms:extent>ix p., 2 l., [3]-199, [1] p. 19 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Technical education</dcterms:subject>
+   <dcterms:subject>Teachers--Training of.</dcterms:subject>
+   <dcterms:subject>Education--Germany--Bavaria.</dcterms:subject>
+   <dcterms:subject>Religious education</dcterms:subject>
+   <dcterms:spatial>Bavaria.</dcterms:spatial>
+   <dcterms:spatial>Germany</dcterms:spatial>
+   <dcterms:spatial>Germany (West)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1706333/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63709</edm:isShownAt>
+</mdRecord>

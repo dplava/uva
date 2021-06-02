@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:25 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63988</dcterms:identifier>
+   <dcterms:title>Harvard memorial biographies</dcterms:title>
+   <dcterms:creator>Higginson, Thomas Wentworth, 1823-1911</dcterms:creator>
+   <dcterms:publisher>Sever and Francis</dcterms:publisher>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>2 v. 21 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Preface signed: Thomas Wentworth Higginson. The biographies are by various writers.</dcterms:description>
+   <dcterms:description>"This is a series of memoirs of those graduates and former undergraduates of Harvard university who fell in battle during the recent war, or who died in consequence of services rendered in the contest." - Pref.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Clifton Waller Barrett Library. Higginson Collection. Purchased for the Barrett Collection with President's Fund, 1998/1999.</dcterms:description>
+   <dcterms:description>Item X000597510 has bookplate data: Alfred H. Byrd.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Harvard University--Biography.</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Biography.</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1812357/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63988</edm:isShownAt>
+</mdRecord>

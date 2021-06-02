@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-27 at 11:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65177</dcterms:identifier>
+   <dcterms:title>The industrial resources, etc., of the Southern and Western states</dcterms:title>
+   <dcterms:creator>De Bow, J. D. B. (James Dunwoody Brownson), 1820-1867</dcterms:creator>
+   <dcterms:publisher>The office of De Bow's review</dcterms:publisher>
+   <dcterms:created>1852/1853</dcterms:created>
+   <dcterms:extent>3 v. tables. 22 cm.</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Slavery--United States.</dcterms:subject>
+   <dcterms:subject>Manufacturing industries--United States.</dcterms:subject>
+   <dcterms:subject>Southern States--Industries.</dcterms:subject>
+   <dcterms:subject>West (U.S.)--Economic conditions.</dcterms:subject>
+   <dcterms:subject>United States--Statistics.</dcterms:subject>
+   <dcterms:subject>Southern States--Economic conditions.</dcterms:subject>
+   <dcterms:spatial>Southern States</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>West (U.S.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2146857/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65177</edm:isShownAt>
+</mdRecord>

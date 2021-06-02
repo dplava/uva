@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-05-28 at 4:56 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1125041</dcterms:identifier>
+   <dcterms:title>The toast be dear woman / the poetry by Edward Fitz Ball ; composed expressly for and dedicated to J. Wood Esq. by his friend G. Herbert Rodwell</dcterms:title>
+   <dcterms:title>Bright bright are the beams of the morning sky</dcterms:title>
+   <dcterms:creator>Fitzball, Edward, 1792-1873</dcterms:creator>
+   <dcterms:creator>Rodwell, G. Herbert (George Herbert), 1800-1852</dcterms:creator>
+   <dcterms:creator>Wood, J.</dcterms:creator>
+   <dcterms:publisher>John Cole &amp; Son</dcterms:publisher>
+   <dcterms:created>[1834..1836]</dcterms:created>
+   <dcterms:extent>1 score (3 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publication date derived from form of publisher's name. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1125042/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125041</edm:isShownAt>
+</mdRecord>
