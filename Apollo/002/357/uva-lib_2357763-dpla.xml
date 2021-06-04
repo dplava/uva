@@ -14,7 +14,7 @@
     <dcterms:title>John Sallings, purportedly one of two remaining veterans of the Civil War, celebrates his 112th birthday</dcterms:title>
     <dcterms:subject>Virginia--Social life and customs--20th century</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n80043312">Scott County (Va.)</dcterms:spatial>
-    <dcterms:rights>https://rightsstatements.org/page/CNE/1.0/</dcterms:rights>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
     <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
