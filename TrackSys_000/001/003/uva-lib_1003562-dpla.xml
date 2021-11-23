@@ -1,1 +1,34 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:34 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003562</dcterms:identifier>
+   <dcterms:title>The north part of Great Britain called Scotland: with considerable inprovements [sic] and many remarks not extant in any map, according to the newest and exact observations / by Herman Moll Geographer, 1714</dcterms:title>
+   <dcterms:creator>Bowles, John, 1701-1779</dcterms:creator>
+   <dcterms:creator>Bowles, Thomas, -1767</dcterms:creator>
+   <dcterms:creator>King, John.</dcterms:creator>
+   <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+   <dcterms:publisher>Printed for H. Moll over against Devereux Court on the Strand I. Bowles, Print and Map Seller, at the Black Horse in Cornhill, Tho. Bowles Print and Mapseller next to ye Chapter house in St. Pauls Church yard, and for John King Print Print [sic] &amp; Mapseller at the Globe in the Poultry.</dcterms:publisher>
+   <dcterms:created>1730</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>60 x 100 cm. on sheet 62 x 107 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown pictorially.</dcterms:description>
+   <dcterms:description>Inset (separate scale): Northern Ocean, showing the Islands of Shetland and Orkney Islands.</dcterms:description>
+   <dcterms:description>Dedication: To the right honourable John Earl of Marr, one of Her Majesty's principal Secretaries of State, &amp;c. This map is most Humbly Dedicated by your Lordship's most Humble Servent H. Moll Geographer.</dcterms:description>
+   <dcterms:description>Map is bordered on sides and bottom by 11 b&amp;w city and castle views: Edinburg -- Glasgow -- St. Andrews -- Sterling -- Montrose -- Channery Town in Ross -- The Bass -- Dunotyr Castle in Merns -- Sterling Castle -- Edinburg Castle -- Aberdeen.</dcterms:description>
+   <dcterms:description>Prime meridian: London.</dcterms:description>
+   <dcterms:description>Note: Its manifest by this map, which is founded upon undoubted authority, how easy it would be to settle the most advantageous fishery in the world here, and also with a small change to make rivers navigable, for carrying timber to the sea side, for there grows excellent good fir &amp;c in these parts, so that if things were rightly managed, there would be no occasion to go to Norway for wood or to New-found-land for fish; seeing North Britain can plentifully furnish us with both.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: "Scotland" is written in brown ink on the verso.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:910,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Scotland--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:spatial>Scotland</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904702/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003562</edm:isShownAt>
+</mdRecord>

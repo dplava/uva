@@ -1,1 +1,23 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:38 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1004275</dcterms:identifier>
+   <dcterms:title>Parental murder: or, The brothers, an interesting romance; in which virtue and villany are contrasted, and followed by reward and retribution</dcterms:title>
+   <dcterms:title>The brothers</dcterms:title>
+   <dcterms:publisher>Printed for T. and R. Hughes</dcterms:publisher>
+   <dcterms:created>1807</dcterms:created>
+   <dcterms:extent>[1] l., [7]-40 p. front. 18.5 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Chap-book.</dcterms:description>
+   <dcterms:description>"Printed by Lewis &amp; Hamblin."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Sadleir-Black Collection of Gothic Novels. Gift.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Chapbooks</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:605564/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004275</edm:isShownAt>
+</mdRecord>

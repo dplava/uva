@@ -1,1 +1,20 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 6:18 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18880</dcterms:identifier>
+   <dcterms:title>Grand Division S. of T. of Virginia. Richmond, September 7, 1854: [Circular regarding] "Elections of Representatives to Grand Divisions", Password and Explanation for the quarter commencing October, 1854, and also the Travelling Password and Explanation for the year commencing 1st October, 1854 / [signed] Thomas J. Evans, G.S.</dcterms:title>
+   <dcterms:creator>Evans, Thomas J.</dcterms:creator>
+   <dcterms:creator>Sons of Temperance of North America. Grand Division of Virginia.</dcterms:creator>
+   <dcterms:created>1854</dcterms:created>
+   <dcterms:extent>1 broadside. 25 x 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Temperance--Societies, etc.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1518990/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18880</edm:isShownAt>
+</mdRecord>

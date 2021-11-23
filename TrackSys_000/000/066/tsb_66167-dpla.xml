@@ -1,1 +1,25 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:23 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66167</dcterms:identifier>
+   <dcterms:title>An essay on the learning of contingent remainders and executory devises / By Charles Fearne</dcterms:title>
+   <dcterms:creator>Butler, Charles, 1750-1832</dcterms:creator>
+   <dcterms:creator>Fearne, Charles, 1742-1794</dcterms:creator>
+   <dcterms:publisher>J. &amp; W. T. Clarke; [etc., etc.</dcterms:publisher>
+   <dcterms:created>1824</dcterms:created>
+   <dcterms:extent>lvi, 722 p. 25 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>8th ed.,</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Remainders (Estates)</dcterms:subject>
+   <dcterms:subject>Executory interests--Great Britain.</dcterms:subject>
+   <dcterms:spatial>Great Britain.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2562887/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66167</edm:isShownAt>
+</mdRecord>

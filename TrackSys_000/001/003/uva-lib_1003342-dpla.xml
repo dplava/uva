@@ -1,1 +1,32 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:29 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003342</dcterms:identifier>
+   <dcterms:title>The state of South Carolina: from the best authorities / Samuel Lewis, 1795 ; W. Barker sculp</dcterms:title>
+   <dcterms:creator>Barker, W. (William), active 1795-1803</dcterms:creator>
+   <dcterms:creator>Carey, Mathew, 1760-1839</dcterms:creator>
+   <dcterms:creator>Guthrie, William, 1708-1770</dcterms:creator>
+   <dcterms:creator>Lewis, Samuel, 1753 or 1754-1822</dcterms:creator>
+   <dcterms:publisher>Mathew Carey</dcterms:publisher>
+   <dcterms:created>1796</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>39 x 44 cm. on sheet 41 x 51 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown pictorially.</dcterms:description>
+   <dcterms:description>Prime meridians: Philadelphia and London.</dcterms:description>
+   <dcterms:description>"Engraved for Carey's American edition of Guthrie's Geography improved."</dcterms:description>
+   <dcterms:description>Plate number "38" printed in right upper corner just outside neatline.</dcterms:description>
+   <dcterms:description>Appeared as Plate 38 in Carey's General Atlas..., Philadelphia, 1796.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:990,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>South Carolina--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:spatial>South Carolina</dcterms:spatial>
+   <dcterms:spatial>Philadelphia, Pennsylvania, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:891398/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003342</edm:isShownAt>
+</mdRecord>

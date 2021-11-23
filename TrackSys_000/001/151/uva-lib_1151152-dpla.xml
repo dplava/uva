@@ -1,1 +1,33 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:31 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1151152</dcterms:identifier>
+   <dcterms:title>Marche de nuit / composé pour le piano par L.M. Gottschalk</dcterms:title>
+   <dcterms:creator>Gottschalk, Louis Moreau, 1829-1869</dcterms:creator>
+   <dcterms:creator>Páez, José Antonio, 1790-1873</dcterms:creator>
+   <dcterms:publisher>Oliver Ditson &amp; Co.</dcterms:publisher>
+   <dcterms:created>1876</dcterms:created>
+   <dcterms:extent>13 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>New and rev. ed.</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Reprint. Originally published: New York ; Wm. Hall &amp; Son, c1856.</dcterms:description>
+   <dcterms:description>"To General Don José Paez."</dcterms:description>
+   <dcterms:description>Advertisement on p. [14]: Standard systems for training &amp; cultivating the voice.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy imperfect; p. 13 torn, with some music lacking.</dcterms:description>
+   <dcterms:isPartOf>L.M. Gottschalk</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Marches (Piano)</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1151153/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1151152</edm:isShownAt>
+</mdRecord>

@@ -1,1 +1,31 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 4:01 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1124845</dcterms:identifier>
+   <dcterms:title>The Vera Cruz grand march / composed .. by Francis Buck</dcterms:title>
+   <dcterms:creator>Buck, Francis.</dcterms:creator>
+   <dcterms:creator>Scott, Winfield, 1786-1866</dcterms:creator>
+   <dcterms:creator>Webb, L. W.</dcterms:creator>
+   <dcterms:publisher>F.D. Benteen</dcterms:publisher>
+   <dcterms:created>1847</dcterms:created>
+   <dcterms:extent>[2] leaves of music</dcterms:extent>
+   <dcterms:extent>35 cm. [original]</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>"Webb"--Colophon.</dcterms:description>
+   <dcterms:description>"... Respectfully dedicated to Majr. Genl. Winfield Scott, commanding the forces of the U.S. at the surrender of the city &amp; castle of Vera Cruz."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: One copy stamped: Sold by P.H. Taylor, Richmond, Va.</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v. 164, no. 26]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Marches (Piano)</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Mexican War, 1846-1848--Songs and music.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1124846/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124845</edm:isShownAt>
+</mdRecord>

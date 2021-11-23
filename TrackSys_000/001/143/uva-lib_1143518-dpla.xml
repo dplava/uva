@@ -1,1 +1,27 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:02 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1143518</dcterms:identifier>
+   <dcterms:title>Adagio from Beethoven's Sextet, op. 81 / arranged for the Mason &amp; Hamlin cabinet organ &amp; piano forte by Theodore Thomas</dcterms:title>
+   <dcterms:title>Beethoven, Ludwig van, 1770-1827. Sextets, horns (2), violins (2), viola, cello, E♭ major. op. 81b, E♭ major. arranged. Adagio; arranged</dcterms:title>
+   <dcterms:creator>Beethoven, Ludwig van, 1770-1827</dcterms:creator>
+   <dcterms:creator>Lawson</dcterms:creator>
+   <dcterms:creator>Thomas, Theodore, 1835-1905</dcterms:creator>
+   <dcterms:publisher>S. Brainard's Sons</dcterms:publisher>
+   <dcterms:created>1866</dcterms:created>
+   <dcterms:extent>2 parts.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano, organ</dcterms:description>
+   <dcterms:description>"Lawson's N.Y."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Organ and piano music, Arranged</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1143519/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1143518</edm:isShownAt>
+</mdRecord>

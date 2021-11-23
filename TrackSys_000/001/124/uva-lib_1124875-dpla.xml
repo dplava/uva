@@ -1,1 +1,35 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 4:01 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1124875</dcterms:identifier>
+   <dcterms:title>As I view these scenes so charming: (English &amp; Italian words) : in the celebrated opera, La sonnambula / by Bellini</dcterms:title>
+   <dcterms:title>As I view these scenes so charming</dcterms:title>
+   <dcterms:title>La sonnambula</dcterms:title>
+   <dcterms:title>Vi ravviso o luoghi ameni</dcterms:title>
+   <dcterms:title>Bellini, Vincenzo, 1801-1835. Sonnambula. Va ravviso o luoghi ameni. English &amp; Italian</dcterms:title>
+   <dcterms:creator>Bellini, Vincenzo, 1801-1835</dcterms:creator>
+   <dcterms:publisher>F.D. Benteen</dcterms:publisher>
+   <dcterms:created>[1839..1851]</dcterms:created>
+   <dcterms:extent>1 vocal score (8 p.)</dcterms:extent>
+   <dcterms:extent>33 cm. [original]</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>voice, piano</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publication date derived from form of publisher's name. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>Italian words with English translation.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy imperfect; pages following p. 7-8 lacking.</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v. 65, no. 8]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano.</dcterms:subject>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1124876/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124875</edm:isShownAt>
+</mdRecord>

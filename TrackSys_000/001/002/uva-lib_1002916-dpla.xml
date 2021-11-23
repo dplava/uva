@@ -1,1 +1,29 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:26 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1002916</dcterms:identifier>
+   <dcterms:title>Le recueil Iehan Marot de Caen, poete &amp; escripuain de la magnanime royne Anne de Bretaigne, &amp; depuys Valet de chambre du treschrestie[n] roy Francoys premier de ce nom</dcterms:title>
+   <dcterms:title>Marot, Jean, 1463-1523. Selections. 1536</dcterms:title>
+   <dcterms:creator>Bauzonnet, Antoine, 1795-1882</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Marot, Clément, 1496-1544</dcterms:creator>
+   <dcterms:creator>Marot, Jean, 1463-1523</dcterms:creator>
+   <dcterms:creator>Petit, Jean</dcterms:creator>
+   <dcterms:publisher>On les vend à Paris en la rue sainct Iaques chez Iehan petit à l'enseigne de la Fleur de liz</dcterms:publisher>
+   <dcterms:created>1536</dcterms:created>
+   <dcterms:extent>[86] p.</dcterms:extent>
+   <dcterms:extent>13 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Doctrinal des princesses &amp; nobles dames -- Epistre des dames de Paris au Roy -- Epistre des dames de Paris aux courtisans estantz en Italie -- Epistre no[n] acheuee a la Royne Claude toucha[n]t la iournee saincte Brigide -- Sizain de Clement Marot filz de l'autheur -- La responce de France &amp; des Estatz aux escriuains seditieux -- Chant royal de la conception nostre dame -- Chant royal de nostre Redempteur Iesu-Christ, &amp; vng Rondeau a ce propos -- Cinquante Rondeaulx sur diuers propos.</dcterms:description>
+   <dcterms:description>Signatures: aa-ee⁸ ff⁴ (-ff4, blank)</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Bauzonnet. Armorial bookplate, Ex libris Franc. Com. a Thun-Hohenstein Tetschen. Bookplate of Douglas Gordon. Gordon lit, 219.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:864785/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002916</edm:isShownAt>
+</mdRecord>

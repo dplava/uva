@@ -1,1 +1,34 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:38 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1226496</dcterms:identifier>
+   <dcterms:title>Horrid massacre in Virginia: Just published, an Authentic and interesting narrative of the tragical scene which was witnessed in Southampton county (Virginia), on Monday the 22d of August last, when fifty five of its inhabitants (mostly women and children) were inhumanly massacred by the Blacks!</dcterms:title>
+   <dcterms:title>Just published, an Authentic and interesting narrative of the tragical scene which was witnessed in Southampton county (Virginia)</dcterms:title>
+   <dcterms:creator>Warner &amp; West.</dcterms:creator>
+   <dcterms:publisher>Warner and West</dcterms:publisher>
+   <dcterms:created>1831</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>40 x 28 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>[Variant of OCLC # 80181737]</dcterms:description>
+   <dcterms:description>A prospectus for: Authentic and impartial narrativeof the tragical scene ... [by Samuel Warner]. [New York], Printed for Warner &amp; West, 1831.</dcterms:description>
+   <dcterms:description>The heading "Horrid massacre in Virginia" is followed immediately by a woodcut of four scenes from the insurrection. The descriptive text consists of 3 paragraphs, with a row of 27 coffins separating the 2nd from the 3rd paragraphs. This broadside ends with the last line of text "out fault or crime) to perpetual bondage!---an example truly worthy of imitation by our brethren at the South." The sheet extends more than one centimeter beyond the end of the text, so it's clear that no additional material has been trimmed away.</dcterms:description>
+   <dcterms:description>At least one variant exists. The William L. Clements Library at the University of Michigan owns a broadside with the same text and woodcut of four scenes, but doesn't show the coffins. The text of the Clements copy is followed immediately by a double horizontal rule and two additional lines which read "The Narrative (which contains every important particular relating to the horrid massacre) is afforded for the trifling sum of 12 1/2 Cents. &lt;Pointing hand&gt; This paper left for perusal, and to be returned when called for."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Imperfect: sheet has been cut in two pieces just below the illustrations. Tracy W. McGregor Library, American History Collection. A digital copy (reduced in size) of the Michigan copy is laid in the broadside folder.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Warner, Samuel--Authentic and impartial narrative of the tragical scene which was witnessed in Southampton County (Virginia)</dcterms:subject>
+   <dcterms:subject>Southampton Insurrection, 1831</dcterms:subject>
+   <dcterms:subject>Slave insurrections--United States.</dcterms:subject>
+   <dcterms:subject>Slave insurrections--Virginia--Southampton County.</dcterms:subject>
+   <dcterms:spatial>Southampton County.</dcterms:spatial>
+   <dcterms:spatial>United States.</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1229231/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1226496</edm:isShownAt>
+</mdRecord>

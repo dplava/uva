@@ -1,1 +1,28 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 3:36 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1110637</dcterms:identifier>
+   <dcterms:title>Maîstre Pierre Pathelin restitue a son naturel. ; Le grant blason de faulses amours. ; Le loyer de folles amours</dcterms:title>
+   <dcterms:title>Grant blason de faulses amours</dcterms:title>
+   <dcterms:title>Loyer de folles amours</dcterms:title>
+   <dcterms:title>Farce de maître Pierre Pathelin</dcterms:title>
+   <dcterms:creator>Cuzin, Francisque, 1836-1890</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Du Pré, Galliot, -1561</dcterms:creator>
+   <dcterms:publisher>Pour Galiot de Pre libraire</dcterms:publisher>
+   <dcterms:created>1532</dcterms:created>
+   <dcterms:extent>[248] p.</dcterms:extent>
+   <dcterms:extent>13 cm. (16mo) [original]</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: a-p⁸ q⁴.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Cuzin. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 377.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1126411/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1110637</edm:isShownAt>
+</mdRecord>

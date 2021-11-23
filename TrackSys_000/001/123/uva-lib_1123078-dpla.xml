@@ -1,1 +1,36 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 3:53 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1123078</dcterms:identifier>
+   <dcterms:title>The Moon's on the lake, or, The Macgregors gathering: a favorite Scotch song : sung by Mr. Horn / written by Walter Scott ; composed by Alexander Lee</dcterms:title>
+   <dcterms:title>Macgregor's gathering</dcterms:title>
+   <dcterms:title>Moon's on the lake</dcterms:title>
+   <dcterms:title>The moon's on the lake and the mist's on the brae</dcterms:title>
+   <dcterms:title>Lee, Alexander, 1802-1851. Moon's on the lake</dcterms:title>
+   <dcterms:creator>Lee, Alexander, 1802-1851</dcterms:creator>
+   <dcterms:creator>Scott, Walter, 1771-1832</dcterms:creator>
+   <dcterms:publisher>Lee &amp; Walker</dcterms:publisher>
+   <dcterms:created>[1872..1875]</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: Choice selection of music published by Lee &amp; Walker.</dcterms:description>
+   <dcterms:isPartOf>Gems of Scotland : a beautiful collection of Scotch songs ; no. 26</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Scott, Walter, 1771-1832--Musical settings.</dcterms:subject>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:subject>Scots--Songs and music.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1123079/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1123078</edm:isShownAt>
+</mdRecord>

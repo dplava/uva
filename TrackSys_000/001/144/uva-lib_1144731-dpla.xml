@@ -1,1 +1,28 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:06 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1144731</dcterms:identifier>
+   <dcterms:title>Dancing o'er the waves: barcarole for mixed voices, also arranged for maile voices in D / written and composed by C.A. White ; arranged by Wm. Gooch</dcterms:title>
+   <dcterms:title>What joy, what joy we're dancing o'er the waves</dcterms:title>
+   <dcterms:creator>Gooch, William</dcterms:creator>
+   <dcterms:creator>White, C. A. (Charles Albert), 1832-1892</dcterms:creator>
+   <dcterms:publisher>White, Smith &amp; Co.</dcterms:publisher>
+   <dcterms:created>1878</dcterms:created>
+   <dcterms:extent>1 score (9 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>soprano voice, alto voice, tenor voice, bass voice, piano</dcterms:description>
+   <dcterms:description>For SATB quartet and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [10]: C.A. White: the greatest song-writer of the age .</dcterms:description>
+   <dcterms:isPartOf>C.A. White's secular quartettes for mixed voices</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Vocal quartets with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1144732/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1144731</edm:isShownAt>
+</mdRecord>

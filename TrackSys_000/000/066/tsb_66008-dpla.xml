@@ -1,1 +1,27 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:16 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66008</dcterms:identifier>
+   <dcterms:title>Reports of cases argued and determined in the High Court of Admiralty: commencing with the judgments of the Right Hon. Sir William Scott, Michaelmas term, 1798 [to April, 1808] / By Christopher Robinson</dcterms:title>
+   <dcterms:creator>Great Britain. High Court of Admiralty.</dcterms:creator>
+   <dcterms:creator>Robinson, Christopher, 1766-1833</dcterms:creator>
+   <dcterms:creator>Scott, William Baron Stowell, 1745-1836</dcterms:creator>
+   <dcterms:publisher>Printed by A. Strahan for J. Butterworth and J. White</dcterms:publisher>
+   <dcterms:created>1812</dcterms:created>
+   <dcterms:extent>6 v. 25 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>4th ed.</dcterms:description>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain.</dcterms:subject>
+   <dcterms:subject>Admiralty--Great Britain.</dcterms:subject>
+   <dcterms:spatial>Great Britain.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2462179/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66008</edm:isShownAt>
+</mdRecord>

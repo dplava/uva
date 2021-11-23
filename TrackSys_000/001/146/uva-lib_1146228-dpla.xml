@@ -1,1 +1,33 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:13 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1146228</dcterms:identifier>
+   <dcterms:title>The Saratoga regatta: waltzes / composed by Charles I. Bolles</dcterms:title>
+   <dcterms:creator>Bolles, Charles I.</dcterms:creator>
+   <dcterms:creator>Clayton Music Engraving Co.</dcterms:creator>
+   <dcterms:creator>Ferd. Mayer &amp; Co.</dcterms:creator>
+   <dcterms:publisher>Edward Hopkins</dcterms:publisher>
+   <dcterms:created>1875</dcterms:created>
+   <dcterms:extent>11 p. of music</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>"The Clayton Music Eng. Co."--Colophon.</dcterms:description>
+   <dcterms:description>Title page illustration: a crew team rowing a scull on a river, with lush vegetation on the banks / Ferd. Mayer, Genl. Lith. 96 &amp; 98 Fulton St., N.Y.</dcterms:description>
+   <dcterms:description>"Dedicated to the winning college six of 1875."</dcterms:description>
+   <dcterms:description>Advertisement on p. [4] of cover: Edward Hopkins, music dealer &amp; publisher of sheet music.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Waltzes</dcterms:subject>
+   <dcterms:subject>Rowing--Songs and music.</dcterms:subject>
+   <dcterms:subject>Regattas--New York (State)--Saratoga.</dcterms:subject>
+   <dcterms:spatial>New York (State)</dcterms:spatial>
+   <dcterms:spatial>Saratoga.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1146229/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1146228</edm:isShownAt>
+</mdRecord>

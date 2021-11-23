@@ -1,1 +1,34 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:22 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1148710</dcterms:identifier>
+   <dcterms:title>Angel of beauty = Sei mir gegrüsst / Fr. Schubert</dcterms:title>
+   <dcterms:title>Angel of beauty, deep in this bosom</dcterms:title>
+   <dcterms:title>O du Entriss'ne mir und meinem Kusse</dcterms:title>
+   <dcterms:title>Sei mir gegrüsst</dcterms:title>
+   <dcterms:title>Schubert, Franz, 1797-1828. Sei mir gegrüsst. D. 741. English &amp; German</dcterms:title>
+   <dcterms:creator>Schubert, Franz, 1797-1828</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>[1888..1889]</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>Alto or bass in F.</dcterms:description>
+   <dcterms:description>For low voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's plate number.</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: New songs for one voice.</dcterms:description>
+   <dcterms:description>German words with English translation.</dcterms:description>
+   <dcterms:isPartOf>Favorite songs : G. Schirmer's edition / by Franz Schubert</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1148711/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1148710</edm:isShownAt>
+</mdRecord>

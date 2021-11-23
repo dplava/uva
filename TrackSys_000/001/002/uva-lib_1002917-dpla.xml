@@ -1,1 +1,34 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:26 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1002917</dcterms:identifier>
+   <dcterms:title>Ian Marot de Caen sur les deux heureux voyages de Genes &amp; Venice, victorieusement mys a fin, par le treschrestien Roy Loys Douziesme de ce nom, pere du Peuple / Et veritablement escriptz par iceluy Ian Marot, alors poete &amp; escriuain de la tresmagnanime Royne Anne, Duchesse de Bretaigne, &amp; depuis Valet de chambre du treschrestie[n] Roy Francoys, premier du nom</dcterms:title>
+   <dcterms:title>Deux heureux voyages de Genes &amp; Venice</dcterms:title>
+   <dcterms:title>Sur les deux heureux voyages de Genes &amp; Venice</dcterms:title>
+   <dcterms:title>Sur les deux heureux voyages de Genes et Venice</dcterms:title>
+   <dcterms:title>Voyage de Genes</dcterms:title>
+   <dcterms:title>Voyage de Venice</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Marot, Jean, 1463-1523</dcterms:creator>
+   <dcterms:creator>Roffet, Pierre, -1533</dcterms:creator>
+   <dcterms:creator>Tory, Geoffroy, approximately 1480-approximately 1533</dcterms:creator>
+   <dcterms:publisher>On les vent a Paris deuant Leglise Saincte Geneuiefue des Ardens Rue Neufue Nostre Dame, a Lenseigne du Faulcheur</dcterms:publisher>
+   <dcterms:created>1532</dcterms:created>
+   <dcterms:extent>CI leaves</dcterms:extent>
+   <dcterms:extent>15 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: A-M⁸ N⁵.</dcterms:description>
+   <dcterms:description>Colophon: Ce present liure fut acheue dimprimer le XXII. iour de Ianuier. M.D.XXXII. pour Pierre Roufet, dict le Faulcheur, par maistre Geufroy Tory de Bourges, Imprimeur du Roy.</dcterms:description>
+   <dcterms:description>Epistre au Roy, de Clement Marot, faisant mention de la mort de Ian Marot son pere, autheur de ce liure: leaf II-III.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Bookplates of Lucius Wilmerding and E. Bibliotheca D. Abbatis Fauvel. Unidentified monogram bookplate, A.K. Armorial binding of Michael Wodhull. Signature of Daniel Dumonstier on verso of leaf A4. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 30.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Louis, XII, King of France, 1462-1515--Poetry.</dcterms:subject>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:864889/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002917</edm:isShownAt>
+</mdRecord>

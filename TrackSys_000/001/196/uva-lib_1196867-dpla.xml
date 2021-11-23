@@ -1,1 +1,40 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:35 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1196867</dcterms:identifier>
+   <dcterms:title>Champagne-Argonne</dcterms:title>
+   <dcterms:title>Champagne Argonne</dcterms:title>
+   <dcterms:title>Front de Champagne et Argonne</dcterms:title>
+   <dcterms:creator>Taride, A.</dcterms:creator>
+   <dcterms:publisher>A. Taride, éditeur.</dcterms:publisher>
+   <dcterms:created>[1915..1918]</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>65 x 50 cm., folded in envelope 19 x 14 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>shading</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Relief shown by shading.</dcterms:description>
+   <dcterms:description>Inset: Bois de la Gruerie area.</dcterms:description>
+   <dcterms:description>Envelope: Front de Champagne et Argonne: Chalons, Reims, Rethel, Sainte-Menehould, Vouziers ... Prix: 1 Fr. net. ...</dcterms:description>
+   <dcterms:description>"Cartes pour suivre les Opérations Militaires." -- from envelope verso.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: With original printed envelope, as issued. Used by Frederick L. Brown, 2nd Lieut., Signal Corps, Meteorological Division, with his signature and map identification "No F."</dcterms:description>
+   <dcterms:description>Scale 1:200,000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>World War, 1914-1918--France--Maps.</dcterms:subject>
+   <dcterms:subject>World War, 1914-1918--France--Champagne-Ardenne--Maps.</dcterms:subject>
+   <dcterms:subject>World War, 1914-1918--France--Argonne--Maps.</dcterms:subject>
+   <dcterms:subject>Champagne-Ardenne (France)--Maps.</dcterms:subject>
+   <dcterms:subject>Argonne (France)--Maps.</dcterms:subject>
+   <dcterms:spatial>Argonne</dcterms:spatial>
+   <dcterms:spatial>Argonne (France)</dcterms:spatial>
+   <dcterms:spatial>Champagne-Ardenne</dcterms:spatial>
+   <dcterms:spatial>Champagne-Ardenne (France)</dcterms:spatial>
+   <dcterms:spatial>France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1206448/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1196867</edm:isShownAt>
+</mdRecord>

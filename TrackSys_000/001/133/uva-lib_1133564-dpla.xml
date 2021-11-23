@@ -1,1 +1,33 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 4:23 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1133564</dcterms:identifier>
+   <dcterms:title>Once in a purple twilight: low voice in F / music by Eugene Cowles ; words by J.C. Tucker</dcterms:title>
+   <dcterms:title>Once in a purple twilight</dcterms:title>
+   <dcterms:creator>Cowles, Eugene, 1860-1948</dcterms:creator>
+   <dcterms:creator>Tucker, J. C.</dcterms:creator>
+   <dcterms:publisher>Oliver Ditson Co.</dcterms:publisher>
+   <dcterms:created>1893</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, low voice</dcterms:description>
+   <dcterms:description>For low voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Illustration: Signed portrait of Eugene Cowles.</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: "Sheet music of recent publication."</dcterms:description>
+   <dcterms:isPartOf>Eugene Cowles' songs for low voice</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <dcterms:subject>Love songs</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1133565/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1133564</edm:isShownAt>
+</mdRecord>

@@ -1,1 +1,28 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:24 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66198</dcterms:identifier>
+   <dcterms:title>Littleton's Tenures in English</dcterms:title>
+   <dcterms:title>Littleton, Thomas, Sir, -1481. Tenures. English</dcterms:title>
+   <dcterms:creator>J. &amp; W. T. Clarke (Firm)</dcterms:creator>
+   <dcterms:creator>Littleton, Thomas Sir, -1481</dcterms:creator>
+   <dcterms:publisher>J. &amp; W.T. Clarke</dcterms:publisher>
+   <dcterms:created>1825</dcterms:created>
+   <dcterms:extent>viii, [2], 341, [3] p.</dcterms:extent>
+   <dcterms:extent>15 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>A new ed., corr.</dcterms:description>
+   <dcterms:description>"Law books published by J. &amp; W.T. Clarke": [3] p. at end.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Land tenure--Law and legislation--Great Britain.</dcterms:subject>
+   <dcterms:subject>Real property--Great Britain.</dcterms:subject>
+   <dcterms:spatial>Great Britain.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2577085/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66198</edm:isShownAt>
+</mdRecord>

@@ -1,1 +1,32 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:11 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65896</dcterms:identifier>
+   <dcterms:title>Reports of cases ruled and adjudged in the several courts of the United States, and of Pennsylvania: held at the seat of the federal government / by A.J. Dallas</dcterms:title>
+   <dcterms:title>United States reports</dcterms:title>
+   <dcterms:creator>Dallas, Alexander James, 1759-1817</dcterms:creator>
+   <dcterms:creator>United States. Supreme Court.</dcterms:creator>
+   <dcterms:publisher>Printed for the reporter at the Aurora Office</dcterms:publisher>
+   <dcterms:created>1798/1807</dcterms:created>
+   <dcterms:extent>3 v.</dcterms:extent>
+   <dcterms:extent>24 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Vol. 2-v. 4.</dcterms:description>
+   <dcterms:description>Commonly cited as v. 2-4 of:United States reports.</dcterms:description>
+   <dcterms:description>Published: Philadelphia : J. Ormond, 1799; Philadelphia : Printed for P. Byrne by Fry and Kammerer, 1807.</dcterms:description>
+   <dcterms:description>Includes reports of the Supreme Court of the U.S. from 1790-1800 and of other courts 1781-1806.</dcterms:description>
+   <dcterms:description>Continued in 1804 by: United States. Supreme Court. Reports of cases argued and adjudged in the Supreme Court of the United States.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--United States.</dcterms:subject>
+   <dcterms:subject>Law reports, digests, etc--Pennsylvania.</dcterms:subject>
+   <dcterms:spatial>Pennsylvania.</dcterms:spatial>
+   <dcterms:spatial>United States.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2397521/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65896</edm:isShownAt>
+</mdRecord>

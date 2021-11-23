@@ -1,1 +1,38 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:30 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003385</dcterms:identifier>
+   <dcterms:title>Spottsylvania Court House [1864] / from surveys under the direction of Bvt. Brig. Gen. N. Michler, Maj. of Engineers, by command of Bvt. Maj. Genl. A.A. Humphreys, Brig. Genl. &amp; Chief of Engineers, 1867 ; surveyed &amp; drawn by Maj. J.E. Weyss, assisted by F. Theilkuhl, J. Strasser, &amp; G. Thompson ; photolith. by the N.Y. Lithographing, Engraving &amp; Printing Co., Julius Bien, Supt</dcterms:title>
+   <dcterms:title>Spotsylvania Court House</dcterms:title>
+   <dcterms:creator>Bien, Julius, 1826-1909</dcterms:creator>
+   <dcterms:creator>Michler, N. (Nathaniel), 1827-1881</dcterms:creator>
+   <dcterms:creator>N.Y. Lith. &amp; Eng. Co.</dcterms:creator>
+   <dcterms:creator>Weyss, J. E.</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Uncolored issue.</dcterms:description>
+   <dcterms:description>Relief shown by hachures and pictorially.</dcterms:description>
+   <dcterms:description>Shows location of Union and Confederate forces and names of some rural landowners.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 1: Linen-backed.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 2: Fragile, with some torn edges.</dcterms:description>
+   <dcterms:description>Scale [1:21,120]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Spotsylvania Court House, Battle of, Va., 1864--Maps.</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Maps.</dcterms:subject>
+   <dcterms:subject>Spotsylvania County (Va.)--History--Civil War, 1861-1865--Maps.</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>Spotsylvania County (Va.)</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:892965/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003385</edm:isShownAt>
+</mdRecord>

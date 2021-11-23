@@ -1,1 +1,27 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 3:40 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1119040</dcterms:identifier>
+   <dcterms:title>Aragonaise: from the ballet "Le Cid," / J. Massenet</dcterms:title>
+   <dcterms:title>Massenet, Jules, 1842-1912. Cid. Aragonaise; arr.</dcterms:title>
+   <dcterms:creator>Massenet, Jules, 1842-1912</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1889</dcterms:created>
+   <dcterms:extent>7 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano (2)</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>For piano (4 hands).</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's plate number.</dcterms:description>
+   <dcterms:isPartOf>Favorite compositions and arrangements for piano 4 hands ; no. 12</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Operas--Excerpts--Piano scores (4 hands)</dcterms:subject>
+   <dcterms:subject>Piano music (4 hands), Arranged</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1119041/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1119040</edm:isShownAt>
+</mdRecord>

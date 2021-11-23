@@ -1,1 +1,40 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:13 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1146355</dcterms:identifier>
+   <dcterms:title>Angels [i.e., Angel's] serenade = La serenata = Legende valaque / musique de G. Braga ; poèstie de M.M. Marcello</dcterms:title>
+   <dcterms:title>Légende valaque</dcterms:title>
+   <dcterms:title>O quali mi risvegliano</dcterms:title>
+   <dcterms:title>Serenata</dcterms:title>
+   <dcterms:title>What lovely tones awaken me</dcterms:title>
+   <dcterms:title>Braga, Gaetano, 1829-1907. Serenata. English &amp; Italian</dcterms:title>
+   <dcterms:creator>Braga, Gaetano, 1829-1907</dcterms:creator>
+   <dcterms:creator>Kirk, G.</dcterms:creator>
+   <dcterms:publisher>White, Smith &amp; Co.</dcterms:publisher>
+   <dcterms:created>[1876..1887]</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:extent>1 part (1 leaf).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>voice, violin, piano</dcterms:description>
+   <dcterms:description>voice, violoncello, piano</dcterms:description>
+   <dcterms:description>For voice and piano with violin or cello obligato.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>"Kirk"--Colophon.</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: Germs of foreign song.</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:isPartOf>Matinee : a collection of German, French, Italian, and operatic songs with piano accompaniment, second collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Songs with instrumental ensemble--Scores and parts.</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1146356/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1146355</edm:isShownAt>
+</mdRecord>

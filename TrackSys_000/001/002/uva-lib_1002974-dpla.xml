@@ -1,1 +1,28 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:27 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1002974</dcterms:identifier>
+   <dcterms:title>Le thresor des douze liures D'amadis de Gaule: assauoir les harengues, concions, epistres, complaintes, &amp; autres choses les plus excellentes &amp; dignes du lecteur François</dcterms:title>
+   <dcterms:title>Amadís de Gaula (Spanish Romance). Selections. French (Middle French)</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Le Mangnier, Robert, active 1557-1584</dcterms:creator>
+   <dcterms:creator>Longis, Jean, -1562?</dcterms:creator>
+   <dcterms:creator>Trautz, Georges, 1808-1879</dcterms:creator>
+   <dcterms:publisher>Pour Iean Longis &amp; Robert le Mangnier ...</dcterms:publisher>
+   <dcterms:created>1559</dcterms:created>
+   <dcterms:extent>[11], 192 leaves</dcterms:extent>
+   <dcterms:extent>17 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: ã⁸ ẽ⁴ A-Z⁸ AA⁸ (leaf ẽ4 is blank)</dcterms:description>
+   <dcterms:description>A collection of speeches, letters and soliloquies from books 1-12 of Amadís de Gaula.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Trautz-Bauzonnet. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 455.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:875546/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002974</edm:isShownAt>
+</mdRecord>

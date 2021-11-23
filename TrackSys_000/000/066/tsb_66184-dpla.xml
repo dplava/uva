@@ -1,1 +1,36 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:23 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66184</dcterms:identifier>
+   <dcterms:title>Pleas of the crown: in two parts : or, A methodical summary of the principal matters relating to that subject : with several hundred references, never before printed, to the ancient and modern books of the law : and likewise three other treatises by Sir Matthew Hale, viz. Of Sheriffs accompts, Trial of witches, and Provisions for the poor / by Sir Matthew Hale ; second part being a continuation of the Pleas of the crown, down to this time, in Sir Matthew Hale's method, by Giles Jacob</dcterms:title>
+   <dcterms:title>Tryal of witches, at the assizes held at Bury St. Edmonds for the county of Suffolk</dcterms:title>
+   <dcterms:creator>Hale, Matthew, 1609-1676</dcterms:creator>
+   <dcterms:creator>Jacob, Giles, 1686-1744</dcterms:creator>
+   <dcterms:publisher>Printed by J.N. assignee of Edw. Sayer, for D. Brown, M. Wotton, W. Mears, J. Brown, and T. Woodward</dcterms:publisher>
+   <dcterms:created>1716</dcterms:created>
+   <dcterms:extent>[16], 272, [8], 121, 143 p.</dcterms:extent>
+   <dcterms:extent>20 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>In addition to the general t.p., each treatise and the second part have also special title pages.</dcterms:description>
+   <dcterms:description>Includes: A short treatise touching sheriffs accompts; A tryal of witches; A discourse touching provision for the poor, each with special t.p.</dcterms:description>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Pleas of the crown</dcterms:subject>
+   <dcterms:subject>Finance, Public--Great Britain--Accounting.</dcterms:subject>
+   <dcterms:subject>Sheriffs--Great Britain.</dcterms:subject>
+   <dcterms:subject>Trials (Witchcraft)--England--Suffolk.</dcterms:subject>
+   <dcterms:subject>Witchcraft--England--Suffolk.</dcterms:subject>
+   <dcterms:subject>Poor laws--Great Britain.</dcterms:subject>
+   <dcterms:subject>Public welfare--Great Britain.</dcterms:subject>
+   <dcterms:spatial>England</dcterms:spatial>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <dcterms:spatial>Suffolk.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2570345/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66184</edm:isShownAt>
+</mdRecord>

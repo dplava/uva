@@ -1,1 +1,33 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 6:19 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18887</dcterms:identifier>
+   <dcterms:title>Richmond, January 25, 1854: Dear Sir, The Tobacco Market has been very active this week / W.H. Brown, Commisson Merchant, Richmond, Va</dcterms:title>
+   <dcterms:title>Dear Sir, The tobacco market has been very active this week</dcterms:title>
+   <dcterms:title>Tobacco market has been very active this week</dcterms:title>
+   <dcterms:creator>Brown, Wm. H. (William H.)</dcterms:creator>
+   <dcterms:creator>Wm. H. Brown (Firm : Richmond, Va.)</dcterms:creator>
+   <dcterms:publisher>Wm. H. Brown</dcterms:publisher>
+   <dcterms:created>1854</dcterms:created>
+   <dcterms:extent>1 folded sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>25 x 40 cm. folded to 25 x 20 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Printed on p. [1] only.</dcterms:description>
+   <dcterms:description>Addressed on p. [4] to John J. Ambler Esqr., Liberty Mills, Orange Cty, Va., with receipt date of Feb. 4 1855 noted.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: From the Papers of the Ambler Family, MSS 1921-A.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Tobacco--Prices--Virginia.</dcterms:subject>
+   <dcterms:subject>Tobacco industry--United States.</dcterms:subject>
+   <dcterms:subject>Commission merchants--Virginia--Richmond.</dcterms:subject>
+   <dcterms:spatial>Richmond.</dcterms:spatial>
+   <dcterms:spatial>United States.</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Richmond, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1531882/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18887</edm:isShownAt>
+</mdRecord>

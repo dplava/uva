@@ -1,1 +1,21 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 6:15 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18737</dcterms:identifier>
+   <dcterms:title>Grand complimentary vocal and instrumental concert to the brothers Elena: Richmond .. Monday, 1st April [1850] .. at the Exchange Hotel</dcterms:title>
+   <dcterms:publisher>Culley, Printer, 146 Main Street</dcterms:publisher>
+   <dcterms:created>1860</dcterms:created>
+   <dcterms:extent>1 broadside. 33 x 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Elena, Luigi</dcterms:subject>
+   <dcterms:subject>Elena, Annibale</dcterms:subject>
+   <dcterms:subject>Concert programs</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1520936/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18737</edm:isShownAt>
+</mdRecord>

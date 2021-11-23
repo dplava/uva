@@ -1,1 +1,35 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 3:58 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1124254</dcterms:identifier>
+   <dcterms:title>When the thorn is white with blossom = Lied der Hirtin / C.M. von Weber</dcterms:title>
+   <dcterms:title>Lied der Hirtin</dcterms:title>
+   <dcterms:title>Wenn die Maiene grün sich kleiden</dcterms:title>
+   <dcterms:title>When the thorn is white with blossom</dcterms:title>
+   <dcterms:title>Weber, Carl Maria von, 1786-1826. Gesänge und Lieder. op. 71. English &amp; German. Lied der Hirtin. English &amp; German</dcterms:title>
+   <dcterms:creator>Weber, Carl Maria von, 1786-1826</dcterms:creator>
+   <dcterms:publisher>J.M. Russell</dcterms:publisher>
+   <dcterms:created>1881/1886</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: Galops ; Polkas ; Marches ; Redowas ; Schottisches ; Quadrilles and quicksteps ; Piano solos ; Lessons from the bee-hive ; Mazurkas ; Pierre Latour ; Gay feathers ; The magic circle.</dcterms:description>
+   <dcterms:description>German words with English translation.</dcterms:description>
+   <dcterms:isPartOf>Standard songs : alto or baritone, 2nd ser</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1124255/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124254</edm:isShownAt>
+</mdRecord>

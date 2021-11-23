@@ -1,1 +1,28 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:09 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65850</dcterms:identifier>
+   <dcterms:title>Reports of cases argued and determined in the High Court of Chancery: in the time of Lord Chancellor Hardwicke [1736-1754] / collected and methodised by John Tracy Atkyns .. ; with notes and references, and three tables : one of the several titles with their divisions, another of the names of the cases, and a third of the principal matters</dcterms:title>
+   <dcterms:creator>Atkyns, John Tracy, approximately 1710-1773</dcterms:creator>
+   <dcterms:creator>Great Britain. Court of Chancery.</dcterms:creator>
+   <dcterms:creator>Hardwicke, Philip Yorke Earl of, 1690-1764</dcterms:creator>
+   <dcterms:publisher>Printed by the King's law-printers, and sold by Messrs. Payne [etc.</dcterms:publisher>
+   <dcterms:created>1781/1782</dcterms:created>
+   <dcterms:extent>3 v.</dcterms:extent>
+   <dcterms:extent>25 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>2nd ed., rev. and cor.,</dcterms:description>
+   <dcterms:description>Cases in v. 1 are arranged alphabetically by subject; those in v. 2-3, chronologically.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain.</dcterms:subject>
+   <dcterms:subject>Equity--Great Britain--Cases.</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2372842/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65850</edm:isShownAt>
+</mdRecord>

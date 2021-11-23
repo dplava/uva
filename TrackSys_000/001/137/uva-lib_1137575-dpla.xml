@@ -1,1 +1,32 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 4:39 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1137575</dcterms:identifier>
+   <dcterms:title>Lass dich lieben = Let me love thee : für eine Singstimme mit Pianoforte-Begleitung / von Luigi Arditi ; [Text] von Walter Maynard</dcterms:title>
+   <dcterms:title>Lass dich lieben</dcterms:title>
+   <dcterms:title>Let me love thee</dcterms:title>
+   <dcterms:title>Arditi, Luigi, 1822-1903. Let me love thee. German &amp; English</dcterms:title>
+   <dcterms:creator>Arditi, Luigi, 1822-1903</dcterms:creator>
+   <dcterms:creator>Maynard, Walter, 1828 or 1829-1894</dcterms:creator>
+   <dcterms:creator>Wood, Georg Frau</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>[1889..1892]</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>English and German words.</dcterms:description>
+   <dcterms:description>At head of title: "Frau Georg Wood gewidmet."</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address and plate number. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1137576/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1137575</edm:isShownAt>
+</mdRecord>

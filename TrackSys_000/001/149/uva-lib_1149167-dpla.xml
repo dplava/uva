@@ -1,1 +1,27 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:24 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1149167</dcterms:identifier>
+   <dcterms:title>The musical critic's dream, or, A modern melody among the old composers: monologue with pianoforte illustrations / by Edwin Asa Dix</dcterms:title>
+   <dcterms:title>Modern melody among the old composers</dcterms:title>
+   <dcterms:title>Dix, Edwin Asa, 1860-1911. Musical critic's dream</dcterms:title>
+   <dcterms:creator>Dix, Edwin Asa, 1860-1911</dcterms:creator>
+   <dcterms:publisher>Oliver Ditson Company</dcterms:publisher>
+   <dcterms:created>1893</dcterms:created>
+   <dcterms:extent>1 score (12 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For narrator and piano.</dcterms:description>
+   <dcterms:description>Medley includes melodies from: Annie Rooney ; Song without words, no. 1 / Mendelssohn ; Gloria, 12th Mass / Mozart ; Nocturne in G major / Chopin ; Pathetic sonata / Beethoven ; Cujus animam / Rossini ; Andante (Surprise symphony) / Haydn ; Tannhäuser march / Wagner.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Monologues with music (Piano)</dcterms:subject>
+   <dcterms:subject>Potpourris (Voice and piano)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1149168/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1149167</edm:isShownAt>
+</mdRecord>

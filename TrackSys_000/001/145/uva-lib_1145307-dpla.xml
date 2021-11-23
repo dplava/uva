@@ -1,1 +1,36 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:09 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1145307</dcterms:identifier>
+   <dcterms:title>Souvenir de Mexico: potpourri on Mexican national airs : as played by the Mexican Military Band / arranged by Ferdinand Beyer</dcterms:title>
+   <dcterms:title>Mexican potpouri no. 2</dcterms:title>
+   <dcterms:title>Beyer, Ferdinand, 1803-1863. Souvenir de Mexico; arr</dcterms:title>
+   <dcterms:creator>Beyer, Ferdinand, 1803-1863</dcterms:creator>
+   <dcterms:creator>Mexican Military Band</dcterms:creator>
+   <dcterms:creator>Scullin, Mae</dcterms:creator>
+   <dcterms:creator>Valtsin, N. L.</dcterms:creator>
+   <dcterms:publisher>Balmer &amp; Weber</dcterms:publisher>
+   <dcterms:created>1885</dcterms:created>
+   <dcterms:extent>14 p. of music</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>Title page illustration: The Mexican flag flying in the foreground, with a castle on a hill in the distance / N. L. Valtsin Eng.</dcterms:description>
+   <dcterms:description>"To Miss Mae Scullin, St. Louis, Mo."</dcterms:description>
+   <dcterms:description>As performed by Mexican military band.</dcterms:description>
+   <dcterms:description>Advertisement on p. [2] of cover: Chimes of Maryville / A.C. Eimer. On p. [3] of cover: If I could only tell / Henry Werner. On p. [4] of cover: Sunshine on the lea and other compositions by Charles Drumheller.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music, Arranged</dcterms:subject>
+   <dcterms:subject>Potpourris (Piano)</dcterms:subject>
+   <dcterms:subject>National songs--Mexico.</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>Mexico.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1145308/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145307</edm:isShownAt>
+</mdRecord>

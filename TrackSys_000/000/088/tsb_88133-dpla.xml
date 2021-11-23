@@ -1,1 +1,38 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:26 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>tsb:88133</dcterms:identifier>
+   <dcterms:title>Geological map of the Potomac basin west of Blue Ridge, Virginia and West Virginia: showing the relations of its upper Potomac coal basin and iron-ore bearing areas in reference to the West Virginia Central and Pittsburg [sic] R.R., and its connections and extensions / compiled from surveys by W.B. Rogers and others by Jed. Hotchkiss, Consulting Eng., etc., Staunton, Va., 1882 ; A. Hoen &amp; Co., Photo. Lith., Baltimore</dcterms:title>
+   <dcterms:creator>A. Hoen &amp; Co.</dcterms:creator>
+   <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+   <dcterms:creator>Rogers, W. B.</dcterms:creator>
+   <dcterms:creator>White, I. C. (Israel Charles), 1848-1927</dcterms:creator>
+   <dcterms:publisher>Jed. Hotchkiss</dcterms:publisher>
+   <dcterms:created>1882</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>35 x 57 cm. on sheet 44 x 61 cm. [original]</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:medium>one color</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Includes cross-section at top right: Geological section across Georges Creek coal basin and eastward (scale 6000' to 1") by Prof. I.C. White, May 1881, Trans. Am. Phil. Soc.</dcterms:description>
+   <dcterms:description>From The Virginias, v. 3, no. 5, May 1882.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Hotchkiss B; mounted on linen.</dcterms:description>
+   <dcterms:description>Scale [ca.1:504,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Geology--Potomac River Valley--Maps.</dcterms:subject>
+   <dcterms:subject>Geology--Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Geology--West Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Geological cross sections--Virginia.</dcterms:subject>
+   <dcterms:subject>Geological cross sections--West Virginia.</dcterms:subject>
+   <dcterms:spatial>Potomac River Valley</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>West Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2679308/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:88133</edm:isShownAt>
+</mdRecord>

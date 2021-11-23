@@ -1,1 +1,22 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:38 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1226515</dcterms:identifier>
+   <dcterms:title>XII sonatas for the chamber for two violins and a bass doubled</dcterms:title>
+   <dcterms:creator>Bononcini, Giovanni, 1670-1747</dcterms:creator>
+   <dcterms:created>1732</dcterms:created>
+   <dcterms:extent>4 pts. 31 cm.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>Parts: vl. 1st, 2nd &amp; figured bass for violoncello and harpsichord.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Mackay-Smith fund.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Trio sonatas--Parts.</dcterms:subject>
+   <dcterms:subject>Quartets (Harpsichord, violins (2), cello)--Parts.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1306147/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1226515</edm:isShownAt>
+</mdRecord>

@@ -1,1 +1,27 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:12 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65917</dcterms:identifier>
+   <dcterms:title>Reports of cases argued and adjudged in the Court of King's Bench: during the time Lord Mansfield's presiding in that court, from Michaelmas term, 30 Geo. II. 1756, to Easter term, 12 Geo. III. 1772 / By Sir James Burrow, knt. .. With the addition of marginal notes and references to the reports of the same cases</dcterms:title>
+   <dcterms:creator>Burrow, James, 1701-1782</dcterms:creator>
+   <dcterms:creator>Great Britain. Court of King's Bench.</dcterms:creator>
+   <dcterms:creator>Mansfield, William Murray Earl of, 1705-1793</dcterms:creator>
+   <dcterms:publisher>Printed by A. Strahan and W. Woodfall for E. and R. Brooke</dcterms:publisher>
+   <dcterms:created>1790</dcterms:created>
+   <dcterms:extent>5 v. 25 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Vols. 1-2, 4th ed., corrected; v. 3, 3d ed., corrected; v. 4-5, 2d. ed.; corrected.</dcterms:description>
+   <dcterms:description>Paged continuously.</dcterms:description>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain.</dcterms:subject>
+   <dcterms:spatial>Great Britain.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2407711/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65917</edm:isShownAt>
+</mdRecord>

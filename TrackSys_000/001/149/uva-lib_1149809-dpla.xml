@@ -1,1 +1,32 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:26 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1149809</dcterms:identifier>
+   <dcterms:title>Beautiful night = Par une belle nuit / Ch. Gounod</dcterms:title>
+   <dcterms:title>Flow'rs lie sleeping soft in the meadow</dcterms:title>
+   <dcterms:title>Les fleurs dormant sur la prairie</dcterms:title>
+   <dcterms:title>Par une belle nuit</dcterms:title>
+   <dcterms:title>Gounod, Charles, 1818-1893. Par une belle nuit. English &amp; French</dcterms:title>
+   <dcterms:creator>Gounod, Charles, 1818-1893</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1875</dcterms:created>
+   <dcterms:extent>1 score (9 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>soprano voice, alto voice, piano</dcterms:description>
+   <dcterms:description>For soprano, alto, and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [10]: Catalogue no. 5 of vocal music published by G. Schirmer.</dcterms:description>
+   <dcterms:description>French and English words.</dcterms:description>
+   <dcterms:isPartOf>G. Schirmer's edition of select vocal duets / by Italian and French composers ; no. 37</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Vocal duets with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1149810/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1149809</edm:isShownAt>
+</mdRecord>

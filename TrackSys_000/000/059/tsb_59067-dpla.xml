@@ -1,1 +1,22 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 8:29 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:59067</dcterms:identifier>
+   <dcterms:title>Genuine remains in verse and prose / Pub. from the original manuscripts, formerly in the possession of W. Longueville. With notes by R. Thyer</dcterms:title>
+   <dcterms:creator>Butler, Samuel, 1612-1680</dcterms:creator>
+   <dcterms:creator>Thyer, Robert, 1709-1781</dcterms:creator>
+   <dcterms:publisher>J. and R. Tonson</dcterms:publisher>
+   <dcterms:created>1759</dcterms:created>
+   <dcterms:extent>2 v. 21 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>SPECIAL COLLECTIONS: Bookplate of Earl Cornwallis. (Copy 2)</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 1: Tunstall Fund. Inscribed on title page: "Comprado en Madrid Enero 1778. Juan Toscan."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1568183/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:59067</edm:isShownAt>
+</mdRecord>

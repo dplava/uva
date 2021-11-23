@@ -1,1 +1,22 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 6:15 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18747</dcterms:identifier>
+   <dcterms:title>Address of Th. J. Randolph: to the voters of Albemarle, Nelson and Amherst</dcterms:title>
+   <dcterms:creator>Randolph, Thomas Jefferson, 1792-1875</dcterms:creator>
+   <dcterms:created>1850</dcterms:created>
+   <dcterms:extent>1 broadside. 31 x 22 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>At head of title: Jeffersonian--Extra.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Virginia--Politics and government--1775-1865.</dcterms:subject>
+   <dcterms:temporal>1775-1865.</dcterms:temporal>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1517302/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18747</edm:isShownAt>
+</mdRecord>

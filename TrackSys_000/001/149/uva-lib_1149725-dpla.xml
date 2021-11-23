@@ -1,1 +1,30 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:26 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1149725</dcterms:identifier>
+   <dcterms:title>The king of Thule: ballad from the new opera of Faust / by Ch. Gounod</dcterms:title>
+   <dcterms:title>Once there was a king in Thule</dcterms:title>
+   <dcterms:title>Gounod, Charles, 1818-1893. Faust. Il était un roi de Thulé. English</dcterms:title>
+   <dcterms:creator>Gounod, Charles, 1818-1893</dcterms:creator>
+   <dcterms:creator>Swain, George F.</dcterms:creator>
+   <dcterms:publisher>J. Starr Holloway</dcterms:publisher>
+   <dcterms:created>[1864..1877]</dcterms:created>
+   <dcterms:extent>1 vocal score (p. 44-45).</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>Opera excerpts, arranged for voice and piano.</dcterms:description>
+   <dcterms:description>"Geo. F. Swain"--T.p.</dcterms:description>
+   <dcterms:description>Publisher presumed to be active between 1864 and 1877. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>English words; translated from the original French.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1149726/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1149725</edm:isShownAt>
+</mdRecord>

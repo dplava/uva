@@ -1,1 +1,30 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 12:18 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:743725</dcterms:identifier>
+   <dcterms:title>Virginia, Dunlop's plan / ca. 1885 / as adopted by the Senate</dcterms:title>
+   <dcterms:title>Dunlop's plan</dcterms:title>
+   <dcterms:title>Virginia</dcterms:title>
+   <dcterms:creator>Dunlop, James Nathaniel, 1844-1888</dcterms:creator>
+   <dcterms:created>1885</dcterms:created>
+   <dcterms:extent>1 manuscript map</dcterms:extent>
+   <dcterms:extent>33 x 77 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Presumably drawn by James N. Dunlop, who was a member of the Virginia House of Delegates from 1883-1887.</dcterms:description>
+   <dcterms:description>Map shows Virginia counties, with the ten districts outlined in various colors and numbered in red.</dcterms:description>
+   <dcterms:description>Relief not shown.</dcterms:description>
+   <dcterms:description>Scale not given.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>United States. Congress--Election districts.</dcterms:subject>
+   <dcterms:subject>Election districts--Virginia--Maps, Manuscript.</dcterms:subject>
+   <dcterms:subject>Virginia--Maps, Manuscript.</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096389/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:743725</edm:isShownAt>
+</mdRecord>

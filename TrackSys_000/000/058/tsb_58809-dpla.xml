@@ -1,1 +1,38 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 8:25 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:58809</dcterms:identifier>
+   <dcterms:title>The celebrated Court ball waltz / by Strauss &amp; Lanner ; arranged for the piano by Charles Grobe</dcterms:title>
+   <dcterms:title>Court ball waltz</dcterms:title>
+   <dcterms:title>Strauss, Johann, 1804-1849. Hof-Ball-Tänze. Selections; arr</dcterms:title>
+   <dcterms:creator>Crap, Charles F., 1828-1891</dcterms:creator>
+   <dcterms:creator>Grobe, Charles</dcterms:creator>
+   <dcterms:creator>Lanner, Joseph, 1801-1843</dcterms:creator>
+   <dcterms:creator>Strauss, Johann, 1804-1849</dcterms:creator>
+   <dcterms:publisher>Lee &amp; Walker</dcterms:publisher>
+   <dcterms:created>1846</dcterms:created>
+   <dcterms:extent>5 p. of music</dcterms:extent>
+   <dcterms:extent>33 cm. [original]</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>Excerpts from Strauss's set of waltzes, op. 51.</dcterms:description>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Cannot identify with Lanner's Hofballtänze, op. 161.</dcterms:description>
+   <dcterms:description>"Crap Sc."</dcterms:description>
+   <dcterms:description>Publisher's address in caption: 162 Chesnut St., Philadelphia.</dcterms:description>
+   <dcterms:description>"To Madamoiselle Sarah Sharp."</dcterms:description>
+   <dcterms:isPartOf>Gems of the waltz : a collection of the most beautiful waltzes of the day ; no. 9</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Waltzes</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1556492/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58809</edm:isShownAt>
+</mdRecord>

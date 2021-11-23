@@ -1,1 +1,23 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 8:43 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2532391</dcterms:identifier>
+   <dcterms:title>Pewter pitcher</dcterms:title>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1850~/1899~</dcterms:created>
+   <dcterms:extent>19 x 10.5 x 15 cm [original]</dcterms:extent>
+   <dcterms:medium>pewterware [original]</dcterms:medium>
+   <dcterms:description>The hinge for the lid is attached to the pitcher's handle. Inside is a paper with Jefferson Randolph Kean's address on it and writing which states: "Heavy Pewter pitcher, with attached lid, about 7 in high and 4 in in diameter, originally at hospital of French Panama Canal Company; presented to Col. J.R. Kean, Med. Corps, U.S. Army, in early years of 20th century, during a visit by him to the Panama Canal Zone."</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:description>Owned by Jefferson Randolph Kean [original]</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:subject>Containers</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2532391/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2532391</edm:isShownAt>
+</mdRecord>

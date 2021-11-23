@@ -1,1 +1,35 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:13 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1146261</dcterms:identifier>
+   <dcterms:title>The sister birds = (Les fauvettes) / music by Luigi Bordèse ; English version by H. Millard</dcterms:title>
+   <dcterms:title>A l'heure où les allouettes</dcterms:title>
+   <dcterms:title>Fauvettes</dcterms:title>
+   <dcterms:title>When at morn the lark is singing</dcterms:title>
+   <dcterms:title>Bordèse, Luigi, 1815-1886. Fauvettes. English &amp; French</dcterms:title>
+   <dcterms:creator>Bordèse, Luigi, 1815-1886</dcterms:creator>
+   <dcterms:creator>Millard, H. (Harrison), 1830-1895</dcterms:creator>
+   <dcterms:creator>Plouvier, Edouard, 1821-1876</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1871</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>soprano voice, mezzo-soprano voice, piano</dcterms:description>
+   <dcterms:description>Duet for soprano and mezzo-soprano, with piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>French words, by Edouard Plouvier, with English translation.</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: Catalogue no. 3 of vocal music, published by G. Schirmer.</dcterms:description>
+   <dcterms:isPartOf>G. Schirmer's edition of select vocal duets / by Italian and French composers ; no. 34</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Plouvier, Edouard, 1821-1876--Musical settings.</dcterms:subject>
+   <dcterms:subject>Vocal duets with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1146262/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1146261</edm:isShownAt>
+</mdRecord>

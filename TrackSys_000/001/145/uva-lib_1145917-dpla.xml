@@ -1,1 +1,32 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:11 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1145917</dcterms:identifier>
+   <dcterms:title>The heavens are telling: with variations : from Haydn's Creation : op. 59 / A.P. Wyman</dcterms:title>
+   <dcterms:creator>Dupuy, G. B. Mrs</dcterms:creator>
+   <dcterms:creator>Pearson, J. C. (J. Charles)</dcterms:creator>
+   <dcterms:creator>Russell</dcterms:creator>
+   <dcterms:creator>Wyman, Addison P., 1832-1872</dcterms:creator>
+   <dcterms:publisher>J. L. Peters</dcterms:publisher>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>7 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>"Russell, Eng."--Colophon.</dcterms:description>
+   <dcterms:description>Decorative title page / Pearson's.</dcterms:description>
+   <dcterms:description>At head of caption: "To Mrs. G. B. Dupuy, West Hoboken, N.J."</dcterms:description>
+   <dcterms:isPartOf>Better land : a collection of beautiful sacred melodies / by Addison P. Wyman</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1145918/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145917</edm:isShownAt>
+</mdRecord>

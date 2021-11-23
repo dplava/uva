@@ -1,1 +1,23 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 8:42 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2532379</dcterms:identifier>
+   <dcterms:title>Drefs' worm syrup</dcterms:title>
+   <dcterms:creator>Charles (Chas.) A. Drefs [manufacturer]</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1921~</dcterms:created>
+   <dcterms:extent>17.5 x 5.1 x 3 cm [original]</dcterms:extent>
+   <dcterms:medium>cardboard; glass (material); metal [original]</dcterms:medium>
+   <dcterms:description>"Prepared by Chas. A. Drefs, Apothecary." 2 fluid ounce bottle containing worm syrup for children and adults to treat round, thread, or pin worms; includes instructions in English and German; on the back of the box is an advertisement for Drefs' Gout and Rheumatic Pills.</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:subject>Pharmaceutical technology--Solutions (Pharmacy)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2532379/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2532379</edm:isShownAt>
+</mdRecord>

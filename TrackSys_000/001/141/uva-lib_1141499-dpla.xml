@@ -1,1 +1,32 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 4:54 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1141499</dcterms:identifier>
+   <dcterms:title>Together alone / music composed for one, two, three, or four voices and piano by M. Keller ; words by G.W. Birdseye</dcterms:title>
+   <dcterms:title>Life is a long and a wearisome roving</dcterms:title>
+   <dcterms:creator>Balch, Edward Lawrence, 1816-1869</dcterms:creator>
+   <dcterms:creator>Birdseye, George W., 1844-</dcterms:creator>
+   <dcterms:creator>Gove, G.</dcterms:creator>
+   <dcterms:creator>Keller, M. (Matthias), 1813-1875</dcterms:creator>
+   <dcterms:publisher>White, Smith &amp; Perry</dcterms:publisher>
+   <dcterms:created>1868</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>soprano voice, alto voice, tenor voice, bass voice, piano</dcterms:description>
+   <dcterms:description>For piano and 4 voices (SATB).</dcterms:description>
+   <dcterms:description>At foot of title page: "Edward L. Balch, music printer, 14 Kilby and 8 Doane Sts., Boston."</dcterms:description>
+   <dcterms:description>At head of title page: "To G. Gove."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Vocal quartets with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1141500/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1141499</edm:isShownAt>
+</mdRecord>

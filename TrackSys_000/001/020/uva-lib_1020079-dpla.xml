@@ -1,1 +1,30 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:39 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1020079</dcterms:identifier>
+   <dcterms:title>Euures en rime de Ian Antoine de Baif, Secretaire de la Chambre du Roy</dcterms:title>
+   <dcterms:title>Euvres en rime de Ian Antoine de Baif</dcterms:title>
+   <dcterms:title>Oeuvres en rime de Ian Antoine de Baif</dcterms:title>
+   <dcterms:title>Baïf, Jean-Antoine de, 1532-1589. Works. 1572</dcterms:title>
+   <dcterms:creator>Bauzonnet-Trautz (Firm)</dcterms:creator>
+   <dcterms:creator>Baïf, Jean-Antoine de, 1532-1589</dcterms:creator>
+   <dcterms:creator>Breyer, Lucas, 1559?-1609?</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:publisher>Pour Lucas Breyer, marchant libraire tenant sa boutique au second pilier de la grand' salle du Palais</dcterms:publisher>
+   <dcterms:created>[1572..1573]</dcterms:created>
+   <dcterms:extent>4 v.</dcterms:extent>
+   <dcterms:extent>17 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>General title in vol. 1 only. Other 3 vols. have special title pages: v. [2], Les amours de Ian Antoine de Baif. -- Paris, 1572; v. [3], Les ieux de Ian Antoine de Baif. -- Paris, 1573; v. [4], Les passetems de Ian Antoine de Baif. -- Paris, 1573.</dcterms:description>
+   <dcterms:description>Collation: v. [1], [16], 272, [2] leaves. a⁸ ã⁸ A-Kk⁸ Ll⁸⁺²; v. [2], [1], 232 leaves. [pi]¹ A-Ff⁸; v. [3], [4], 230 leaves. ã⁴A-Ff⁸; v. [4], [4], 126 leaves. ã⁴ A-Q⁸.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Imperfect: t. 2, leaf 48 (F8) wanting. Binder: Bauzonnet-Trautz. Bookplate of Armand Bertin in vol. 2. Unidentified armorial bookplate (tree on crest, crowned) in vol. 1. Handwritten note, from the library of de Fresne. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 446.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1033200/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1020079</edm:isShownAt>
+</mdRecord>

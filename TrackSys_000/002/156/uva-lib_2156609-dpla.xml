@@ -1,1 +1,21 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:52 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2156609</dcterms:identifier>
+   <dcterms:title>Young Men's Christian Association (YMCA)</dcterms:title>
+   <dcterms:creator>Thompson, Ralph R.</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:description>From excerpt on photo:Members of the planning committee for Religious Emphasis Week at the University of Virginia meet with James L. Stoner, left, national director of the University Christian Mission, which is cooperating with the University in making the week possible. Shown above with Mr. Stoner are, left to right, Thomas S. Lodge, Lewes, Deleware, one of three student vice chairmen; James E. Kinard, Newberry, South Carolina, president of the Student Council, secretary; the Reverend John H. Fischbach, pastor of the Westminister Presbyterian Church in Charlottesville, chairman; Emmett W. Fontaine, Martinsville, Virginia, president of the University Union, treasurer; and the Reverend Oscar W. Wooldridge, Jr., executive secretary of the University's YMCA and executive secretary of the committee. Religious Emphasis Week at the University of Virginia begins Sunday, December 4.</dcterms:description>
+   <dcterms:description>Original Negative Present [original]</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Visual History Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia</dcterms:subject>
+   <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2156609/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2156609</edm:isShownAt>
+</mdRecord>

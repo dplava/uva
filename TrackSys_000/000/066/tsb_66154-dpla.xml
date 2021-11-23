@@ -1,1 +1,25 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:22 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66154</dcterms:identifier>
+   <dcterms:title>An essay on the law of patents for new inventions: To which are prefixed, two chapters, on the general history of monopolies, and on their introduction and progress in England to the time of the inter-regnum. With an appendix, containing copies of the caveat, petition, oath, and other formulae, with an arranged catalogue of all the patents granted from January 1, 1800 to the present time</dcterms:title>
+   <dcterms:creator>Collier, John Dyer, 1762-1825</dcterms:creator>
+   <dcterms:publisher>The author</dcterms:publisher>
+   <dcterms:created>1803</dcterms:created>
+   <dcterms:extent>xvi, [4], 200, 116 p. 24 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>The 2d ed.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Patent laws and legislation--Great Britain.</dcterms:subject>
+   <dcterms:subject>Patents--Great Britain.</dcterms:subject>
+   <dcterms:subject>Monopolies--Great Britain.</dcterms:subject>
+   <dcterms:spatial>Great Britain.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2557527/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66154</edm:isShownAt>
+</mdRecord>

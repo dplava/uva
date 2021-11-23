@@ -1,1 +1,42 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:32 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003482</dcterms:identifier>
+   <dcterms:title>James River, Virginia (in five sheets), Sheet No. 2, Point of Shoals to Sandy Point / issued January 1882 ; J. E. Hilgard Superintendent. Verfied R. D. Cutts Assistant in Charge of Office</dcterms:title>
+   <dcterms:creator>Cutts, R. D. (Richard Dominicus), 1817-1883</dcterms:creator>
+   <dcterms:creator>Hilgard, J. E. (Julius Erasmus), 1825-1891</dcterms:creator>
+   <dcterms:creator>Lindenkohl, A.</dcterms:creator>
+   <dcterms:creator>U.S. Coast and Geodetic Survey.</dcterms:creator>
+   <dcterms:publisher>U.S. Coast and Geodetic Survey</dcterms:publisher>
+   <dcterms:created>1882</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>60 x 90 cm. on sheet 76 x 98 cm.. [original]</dcterms:extent>
+   <dcterms:medium>bathymetry/soundings</dcterms:medium>
+   <dcterms:medium>contours</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:medium>Polyconic projection.</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Corrections from surveys by Corps of Engineers U.S.A., to June 1896.</dcterms:description>
+   <dcterms:description>Relief shown by hachures. Depths shown by contours and soundings.</dcterms:description>
+   <dcterms:description>Inset: James River, diagram of charts.</dcterms:description>
+   <dcterms:description>In upper margin, left to right: No. 401b Price 40 cents. Plate No. 1693. Electrotype Copy No. 1, U.S.C. &amp; G.S.</dcterms:description>
+   <dcterms:description>In bottom right margin: (James R. Sheet 2) U.S.C. &amp; G.S. 401b.</dcterms:description>
+   <dcterms:description>List of authorities for triangulation, topograpy, hydrograpy, magnetic observations.</dcterms:description>
+   <dcterms:description>"Office work: The reduced drawing of topography and hydrography was made by A. Lindenkohl. The engraving was executed as follows: Outlines and topography by J. Enthoffer; Hydrography by F. Courtenay; Lettering by E.A. Maedel, and Sand by H.M. Knight."</dcterms:description>
+   <dcterms:description>Includes notes on tides, soundings, and buoys.</dcterms:description>
+   <dcterms:description>Scale 1:40,000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Nautical charts--Virginia--James River.</dcterms:subject>
+   <dcterms:subject>James River (Va.)--Maps.</dcterms:subject>
+   <dcterms:spatial>James River (Va.)</dcterms:spatial>
+   <dcterms:spatial>James River.</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Washington, District of Columbia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:894404/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003482</edm:isShownAt>
+</mdRecord>

@@ -1,1 +1,31 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 6:12 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18651</dcterms:identifier>
+   <dcterms:title>Affection waltz / composed &amp; arranged for the piano forte by W.F.</dcterms:title>
+   <dcterms:title>Fry, William Henry, 1813-1864. Leonora. Affection waltz; arr.</dcterms:title>
+   <dcterms:creator>Fry, William Henry, 1813-1864</dcterms:creator>
+   <dcterms:creator>Webb, L. W.</dcterms:creator>
+   <dcterms:publisher>F.D. Benteen</dcterms:publisher>
+   <dcterms:created>[1843..1844]</dcterms:created>
+   <dcterms:extent>[2] leaves of music</dcterms:extent>
+   <dcterms:extent>33 cm. [original]</dcterms:extent>
+   <dcterms:medium>piano conductor part</dcterms:medium>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>"L.W. Webb"--Colophon.</dcterms:description>
+   <dcterms:description>Probable date of publication inferred from publisher's plate number.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.2 no.34: Thirty-fourth title in a bound volume of sheet music from the library of Mrs. Abby A. Waterhouse, with her name on the cover.</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v. 160, no. 22]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Waltzes</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts, Arranged.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1542128/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18651</edm:isShownAt>
+</mdRecord>

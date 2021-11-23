@@ -1,1 +1,32 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:28 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1150344</dcterms:identifier>
+   <dcterms:title>Deux polonaises, op. 26 / F. Chopin ; [revised and edited by A. Door]</dcterms:title>
+   <dcterms:title>Chopin, Frédéric, 1810-1849. Polonaises, piano. op. 26</dcterms:title>
+   <dcterms:creator>C.G. Röder (Firm)</dcterms:creator>
+   <dcterms:creator>Chopin, Frédéric, 1810-1849</dcterms:creator>
+   <dcterms:creator>Dessauer, Josef, 1798-1876</dcterms:creator>
+   <dcterms:creator>Door, Anton, 1833-1919</dcterms:creator>
+   <dcterms:publisher>Arthur P. Schmidt</dcterms:publisher>
+   <dcterms:created>[1893..1894]</dcterms:created>
+   <dcterms:extent>11 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>"Printed by C.G. Röder, Leipzig."</dcterms:description>
+   <dcterms:description>"J. Dessauer gewidmet."</dcterms:description>
+   <dcterms:description>Advertisement on p. [12]: The Vienna Conservatory edition of the pianoforte classics.</dcterms:description>
+   <dcterms:isPartOf>Vienna Conservatory edition of the pianoforte classics / revised and edited by the Professors J. Dachs, A. Door, J. Epstein etc. ; no. 26</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1150345/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1150344</edm:isShownAt>
+</mdRecord>

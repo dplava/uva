@@ -1,1 +1,33 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:38 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1008828</dcterms:identifier>
+   <dcterms:title>C &amp; O and the Jamestown Exposition: Chesapeake &amp; Ohio Railway direct and short line between Chicago, St. Louis, Indianapolis, Cincinnati, Louisville, Lexington, Richmond, Williamsburg, Newport News, Norfolk, Old Point Comfort [and] Jamestown Exposition</dcterms:title>
+   <dcterms:title>C and O and the Jamestown Exposition</dcterms:title>
+   <dcterms:title>Chesapeake and Ohio Railway, traversing the historic Peninsula of Virginia</dcterms:title>
+   <dcterms:title>Historical C &amp; O route to the Jamestown Exposition April 26th to Dec 1st 1907</dcterms:title>
+   <dcterms:creator>Chesapeake and Ohio Railway Company.</dcterms:creator>
+   <dcterms:publisher>Matthews-Northrup Works</dcterms:publisher>
+   <dcterms:created>1906</dcterms:created>
+   <dcterms:extent>1 folded sheet (both sides)</dcterms:extent>
+   <dcterms:extent>28 x 62 cm. fold. to 28 x 10 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>map</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"This folder is simply preliminary. An enlarged and complete edition, handsomely illustrated, will be issued early in 1907 ... "</dcterms:description>
+   <dcterms:description>Map has title: Historical C &amp; O route to the Jamestown Exposition, April 26th to Dec 1st 1907.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Chesapeake and Ohio Railway Company.</dcterms:subject>
+   <dcterms:subject>Jamestown Ter-centennial Exposition (1907)</dcterms:subject>
+   <dcterms:subject>Jamestown (Va.)--Anniversaries, etc.</dcterms:subject>
+   <dcterms:spatial>Jamestown (Va.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1017069/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1008828</edm:isShownAt>
+</mdRecord>

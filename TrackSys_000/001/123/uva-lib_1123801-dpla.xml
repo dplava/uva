@@ -1,1 +1,35 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 3:56 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1123801</dcterms:identifier>
+   <dcterms:title>Little Jacob = Kleiner Jakob / W. Taubert</dcterms:title>
+   <dcterms:title>Kleiner Jakob</dcterms:title>
+   <dcterms:title>Where is our little Jacob delaying</dcterms:title>
+   <dcterms:title>Wo ist der kleine Jakob geblieben</dcterms:title>
+   <dcterms:title>Taubert, Wilhelm, 1811-1891. Klänge aus der Kinderwelt. op. 68. English &amp; German. Kleiner Jakob. English &amp; German</dcterms:title>
+   <dcterms:creator>Taubert, Wilhelm, 1811-1891</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1877</dcterms:created>
+   <dcterms:extent>1 score (3 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>voice, piano</dcterms:description>
+   <dcterms:description>For piano and voice.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [4]: "Catalogue no. 2 of vocal music."</dcterms:description>
+   <dcterms:description>German words with English translation.</dcterms:description>
+   <dcterms:isPartOf>Favorite song / composed by William Taubert ; no. 7</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Song with piano</dcterms:subject>
+   <dcterms:subject>Children's songs, German</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1123802/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1123801</edm:isShownAt>
+</mdRecord>

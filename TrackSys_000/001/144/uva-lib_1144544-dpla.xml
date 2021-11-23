@@ -1,1 +1,31 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:06 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1144544</dcterms:identifier>
+   <dcterms:title>O salutaris: for soprano, op. 8 / by Edward Futterer</dcterms:title>
+   <dcterms:title>Holy Father hear our prayer</dcterms:title>
+   <dcterms:title>O holy Father, holy Father</dcterms:title>
+   <dcterms:title>O salutaris, salutaris hostia</dcterms:title>
+   <dcterms:title>Futterer, Edward. O salutaris. English &amp; Latin</dcterms:title>
+   <dcterms:creator>Casey, Anna T.</dcterms:creator>
+   <dcterms:creator>Futterer, Edward.</dcterms:creator>
+   <dcterms:publisher>C.E. Wendell and Co.</dcterms:publisher>
+   <dcterms:created>1885</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>piano, soprano voice</dcterms:description>
+   <dcterms:description>For soprano and piano.</dcterms:description>
+   <dcterms:description>"To Miss Anna T. Casey."</dcterms:description>
+   <dcterms:description>Latin words with parallel English translation.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Sacred songs (High voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1144545/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1144544</edm:isShownAt>
+</mdRecord>

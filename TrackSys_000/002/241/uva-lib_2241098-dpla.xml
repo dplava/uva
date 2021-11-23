@@ -1,1 +1,26 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 7:56 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2241098</dcterms:identifier>
+   <dcterms:title>Public meeting of Southern Rights men</dcterms:title>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1861</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>19 x 36 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"All who are opposed to the rule of this government being p!aced (i.e. placed) in the hands of Black Republicans ... are requested to meet to-day at the Circuit Court Clerk's Office, immediately after the speaking, to nominate a candidate to represent their sentiments in the state convention. January 28, 1861."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: From the McCue Papers, MSS 4406.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>States' rights (American politics)</dcterms:subject>
+   <dcterms:subject>African Americans--Civil rights--Virginia.</dcterms:subject>
+   <dcterms:subject>Virginia--Politics and government--1861-1865.</dcterms:subject>
+   <dcterms:temporal>1861-1865.</dcterms:temporal>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2246250/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2241098</edm:isShownAt>
+</mdRecord>

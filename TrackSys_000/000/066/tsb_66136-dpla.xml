@@ -1,1 +1,50 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:21 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66136</dcterms:identifier>
+   <dcterms:title>Consuetudo, vel, Lex mercatoria, or, The ancient law-merchant : in three parts, according to the essentials of traffick : necessary for statesmen, judges, magistrates, temporal and civil lawyers, mint-men, merchants, mariners, and all others negotiating in any parts of the world / by Gerard Malynes, merchant</dcterms:title>
+   <dcterms:title>Advice concerning bills of exchange</dcterms:title>
+   <dcterms:title>Amphithalami, or, The accountants closet</dcterms:title>
+   <dcterms:title>Ancient law-merchant</dcterms:title>
+   <dcterms:title>Ancient sea-laws of Oleron, Wisby, and the Hanse-towns, still in force</dcterms:title>
+   <dcterms:title>Consuetudo</dcterms:title>
+   <dcterms:title>Introduction to merchants-accompts</dcterms:title>
+   <dcterms:title>Jurisdiction of the admiralty of England asserted</dcterms:title>
+   <dcterms:title>Lex mercatoria</dcterms:title>
+   <dcterms:title>Merchant's mirrour, or, Directions for the perfect ordering and keeping of his accounts</dcterms:title>
+   <dcterms:title>Sovereignty of the British seas</dcterms:title>
+   <dcterms:creator>Malynes, Gerard, active 1586-1641</dcterms:creator>
+   <dcterms:creator>Miege, Guy, 1644-1718?</dcterms:creator>
+   <dcterms:creator>Thomas Jefferson Library Collection (Library of Congress)</dcterms:creator>
+   <dcterms:publisher>Printed for T. Basset ... R. Chiswell ... T. Horne and E. Smith ...</dcterms:publisher>
+   <dcterms:created>1686</dcterms:created>
+   <dcterms:extent>[16], 340, 43-78, [8], 87-130, 28, 22, [8], 42, [20], 54, [14], 19, [12], 13, 13, [6], 3, 3, [49], 7, [52], 9, [286] p.</dcterms:extent>
+   <dcterms:extent>35 cm. (fol.) [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>The third edition, wherein are inserted the three tracts following, never before printed in any former impression, I. The jurisdiction of the admiralty of England asserted /</dcterms:description>
+   <dcterms:description>(from t. p.) Whereunto are annexed the following tracts, viz. I. The collection of sea laws -- II. Advice concerning bills of exchange / by John Marius ... -- III. The merchants mirrour, or, Directions for the perfect ordering of keeping of his accompts ... / by R. Dassorne ... -- IV. An introduction to merchants accompts / by John Collins ... -- V. The accountants closet ... / by Abraham Liset.</dcterms:description>
+   <dcterms:description>Added t.p. from 1685 ed.</dcterms:description>
+   <dcterms:description>Each pt. has special t.p.</dcterms:description>
+   <dcterms:description>Signatures: A⁴ a⁴ B-2U⁴ 2X², ²N-X² Y-2H⁴, ³A-C⁴ [C4 is blank], ⁴[A]² B [mislabeled C]-F² G-I⁴, ⁵a⁶ A-2Q⁴, ⁶[A]1 B-Q⁴ [R]1, ⁷[B]² C-P² Q-Y⁴.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Law merchant--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Commercial law--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Accounting--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Maritime law--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Bills of exchange--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Law merchant--Great Britain--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Commercial law--Great Britain--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Accounting</dcterms:subject>
+   <dcterms:subject>Bills of exchange</dcterms:subject>
+   <dcterms:subject>Commercial law</dcterms:subject>
+   <dcterms:subject>Law merchant</dcterms:subject>
+   <dcterms:subject>Maritime law</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2547503/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66136</edm:isShownAt>
+</mdRecord>

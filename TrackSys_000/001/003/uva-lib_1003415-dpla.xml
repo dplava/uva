@@ -1,1 +1,41 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003415</dcterms:identifier>
+   <dcterms:title>Rand McNally official 1922 auto trails map, District number 20</dcterms:title>
+   <dcterms:title>Auto trails map, district number 20</dcterms:title>
+   <dcterms:title>Official 1922 auto trails map, district number 20</dcterms:title>
+   <dcterms:title>Official Roanoke map</dcterms:title>
+   <dcterms:title>Official map Roanoke Auto. Assn., 1922</dcterms:title>
+   <dcterms:creator>Rand McNally and Company.</dcterms:creator>
+   <dcterms:publisher>Roanoke Automobile Association</dcterms:publisher>
+   <dcterms:created>1922</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>63 x 81 cm. on sheet 68 x 87 cm., folded in cover 19 x 11 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>Lee Highway (Route 11) and other routes to Roanoke, Virginia highlighted in red.</dcterms:description>
+   <dcterms:description>Southern Ohio, West Virginia, Virginia, southern Maryland, southern Delaware, North Carolina, South Carolina, northern Georgia, eastern Alabama, eastern Tennessee and eastern Kentucky.</dcterms:description>
+   <dcterms:description>On verso: "Official Roanoke map" with 4 Roanoke distance tables and 13 business advertisements.</dcterms:description>
+   <dcterms:description>Text of Virginia "Act requiring all vehicles to stop before crossing railway tracks at grade" (effective June 19, 1922) on p. [4] of cover.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Transferred from Virginia ephemera file, 2000. Note special filing location.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,408,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Roads--Southern States--Maps.</dcterms:subject>
+   <dcterms:subject>Southern States--Maps, Tourist.</dcterms:subject>
+   <dcterms:subject>Roanoke (Va.)--Maps.</dcterms:subject>
+   <dcterms:subject>Virginia--Maps.</dcterms:subject>
+   <dcterms:spatial>Roanoke (Va.)</dcterms:spatial>
+   <dcterms:spatial>Southern States</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:893025/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003415</edm:isShownAt>
+</mdRecord>

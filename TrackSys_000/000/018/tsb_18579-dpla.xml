@@ -1,1 +1,30 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 6:10 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18579</dcterms:identifier>
+   <dcterms:title>Oscar Wilde: forget-me-not waltzes / [composed by Amy Henry]</dcterms:title>
+   <dcterms:title>Forget-me-not: waltzes</dcterms:title>
+   <dcterms:creator>Henry, Amy</dcterms:creator>
+   <dcterms:publisher>W.A. Evans &amp; Bro.</dcterms:publisher>
+   <dcterms:created>1886</dcterms:created>
+   <dcterms:extent>7 p. of music</dcterms:extent>
+   <dcterms:extent>36 cm. [original]</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>Title page illustration: portrait of Oscar Wilde, with flowers and banner.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Wilde, Oscar, 1854-1900--Portraits.</dcterms:subject>
+   <dcterms:subject>Wilde, Oscar, 1854-1900--Songs and music.</dcterms:subject>
+   <dcterms:subject>Waltzes</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1511852/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18579</edm:isShownAt>
+</mdRecord>

@@ -1,1 +1,27 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:19 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66080</dcterms:identifier>
+   <dcterms:title>Reports of cases argued and determined in the High Court of Chancery: during the time of Lord Chancellor Eldon; from the commencement of the sittings before Hilary term, 1818, to the end of the sittings after Michaelmas term, 1819 / By Clement Tudway Swanston</dcterms:title>
+   <dcterms:creator>Eldon, John Scott Earl of, 1751-1838</dcterms:creator>
+   <dcterms:creator>Great Britain. Court of Chancery.</dcterms:creator>
+   <dcterms:creator>Swanston, Clement Tudway, 1783-1863</dcterms:creator>
+   <dcterms:publisher>J. Butterworth and Son; [etc., etc.</dcterms:publisher>
+   <dcterms:created>1821/1827</dcterms:created>
+   <dcterms:extent>3 v. 25 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Vol. 3 has imprint: London, J. Butterworth and Son.</dcterms:description>
+   <dcterms:description>"The time principally covered is 1818-1819; but cases are given in the body of the work from 1816 to 1821, and in the appendix from 1673 to 1792."--Soule, Lawyer's ref. manual, 1884.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue (v. 1-2)</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain.</dcterms:subject>
+   <dcterms:subject>Equity--Great Britain--Cases.</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2513929/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66080</edm:isShownAt>
+</mdRecord>

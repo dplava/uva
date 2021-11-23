@@ -1,1 +1,32 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:11 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65891</dcterms:identifier>
+   <dcterms:title>The crown circuit companion: in which is incorporated the crown circuit assistant</dcterms:title>
+   <dcterms:title>The crown circuit assistant</dcterms:title>
+   <dcterms:creator>Herbert, A. (Algernon), 1792-1855</dcterms:creator>
+   <dcterms:creator>Minchin, J. (James)</dcterms:creator>
+   <dcterms:creator>Stubbs, W.</dcterms:creator>
+   <dcterms:creator>Talmash, George, -1762</dcterms:creator>
+   <dcterms:publisher>Butterworth</dcterms:publisher>
+   <dcterms:created>1820</dcterms:created>
+   <dcterms:extent>723 p.</dcterms:extent>
+   <dcterms:extent>25 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>9th ed.,</dcterms:description>
+   <dcterms:description>By W. Stubbs and G. Talmash. The crown circuit assistant is by Thomas Dogherty.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Indictments--Great Britain.</dcterms:subject>
+   <dcterms:subject>Criminal procedure--Great Britain.</dcterms:subject>
+   <dcterms:subject>Criminal law--Great Britain.</dcterms:subject>
+   <dcterms:subject>Costs (Law)--Great Britain.</dcterms:subject>
+   <dcterms:spatial>Great Britain.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2394743/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65891</edm:isShownAt>
+</mdRecord>

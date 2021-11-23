@@ -1,1 +1,34 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:32 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003500</dcterms:identifier>
+   <dcterms:title>Plan of the siege of York Town in Virginia / engraved for Stedmans History of the American war</dcterms:title>
+   <dcterms:title>Plan of the siege of Yorktown in Virginia</dcterms:title>
+   <dcterms:publisher>A. S. Barnes</dcterms:publisher>
+   <dcterms:created>1881</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>17 x 21 cm. on sheet 24 x 30 cm. [original]</dcterms:extent>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>Shows location of British, French, and American troops and redoubts taken on Oct. 14th.</dcterms:description>
+   <dcterms:description>As published in: The magazine of American history, v. 6, p. 8 (New York, A.S. Barnes, 1881)</dcterms:description>
+   <dcterms:description>Originally appeared in: The history of the origin, progress, and termination of the American war / by C. Stedman. London, 1794.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:30,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Yorktown (Va.)--History--Siege, 1781--Maps.</dcterms:subject>
+   <dcterms:subject>United States--History--Revolution, 1775-1783--Campaigns--Maps.</dcterms:subject>
+   <dcterms:subject>York County (Va.)--Maps.</dcterms:subject>
+   <dcterms:temporal>Revolution, 1775-1783</dcterms:temporal>
+   <dcterms:temporal>Siege, 1781</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>York County (Va.)</dcterms:spatial>
+   <dcterms:spatial>Yorktown (Va.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:897915/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003500</edm:isShownAt>
+</mdRecord>

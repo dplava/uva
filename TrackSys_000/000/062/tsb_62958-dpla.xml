@@ -1,1 +1,24 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 9:59 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:62958</dcterms:identifier>
+   <dcterms:title>The select poetry of Sir Walter Scott</dcterms:title>
+   <dcterms:creator>Scott, Walter, 1771-1832</dcterms:creator>
+   <dcterms:publisher>A. &amp; C. Black</dcterms:publisher>
+   <dcterms:created>1868</dcterms:created>
+   <dcterms:extent>6 v.</dcterms:extent>
+   <dcterms:extent>14 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>v. 1 Lay of the last minstrel.--v. 2. Marmion.--v. 3. Lady of the Lake.--v. 4. Rokeby.--v. 5. Lord of the isles.--v. 6. The bridal of Triermain. Harold the dauntless. The field of Waterloo.</dcterms:description>
+   <dcterms:description>VIVA Repository Copy 2014.</dcterms:description>
+   <dcterms:description>Item X030593479 has bookplate data: Arthur Bernard Recknagel.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1697688/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:62958</edm:isShownAt>
+</mdRecord>

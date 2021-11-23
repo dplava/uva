@@ -1,1 +1,25 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:23 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66169</dcterms:identifier>
+   <dcterms:title>Fleta seu commentarius juris anglicani sic nuncupatus: sub Edwardo rege primo, seu circa annos abhince CCCXL. ab anonymo conscriptus, atque è codice veteri, autore ipso aliquantulùm recentiori, nunc primùm typis editus : accedit tractatulus vetus de agendi excipiendique formulis gallicanus, fet assavoir dictus / subjungitur etiam Joannis Seldeni ad Fletam dissertatio historica</dcterms:title>
+   <dcterms:title>Fleta</dcterms:title>
+   <dcterms:publisher>Typis M.F. prostant apud Guilielmum Lee, Mathaeum Walbancke, &amp; Danielem Pakeman</dcterms:publisher>
+   <dcterms:created>1647</dcterms:created>
+   <dcterms:extent>4 p. l., 553 (i.e. 555), [3] p.</dcterms:extent>
+   <dcterms:extent>23 cm. [original]</dcterms:extent>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Title in red and black.</dcterms:description>
+   <dcterms:description>Irregularities in paging: numbers 63 and 64 are repeated and 82 and 551 are numbered 28 and 501 respectively.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Law--Great Britain.</dcterms:subject>
+   <dcterms:spatial>Great Britain.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2564185/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66169</edm:isShownAt>
+</mdRecord>

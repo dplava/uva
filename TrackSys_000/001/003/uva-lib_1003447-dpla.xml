@@ -1,1 +1,30 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003447</dcterms:identifier>
+   <dcterms:title>Pitner's Map of State of Virginia</dcterms:title>
+   <dcterms:title>Map of State of Virginia</dcterms:title>
+   <dcterms:creator>Pitner, Carl.</dcterms:creator>
+   <dcterms:publisher>Published by Carl Pitner</dcterms:publisher>
+   <dcterms:created>[1920..1929]</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>69 x 157 cm. on sheet 93 x 162 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief is not shown.</dcterms:description>
+   <dcterms:description>Inset: South-west portion of state.</dcterms:description>
+   <dcterms:description>Includes tables: List of counties in Virginia -- Population of incorporated places, with 1920 census figures -- List of airports and landing fields -- Post offices, with county names, coded for services offered, i.e. domestic and/or international money orders, postal savings depositories, summer offices, winter offices.</dcterms:description>
+   <dcterms:description>A table of "Population of incorporated places, 1930" is pasted to the right of the inset.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Mounted on linen.</dcterms:description>
+   <dcterms:description>Scale ca. 1:500,000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Virginia--Maps.</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:893075/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003447</edm:isShownAt>
+</mdRecord>

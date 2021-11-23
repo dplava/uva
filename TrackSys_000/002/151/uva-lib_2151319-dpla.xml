@@ -1,1 +1,22 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:42 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2151319</dcterms:identifier>
+   <dcterms:title>Postillon del mensagero Luisianes del martes 11 de diciembre de 1810 / By the President of the United States of America. A proclamation</dcterms:title>
+   <dcterms:creator>United States. President (1809-1817 : Madison)</dcterms:creator>
+   <dcterms:created>1810</dcterms:created>
+   <dcterms:extent>1 broadside. 31 x 22 cm.</dcterms:extent>
+   <dcterms:language>Spanish</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Mississippi--Boundaries--Louisiana.</dcterms:subject>
+   <dcterms:subject>Louisiana--Boundaries--Mississippi.</dcterms:subject>
+   <dcterms:spatial>Louisiana</dcterms:spatial>
+   <dcterms:spatial>Mississippi</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2183345/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2151319</edm:isShownAt>
+</mdRecord>

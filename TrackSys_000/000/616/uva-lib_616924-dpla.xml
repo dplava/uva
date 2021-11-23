@@ -1,1 +1,27 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 11:46 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:616924</dcterms:identifier>
+   <dcterms:title>E. Watts, book-binder, Charlottesville, Virginia</dcterms:title>
+   <dcterms:creator>Watts, E. (Ebenezer), 1790-1862</dcterms:creator>
+   <dcterms:publisher>E. Watts</dcterms:publisher>
+   <dcterms:created>1827</dcterms:created>
+   <dcterms:extent>1 print</dcterms:extent>
+   <dcterms:extent>13 x 8 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>E. Watts binder's label, with the earliest known printed view of the Rotunda of the University of Virginia. The image (60 mm. x 60 mm.) is enclosed in a border of type ornaments; text appears below the image, and is enclosed within a border of differently patterned type ornaments.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Coles Fund.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia Rotunda (Charlottesville, Va.)</dcterms:subject>
+   <dcterms:subject>University of Virginia--Buildings.</dcterms:subject>
+   <dcterms:subject>Bookbinders--Virginia--Charlottesville.</dcterms:subject>
+   <dcterms:spatial>Charlottesville.</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:621741/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616924</edm:isShownAt>
+</mdRecord>

@@ -1,1 +1,30 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 3:35 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1090154</dcterms:identifier>
+   <dcterms:title>Recit veritable de ce qui s'est passé au depart de Monsieur de Soubize, sortant d'Angleterre: Ensemble le numbre des vaisseaux &amp; gens de guerre dudit sieur de Soubize, qui ont esté brisez, rompuz &amp; noyez par l'orrible foudre &amp; tempeste arriuée .. au Haure de Plemontz .. : Auec la mort espouuentable d'vn ingenieur nommé Nelloheman .. qui estoit dans vn desdits vaisseaux / Le tout rapporté par le sieur de la Chesnaye, ayant commandement de Monseigneur l'ambassadeur de France en Angleterre</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>La Chesnaye sieur de</dcterms:creator>
+   <dcterms:publisher>Chez Iean Barbots ...</dcterms:publisher>
+   <dcterms:created>1622</dcterms:created>
+   <dcterms:extent>15, [1] p.</dcterms:extent>
+   <dcterms:extent>16 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>A-B⁴.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Thibaron-Joly.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Bookplate, Ex-libris de la Germonière.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 781.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Soubise, Benjamin de Rohan de, duc de Frontenay, 1583-1642</dcterms:subject>
+   <dcterms:subject>France--History--Louis XIII, 1610-1643.</dcterms:subject>
+   <dcterms:temporal>Louis XIII, 1610-1643.</dcterms:temporal>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1103631/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1090154</edm:isShownAt>
+</mdRecord>

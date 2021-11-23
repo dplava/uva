@@ -1,1 +1,33 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:08 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1145130</dcterms:identifier>
+   <dcterms:title>Gondoliera: op. 5, no. 3 / Sig. Stojowski</dcterms:title>
+   <dcterms:title>Stojowski, Sigismund, 1870-1946. Morceaux. op. 5. Gondoliera</dcterms:title>
+   <dcterms:creator>Bennich, Augusta</dcterms:creator>
+   <dcterms:creator>Stojowski, Sigismund, 1870-1946</dcterms:creator>
+   <dcterms:publisher>Theodore Presser</dcterms:publisher>
+   <dcterms:created>1894</dcterms:created>
+   <dcterms:extent>5 p. of music</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>At head of caption: "A Mademoiselle Augusta Bennich."</dcterms:description>
+   <dcterms:description>Illustration on list title page: Purple flowers, possibly lilacs.</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: Characteristic compositions for the piano.</dcterms:description>
+   <dcterms:isPartOf>Morceaux pour piano / Sig Stojowski</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901.</dcterms:subject>
+   <dcterms:subject>Gondoliers--Songs and music.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1145131/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145130</edm:isShownAt>
+</mdRecord>

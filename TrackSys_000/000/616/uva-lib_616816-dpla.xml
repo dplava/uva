@@ -1,1 +1,42 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 11:45 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:616816</dcterms:identifier>
+   <dcterms:title>Carte d'une partie des côtes de la Floride et de la Louisiane: contenant le cours du Mississipi, depuis ses embouchures jusqu'à la Riviere Rouge, l'entrée de la Mobile, et les Baies de Pensacola, de Ste. Rose et de S. Joseph / d'apres plusieurs plans, manuscrits, levés par des navigateurs et des ingenieurs fran*cois ; Dressé au Dépot Général des Cartes, Plans et Journaux de la Marine pour le sevice des Vaisseaux du Roi ; par ordre de M. de Sartine Conseiller d'Etat, Ministre et Secrétaire d'Etat ayant le Département de la Marine, 1778. Carte réduite des côtes et de l'interieur de la presqu'île de la Floride : avec le détroit de cette presqu'île et le Canal de Bahama. / Dressé au Dépot Général des Cartes, Plans et Journaux de la Marine, d'après differentes cartes combinées, pour le sevice des Vaisseaux du Roi ; par ordre de M. de Sartine Conseiller d'Etat, Ministre et Secrétaire d'Etat ayant le Département de la Marine, 1780</dcterms:title>
+   <dcterms:creator>France. Dépôt général de la marine.</dcterms:creator>
+   <dcterms:creator>Petit, active 1775-1799</dcterms:creator>
+   <dcterms:creator>Sartine, Antoine de comte d'Alby, 1729-1801</dcterms:creator>
+   <dcterms:publisher>Dépôt général de la marine</dcterms:publisher>
+   <dcterms:created>1780</dcterms:created>
+   <dcterms:extent>2 maps on 1 sheet</dcterms:extent>
+   <dcterms:extent>maps 40 x 58 cm. (Carte d'une partie des côtes) and 58 x 40 cm. (Carte réduite des c*ôtes) on sheet 63 x 95 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>"Carte d'une partie des côtes" is numbered "N⁰ 1. H" and "Carte réduite" is numbered "N⁰ 2. H" with note "N°1.H. et 2.H. Ensemble PRIX Trois Livres" at lower right corner, just below neatline.</dcterms:description>
+   <dcterms:description>"Petit sculp." is printed below the neatline at the lower left corner of sheet.</dcterms:description>
+   <dcterms:description>Number "18" is printed above the neatline at upper right corner of sheet.</dcterms:description>
+   <dcterms:description>Relief shown by hachures. Depths shown by soundings.</dcterms:description>
+   <dcterms:description>Prime meridian: Paris.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library, American History Collection.</dcterms:description>
+   <dcterms:description>Scale for Carte d'une partie des côtes [ca.1:1,120,000]</dcterms:description>
+   <dcterms:description>Scale for Carte réduite des c*ôtes [ca. 1:1,650,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Nautical charts--Florida--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Gulf Coast (U.S.)--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Gulf Coast (La.)--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Gulf Coast (Fla.)--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Florida--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:spatial>Florida</dcterms:spatial>
+   <dcterms:spatial>Gulf Coast (Fla.)</dcterms:spatial>
+   <dcterms:spatial>Gulf Coast (La.)</dcterms:spatial>
+   <dcterms:spatial>Gulf Coast (U.S.)</dcterms:spatial>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:620402/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616816</edm:isShownAt>
+</mdRecord>

@@ -1,1 +1,27 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:37 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1219813</dcterms:identifier>
+   <dcterms:title>The manner in which the American Colonies declared themselves independant of the King of England, throughout the different provinces, on July 4, 1776 / Hamilton delin. ; Noble sculp</dcterms:title>
+   <dcterms:creator>Albert H. Small Declaration of Independence Collection (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Hamilton, William, 1751-1801</dcterms:creator>
+   <dcterms:creator>Noble, George</dcterms:creator>
+   <dcterms:publisher>Alexander Hogg</dcterms:publisher>
+   <dcterms:created>1783</dcterms:created>
+   <dcterms:extent>1 print</dcterms:extent>
+   <dcterms:extent>39 x 23 cm. [original]</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>City courtyard scene, with a man on a horse reading to people in the street, while others watch from open windows. A sign reading "America independant, 1776" is posted on the wall. Image within an elaborate border, with caption title below.</dcterms:description>
+   <dcterms:description>Appeared in: The new, comprehensive and complete history of England / by Edward Barnard, Esq., assisted by ... Mr. Millar. London : Printed for the author, and pub. by Alexander Hogg, [1783?]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Albert H. Small Declaration of Independence Collection. Deposit of Albert H. Small, July 14, 2003.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>United States.--Declaration of Independence</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1225160/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219813</edm:isShownAt>
+</mdRecord>

@@ -1,1 +1,34 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 4:34 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1136278</dcterms:identifier>
+   <dcterms:title>Come holy spirit = Veni creator : from Millard's Mass in G / composed by Harrison Millard</dcterms:title>
+   <dcterms:title>Come heavenly spirit heavenly dove</dcterms:title>
+   <dcterms:title>Veni creator</dcterms:title>
+   <dcterms:title>Veni creator spiritus</dcterms:title>
+   <dcterms:title>Millard, H. (Harrison), 1830-1895. Masses, G major. Veni creator. English &amp; Latin</dcterms:title>
+   <dcterms:creator>Millard, H. (Harrison), 1830-1895</dcterms:creator>
+   <dcterms:publisher>S.T. Gordon and Son</dcterms:publisher>
+   <dcterms:created>1885</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>soprano voice, alto voice, tenor voice, bass voice, mixed chorus, organ</dcterms:description>
+   <dcterms:description>Rev. ed.</dcterms:description>
+   <dcterms:description>For solo voices (SATB), SATB chorus, and organ.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>English and Latin words.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy has dealer's stamp: "Manly B. Ramos &amp; Co., 903 Main St., Richmond, Va."</dcterms:description>
+   <dcterms:isPartOf>Morning and evening service</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Choruses, Sacred (Mixed voices)</dcterms:subject>
+   <dcterms:subject>Masses--Excerpts.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1136279/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1136278</edm:isShownAt>
+</mdRecord>

@@ -1,1 +1,34 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 3:51 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1122524</dcterms:identifier>
+   <dcterms:title>Carlo io muojo ed ahi! = Charles I die : duetto from the opera I masnadieri / English words by M.L.L ; music by G. Verdi</dcterms:title>
+   <dcterms:title>Charles I die</dcterms:title>
+   <dcterms:title>My Carlo, he's dreaming</dcterms:title>
+   <dcterms:title>Verdi, Giuseppe, 1813-1901. Masnadieri. Carlo io muojo. English &amp; Italian</dcterms:title>
+   <dcterms:creator>H.O. Hayes &amp; Co.</dcterms:creator>
+   <dcterms:creator>Mackellar, Smiths &amp; Jordan</dcterms:creator>
+   <dcterms:creator>Verdi, Giuseppe, 1813-1901</dcterms:creator>
+   <dcterms:publisher>F.A. North &amp; Co.</dcterms:publisher>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>1 vocal score (9 p.)</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>voice (2), piano</dcterms:description>
+   <dcterms:description>For 2 voices and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>At foot of title page: "Electrotyped by Mackellar, Smiths &amp; Jordan, Phildelphia."</dcterms:description>
+   <dcterms:description>At foot of title page: "Hayes &amp; Co., printing."</dcterms:description>
+   <dcterms:description>Italian words with English translation.</dcterms:description>
+   <dcterms:isPartOf>Musica di Verdi : pezzi per canto, con pianoforte ; 5</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1122525/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1122524</edm:isShownAt>
+</mdRecord>

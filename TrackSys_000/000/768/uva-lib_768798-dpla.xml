@@ -1,1 +1,35 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 12:19 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:768798</dcterms:identifier>
+   <dcterms:title>Map showing the minerals of North Alabama / published under the auspices of the Committee appointed for the Reception of the Iron and Steel Institute of Engineers ; compiled from various sources, chiefly from information and unpublished maps and notes given by the Alabama State Geological Survey, and by Frank Y. Anderson, Land Commissioner Queen and Crescent System of Railroads, by Hermann Alber, C.E., Birmingham, Ala</dcterms:title>
+   <dcterms:creator>Alber, Hermann.</dcterms:creator>
+   <dcterms:creator>Geological Survey of Alabama.</dcterms:creator>
+   <dcterms:creator>Iron and Steel Institute of Engineers.</dcterms:creator>
+   <dcterms:creator>Roberts &amp; Son (Birmingham, Ala.)</dcterms:creator>
+   <dcterms:publisher>Committee appointed for the Reception of the Iron and Steel Institute of Engineers</dcterms:publisher>
+   <dcterms:created>1890</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>54 x 64 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"Compiled from various sources, chiefly from information and unpublished maps and notes given by the Alabama State Geological Survey, and by Frank Y. Anderson, Land Commissioner Queen and Crescent System of Railroads" is printed on a strip pasted over and obliterating the original text.</dcterms:description>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>"Copyright 1890 by Hermann Alber."</dcterms:description>
+   <dcterms:description>Covers the area north of Centreville in Bibb County, excluding Franklin, Lawrence, Colbert, Lawrence and Lauderdale and Limestone counties in the northwest corner where the title is printed.</dcterms:description>
+   <dcterms:description>Color coded explanation for types of ore, mines, quaries and furnaces.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Linen-backed.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:460,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Mines and mineral resources--Alabama--Maps.</dcterms:subject>
+   <dcterms:subject>Alabama--Maps.</dcterms:subject>
+   <dcterms:spatial>Alabama</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:793792/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:768798</edm:isShownAt>
+</mdRecord>

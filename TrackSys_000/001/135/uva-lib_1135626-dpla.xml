@@ -1,1 +1,30 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 4:31 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1135626</dcterms:identifier>
+   <dcterms:title>Hear my prayer / Mendelssohn ; arranged by Albert J. Holden</dcterms:title>
+   <dcterms:title>Hear my prayer, o God</dcterms:title>
+   <dcterms:title>Mendelssohn-Bartholdy, Felix, 1809-1847. Choral music. Selections, women's voices, organ. op. 39. English; arr. Veni Domine. English; arr.</dcterms:title>
+   <dcterms:creator>Holden, Albert J.</dcterms:creator>
+   <dcterms:creator>Mendelssohn-Bartholdy, Felix, 1809-1847</dcterms:creator>
+   <dcterms:publisher>Wm. A. Pond &amp; Co.</dcterms:publisher>
+   <dcterms:created>1877</dcterms:created>
+   <dcterms:extent>1 score ( p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, soprano voice</dcterms:description>
+   <dcterms:description>Soprano, in G.</dcterms:description>
+   <dcterms:description>Originally for women's chorus and organ; arr. for soprano solo and piano.</dcterms:description>
+   <dcterms:description>English words.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy incomplete; ends on p. 4.</dcterms:description>
+   <dcterms:isPartOf>Sacred songs and duetts / by Albert J. Holden ; 24</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Sacred songs (High voice) with piano, Arranged</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1135627/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1135626</edm:isShownAt>
+</mdRecord>

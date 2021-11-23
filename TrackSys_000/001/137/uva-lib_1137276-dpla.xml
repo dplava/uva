@@ -1,1 +1,33 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 4:38 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1137276</dcterms:identifier>
+   <dcterms:title>Certainty = Gewissheit : op. 387, soprano / Franz Abt ; English words by Auber Forestier</dcterms:title>
+   <dcterms:title>All doubt's fled forever</dcterms:title>
+   <dcterms:title>Gewissheit</dcterms:title>
+   <dcterms:title>Nun weiss ich's fürewig</dcterms:title>
+   <dcterms:title>Abt, Franz, 1819-1885. Gewissheit. English &amp; German</dcterms:title>
+   <dcterms:creator>Abt, Franz, 1819-1885</dcterms:creator>
+   <dcterms:creator>Gastel, Emil</dcterms:creator>
+   <dcterms:creator>Moore, Aubertine Woodward, 1841-1929</dcterms:creator>
+   <dcterms:publisher>F.A. North &amp; Co.</dcterms:publisher>
+   <dcterms:created>1874</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, soprano voice</dcterms:description>
+   <dcterms:description>For soprano voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>German words with English translation.</dcterms:description>
+   <dcterms:isPartOf>Golden treasury of vocal lyrics / with explanatory notes by Prof. Emil Gastel ; no. 11</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1137277/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1137276</edm:isShownAt>
+</mdRecord>

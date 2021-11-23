@@ -1,1 +1,36 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 12:20 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:770589</dcterms:identifier>
+   <dcterms:title>Nova Virginiae tabula</dcterms:title>
+   <dcterms:creator>Hondius, Hendrik, 1597-1651</dcterms:creator>
+   <dcterms:publisher>Ex officina Henrici Hondii</dcterms:publisher>
+   <dcterms:created>1650</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>38 x 49 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>Dutch</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Described as "Derivative 5, State 1" of John Smith's map of Virginia. It was used in all editions of the Mercator-Hondius atlas published after 1633, according to Verner, cited below.</dcterms:description>
+   <dcterms:description>Variant 1: Dutch text on verso, with signature Iii, catchword "is" On sheet 44 x 54 cm. Annotated in pencil, "Jansson, 1650."</dcterms:description>
+   <dcterms:description>Variant 2: Dutch text on verso, with signature Dd, catchword "riviere." On sheet 50 x 54 cm. Annotated in pencil, "Janson, Amsterdam, 1658."</dcterms:description>
+   <dcterms:description>Relief shown pictorially.</dcterms:description>
+   <dcterms:description>Oriented with north to the right.</dcterms:description>
+   <dcterms:description>Includes hand col. ill.</dcterms:description>
+   <dcterms:description>Dutch text on verso.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: G3880 1633 .H6 1650: Variant 1. Paul Mellon Bequest, May 12, 2000.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: G3880 1633 .H6 1658: Variant 2. Paul Mellon Bequest, May 12, 2000.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:300,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Mellon, Paul--Library--Personal copy.</dcterms:subject>
+   <dcterms:subject>Virginia--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:918812/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770589</edm:isShownAt>
+</mdRecord>

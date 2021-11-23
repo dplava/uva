@@ -1,1 +1,35 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 4:17 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1132290</dcterms:identifier>
+   <dcterms:title>La serenade Ständchen: the admired serenade : for voice and piano / composed by Franz Schubert ; sung by Signora Biscacianti</dcterms:title>
+   <dcterms:title>Cooling zephyrs gently sighing</dcterms:title>
+   <dcterms:title>Jusqu'a toi mes chants dans l'ombre</dcterms:title>
+   <dcterms:title>Leise flehen meine Lieder</dcterms:title>
+   <dcterms:title>Ständchen</dcterms:title>
+   <dcterms:title>Schubert, Franz, 1797-1828. Schwanengesang (Song cycle). Ständchen. Polyglot</dcterms:title>
+   <dcterms:creator>Biscaccianti, Eliza, Signora, 1824-1896</dcterms:creator>
+   <dcterms:creator>Schubert, Franz, 1797-1828</dcterms:creator>
+   <dcterms:publisher>David P. Faulds</dcterms:publisher>
+   <dcterms:publisher>Peters &amp; Field</dcterms:publisher>
+   <dcterms:publisher>W.C. Peters</dcterms:publisher>
+   <dcterms:created>[1850..1851]</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>German words with English and French translations.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publishers were active in these cities between 1850 and 1851. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1132291/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1132290</edm:isShownAt>
+</mdRecord>

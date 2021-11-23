@@ -1,1 +1,26 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 4:17 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1132199</dcterms:identifier>
+   <dcterms:title>Zwei leichte Sonaten, Op. 49, no. 2 / von L. van Beethoven ; fingered by Sigmund Lebert</dcterms:title>
+   <dcterms:title>Beethoven, Ludwig van, 1770-1827. Sonatas, piano. no. 20, op. 49, no. 2, G major</dcterms:title>
+   <dcterms:creator>Beethoven, Ludwig van, 1770-1827</dcterms:creator>
+   <dcterms:creator>Lebert, Sigmund, 1821-1884</dcterms:creator>
+   <dcterms:publisher>Carl Prüfer</dcterms:publisher>
+   <dcterms:created>18XX</dcterms:created>
+   <dcterms:extent>9 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:isPartOf>Instructive sonatas for piano</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1132200/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1132199</edm:isShownAt>
+</mdRecord>

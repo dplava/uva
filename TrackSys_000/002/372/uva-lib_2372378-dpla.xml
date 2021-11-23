@@ -1,1 +1,33 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 8:04 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2372378</dcterms:identifier>
+   <dcterms:title>Belmont</dcterms:title>
+   <dcterms:creator>Johnston, Frances Benjamin, 1864-1952</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1929/1935</dcterms:created>
+   <dcterms:description>Interior, parlor. Buiding Date 1761. Home of artist Gari Melchers. Stafford County, Virginia.</dcterms:description>
+   <dcterms:isPartOf>The Frances Benjamin Johnston Photographs</dcterms:isPartOf>
+   <dcterms:isPartOf>Carnegie Survey of the Architecture of the South</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Historic buildings--Virginia</dcterms:subject>
+   <dcterms:subject>Johnston, Frances Benjamin, 1864-1952</dcterms:subject>
+   <dcterms:subject>Georgian</dcterms:subject>
+   <dcterms:subject>American Colonial</dcterms:subject>
+   <dcterms:subject>Houses</dcterms:subject>
+   <dcterms:subject>Dwellings</dcterms:subject>
+   <dcterms:subject>Vernacular architecture</dcterms:subject>
+   <dcterms:subject>Marble</dcterms:subject>
+   <dcterms:subject>Fireplaces</dcterms:subject>
+   <dcterms:subject>Double portraits</dcterms:subject>
+   <dcterms:subject>Seating furniture</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Stafford, Virginia, United States, North America</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2372378/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2372378</edm:isShownAt>
+</mdRecord>

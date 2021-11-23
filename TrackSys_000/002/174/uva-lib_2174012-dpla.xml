@@ -1,1 +1,30 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 7:54 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2174012</dcterms:identifier>
+   <dcterms:title>General orders, no. 143 / War Department, Adjutant General's Office, Washington, May 22, 1863</dcterms:title>
+   <dcterms:creator>United States. War Department</dcterms:creator>
+   <dcterms:publisher>U.S. War Dept.</dcterms:publisher>
+   <dcterms:created>1863</dcterms:created>
+   <dcterms:extent>2 p.</dcterms:extent>
+   <dcterms:extent>19 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Announcement of the formation of a bureau in the Adjutant General's Office to deal with all matters relating to the organization of "Colored Troops." Includes additional regulations on the formation and organization of colored regiments.</dcterms:description>
+   <dcterms:description>Signed, in print, on p. 2: E.D. Townsend, Assistant Adjutant General.</dcterms:description>
+   <dcterms:description>Printed on p. [1]-2 of one folded sheet; p. [3]-[4] are blank.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library. McGregor Endowment Fund, 2001/2002. For additional General orders, 1863, SEE: UB502 .A5 1863.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>United States. Army--African American troops.</dcterms:subject>
+   <dcterms:subject>United States. War Department</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Participation, African American.</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Washington, District of Columbia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2184110/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174012</edm:isShownAt>
+</mdRecord>

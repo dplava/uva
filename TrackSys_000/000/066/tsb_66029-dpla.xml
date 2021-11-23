@@ -1,1 +1,29 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:17 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66029</dcterms:identifier>
+   <dcterms:title>Concilia, decreta, leges, constitvtiones, in re ecclesiarum orbis Britannici: Viz. Pambritannica, Pananglica, Scotica, Hibernica, Cambrica, Mannica, provincialia, dioecesana. Ab initio christianae ibidem religionis, ad nostram usque aetatem. Uti reperiuntur in eorundem actis, canonibus ecclesiasticis, regnorum constitutionibus, senatus consultis, principum rescriptis, libris impressis, &amp; antiquè mss. in regum etiam priscorum diplomatibus, chartis, schedis, &amp; monumentis veteribus, studiosè congesta / Operâ &amp; scrutinio Henrici Spelman</dcterms:title>
+   <dcterms:creator>Spelman, Clement, 1598-1679</dcterms:creator>
+   <dcterms:creator>Spelman, Henry Sir, 1564?-1641</dcterms:creator>
+   <dcterms:publisher>Typis R. Badger, impensis Ph. Stephani &amp; C. Meredity</dcterms:publisher>
+   <dcterms:created>1639/1664</dcterms:created>
+   <dcterms:extent>2 v. 34 cm.</dcterms:extent>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Vol. 2 was published in 1664 under title: Concilia, decreta, leges, constitutiones in re ecclesiarum orbis britannici; viz. Pan-Anglica, Scotioa, Hibernica, provincialia diocesana ab introitu normanorum An. Dom. MLXVI ad exutam papam five ad An. Dom. MDXXXI. Accesserunt etiam alia ad rem ecclesiasticam spectantiuti reperiuntur in eorundem actis, canonibus ecclesiasticis, principum rescriptis, libris impressis, antiquis manuscriptis, chartis, schedis, &amp; monumentis veteribus ... Londini, apud Aliciam Warren, 1664.</dcterms:description>
+   <dcterms:description>Vol. 2 edited by C. Spelman.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Councils and synods--Great Britain--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Ecclesiastical law--Great Britain.</dcterms:subject>
+   <dcterms:subject>Law--Great Britain.</dcterms:subject>
+   <dcterms:subject>England--Antiquities.</dcterms:subject>
+   <dcterms:spatial>England</dcterms:spatial>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2473643/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66029</edm:isShownAt>
+</mdRecord>

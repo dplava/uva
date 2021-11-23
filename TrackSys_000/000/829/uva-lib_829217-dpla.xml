@@ -1,1 +1,33 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 12:22 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:829217</dcterms:identifier>
+   <dcterms:title>Raison darchitecture antique / extraicte de Victruue, &amp; aultres anciēs architecteurs, ; nouuellemēt traduit despaignol en Francoys: a lutilite de ceulx qui se delectent en edifices</dcterms:title>
+   <dcterms:title>Sagredo, Diego de. Medidas del romano. French</dcterms:title>
+   <dcterms:creator>Colines, Simon de, 1480?-1546</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Jollat.</dcterms:creator>
+   <dcterms:creator>Sagredo, Diego de.</dcterms:creator>
+   <dcterms:creator>Vitruvius Pollio</dcterms:creator>
+   <dcterms:publisher>Imprime par Simon de Colines demourant a Paris en la grand rue sainct Marcel, a lenseigne des quatre Euangelistes</dcterms:publisher>
+   <dcterms:created>1542</dcterms:created>
+   <dcterms:extent>51 leaves</dcterms:extent>
+   <dcterms:extent>22 cm. (4to) [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: a-f⁸ g³.</dcterms:description>
+   <dcterms:description>Translation of: Medidas del romano.</dcterms:description>
+   <dcterms:description>Handwritten note in earlier edition, that the woodcuts have been attributed to Mercure Jollat.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 286.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture, Classical</dcterms:subject>
+   <dcterms:subject>Architecture--Early works to 1800.</dcterms:subject>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1016621/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:829217</edm:isShownAt>
+</mdRecord>

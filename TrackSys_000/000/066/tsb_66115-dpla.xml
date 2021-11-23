@@ -1,1 +1,34 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 10:21 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66115</dcterms:identifier>
+   <dcterms:title>Registrum brevium tam originalium, quam judicialium: correctum &amp; emendatum ad vetus exemplar manuscriptum,, cujus beneficio, à multis erroribus purgatum, ad usus, quibus inservit redditur accommodatius</dcterms:title>
+   <dcterms:title>Appendix diversa brevia</dcterms:title>
+   <dcterms:title>Digest des briefs originals</dcterms:title>
+   <dcterms:title>Registrum omniũ breuium</dcterms:title>
+   <dcterms:creator>Hengham, Ralph de, -1311</dcterms:creator>
+   <dcterms:creator>Theloall, Simon.</dcterms:creator>
+   <dcterms:publisher>Printed by the assigns of Richard and Edward Atkins for Thomas Bassett [etc.</dcterms:publisher>
+   <dcterms:created>1687</dcterms:created>
+   <dcterms:extent>10 p. l., 321, 85 numb. l., 2 l., 59, [4] p., 1 l., [6], 239 p. 33 cm.</dcterms:extent>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Ed. 4,</dcterms:description>
+   <dcterms:description>The Appendix (1 leaf, 59, [4] p.) and Le digest des briefs originals (1 leaf, [6], 239 p. at end) have special title-pages and separate paging.</dcterms:description>
+   <dcterms:description>First published, 1531, under title: Registrum omniũ breuium tam originaliũ quam iudicialium.</dcterms:description>
+   <dcterms:description>"The compilation ... has been ascribed to Ralph de Hengham."--J. G. Marvin, Legal bibliography.</dcterms:description>
+   <dcterms:description>LAW: Copy 1: Lacks initial 4 leaves (including title-page) of Registrum brevium tam originalium and p. 229-239 of Le digest des briefs originals.</dcterms:description>
+   <dcterms:description>LAW: Copy 2: Lacks initial 4 leaves (including title-page) of Registrum brevium tam originalium and p. 233-239 of Le digest des briefs originals.</dcterms:description>
+   <dcterms:description>LAW: Copy 3: Lacks p. [1-4] of Le digest des briefs originals.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Great Britain. Court of Chancery.</dcterms:subject>
+   <dcterms:subject>Writs--Great Britain.</dcterms:subject>
+   <dcterms:spatial>Great Britain.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2536131/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66115</edm:isShownAt>
+</mdRecord>

@@ -1,1 +1,42 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 3:36 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1110636</dcterms:identifier>
+   <dcterms:title>Le tombeau de Marguerite de Valois, royne de Nauarre / Faict premierement en disticques Latins par les trois sœeurs princesses en Angleterre. ; Depuis traduictz en Grec, Italié &amp; François par plusieurs des excellentz poetes de la Frāce. ; Auecques plusieurs odes, hymnes, cantiques, epitaphes, sur le mesme subiect</dcterms:title>
+   <dcterms:creator>Baïf, Jean-Antoine de, 1532-1589</dcterms:creator>
+   <dcterms:creator>Denisot, Nicolas, 1515-1559</dcterms:creator>
+   <dcterms:creator>Dorat, Jean, 1508-1588</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Du Bellay, Joachim, approximately 1522-1560</dcterms:creator>
+   <dcterms:creator>Fezandat, Michel, active 1538-1566</dcterms:creator>
+   <dcterms:creator>Granjon, Robert, active 1523-1588</dcterms:creator>
+   <dcterms:creator>Herberay, Nicolas de sieur des Essars, active 16th century</dcterms:creator>
+   <dcterms:creator>Lortic, Marcelin, 1822-1892</dcterms:creator>
+   <dcterms:creator>Ronsard, Pierre de, 1524-1585</dcterms:creator>
+   <dcterms:creator>Seymour, Jane Lady</dcterms:creator>
+   <dcterms:creator>Seymour, Margaret Lady</dcterms:creator>
+   <dcterms:creator>Warwick, Anne Dudley Countess of, 1538-1587</dcterms:creator>
+   <dcterms:publisher>De l'imprimerie de Michel Fezandat, &amp; Robert Granion, au mont S. Hilaire à l'enseigne des Grans Ions, &amp; au Palais en la boutique de Vincent Sartenas</dcterms:publisher>
+   <dcterms:created>1551</dcterms:created>
+   <dcterms:extent>[104] leaves ; ill.</dcterms:extent>
+   <dcterms:extent>18 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:language>Greek, Modern (1453- )</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>Signatures: A-N⁸.</dcterms:description>
+   <dcterms:description>The three sisters were Anne, Margaret and Jane Seymour, the daughters of Edward Seymour, Duke of Somerset.</dcterms:description>
+   <dcterms:description>"Disticques Latins" originally published with title: Annae, Margaritae, Ianae, sororum virginum, heroidum anglarum, in mortem divae Margaritae Valesiae Navarrorum Reginæ, hecatodistichon. -- Paris, 1550.</dcterms:description>
+   <dcterms:description>Edited by Nicolas Denisot; address to the 3 sisters by Nicolas de Herberay; translations by Jean Dorat, Joachim Du Bellay, Antoine de Baïf, Nicolas Denisot, and others. Includes 4 odes by Pierre Ronsard and a collection of poems in Latin and French by other authors.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Lortic. Unidentified armorial bookplate, 2 crests side-by-side. Pencilled note, "Baron de Ruble, Vente 5/28/99, no. 165." Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 146.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Marguerite, Queen, consort of Henry II, King of Navarre, 1492-1549</dcterms:subject>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1116645/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1110636</edm:isShownAt>
+</mdRecord>

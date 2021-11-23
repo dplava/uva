@@ -1,1 +1,29 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:05 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1144478</dcterms:identifier>
+   <dcterms:title>Air: Old hundred : with variations / [H. Richards]</dcterms:title>
+   <dcterms:title>Old hundred</dcterms:title>
+   <dcterms:creator>Richards, H.</dcterms:creator>
+   <dcterms:publisher>R.A. Saalfield</dcterms:publisher>
+   <dcterms:created>1862</dcterms:created>
+   <dcterms:extent>3 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>At foot of list t.p.: "Presented with compliments of the William Barr Dry Goods Co., Sixth and Olive, to Locust Streets, St. Louis."</dcterms:description>
+   <dcterms:description>Advertisement on p. [4]: Listing of various household items available from Wm. Barr Dry Goods Co.</dcterms:description>
+   <dcterms:isPartOf>Pretty little pieces for pretty little people / by H. Richards ; 524</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Variations (Piano)</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Psalms (Music)--100th Psalm.</dcterms:subject>
+   <dcterms:subject>Music--Juvenile.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1144479/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1144478</edm:isShownAt>
+</mdRecord>

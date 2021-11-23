@@ -1,1 +1,53 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-22 at 8:30 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>tsb:59096</dcterms:identifier>
+   <dcterms:title>Military map of Suffolk and vicinity / for Brig. Gen. E.L. Viele ; surveyed and drawn by Oscar Soederquist, Lieut, 99th N.Y. Vol. ; Julius Bien &amp; Co. Lith., N.Y.</dcterms:title>
+   <dcterms:title>Map of Morris Island and the adjacent creeks</dcterms:title>
+   <dcterms:title>Plan of Fort Esperanza, Tex</dcterms:title>
+   <dcterms:title>Proposed secondary line of defense on the peninsula between Ashepoo and Combahee rivers, S.C., November 4, 1863</dcterms:title>
+   <dcterms:creator>Beauregard, G. T. (Gustave Toutant), 1818-1893</dcterms:creator>
+   <dcterms:creator>Cowles, Calvin D. (Calvin Duvall), 1849-</dcterms:creator>
+   <dcterms:creator>Julius Bien &amp; Co.</dcterms:creator>
+   <dcterms:creator>Soederquist, Oscar.</dcterms:creator>
+   <dcterms:creator>Viele, Egbert L. (Egbert Ludovicus), 1825-1902</dcterms:creator>
+   <dcterms:creator>Walker, William Stephen.</dcterms:creator>
+   <dcterms:publisher>Govt. Print. Off.</dcterms:publisher>
+   <dcterms:created>[1891..1895]</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>42 x 69 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown by hachures and pictorially.</dcterms:description>
+   <dcterms:description>Shows fortifications, houses, names of residents, roads, railroads, and drainage.</dcterms:description>
+   <dcterms:description>Color coded troop postions.</dcterms:description>
+   <dcterms:description>From: Atlas to accompany the Official records of the Union and Confederate armies, 1861-1865, Plate XXVI.</dcterms:description>
+   <dcterms:description>Insets: Plan of Fort Esperanza, Tex. -- Map of Morris Island and the adjacent creeks : from U.S. Coast Survey, 1823-4, sand hills from a survey 6th June, 1862 : accompanying indorsement [sic] of Gen. G.T. Beauregard. (Scale ca. 1:22,000) -- Proposed secondary line of defense on the peninsula between Ashepoo and Combahee rivers, S.C., November 4, 1863 : accompanying letter from Brig. Gen. W.S. Walker. (Scale ca. 1:53,000)</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Imperfect: several tears, with some loss of text; old tape repairs.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:86,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Landowners--Virginia--Suffolk--Maps.</dcterms:subject>
+   <dcterms:subject>Suffolk (Va.)--History--Siege, 1863--Maps.</dcterms:subject>
+   <dcterms:subject>Virginia--History--Civil War, 1861-1865--Maps.</dcterms:subject>
+   <dcterms:subject>South Carolina--History--Civil War, 1861-1865--Maps.</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Maps.</dcterms:subject>
+   <dcterms:subject>Morris Island (S.C.)--History--Maps.</dcterms:subject>
+   <dcterms:subject>Colleton County (S.C.)--History--Maps.</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:temporal>Siege, 1863</dcterms:temporal>
+   <dcterms:spatial>Colleton County (S.C.)</dcterms:spatial>
+   <dcterms:spatial>Morris Island (S.C.)</dcterms:spatial>
+   <dcterms:spatial>South Carolina</dcterms:spatial>
+   <dcterms:spatial>Suffolk</dcterms:spatial>
+   <dcterms:spatial>Suffolk (Va.)</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1701281/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:59096</edm:isShownAt>
+</mdRecord>

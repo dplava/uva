@@ -1,1 +1,29 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:06 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1144667</dcterms:identifier>
+   <dcterms:title>Little cherub waltz: op. 11, no. 2 / L. E. Orth</dcterms:title>
+   <dcterms:title>Orth, L. E. (Lizette Emma), 1858-1913. Pictures from tone land. Little cherub waltz</dcterms:title>
+   <dcterms:creator>Orth, L. E. (Lizette Emma), 1858-1913</dcterms:creator>
+   <dcterms:publisher>B.F. Wood Music Co.</dcterms:publisher>
+   <dcterms:created>1899</dcterms:created>
+   <dcterms:extent>2 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [3]: 12 melodious recreations : for piano, op. 190 / by Bernard Wolff.</dcterms:description>
+   <dcterms:isPartOf>Ten pictures from tone land : for pianoforte solo, op. 11 / by L.E. Orth ; no. 2</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Waltzes</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1144668/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1144667</edm:isShownAt>
+</mdRecord>

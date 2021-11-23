@@ -1,1 +1,35 @@
-invalid metadata type
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2021-11-23 at 5:36 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1219604</dcterms:identifier>
+   <dcterms:title>Taking up quarters</dcterms:title>
+   <dcterms:title>Soldiers are coming, good people, be gay!</dcterms:title>
+   <dcterms:creator>Magnus, Charles.</dcterms:creator>
+   <dcterms:publisher>Chas. Magnus, 12 Frankfort St. NY</dcterms:publisher>
+   <dcterms:created>[1863..1864]</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>21 x 13 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Civil War song sheet in 5 verses; without music. Printed in blue on illustrated letter paper, with verso of sheet rulled in blue.</dcterms:description>
+   <dcterms:description>First line: Soldiers are coming, good people, be gay!</dcterms:description>
+   <dcterms:description>With advertisements "Ten illustrated Songs on Notepaper, mailed to any Address on receipt of 50 Cents." followed by "500 Illustrated Ballads, lithographed and printed by Charles Magnus, No. 12 Frankfort Street, New York. Branch Office: No. 520 7th St., Washington, D.C."</dcterms:description>
+   <dcterms:description>Charles Magnus published as an individual at at 12 Frankfort St., New York, between 1860 and 1867. Works which also include Washington, D.C. imprint were published about 1863 and 1864.</dcterms:description>
+   <dcterms:description>Hand-colored headpiece captioned "View of the City of Chattanooga, Tenn." Magnus 104. Cf. American song sheets, 2284a.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Twelfth of 25 song sheets which were mounted in an unidentified scrapbook. Rehoused, 2009.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:subject>Soldiers--United States--Songs and music--Texts.</dcterms:subject>
+   <dcterms:subject>War songs--United States--Texts.</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Songs and music--Texts.</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Washington, District of Columbia, United States</dcterms:spatial>
+   <dcterms:spatial>New York (City), New York (State), United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1219745/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219604</edm:isShownAt>
+</mdRecord>
