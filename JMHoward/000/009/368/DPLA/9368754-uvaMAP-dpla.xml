@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2021-12-06 at 10:24 p.m. -->
+<mdRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>20011100_242</dcterms:identifier>
+   <dcterms:title>Hotel C, exterior|general view</dcterms:title>
+   <dcterms:title>Jeff Hall</dcterms:title>
+   <dcterms:title>Jefferson Hall</dcterms:title>
+   <dcterms:creator>Jefferson, Thomas (American statesman, architect, and draftsman, 1743-1826) [architect]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2001-11</dcterms:created>
+   <dcterms:medium>carpentry ; brick (clay product); masonry [work]</dcterms:medium>
+   <dcterms:description>Outside main entrance looking south down the arcade</dcterms:description>
+   <dcterms:description>Headquarters of the Jefferson Debating Society. ; On the door of "Jeff Hall," as it was nicknamed by students, the brass plaque reads "JEFFERSON SOCIETY 1825." The building has served as the meeting place for the student oratorical and debating club since the year the University opened. Hotel C in the West Range was designed by Thomas Jefferson in about 1819. Jefferson intended the hotels as places for students and faculty to dine and discuss scholarly subjects. - http://www.virginia.edu/webmap/popPages/0-jeffersonhall.html [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:description>Federal</dcterms:description>
+   <dcterms:description>Palladian</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>offices (work spaces)</dcterms:subject>
+   <dcterms:subject>assembly halls</dcterms:subject>
+   <dcterms:subject>Jefferson Debating Society</dcterms:subject>
+   <dcterms:subject>arcades (structural assemblies)</dcterms:subject>
+   <dcterms:subject>covered walkways</dcterms:subject>
+   <dcterms:spatial>West Range; McCormick Road, Charlottesville, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.03526, -78.505005</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/05/20/11/4d307fcc-6bd9-4bb9-ac86-3222d451310f_jpeg.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9368754</edm:isShownAt>
+</mdRecord>

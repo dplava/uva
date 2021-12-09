@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2021-12-06 at 11:06 p.m. -->
+<mdRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>000054231_0062</dcterms:identifier>
+   <dcterms:title>Pavilion VI, interior|general view</dcterms:title>
+   <dcterms:title>Pavilion 6</dcterms:title>
+   <dcterms:title>Pavilion Six</dcterms:title>
+   <dcterms:creator>Jefferson, Thomas (American statesman, architect, and draftsman, 1743-1826) [architect]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1991-03</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Facing northeast in bedroom (210) after renovation</dcterms:description>
+   <dcterms:description>As part of Jefferson's design for UVA's Academical Village, professors lived and taught in unique Pavilions, which each served as a distinct model of architectural ideals. Pavilion Six features smaller, shorter windows than are typical of Jefferson's architecture, and lacks any massive columns or portico. Without a portico, the pediment is left flush with the facade, and the Lawn Rooms' Tuscan colonnade extends across the front of the Pavilion. Jefferson's notes indicate that Ionic entablature was inspired by the Roman Theater of Marcellus. The first resident was Charles Bonnycastle, Professor of Natural Philosophy. The garden contains the Merton Spire, donated by Merton College of Oxford, England in 1927. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:description>Federal</dcterms:description>
+   <dcterms:description>Palladian</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>faculty housing</dcterms:subject>
+   <dcterms:subject>classrooms</dcterms:subject>
+   <dcterms:subject>Bonnycastle, Charles (English university professor, 1792-1840)</dcterms:subject>
+   <dcterms:subject>bedrooms</dcterms:subject>
+   <dcterms:subject>sash windows</dcterms:subject>
+   <dcterms:subject>architrave trims</dcterms:subject>
+   <dcterms:subject>cornices</dcterms:subject>
+   <dcterms:subject>baseboards</dcterms:subject>
+   <dcterms:subject>flooring</dcterms:subject>
+   <dcterms:spatial>East Lawn, Charlottesville, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.034694, -78.503422</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/10/27/19/8eeb3f1b-a610-4a76-a2ed-b8853f0dd5fc_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_29273302</edm:isShownAt>
+</mdRecord>

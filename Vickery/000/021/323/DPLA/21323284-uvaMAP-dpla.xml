@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2021-12-06 at 11:41 p.m. -->
+<mdRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>21323284</dcterms:identifier>
+   <dcterms:title>Washington University expansion proposals, model (representation)</dcterms:title>
+   <dcterms:creator>Vickery, Robert L. (American architect and university professor) [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1965..1970]</dcterms:created>
+   <dcterms:description>Chemistry and English buildings, view from above</dcterms:description>
+   <dcterms:isPartOf>Robert Vickery: Marks Upon the Land</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Photographs</dcterms:subject>
+   <dcterms:subject>Washington University in St. Louis (American university, founded 1853)</dcterms:subject>
+   <dcterms:subject>models (representations)</dcterms:subject>
+   <edm:preview>https://stor.artstor.org/iiif/2017/09/01/12/e7b3f588-1057-43a3-ac76-4c8e6cf878c0_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_21323284</edm:isShownAt>
+</mdRecord>

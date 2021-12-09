@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2021-12-06 at 10:27 p.m. -->
+<mdRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1999 08 09 045</dcterms:identifier>
+   <dcterms:title>Pavilion IX, exterior|detail view</dcterms:title>
+   <dcterms:title>Pavilion 9</dcterms:title>
+   <dcterms:title>Pavilion Nine</dcterms:title>
+   <dcterms:creator>Bailey, Michael [photographer]</dcterms:creator>
+   <dcterms:creator>Jefferson, Thomas (American statesman, architect, and draftsman, 1743-1826) [architect]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1999-09-08</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Facade, Ionic columns in the entrance niche</dcterms:description>
+   <dcterms:description>As part of Jefferson's design for UVA's Academical Village, professors lived and taught in unique Pavilions, which each served as a distinct model of architectural ideals. Pavilion Nine's simple three-bay facade features a distinctive domed entrance niche that may have been suggested by architect Benjamin Henry Latrobe, and inspired by the Hotel Guimard in Paris. Jefferson's notes on his Pavilion Nine drawing indicate that classical ornamentation was inspired by the "Ionic of the Temple of Fortuna Virilis." Occupied first by Moral Philosophy professor George Tucker, and subsequently by William Holmes McGuffey. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:description>Federal</dcterms:description>
+   <dcterms:description>Palladian</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>faculty housing</dcterms:subject>
+   <dcterms:subject>classrooms</dcterms:subject>
+   <dcterms:subject>Latrobe, Benjamin Henry (British architect and engineer, 1764-1820, active in the United States)</dcterms:subject>
+   <dcterms:subject>Tucker, George (American university professor, 1775-1861)</dcterms:subject>
+   <dcterms:subject>McGuffey, William (American academician, 1800-1873)</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>niches</dcterms:subject>
+   <dcterms:subject>Ionic order</dcterms:subject>
+   <dcterms:spatial>West Lawn, Charlottesville, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.034204, -78.50464</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/05/20/12/d68a45c8-99a0-4120-814c-a503fe9b2a15_jpeg.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9369794</edm:isShownAt>
+</mdRecord>

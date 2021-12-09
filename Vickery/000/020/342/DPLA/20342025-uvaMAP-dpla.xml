@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2021-12-06 at 11:35 p.m. -->
+<mdRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>20342025</dcterms:identifier>
+   <dcterms:title>Frederick Douglass School, exterior</dcterms:title>
+   <dcterms:creator>VMDO Architects (Charlottesville, Va.) (American architectural firm, 1976 CE-) [work]</dcterms:creator>
+   <dcterms:creator>Vickery, Robert L. (American architect and university professor) [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1990</dcterms:created>
+   <dcterms:description>Windows</dcterms:description>
+   <dcterms:isPartOf>Robert Vickery: Marks Upon the Land</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Photographs</dcterms:subject>
+   <dcterms:subject>Public Places</dcterms:subject>
+   <dcterms:subject>elementary schools</dcterms:subject>
+   <edm:preview>https://stor.artstor.org/iiif/2017/05/03/09/3788bb2f-db9f-42b8-b68b-0621fe9dbfe5_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_20342025</edm:isShownAt>
+</mdRecord>

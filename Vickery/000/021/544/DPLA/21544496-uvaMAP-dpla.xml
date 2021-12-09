@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2021-12-06 at 11:41 p.m. -->
+<mdRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>21544496</dcterms:identifier>
+   <dcterms:title>Carlisle School, model (representation)</dcterms:title>
+   <dcterms:creator>Vickery, Robert L. (American architect and university professor) [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1994</dcterms:created>
+   <dcterms:description>School complex</dcterms:description>
+   <dcterms:isPartOf>Robert Vickery: Marks Upon the Land</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Photographs</dcterms:subject>
+   <dcterms:subject>private schools</dcterms:subject>
+   <dcterms:subject>models (representations)</dcterms:subject>
+   <edm:preview>https://stor.artstor.org/iiif/2017/09/18/11/05bc4233-cc36-432f-910a-7bcb7daa7596_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_21544496</edm:isShownAt>
+</mdRecord>
