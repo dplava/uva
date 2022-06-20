@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 2:43 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9369028</dcterms:identifier>
+   <dcterms:title>East Range, exterior|detail view</dcterms:title>
+   <dcterms:creator>Jefferson, Thomas (American statesman, architect, and draftsman, 1743-1826) [architect]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2000-03-02</dcterms:created>
+   <dcterms:medium>carpentry ; brick (clay product); masonry [work]</dcterms:medium>
+   <dcterms:description>Northwest corner of East Range 20</dcterms:description>
+   <dcterms:description>The Range is part of the original grounds of the University of Virginia as designed by Thomas Jefferson in Charlottesville, Virginia, USA. The Range buildings run parallel to and face away from the Lawn, and are separated from the Lawn by a series of ten gardens (five per side). There are six "hotels" on the Range, three on each side. Originally used as dining facilities, the hotels today include a number of administrative office spaces as well as the Jefferson Literary and Debating Society. - https://en.wikipedia.org/wiki/The_Range [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Federal</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>student housing</dcterms:subject>
+   <dcterms:subject>dining halls</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>offices (work spaces)</dcterms:subject>
+   <dcterms:subject>dormitories (rooms)</dcterms:subject>
+   <dcterms:subject>corner (positional attribute)</dcterms:subject>
+   <dcterms:subject>brickwork (masonry)</dcterms:subject>
+   <dcterms:spatial>Hospital Drive, Charlottesville, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.034701, -78.502396</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/05/20/11/c68963d2-10bc-44f2-82b0-93b9cf0e887e_jpeg.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9369028</edm:isShownAt>
+</mdRecord>

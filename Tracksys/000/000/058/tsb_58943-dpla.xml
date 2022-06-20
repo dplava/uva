@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 9:41 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>tsb:58943</dcterms:identifier>
+   <dcterms:title>Red Cloud Liver Berries</dcterms:title>
+   <dcterms:creator>H. C. Clarke &amp; Sons, Inc. [manufacturer]</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1900~/1950~</dcterms:created>
+   <dcterms:extent>6.4 x 1.8 x 1.8 cm [original]</dcterms:extent>
+   <dcterms:medium>glass (material); metal; paper (fiber product) [original]</dcterms:medium>
+   <dcterms:description>Empty vial. Label reads "Red Cloud Liver Berries, Registered in the U.S. Patent Office. For sick headache, biliousness, constipation, indigestion, dyspepsia, disorders of the stomach, liver and bowels."</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:description>Donated by Ralph M. Curt [original]</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:subject>Medical instruments and apparatus--Oral medication</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1546937/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58943</edm:isShownAt>
+</mdRecord>

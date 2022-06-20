@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 6:32 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1138212</dcterms:identifier>
+   <dcterms:title>Regan's evening out: comic song / by C. Frank Horn</dcterms:title>
+   <dcterms:title>My name is Daniel Reagan</dcterms:title>
+   <dcterms:title>Then come, boys, come</dcterms:title>
+   <dcterms:creator>Horn, C. Frank (Charles Frank), 1851-1928</dcterms:creator>
+   <dcterms:creator>Kennell, Harry</dcterms:creator>
+   <dcterms:publisher>W.A. Evans &amp; Bro.</dcterms:publisher>
+   <dcterms:created>1883</dcterms:created>
+   <dcterms:extent>1 score (4 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>At head of title: "Sung by Harry Kennell."</dcterms:description>
+   <dcterms:description>Publisher from copyright notice on p. [2].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Drinking songs</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1138213/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1138212</edm:isShownAt>
+</mdRecord>

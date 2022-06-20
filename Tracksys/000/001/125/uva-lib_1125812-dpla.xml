@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:51 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1125812</dcterms:identifier>
+   <dcterms:title>Keep one kind thought for me / composed .. by Nannie</dcterms:title>
+   <dcterms:title>In after years when you recall</dcterms:title>
+   <dcterms:creator>Gillingham, Edwin</dcterms:creator>
+   <dcterms:creator>Murphy, Nannie M.</dcterms:creator>
+   <dcterms:creator>Nannie (Composer)</dcterms:creator>
+   <dcterms:creator>Wood, Oscar F.</dcterms:creator>
+   <dcterms:publisher>Henry McCaffrey</dcterms:publisher>
+   <dcterms:created>1855</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:extent>36 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, piano</dcterms:description>
+   <dcterms:description>At foot of title page: "Gillingham."</dcterms:description>
+   <dcterms:description>"Oscar F. Wood, eng."--Colophon.</dcterms:description>
+   <dcterms:description>"Affectionately inscribed to Nannie M. Murphy."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Cover stamped: John F. Ellis, piano music and fancy store, Pennsylvania Avenue between 9th &amp; 10th Sts., Washington, D.C.</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v. 82, no. 2]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1125813/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125812</edm:isShownAt>
+</mdRecord>

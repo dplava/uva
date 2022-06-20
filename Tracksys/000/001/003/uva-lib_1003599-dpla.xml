@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:58 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003599</dcterms:identifier>
+   <dcterms:title>A geological map of the copper region embraced in the counties of Floyd, Carroll &amp; Grayson, Va., and Ashe &amp; Alleghany, N.C., 1859 / by Richard O Curry, A.M.M.D. of Tennessee</dcterms:title>
+   <dcterms:creator>Currey, Richard O. (Richard Owen)</dcterms:creator>
+   <dcterms:publisher>Geological Survey of Kentucky</dcterms:publisher>
+   <dcterms:created>1859</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>47 x 35 cm. on sheet 56 x 37 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief not shown</dcterms:description>
+   <dcterms:description>Coded for types of minerals.</dcterms:description>
+   <dcterms:description>Gives a list of 19 mines.</dcterms:description>
+   <dcterms:description>Shows four vertical sections in addition to the main map: No. 1 through Floyd County -- No. 2 through Carroll County -- No. 3 through Grayson County -- Sections [5] showing the position of the fossil ore beds in the vicinity of Cumberland Gap.</dcterms:description>
+   <dcterms:description>"Geological survery of Kentucky. Part V. Vol. IV. Second Series)." -- At lower right.</dcterms:description>
+   <dcterms:description>The map originally appeared in Currey's "Geological visit to the Virginia copper region. Knoxville, Tenn. Printed by Beckett, Haws &amp; Co." Cf. Swem, E.G., Maps relating to Virginia, no. 891, p. 136.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 1 is colored; Copy 2 is trimmed and not colored. Both are linen-backed.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:396,000]. Vertical scale [ca. 1:205,920].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Copper mines and mining--Virginia, Southwest--Maps.</dcterms:subject>
+   <dcterms:subject>Copper mines and mining--North Carolina--Maps.</dcterms:subject>
+   <dcterms:subject>Mines and mineral resources--Virginia, Southwest--Maps.</dcterms:subject>
+   <dcterms:subject>Mines and mineral resources--North Carolina--Maps.</dcterms:subject>
+   <dcterms:spatial>North Carolina</dcterms:spatial>
+   <dcterms:spatial>Virginia, Southwest</dcterms:spatial>
+   <dcterms:spatial>Knoxville, Tennessee, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904873/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003599</edm:isShownAt>
+</mdRecord>

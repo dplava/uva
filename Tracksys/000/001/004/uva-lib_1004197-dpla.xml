@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 12:00 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1004197</dcterms:identifier>
+   <dcterms:title>A new map of Zealand: with the Rivers Schelde, part of Holland, Flanders &amp; Brabant : showing the situation of the Schelde the present subject of dispute</dcterms:title>
+   <dcterms:creator>Stockdale, John, 1749?-1814</dcterms:creator>
+   <dcterms:publisher>Published as the Act directs Novr. 29 1792 by Jno. Stockdale Picadilly</dcterms:publisher>
+   <dcterms:created>1792</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>41 x 53 cm. on sheet 43 x 56 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief not shown.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:250,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Zeeland (Netherlands : Province)--Early works to 1800--Maps.</dcterms:subject>
+   <dcterms:subject>Scheldt River--Maps.</dcterms:subject>
+   <dcterms:subject>Brabant (Duchy)--Early works to 1800--Maps.</dcterms:subject>
+   <dcterms:subject>Flanders--Early works to 1800--Maps.</dcterms:subject>
+   <dcterms:spatial>Brabant (Duchy)</dcterms:spatial>
+   <dcterms:spatial>Flanders</dcterms:spatial>
+   <dcterms:spatial>Scheldt River</dcterms:spatial>
+   <dcterms:spatial>Zeeland (Netherlands : Province)</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096703/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004197</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 2:50 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28144266</dcterms:identifier>
+   <dcterms:title>Memorial tablet of alumni Confederate dead (A-L) on the Rotunda, south side, exterior|general view</dcterms:title>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1996-05-17</dcterms:created>
+   <dcterms:medium>bronze (metal) [work]</dcterms:medium>
+   <dcterms:description>Memorial tablet of alumni Confederate dead (A-L) on the Rotunda, south side; removed 2017</dcterms:description>
+   <dcterms:description>removed 2017 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Sculpture and Installations</dcterms:subject>
+   <dcterms:subject>memorials</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865</dcterms:subject>
+   <dcterms:subject>tablets</dcterms:subject>
+   <dcterms:subject>memorials</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865</dcterms:subject>
+   <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/05/14/13/e4c916f4-dc2b-4f0d-b95f-65e53863fd85_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28144266</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 7:18 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1149083</dcterms:identifier>
+   <dcterms:title>The belle / music by Laura S. Garland ; words by Margaret Eytinge</dcterms:title>
+   <dcterms:title>Two little monkeys were swinging one day</dcterms:title>
+   <dcterms:title>Garland, Laura S. Daisy chain. Belle</dcterms:title>
+   <dcterms:creator>Chamberlin, Bessie</dcterms:creator>
+   <dcterms:creator>Chamberlin, Emmie</dcterms:creator>
+   <dcterms:creator>Chamberlin, Mary</dcterms:creator>
+   <dcterms:creator>Elliot, Madge, 1833-</dcterms:creator>
+   <dcterms:creator>Garland, Laura S.</dcterms:creator>
+   <dcterms:publisher>John Church &amp; Co.</dcterms:publisher>
+   <dcterms:created>1887</dcterms:created>
+   <dcterms:extent>1 score (3 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>At head of list title page: "To Bessie, Emmie &amp; Mary Chamberlin, Danville, Pa."</dcterms:description>
+   <dcterms:description>Illustration: Putto holding two ribbons attached to daisies.</dcterms:description>
+   <dcterms:isPartOf>Daisy chain : a series of songs for children / by Laura S. Garland ; 4</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Children's songs</dcterms:subject>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1149084/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1149083</edm:isShownAt>
+</mdRecord>

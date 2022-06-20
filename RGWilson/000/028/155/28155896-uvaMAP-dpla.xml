@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 4:02 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28155896</dcterms:identifier>
+   <dcterms:title>Kelmscott Manor, exterior|general view</dcterms:title>
+   <dcterms:creator>Morris, William (English designer, writer, and activist, 1834-1896) [owner, 19th century]</dcterms:creator>
+   <dcterms:creator>Turner, Richard (English farmer, 16th century) [builder, original house]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1986</dcterms:created>
+   <dcterms:medium>limestone; slate (rock) (roof) [work]</dcterms:medium>
+   <dcterms:description>Facade</dcterms:description>
+   <dcterms:description>Kelmscott Manor was the country home of the writer, designer and socialist William Morris from 1871 until his death in 1896. -- https://en.wikipedia.org/wiki/Kelmscott_Manor [work]</dcterms:description>
+   <dcterms:description>English</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>farmhouses</dcterms:subject>
+   <dcterms:subject>Arts and Crafts (movement)</dcterms:subject>
+   <dcterms:subject>country houses</dcterms:subject>
+   <dcterms:subject>Cotswold Hills, Gloucestershire, England, United Kingdom</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:spatial>Kelmscott, West Oxfordshire, Kelmscott, Oxfordshire, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>51.689111, -1.639472</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/05/15/18/1dad7e92-a171-4d9b-8b37-5c17bb5548af_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28155896</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 11:00 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2826782</dcterms:identifier>
+   <dcterms:title>Medical bag with instruments</dcterms:title>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1920~/1970~</dcterms:created>
+   <dcterms:extent>20 x 37 x 14 cm [original]</dcterms:extent>
+   <dcterms:medium>leather; metal; rubber (material); plastic (organic material); glass (material) [original]</dcterms:medium>
+   <dcterms:description>Inside the bag is a Velket tourniquet (01783b) advertising Keflin Sodium Cephalothin by Lilly in a plastic case (01783a) with a paper insert of directions; a reflex hammer (01783d); a stethoscope with brown rubber tubing and black chestpiece (01783e); a stethoscope with yellow rubber tubing and engraving of Supraphon D.R.G.M. on chestpiece (01783f); a Velket tourniquet (01783h) in a plastic case (01783i) with a paper insert containing directions; a case (01783j) made by Heine for an oto-ophthalmoscope. Inside the light gray case is a black ophthalmoscope (01783k) also marked Heine; 3 aural specula (01783l (originally l, m, n); a battery handle marked Heine Diagnostik (01783o); and an otoscope (01783p); two bulbs (not marked); a small metal and plastic pin (not marked) and directions on paper in an envelope marked Instructions for Use. There is a maroon leather case (01783t) containing a pressure cuff (01783u) in the doctor's bag. Also in the bag is a white, plastic case (01783v) marked Prameta Stauer Nach D R. BUMM, Made in Germany that contains a metal and gray cloth tourniquet (01783w).</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:description>Dr. John Guerrant [original]</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:subject>Medical instruments or apparatus--Bags</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2826782/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2826782</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 10:03 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2177593</dcterms:identifier>
+   <dcterms:title>Santo Domingo, past and present: with a glance at Hayti / by Samuel Hazard</dcterms:title>
+   <dcterms:creator>Arthur Curtiss James Collection (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Hazard, Samuel, 1834-1876</dcterms:creator>
+   <dcterms:publisher>Harper &amp; Bros.</dcterms:publisher>
+   <dcterms:created>1873</dcterms:created>
+   <dcterms:extent>xxix, 511 p., [25] leaves of plates (1 folded)</dcterms:extent>
+   <dcterms:extent>21 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"Bibliography of Santo Domingo and Hayti": p. [xxi]-xxix.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: F1901 .H32 1873: Donation of Arthur Curtiss James.</dcterms:description>
+   <dcterms:description>Item X000390472 has bookplate data: Harcourt Parrish; Fannie Harcourt Parrish.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:subject>Hispaniola--History.</dcterms:subject>
+   <dcterms:subject>Hispaniola--Description and travel.</dcterms:subject>
+   <dcterms:subject>Haiti--History.</dcterms:subject>
+   <dcterms:spatial>Haiti</dcterms:spatial>
+   <dcterms:spatial>Hispaniola</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2391235/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2177593</edm:isShownAt>
+</mdRecord>

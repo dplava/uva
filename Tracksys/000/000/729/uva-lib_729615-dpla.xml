@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 2:42 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:729615</dcterms:identifier>
+   <dcterms:title>Les regrets et complaintes de tres illustre Princesse Elizabeth d'Austriche, sur le trespas &amp; enterrement du Roy Charles neufiesme de ce nom, son espoux</dcterms:title>
+   <dcterms:title>Lamentations sur la mort du roy</dcterms:title>
+   <dcterms:creator>Chambolle-Duru (Firm)</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Rigaud, Benoist</dcterms:creator>
+   <dcterms:publisher>Par Benoist Rigaud</dcterms:publisher>
+   <dcterms:created>1574</dcterms:created>
+   <dcterms:extent>15 p.</dcterms:extent>
+   <dcterms:extent>17 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: A-B⁴.</dcterms:description>
+   <dcterms:description>Running title: Les lamentations sur la mort du roy.</dcterms:description>
+   <dcterms:description>In verse.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Chambolle-Duru. Unidentified armorial binding, with monogram "RB" or "BR" in each corner of covers, inside. With motto, In via nulla in via. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 176.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Charles, IX, King of France, 1550-1574</dcterms:subject>
+   <dcterms:subject>Elisabeth, of Austria, Queen, consort of Charles IX, King of France, 1554-1592</dcterms:subject>
+   <dcterms:spatial>Lyon, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:733867/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:729615</edm:isShownAt>
+</mdRecord>

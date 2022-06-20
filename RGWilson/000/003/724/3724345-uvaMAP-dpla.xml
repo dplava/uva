@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:45 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>3724345</dcterms:identifier>
+   <dcterms:title>Landfair Apartments, exterior|general view</dcterms:title>
+   <dcterms:title>Robison Hall</dcterms:title>
+   <dcterms:creator>Neutra, Richard (American architect, 1892-1970, born in Austria) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1982</dcterms:created>
+   <dcterms:description>East side (front)</dcterms:description>
+   <dcterms:description>The Landfair Apartments, also known as Robison Hall, is a historic two-building multi-family complex located on the southwest corner of Landfair Avenue and Ophir Drive in the Westwood neighborhood of Los Angeles, California. It was designed in 1937 in the International style of architecture by noted Los Angeles Modernist architect Richard Neutra. It originally consisted of five townhouses and two apartments, but was converted to student housing after World War II, and later to co-operative student housing by UCLA. More recently while being upgraded to meet current codes by UCLA, the exterior was restored to its original appearance and one apartment was also restored to its original appearance. On May 20, 1987, the City of Los Angeles designated the building a Los Angeles Historic-Cultural Monument. -- http://en.wikipedia.org/wiki/Landfair_Apartments Designed by Richard Neutra in 1937 as five townhouses and two flats, this structure was poorly converted to post-war educational housing and then to co-operative housing for 73 UCLA students. The balconies and glazing on the exterior were removed and restored to their original configurations while adding full upgrades for disabled access and seismic codes. The interiors were carefully converted to dormitory-style housing while maintaining the separate identity of individual townhouse entries and character defining historic spaces and finishes. One unit was maintained in its original interior configuration to document Neutra's original townhouse design. Built-in desks and storage cabinets were designed and detailed in the style of Neutra’s original design documents. The Landfair Apartments are City of Los Angeles Cultural Monument No. 320. -- http://www.m2a-architects.com/PORTFOLIO/multifamily/Landfair%20Apartments/landfair.html [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Modernist</dcterms:description>
+   <dcterms:description>International Style (modern European architecture style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dormitories (buildings)</dcterms:subject>
+   <dcterms:subject>University of California, Los Angeles</dcterms:subject>
+   <dcterms:subject>multistory buildings</dcterms:subject>
+   <dcterms:subject>windows</dcterms:subject>
+   <dcterms:subject>flat roofs</dcterms:subject>
+   <dcterms:subject>railings (balustrades)</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:spatial>Landfair Avenue and Ophir Drive, Westwood, Los Angeles, California, United States</dcterms:spatial>
+   <dcterms:spatial>34.068056, -118.451111</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/09/26/14/d2d51184-2f0c-445e-8951-36c82d046589_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_3724345</edm:isShownAt>
+</mdRecord>

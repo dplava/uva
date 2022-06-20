@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 6:39 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1139832</dcterms:identifier>
+   <dcterms:title>Happy wanderer / F. Damm ; arr. for 4 hands piano or organ by Louis Meyer</dcterms:title>
+   <dcterms:title>Damm, Friedrich. Kleine Charakterstücke. Frohe Wandersmann; arr.</dcterms:title>
+   <dcterms:creator>Damm, Friedrich.</dcterms:creator>
+   <dcterms:creator>H.O. Hayes &amp; Co.</dcterms:creator>
+   <dcterms:creator>Mackellar, Smiths &amp; Jordan</dcterms:creator>
+   <dcterms:creator>Meyer, Louis</dcterms:creator>
+   <dcterms:publisher>F. A. North &amp; Co.</dcterms:publisher>
+   <dcterms:created>1884</dcterms:created>
+   <dcterms:extent>5 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>organ (2)</dcterms:description>
+   <dcterms:description>piano (2)</dcterms:description>
+   <dcterms:description>For piano or organ (4 hands).</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>At foot of list title page: "Hayes &amp; Co., printers."</dcterms:description>
+   <dcterms:description>At foot of list title page: Electrotyped by Mackellar, Smiths &amp; Jordan, Philadelphia.</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: Choice four-hand piano pieces : grade III, grade IV, grade V.</dcterms:description>
+   <dcterms:isPartOf>Choice four-hand pieces, grade II</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music (4 hands), Arranged</dcterms:subject>
+   <dcterms:subject>Organ music (4 hands), Arranged</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1139833/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1139832</edm:isShownAt>
+</mdRecord>

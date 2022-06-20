@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>751087</dcterms:identifier>
+   <dcterms:title>Canterbury Shaker Village, interior</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1792..2004]</dcterms:created>
+   <dcterms:description>Living quarters</dcterms:description>
+   <dcterms:description>Canterbury Shaker Village was established in 1792 when followers of founder Mother Ann Lee formed their seventh community in Canterbury, NH, which remained prominent for 200 years. The Village has operated exclusively as a museum since 1992 when the last Shaker sister in residence, Ethel Hudson, died.Canterbury Shaker Village is one of the oldest, most typical, and best preserved of the Shaker communities. It boasts an intact, first-generation 18th-century Meetinghouse and Dwelling House, both on their original sites. The Meetinghouse represented the center of religious activities, the Dwelling House embodied the center of Shaker home and social life, and the Trustees’ Office was where the Shakers conducted their business with the “world’s people." [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>historic sites</dcterms:subject>
+   <dcterms:subject>Shaker (Christian sect)</dcterms:subject>
+   <dcterms:subject>religious communities (built complexes)</dcterms:subject>
+   <dcterms:subject>built-in furniture</dcterms:subject>
+   <dcterms:subject>rocking chairs</dcterms:subject>
+   <dcterms:subject>hat racks</dcterms:subject>
+   <dcterms:spatial>288 Shaker Road, Canterbury, Merrimack, New Hampshire, United States</dcterms:spatial>
+   <dcterms:spatial>43.358889, -71.49</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/09/13/15/cba83394-8d33-4a7e-b075-9269fc1e0e42_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_751087</edm:isShownAt>
+</mdRecord>

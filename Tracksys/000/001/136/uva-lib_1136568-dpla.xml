@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 6:25 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1136568</dcterms:identifier>
+   <dcterms:title>A welcome: (mezzo-soprano, or baritone) / L. Denza ; words by Ellis Walton (Mrs. F. Percy Cotton)</dcterms:title>
+   <dcterms:title>Come, o merry-hearted swallow</dcterms:title>
+   <dcterms:creator>Denza, Luigi.</dcterms:creator>
+   <dcterms:creator>Walton, Ellis</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1896</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, baritone voice</dcterms:description>
+   <dcterms:description>piano, mezzo-soprano voice</dcterms:description>
+   <dcterms:description>M-sop. in F.</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy has dealer's stamp: "Otto Sutro and Co., 119 &amp; 121 E. Balto. St., Baltimore, Md."</dcterms:description>
+   <dcterms:isPartOf>Songs and duets / by Luigi Denza</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1136569/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1136568</edm:isShownAt>
+</mdRecord>

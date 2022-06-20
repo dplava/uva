@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>675331</dcterms:identifier>
+   <dcterms:title>Saint Patrick's Cathedral, exterior</dcterms:title>
+   <dcterms:title>St. Patrick's Cathedral</dcterms:title>
+   <dcterms:creator>Renwick, James (American architect, 1818-1895) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1978</dcterms:created>
+   <dcterms:description>View from Fifth Avenue</dcterms:description>
+   <dcterms:description>In 1853, Archbishop John Joseph Hughes announced his intention to erect a new cathedral to replace the Old Saint Patrick's Cathedral in downtown Manhattan. The new cathedral was designed by James Renwick, Jr. in the Gothic Revival style. On August 15, 1858, the cornerstone was laid, just south of the diocese's orphanage. At that time, present-day midtown Manhattan was far north of the populous areas of New York City. Work was begun in 1858 but was halted during the Civil War and resumed in 1865. The cathedral was completed in 1878 and dedicated on May 25, 1879, its huge proportions dominating the midtown of that time. The archbishop's house and rectory were added from 1882 to 1884, and an adjacent school (no longer in existence) opened in 1882. The towers on the west façade were added in 1888, and an addition on the east, including a Lady chapel, designed by Charles T. Mathews, was begun in 1901. The stained-glass windows in the Lady Chapel were designed and made in Chipping Campden, England by Paul Vincent Woodroffe between 1912 and 1930. The cathedral was renovated between 1927 and 1931 when the great organ was installed and the sanctuary enlarged. The cathedral and associated buildings were declared a National Historic Landmark in 1976. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Roman Catholicism</dcterms:subject>
+   <dcterms:subject>stonework</dcterms:subject>
+   <dcterms:subject>spires</dcterms:subject>
+   <dcterms:subject>pointed arches</dcterms:subject>
+   <dcterms:subject>tracery</dcterms:subject>
+   <dcterms:subject>buttresses</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>pinnacles</dcterms:subject>
+   <dcterms:subject>crocket</dcterms:subject>
+   <dcterms:subject>lancet windows</dcterms:subject>
+   <dcterms:spatial>460 Madison Avenue, New York, United States</dcterms:spatial>
+   <dcterms:spatial>40° 45′ 31″ N, 73° 58′ 35″ W</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/08/02/15/76bc4541-7488-4647-ab78-30621ccf6311_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_675331</edm:isShownAt>
+</mdRecord>

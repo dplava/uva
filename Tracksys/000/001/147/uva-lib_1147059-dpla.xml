@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 7:10 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1147059</dcterms:identifier>
+   <dcterms:title>Fidelio / arr. for violin &amp; piano by J.A. Getze</dcterms:title>
+   <dcterms:title>Beethoven, Ludwig van, 1770-1827. Fidelio. (1814). Selections; arr</dcterms:title>
+   <dcterms:creator>Beethoven, Ludwig van, 1770-1827</dcterms:creator>
+   <dcterms:creator>Getze, J. A.</dcterms:creator>
+   <dcterms:creator>Kerk, E. M.</dcterms:creator>
+   <dcterms:creator>Winner, Septimus, 1827-1902</dcterms:creator>
+   <dcterms:publisher>Lee &amp; Walker</dcterms:publisher>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>2 parts.</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>violin, piano</dcterms:description>
+   <dcterms:description>For piano and violin.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Series numbering varies: "no. 33"--Title page.</dcterms:description>
+   <dcterms:description>At head of series t.p.: "Respectfully dedicated to E. M. Kerk, Esq."</dcterms:description>
+   <dcterms:description>Advertisement on p. [12]: Select list of new and popular songs, &amp;c.</dcterms:description>
+   <dcterms:isPartOf>Solos from the opera : arranged for the violin or flute with the accompaniments for the piano forte / by Sep. Winner ; 34</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Violin and piano music, Arranged--Parts.</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts, Arranged--Parts.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1147060/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1147059</edm:isShownAt>
+</mdRecord>

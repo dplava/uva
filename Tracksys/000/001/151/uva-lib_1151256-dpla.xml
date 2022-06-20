@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 7:26 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1151256</dcterms:identifier>
+   <dcterms:title>Home sweet home: é, transcription facile pour le piano, op. 4 / par C. Jerome Hopkins</dcterms:title>
+   <dcterms:creator>Hopkins, Jerome, 1836-1898</dcterms:creator>
+   <dcterms:creator>Young, Alice</dcterms:creator>
+   <dcterms:publisher>Wm. Hall &amp; Son</dcterms:publisher>
+   <dcterms:created>1858</dcterms:created>
+   <dcterms:extent>7 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>"À Mlle. Alice Young."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Variations (Piano)</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1151257/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1151256</edm:isShownAt>
+</mdRecord>

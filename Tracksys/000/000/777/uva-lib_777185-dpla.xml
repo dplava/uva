@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 2:49 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:777185</dcterms:identifier>
+   <dcterms:title>New indexed street and street car map of the city of New Orleans / copyright 1907 by J.I. Sanford</dcterms:title>
+   <dcterms:title>Street and street car guide to the city of New Orleans</dcterms:title>
+   <dcterms:creator>Sanford, J. I. (John Ithiel)</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1907</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>35 x 41 cm. folded into paper covers 15 x 9 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>" ... showing all streets and places of interest alphabetically arranged and indexed. Detailed routes of all street car lines, with schedules of running time and transfers, location and street car service to depots, theaters, leading hotels and places of interest to tourists. Copyright 1907 by John I. Sanford." -- Cover.</dcterms:description>
+   <dcterms:description>Relief not shown.</dcterms:description>
+   <dcterms:description>Scale not given.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Street-railroads--Louisiana--New Orleans--Maps.</dcterms:subject>
+   <dcterms:subject>New Orleans (La.)--Maps.</dcterms:subject>
+   <dcterms:subject>New Orleans (La.)--Maps, Tourist.</dcterms:subject>
+   <dcterms:spatial>Louisiana</dcterms:spatial>
+   <dcterms:spatial>New Orleans</dcterms:spatial>
+   <dcterms:spatial>New Orleans (La.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1183503/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:777185</edm:isShownAt>
+</mdRecord>

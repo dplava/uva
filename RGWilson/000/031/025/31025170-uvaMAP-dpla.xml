@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 4:06 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>31025170</dcterms:identifier>
+   <dcterms:title>St. William's College, exterior|detail view</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1979</dcterms:created>
+   <dcterms:medium>half-timber construction [work]</dcterms:medium>
+   <dcterms:description>Oriel wndow</dcterms:description>
+   <dcterms:description>... originally built to provide accommodation for priests attached to chantry chapels at nearby York Minster. While the college was not a monastic establishment, it was affected by the Dissolution of the Monasteries; in 1548 the building was converted to a substantial house, In the eighteenth-century, part of the ground floor was used for retail, and bow windows were added. The building was bought by the Province of York in 1902 for use [as offices]. -- https://en.wikipedia.org/wiki/St_William%27s_College [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>English</dcterms:description>
+   <dcterms:description>Medieval</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>office buildings</dcterms:subject>
+   <dcterms:subject>oriel windows</dcterms:subject>
+   <dcterms:spatial>York, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>53.96237, -1.08012</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2021/08/10/18/63a183a1-7114-408e-92c8-60a2868b8d3a_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_31025170</edm:isShownAt>
+</mdRecord>

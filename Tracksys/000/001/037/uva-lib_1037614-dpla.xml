@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 12:03 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1037614</dcterms:identifier>
+   <dcterms:title>Uncle Tom's cabin, or Life among the lowly / by Mrs. H.B. Stowe</dcterms:title>
+   <dcterms:title>Life among the lowly</dcterms:title>
+   <dcterms:creator>Stowe, Harriet Beecher, 1811-1896</dcterms:creator>
+   <dcterms:created>1851/1852</dcterms:created>
+   <dcterms:extent>41 pts.</dcterms:extent>
+   <dcterms:extent>66 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"Uncle Tom's Cabin brought the evils of slavery to the consciences and hearts of the American people by its moving portrayal of slave experience. Harriet Beecher Stowe shows us in scenes of great dramatic power the human effects of a system in which slaves were property: the break up of families, the struggles for freedom, and the horrors of plantation labour. She brings into fiction the different voices of the emerging American nation; the Southern slave-owning classes, Northern abolitionists, the sorrow songs and dialect of slaves, as well as the language of political debate and religious zeal. The novel was, and is, controversial and abrasive in its demand for change."-- ǂc From publisher's description of the 2020 edition issued by Macmillan Collector's Library.</dcterms:description>
+   <dcterms:description>Title from caption title of Pt. 1.</dcterms:description>
+   <dcterms:description>Issues for Aug. 21, Oct. 30, and Dec. 18, 1851 contain editorial apologies for the fact that installments of the novel did not appear in those issues.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: PS2954 .U5 1851: All issues bound in 1 volume, with paper label on front: Uncle Tom's Cabin. National Era. 1851-1852. Clifton Waller Barrett Library, Harriet Beecher Stowe Collection. Gift of C.W. Barrett.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: PS2954 .U5 1851a: Photographic facsimile, created 2009/2010.</dcterms:description>
+   <dcterms:isPartOf>National era</dcterms:isPartOf>
+   <dcterms:isPartOf>National era (Washington, D.C.)</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Plantation life--Fiction.</dcterms:subject>
+   <dcterms:subject>African Americans--Fiction.</dcterms:subject>
+   <dcterms:subject>Slavery--Fiction.</dcterms:subject>
+   <dcterms:subject>Slaves--Fiction.</dcterms:subject>
+   <dcterms:subject>Southern States--Fiction.</dcterms:subject>
+   <dcterms:spatial>Southern States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1056857/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1037614</edm:isShownAt>
+</mdRecord>

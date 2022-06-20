@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 4:05 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>30346657</dcterms:identifier>
+   <dcterms:title>Garrett Jacobs House, general view</dcterms:title>
+   <dcterms:creator>McKim, Mead, and White (American architectural firm, 1879-1910) [work]</dcterms:creator>
+   <dcterms:creator>White, Stanford (American architect, 1853-1906) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1978</dcterms:created>
+   <dcterms:description>Chair designed for the house</dcterms:description>
+   <dcterms:description>composed of three row houses: first house built 1853, two more added and renovated into one structure, 1884-1915. Purchased 1962 by the Engineering Society; restored 1962-1971 and now used as Society headquarters and as public performance and event space. -- https://en.wikipedia.org/wiki/Garrett_Jacobs_Mansion [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Beaux-Arts</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>town houses</dcterms:subject>
+   <dcterms:subject>restoration (process)</dcterms:subject>
+   <dcterms:subject>armchairs</dcterms:subject>
+   <dcterms:spatial>7, 9, 11 Mt. Vernon Street, Baltimore, Baltimore Independent City, Maryland, United States</dcterms:spatial>
+   <dcterms:spatial>39.2972, -76.6165</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2021/05/06/15/7f5d0e05-d786-45b4-bafd-b2864b6a301c_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_30346657</edm:isShownAt>
+</mdRecord>

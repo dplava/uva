@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:34 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1121961</dcterms:identifier>
+   <dcterms:title>Have faith in one another / poetry by Thos. Davis ; arranged .. by J.P. Kavenaugh of Richmond, Va</dcterms:title>
+   <dcterms:title>Have faith in one another</dcterms:title>
+   <dcterms:creator>Davis, Thomas</dcterms:creator>
+   <dcterms:creator>Gillingham, Edwin</dcterms:creator>
+   <dcterms:creator>Hurt, M. G.</dcterms:creator>
+   <dcterms:creator>Kavenagh, J. P.</dcterms:creator>
+   <dcterms:creator>Kavenaugh, J.P.</dcterms:creator>
+   <dcterms:creator>Webb, L. W.</dcterms:creator>
+   <dcterms:publisher>G. Willig</dcterms:publisher>
+   <dcterms:created>1857</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>"Respectfully dedicated to Miss M.G. Hurt"--T.p.</dcterms:description>
+   <dcterms:description>"Webb"--Colophon.</dcterms:description>
+   <dcterms:description>At foot of title page engraving: "Gillingham."</dcterms:description>
+   <dcterms:description>"Arr: J. P. Kavenagh"--Caption.</dcterms:description>
+   <dcterms:description>The text also attributed to J.K. Carpenter and W.W. Fernie. Cf. The eclectic magazine, May 1846, p. 140; The poetry of Freemasonry / Morris, p. 392.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1121962/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1121961</edm:isShownAt>
+</mdRecord>

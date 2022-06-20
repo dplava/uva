@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:44 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2966713</dcterms:identifier>
+   <dcterms:title>Westminster Cathedral, detail view</dcterms:title>
+   <dcterms:title>The Metropolitan Cathedral of the Most Precious Blood</dcterms:title>
+   <dcterms:creator>Bentley, John Francis (English architect and designer, 1839-1902) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1976</dcterms:created>
+   <dcterms:description>Church entrance</dcterms:description>
+   <dcterms:description>After two false starts in 1867 (under architect Henry Clutton) and 1892 (architect Baron von Herstel), construction started in 1895 with John Francis Bentley as architect, resulting in a style heavily influenced by Byzantine architecture. The cathedral opened in 1903, a little after Bentley's death. For reasons of economy the decoration of the interior had hardly been started and still much remained to be completed. Under the laws of the Catholic Church at the time, no place of worship could be consecrated unless free from debt and having its fabric completed, so the consecration ceremony did not take place until 28 June 1910. The whole building, in the neo-Byzantine style, covers an area of about 5 017 m2 (54000 sqft); the dominating factor of the scheme, apart from the campanile, being a spacious and uninterrupted nave, 18 m (60 ft), covered with domical vaulting. In planning the nave, a system of supports was adopted not unlike that to be seen in most Gothic cathedrals, where huge, yet narrow, buttresses are projected at intervals, and stiffened by transverse walls, arcading and vaulting. n selecting the pendentive type of dome, of shallow concavity, for the main roofing, weight and pressure have been reduced to a minimum. The domes and pendentures are formed of concrete, and as extraneous roofs of timber were dispensed with, it was necessary to provide a thin independent outer shell of impervious stone. The concrete flat roofing around the domes is covered with asphalt. The sanctuary is essentially Byzantine in its system of construction. The extensions that open out on all sides make the corona of the dome seem independent of support. The main structural parts of the building are of brick and concrete, the latter material being used for the vaulting and domes of graduated thickness and complicated curve. Following Byzantine tradition, the interior was designed with a view to the application of marble and mosaic. Throughout the exterior, the lavish introduction of white stone bands in connection with the red brickwork (itself quite common in the immediate area) produces an impression quite foreign to the British eye. The main entrance façade owes its composition, in a measure, to accident rather than design. The most prominent feature of the façade is the deeply recessed arch over the central entrance, flanked by tribunes, and stairway turrets. The elevation on the north, with a length of nearly 91.5 m (300 ft) contrasted with the vertical lines of the campanile and the transepts, is most impressive. It rests on a continuous and plain basement of granite, and only above the flat roofing of the chapels does the structure assume a varied outline. -- http://en.wikipedia.org/wiki/Westminster_Cathedral [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Byzantine Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>churches (buildings)</dcterms:subject>
+   <dcterms:subject>Roman Catholicism</dcterms:subject>
+   <dcterms:subject>tympana</dcterms:subject>
+   <dcterms:subject>mosaics (visual works)</dcterms:subject>
+   <dcterms:subject>engaged columns</dcterms:subject>
+   <dcterms:subject>reliefs (sculptures)</dcterms:subject>
+   <dcterms:subject>inscriptions</dcterms:subject>
+   <dcterms:subject>polychrome</dcterms:subject>
+   <dcterms:subject>semicircular arches</dcterms:subject>
+   <dcterms:spatial>42 Francis Street, London, Greater London, England, United Kingdom (inhabited place)</dcterms:spatial>
+   <dcterms:spatial>51.4961, -0.1397</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/06/05/14/3620a3b3-0a05-4ae1-825c-01d89013b1ef_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2966713</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 9:07 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2164404</dcterms:identifier>
+   <dcterms:title>Alderman Library</dcterms:title>
+   <dcterms:creator>Gerow, Jennifer</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1999-10</dcterms:created>
+   <dcterms:description>From excerpt on back: The Papers of George Washington in Alderman Library received a special visitor last week. Washington himself stopped by the office to peruse his papers. Okay, we cannot tell a lie. It was not really the nation's father, but historical interpreter James Renwick Manship, a member of Mount Vernon's board of visitors, who was in town for Charlottesville's annual Thanksgiving festival. Washington issued his landmark Thanksgiving Proclamation, beginning the national holiday tradition, in 1789 at the urging of Congress. Letters and documents written by Washington, as well as correspondence written to him, will eventually be published in approximately 90 volumes by The Papers of George Washington, a grant-funded project established at UVa in 1969 under the joint auspices of the University and the Mount Vernon Ladies' Association of the Union. Forty-four volumes are now finished.</dcterms:description>
+   <dcterms:description>Original Negative Present [original]</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Visual History Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia</dcterms:subject>
+   <dcterms:subject>University of Virginia. News Office--Press coverage</dcterms:subject>
+   <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2164404/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2164404</edm:isShownAt>
+</mdRecord>

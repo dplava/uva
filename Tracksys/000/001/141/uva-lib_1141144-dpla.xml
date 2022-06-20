@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 6:44 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1141144</dcterms:identifier>
+   <dcterms:title>Angels' serenade: chorus for three female voices / J. Concone ; English words by E.M.</dcterms:title>
+   <dcterms:title>Dans nos royaumes aux larges dômes</dcterms:title>
+   <dcterms:title>In heaven dwelling, in love excelling</dcterms:title>
+   <dcterms:title>Sérénade des anges</dcterms:title>
+   <dcterms:title>Concone, Giuseppe, 1801-1861. Sérénade des anges English &amp; French</dcterms:title>
+   <dcterms:creator>Concone, Giuseppe, 1801-1861</dcterms:creator>
+   <dcterms:creator>M., E. W.</dcterms:creator>
+   <dcterms:creator>Mackellar, Smiths &amp; Jordan</dcterms:creator>
+   <dcterms:publisher>G. André &amp; Co.</dcterms:publisher>
+   <dcterms:created>1870</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>voice (3), piano</dcterms:description>
+   <dcterms:description>For piano and 3 women's voices.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>At foot of list title page: Mackellar, Smiths &amp; Jordan, electrotypers, Philadelphia."</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: Catalogue of select vocal music.</dcterms:description>
+   <dcterms:description>French words with English translation.</dcterms:description>
+   <dcterms:isPartOf>Trios and choruses for female voices, with accompaniment of piano-forte</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Sacred vocal trios with piano</dcterms:subject>
+   <dcterms:subject>Angels--Songs and music.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1141145/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1141144</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 12:03 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1032274</dcterms:identifier>
+   <dcterms:title>Plantation and farm instruction, regulation, record, inventory and account book: For the use of the manager on the estate of &lt;Liberty Hall&gt;, and for the better ordering and management of plantation and farm business in many particulars</dcterms:title>
+   <dcterms:creator>J.W. Randolph &amp; Co.</dcterms:creator>
+   <dcterms:publisher>J.W. Randolph</dcterms:publisher>
+   <dcterms:created>1861</dcterms:created>
+   <dcterms:extent>20, [82] p. forms. 31 cm.</dcterms:extent>
+   <dcterms:medium>forms</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Second edition, with additions.</dcterms:description>
+   <dcterms:description>"Liberty Hall" is handwritten on title page on the blank line supplied by the printer.</dcterms:description>
+   <dcterms:description>A printed account book, with a few manuscript diary-type entries for Cabell family estates Liberty Hall and Laneville, dated 1861, 1862 (on end flyleaf), 1863, 1870-71.</dcterms:description>
+   <dcterms:description>Yellow lining papers contain publisher's advertisements for "Books for Farmers."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Original brown/pink marbled boards, with calf backstrip, and printed paper label on cover. With newspaper clippings related to sugar cane pasted on front endpaprs</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Cable family</dcterms:subject>
+   <dcterms:subject>Liberty Hall (Estate : Nelson County, Va.)</dcterms:subject>
+   <dcterms:subject>Laneville (Estate : Nelson County, Va.)</dcterms:subject>
+   <dcterms:subject>Farm management--Virginia--Nelson County.</dcterms:subject>
+   <dcterms:subject>Agriculture--Accounting.</dcterms:subject>
+   <dcterms:spatial>Nelson County.</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Richmond, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1035705/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1032274</edm:isShownAt>
+</mdRecord>

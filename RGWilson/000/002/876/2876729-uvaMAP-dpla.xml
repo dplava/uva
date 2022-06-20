@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:43 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2876729</dcterms:identifier>
+   <dcterms:title>Second Pullman School, exterior</dcterms:title>
+   <dcterms:title>George M. Pullman Elementary School</dcterms:title>
+   <dcterms:creator>Perkins, Dwight Heald (American architect, 1867-1941) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1986</dcterms:created>
+   <dcterms:description>Front entrance</dcterms:description>
+   <dcterms:description>Perkins was appointed the Chief Architect for the Chicago Board of Education by Mayor Edward F. Dunne in 1905. He was responsible for the design of 40 public schools. -- http://en.wikipedia.org/wiki/Dwight_H._Perkins_%28architect%29 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Beaux-Arts</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>public schools</dcterms:subject>
+   <dcterms:subject>historic buildings</dcterms:subject>
+   <dcterms:subject>Perkins, Dwight Heald, 1867-1941</dcterms:subject>
+   <dcterms:subject>Pullman, George Mortimer (American industrial designer and philanthropist, 1831-1897)</dcterms:subject>
+   <dcterms:subject>classroom windows</dcterms:subject>
+   <dcterms:subject>brickwork (masonry)</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>pediments</dcterms:subject>
+   <dcterms:subject>buttresses</dcterms:subject>
+   <dcterms:subject>flagpoles</dcterms:subject>
+   <dcterms:spatial>11311 South Forrestville Avenue, Pullman, Chicago, Cook, Illinois, United States (neighborhood)</dcterms:spatial>
+   <dcterms:spatial>41.68881, -87.609533</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/05/14/15/f55177bb-9c64-4daf-beed-fe7e1f40f815_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2876729</edm:isShownAt>
+</mdRecord>

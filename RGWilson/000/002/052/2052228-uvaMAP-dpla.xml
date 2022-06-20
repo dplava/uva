@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:39 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2052228</dcterms:identifier>
+   <dcterms:title>Parc de la Villette, general view</dcterms:title>
+   <dcterms:creator>Fournier, Colin (French architect, contemporary) [architect]</dcterms:creator>
+   <dcterms:creator>Tschumi, Bernard (Swiss architect and professor, born 1944, active in New York) [architect]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1982..1987]</dcterms:created>
+   <dcterms:extent>overall: area 55.5 hectares [work]</dcterms:extent>
+   <dcterms:description>Canal de l'Ourcq, Galerie de l'Ourcq and Folie du Canal (N5)</dcterms:description>
+   <dcterms:description>The Parc de la Villette is the third-largest park in Paris, 55.5 hectares (137 acres) in area, located at the northeastern edge of the city in the 19th arrondissement. The park houses one of the largest concentration of cultural venues in Paris, including the Cité des Sciences et de l'Industrie (City of Science and Industry, Europe's largest science museum), three major concert venues, and the prestigious Conservatoire de Paris. -- https://en.wikipedia.org/wiki/Parc_de_la_Villette [work]</dcterms:description>
+   <dcterms:description>French</dcterms:description>
+   <dcterms:description>Swiss</dcterms:description>
+   <dcterms:description>Deconstructivist</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>landscape architecture</dcterms:subject>
+   <dcterms:subject>gardens</dcterms:subject>
+   <dcterms:subject>follies (architectural)</dcterms:subject>
+   <dcterms:subject>canals</dcterms:subject>
+   <dcterms:subject>water features</dcterms:subject>
+   <dcterms:spatial>avenue Jean-Jaurès, Paris 19e, avenue Jean-Jaurès, Paris, Ville de Paris, Département de, Île-de-France, France</dcterms:spatial>
+   <dcterms:spatial>48.893056, 2.390833</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/01/07/13/156b500e-27f0-4a39-b01a-8dd9c806bd7b_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2052228</edm:isShownAt>
+</mdRecord>

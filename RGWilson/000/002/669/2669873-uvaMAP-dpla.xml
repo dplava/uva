@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:42 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2669873</dcterms:identifier>
+   <dcterms:title>Apotheosis of Saint Louis, general view</dcterms:title>
+   <dcterms:title>Apotheosis of St. Louis</dcterms:title>
+   <dcterms:creator>Niehaus, Charles Henry (American sculptor, 1855-1935) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1979</dcterms:created>
+   <dcterms:medium>bronze (metal) [work]</dcterms:medium>
+   <dcterms:description>Apotheosis of St. Louis is a statue of King Louis IX of France, namesake of St. Louis, Missouri, located in front of the Saint Louis Art Museum in Forest Park. Prior to the completion of the Gateway Arch, the statue was the principal symbol of the city. It has served in the iconography of St. Louis for more than a century. ... The bronze statue that stands in Forest Park today was donated to Forest Park by the Louisiana Purchase Exposition Company following the 1904 World's Fair. It is a replica of a plaster model that stood at the entrance to the fair (where the Missouri History Museum now stands). The original artist, Charles Henry Niehaus, offered to create a bronze version of the plaster model for a $90,000 commission. However, the company took a lower $37,500 bid from a local artist, W. R. Hodges. -- http://en.wikipedia.org/wiki/The_Apotheosis_of_St._Louis [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Louisiana Purchase Exposition (1904 : Saint Louis, Mo.)</dcterms:subject>
+   <dcterms:subject>exhibitions (events)</dcterms:subject>
+   <dcterms:subject>world's fairs</dcterms:subject>
+   <dcterms:subject>art museums</dcterms:subject>
+   <dcterms:subject>Louis IX, King of France, 1214-1270</dcterms:subject>
+   <dcterms:subject>equestrian statues</dcterms:subject>
+   <dcterms:subject>symbolism (artistic concept)</dcterms:subject>
+   <dcterms:spatial>1 Fine Arts Drive, Forest Park, Saint Louis, Saint Louis City, Missouri, United States</dcterms:spatial>
+   <dcterms:spatial>38.6398, -90.29409</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/04/04/10/d806be77-87f2-4820-b937-a683b2d9d7b5_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2669873</edm:isShownAt>
+</mdRecord>

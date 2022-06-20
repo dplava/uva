@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 7:15 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1148281</dcterms:identifier>
+   <dcterms:title>Prelude et fugue en la majeur, op. 52, no. 5 / C. Saint-Saëns</dcterms:title>
+   <dcterms:title>Saint-Saëns, Camille, 1835-1921. Etudes, piano. op. 52. A major. Prélude et fugue, A major</dcterms:title>
+   <dcterms:creator>Moucelot</dcterms:creator>
+   <dcterms:creator>Rubinshteĭn, Nikolaĭ Grigorʹevich, 1835-1881</dcterms:creator>
+   <dcterms:creator>Saint-Saëns, Camille, 1835-1921</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>[1866..1879]</dcterms:created>
+   <dcterms:extent>9 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Cover engraving by Moucelot, Paris.</dcterms:description>
+   <dcterms:description>"À Monsieur Nicolas Rubinstein"--Caption.</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address and form of publisher's name. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:isPartOf>Six etudes pour piano, op. 52 / C. Saint-Saëns ; no. 5</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Canons, fugues, etc. (Piano)</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Piano--Studies and exercises.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1148282/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1148281</edm:isShownAt>
+</mdRecord>

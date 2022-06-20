@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 7:28 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1151494</dcterms:identifier>
+   <dcterms:title>I whistle and wait for Katie / written and composed by Michal Nolan ; arranged by John S. Baker</dcterms:title>
+   <dcterms:title>After bus'ness you will find me</dcterms:title>
+   <dcterms:title>I am waiting here to greet</dcterms:title>
+   <dcterms:creator>Baker, John S.</dcterms:creator>
+   <dcterms:creator>Nolan, Michael.</dcterms:creator>
+   <dcterms:publisher>Emerson Drug Co.</dcterms:publisher>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>1 score ([3] p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>organ, voice</dcterms:description>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice with piano or organ.</dcterms:description>
+   <dcterms:description>Title page illustration: Cartouche with Bromo-Seltzer bottle and a woman playing a Stieff piano.</dcterms:description>
+   <dcterms:isPartOf>Bromo-Seltzer collection of 74 popular songs : complete and unabridged, full music size with piano and organ accompaniment</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Songs with organ</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1151495/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1151494</edm:isShownAt>
+</mdRecord>

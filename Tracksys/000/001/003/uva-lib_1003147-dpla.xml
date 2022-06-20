@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:50 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1003147</dcterms:identifier>
+   <dcterms:title>Oh, look who's here!</dcterms:title>
+   <dcterms:creator>Scar.</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1914</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>15 x 12 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Title from caption.</dcterms:description>
+   <dcterms:description>Illustration, copyright 1914 by Scar, shows J. Frank Hanly, "organizer and high salaried leader of Anti-Saloon League flying squadron of professional agitators."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: From the Papers of Louis I. Jaffe, MSS 9924-o.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Hanly, J. Frank (James Frank), 1863-1920</dcterms:subject>
+   <dcterms:subject>Anti-saloon League of America.</dcterms:subject>
+   <dcterms:subject>Prohibition--Virginia.</dcterms:subject>
+   <dcterms:subject>Local option--Virginia.</dcterms:subject>
+   <dcterms:spatial>Virginia.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:921423/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003147</edm:isShownAt>
+</mdRecord>

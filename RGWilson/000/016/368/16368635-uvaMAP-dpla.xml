@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:53 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>16368635</dcterms:identifier>
+   <dcterms:title>Church of St Saviour and St Peter, exterior|detail view</dcterms:title>
+   <dcterms:title>St Saviour’s Eastbourne</dcterms:title>
+   <dcterms:creator>Street, George Edmund (English architect, 1824-1881) [architect]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1992</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Apse</dcterms:description>
+   <dcterms:description>By the middle of the nineteenth century, Eastbourne was a growing town noted for its healthy climate. ... The Duke of Devonshire, who owned much of the land, was laying out a new town with wide streets, Italianate terraces and fashionable villas. The old parish church of St Mary the Virgin was at some distance from the new town so the Duke gave land for the building of a new church which was completed in 1867. ... In 1971 the nearby daughter church of St Peter’s was demolished and the two parishes were combined as Saint Saviour’s and Saint Peter’s Eastbourne. -- http://www.stsaviourseastbourne.org.uk/#!history/c11fh [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>parish churches</dcterms:subject>
+   <dcterms:subject>Anglican (Church of England)</dcterms:subject>
+   <dcterms:subject>apses</dcterms:subject>
+   <dcterms:subject>buttresses</dcterms:subject>
+   <dcterms:subject>pointed arches</dcterms:subject>
+   <dcterms:spatial>South St, Eastbourne BN21 4UT, UK, South St, Eastbourne, East Sussex, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>50.7663902, 0.2807897000000139</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2016/08/09/11/cbdcaf23-9398-480c-8841-b5402428b58f_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_16368635</edm:isShownAt>
+</mdRecord>

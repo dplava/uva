@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:38 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1123023</dcterms:identifier>
+   <dcterms:title>To thee = A toi : idylle / English words by Philip Woolf ; Paul Lebrun</dcterms:title>
+   <dcterms:title>A toi</dcterms:title>
+   <dcterms:title>O thou whom to name is denied me</dcterms:title>
+   <dcterms:creator>Lebrun, Paul.</dcterms:creator>
+   <dcterms:creator>Pearson</dcterms:creator>
+   <dcterms:creator>Woolf, Philip, 1848-1903</dcterms:creator>
+   <dcterms:publisher>H.B. Stevens Co.</dcterms:publisher>
+   <dcterms:created>1892</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>piano, baritone voice</dcterms:description>
+   <dcterms:description>piano, soprano voice</dcterms:description>
+   <dcterms:description>Sop. or bar. in E.</dcterms:description>
+   <dcterms:description>For soprano or baritone and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>At foot of series t.p.: "Pearson, N.Y."</dcterms:description>
+   <dcterms:description>Advertisements: On p. [2]: Incipits for "Four popular songs:" Celeste; Slumber song; Here and there; At twilight time. On p. [6]: Incipits for "Four songs from the catalogue of H.B. Stevens Company:" Three roses red; Till the stars are dim; The little girl I loved when I was nine; Only for thee.</dcterms:description>
+   <dcterms:isPartOf>European songs ; no. 10</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
+   <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1123024/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1123023</edm:isShownAt>
+</mdRecord>

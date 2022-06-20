@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:40 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2054386</dcterms:identifier>
+   <dcterms:title>Crow Island Elementary School, exterior|general view</dcterms:title>
+   <dcterms:creator>Perkins, Wheeler and Will (American architectural partnership, active 1935-1946) [work]</dcterms:creator>
+   <dcterms:creator>Saarinen and Saarinen (Finnish architectural firm, contemporary) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1983</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>International Style (modern European architecture style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>elementary schools</dcterms:subject>
+   <dcterms:subject>elementary education</dcterms:subject>
+   <dcterms:spatial>42.100556, -87.745833</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/02/02/19/3f998cea-80e8-4242-a35a-d55fb369eddd_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2054386</edm:isShownAt>
+</mdRecord>

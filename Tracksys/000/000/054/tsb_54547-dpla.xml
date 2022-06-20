@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 7:22 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>tsb:54547</dcterms:identifier>
+   <dcterms:title>El grande nuevo aumentado Atlas de la mar, o mundo de agua: mostrando nos todas las costas del redondes de la tiera, consistiendo en mui corectas mapas, tanto en grados chatos como crecientes, delos quales se an en mendado, y mejorado algunos que mostravan mal, lo qual sepuedo ver tambien en el titulo de las mapas, mui favorable para los maestres de Navios, Pilatos, y Amadores de la grande navegacion / Echo por Joan van Loon</dcterms:title>
+   <dcterms:title>Atlas de la mar, o mundo de agua</dcterms:title>
+   <dcterms:creator>Keulen, Johannes van, 1654-1715</dcterms:creator>
+   <dcterms:creator>Loon, Herman van</dcterms:creator>
+   <dcterms:creator>Loon, J. van, approximately 1611-1686</dcterms:creator>
+   <dcterms:creator>Luiken, Jan, 1649-1712</dcterms:creator>
+   <dcterms:creator>McGregor Fund.</dcterms:creator>
+   <dcterms:creator>Nagtegaal, Aernout</dcterms:creator>
+   <dcterms:creator>Tracy W. McGregor Library. American History Collection.</dcterms:creator>
+   <dcterms:publisher>Por Johannes van Keulen, librero, y fabricador de valestillas astronomicas, enfrente del puente nuevo en el Piloto Coronado</dcterms:publisher>
+   <dcterms:created>1680</dcterms:created>
+   <dcterms:extent>1 atlas</dcterms:extent>
+   <dcterms:extent>55 cm (fol.) [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:medium>Mercator</dcterms:medium>
+   <dcterms:medium>bathymetry/soundings</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>Spanish</dcterms:language>
+   <dcterms:description>Maps: [1] Nova totius terrarum orbis geographica ac hydrographica tabula. Amstelodami, Ioannes van Keulen Exc. -- [2] Paskaarte van de, Zuyder Zee, met alle des Zelfs inkomende Gaaten: Soo als die op 't Zeekerts konnen Bezeylt worden: naa Haare Courekte Course, Opdoeningen, Droogten en Diepten. Tot Amsterdam by Joannis van Keulen Boek-verkooper en Graadboog-maaker aande Niewen-brug inde Gekroonde Lootsman -- [3] Pas caert van de Noort-Zee Verthoonende in zich Alle de Gusten en Havens, Zynde van miswysing en veel fouten verbetert. T' amsterdam. By joannes van Keulen. H van Loon fecit -- [4] Pascaert van Texel, Ton aen Bergen als mede de Belt, Schagerrack, Hitlant en de cust van Engeland -- [5] Paskaarte vande kuste van Holland en Vriesland, Groeninger, Emden en Keydingerland Holstyn. 't Amsterdam, by Iohannes van Keulen -- [6] [Chart of the coast of Emderlandt and Keydingerlandt] -- [7] Pascaert van Schager-rack, De Belt, en de Orisondt; tot in de Oost Zee, Zynde van veel Fouten verbetert. 't Amsterdam. By Joannes van Keulen -- [8] Pascart van de Oost Zee Verthoonende Alle de Gelegentheyt tusschen het Eylandt Rugen en Wyborg. t Amsterdam, by Iohannes van Keulen -- [9] De Zee Custen van Noorwegen, Finmarcken, Laplant, Ruslant, Spitsbergen en Yslant. 't Amsterdam, by Iohannes van Keulen -- [10] Pascaarte van de Noorder Zee custen van America, Vande West-hoeck van Ysland- door de Straet Davis en Hudson, tot aen Terra Neuf. 't Amsterdam, by Iohannes van Keulen -- [11] Pascaerte Van 't Noordlyckste Deel van Europa Beginnende vande Canael tot aen Spitsberegen ... 't Amsterdam, by Iohannes van Keulen ... Anno 1680 -- [12] Pas Caerte van Texel tot aende Hoofden, begrypende in sich de Zee-custen van Vries-land, Holland, Zeeland, Flaenderen en de Oost-dust van England. 't Amsterdam, by Iohannes van Keulen. -- [13] Paskaarte Begrijpende in zich de Kusten van Hollandt en Zeelandt. t'Amsterdam By Joannes van Keulen -- [14] Paskaerte, van het inkoomen van de Maes, Tot aen 't Eylandt Roosenburgh. t'Amsterdam By Joannes van Keulen -- [15] Paskaart vande Zeeuse Vlaemse en Engelse Kusten. t'Amsterdam By Joannes van Keulen -- [16] Pascaart vande Canaal, Engeland, Schotland en Yrland. t'Amsterdam By Joannes van Keulen -- [17] Het Canaal Tusschen Engeland en Vrancryck. t'Amsterdam By Joannes van Keulen -- [18] Paskaert Van Cales tot Cadix als mede een gedeelte van Engelandt. t'Amsterdam By Joannes van Keulen -- [19] Pas Caart van de Bochet van Vrancryck, Biscaien en Galissen tusschen Heyszant en C. de Finisterre. 't Amsterdam by Joannes van Keulen -- [20] Pascaart van de Kust van Portugal, Van C. de Finisterre tot aen C. de S. Vincente. 't Amsterdam by Joannes van Keulen.</dcterms:description>
+   <dcterms:description>[21] Pascaert van de Middelandsche Zee, Vertoonende in twee deelen, zỹn van de Miswysing en veel fouten Verbetert. 't Amsterdam by Joannes van Keulen -- [22] Paskaerte Vande Archipel, en de Eylanden daer omtrent gelegen als Candia Serigo en Rodus, tusseben Golfo de Lepanto Constantinopolen en C. Serdeni in Natolia. 't Amsterdam by Ioannes van Keulen ... 1680 -- [23] Paskaart Van de Cust van Portugal, Barbaria, en Genehoa. Beginnende van d'Barlenges tot aan C. Verde. Met al zyn Diepte en Drooghte dus ver Naaukeurig opgesocht door Ervaren Stuurlieden. 't Amsterdam by Iohannis van Ceulen [sic] -- [24] Nieuwe Pascaert Van alle de Vlaemse Eylanden Met hunne diepten en drooghten, Waer in oock te sien is hoe haer de Kust vertoont uyter Zee, sijnde noijt voor desen soo int Licht geweest. 't Amsterdam by Joahnnes van Keulen A°. 1681 -- [25] Nieuwe Pascaert Van al de Carnarisse Eylande. Met al hunne diepten en drooghte Dus ver Naeukeurig op gestelt. 'T Amsterdam by Iohannis van Keulen -- [26] Nieuwe Paskaart van de Zoute Eylanden, ... 't Amsterdam by Joannes van Keulen -- [27] Nieuwe Pascaart van het Canaal tot de Custen van Barbarien, en Canarische en Flaemsche eylanden. Vande miswysing en veel fouten verbetert. 't Amsterdam by Joannes van Keulen -- [28] Paskaert waer in de graden der breedde over weder zyden vande middllyn wassende soo vergrooten, dat die geproportioneert sym tegem hunne nevenstaende graden der lengde. 't Amsterdam by Joannes van Keulen -- [29] Pascaerte van Westindien begrypende in zich de Vaste kusten en Eylanden alles op syn waere lengte en breete op wassende graden gelegt. 't Amsterdam by Joannes van Keulen.</dcterms:description>
+   <dcterms:description>[30] Pascarte vande Caribes, S. Iuan de Porto Rico, de oosthoeck van I. Espagnola als mede devaste Custvan Nueva Andalusia met de Eylanden daer omtrent ghelegen ... 't Amsterdam, by Joannes van Keulen -- [31] Pascaerte vande Zee custen van Guinea, en Brasilia; Van Cabo de Verde, tot C. de bona Esperança: en van R. de Amazones tot Rio de la Plata, alles op wassende graaden gestelt. 't Amsterdam, by Joannes van Keulen -- [32] Nieuwe Pascaert van Oost Indien Verthoonende hen van C. de Bona Esperança tot aen het Landt van Eso Geleyt op Wassende Graeden en van Veel Fouten verbetert. 't Amsterdam by Ioannes van Keulen. H van Loon fecit -- [33] Pascaert van 't Eylandt Ceylon, Voordesen Taprobana; by de Inwoonders genaemt Lankaun, by Joannes van Keulen -- [34] Pascaert vande Zuyd Zee en een gedeelte van Brasil Van Ilhas de Ladrono, tot R. de la Plata. 't Amsterdam. By Ioannes van Keulen -- [35] Pascaarte vande Noord Oost Cust van Asia Verthoonende in sich alle de Zee-custen van Tartarien. Van Iapan tot Nova Zemla alles op Wassende graaden geleght. 't Amsterdam, By Joannes van Keulen.</dcterms:description>
+   <dcterms:description>Privilege (for 15 years) note at the foot of the title page dated 1680: "Con privilegio para quinze años."</dcterms:description>
+   <dcterms:description>8 pp letterpress text in Spanish.</dcterms:description>
+   <dcterms:description>Hand-colored allegorical title by Aernout Naghtegael after Jan Luijken.</dcterms:description>
+   <dcterms:description>Maps are hand-colored in outline; have decorative cartouche, illustrations, and rhumb lines; heightened in gold.</dcterms:description>
+   <dcterms:description>Relief shown by soundings.</dcterms:description>
+   <dcterms:description>Some maps have bar scales in Dutch miles, Spanish miles and English and French miles [actually leagues]; others with a scale of Dutch miles.</dcterms:description>
+   <dcterms:description>Map [10] on America. in State 1. Wtihout mention of the 15-year privilege. -- Cf. Burden, The Mapping of North America, etnry 515.</dcterms:description>
+   <dcterms:description>Map [28] in State 1. Lacking the privilege. -- Cf. Burden, entry 516.</dcterms:description>
+   <dcterms:description>Map [29] General map of the West Indies. State 1. Lacking the privilege -- Cf. Burden, entry 517.</dcterms:description>
+   <dcterms:description>Map [34] depicts the whole of North America with the exception of the northern regions of the continent. California as an island. Shows parts of Carpentaria, Tasmania, New Zealand and South America. In State 1, with large title cartouche at the bottom of the map. No mention of the privilege. -- Cf. Burden, entry 518.</dcterms:description>
+   <dcterms:description>Signatures: A-B².</dcterms:description>
+   <dcterms:description>Text printed in two columns; initial.</dcterms:description>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library copy: Imperfect. 35 charts only. Index on B2 verso lists 41 charts (titles in Spanish, the order does not correspond to order of the maps bound in the volume). Koeman Vol IV Keu 4, recording only one example of the Spanish edition text with 40 maps, offered for sale in 1968. Dutch edition (Keu 3B contains 36 charts). Compared to the Dutch edition, library copy lacks only one chart, "Pascaert Van 'tEylandt Roosenburgh door de Oude en Nieuwe Maes tot aen Dordrecht". Bound in contemporary Dutch vellum, covers panelled in gilt with central arabesques incorporating armillary sphere.</dcterms:description>
+   <dcterms:description>Scales differ.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Atlases--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Early maps</dcterms:subject>
+   <dcterms:subject>Nautical charts--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Nautical charts--Europe--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Nautical charts--Asia--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Nautical charts--South America--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Nautical charts--Indian Ocean--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Nautical charts--Atlantic Ocean--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Nautical charts--Mexico, Gulf of--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Nautical charts--Mediterranean Region--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Coasts--South America--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Atlases</dcterms:subject>
+   <dcterms:subject>Groningen (Netherlands : Province)--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Lower Saxony (Germany)--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>North Sea--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Baltic Sea--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Hudson Bay--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Netherlands--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>English Channel--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Biscay, Bay of (France and Spain)--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>France--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Portugal--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Aegean Islands (Greece and Turkey)--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Greece--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Cabo Verde--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Azores--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Canary Islands--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>West Indies--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Mexico, Gulf of--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Antilles, Lesser--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>South Atlantic Ocean--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Indian Ocean--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>East Indies--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Sri Lanka--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Pacific Ocean--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>North America--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>South America--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Tasmania--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Australia--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:spatial>Aegean Islands (Greece and Turkey)</dcterms:spatial>
+   <dcterms:spatial>Antilles, Lesser</dcterms:spatial>
+   <dcterms:spatial>Asia</dcterms:spatial>
+   <dcterms:spatial>Atlantic Ocean</dcterms:spatial>
+   <dcterms:spatial>Australia</dcterms:spatial>
+   <dcterms:spatial>Azores</dcterms:spatial>
+   <dcterms:spatial>Baltic Sea</dcterms:spatial>
+   <dcterms:spatial>Biscay, Bay of (France and Spain)</dcterms:spatial>
+   <dcterms:spatial>Cabo Verde</dcterms:spatial>
+   <dcterms:spatial>Canary Islands</dcterms:spatial>
+   <dcterms:spatial>East Indies</dcterms:spatial>
+   <dcterms:spatial>English Channel</dcterms:spatial>
+   <dcterms:spatial>Europe</dcterms:spatial>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Greece</dcterms:spatial>
+   <dcterms:spatial>Groningen (Netherlands : Province)</dcterms:spatial>
+   <dcterms:spatial>Hudson Bay</dcterms:spatial>
+   <dcterms:spatial>Indian Ocean</dcterms:spatial>
+   <dcterms:spatial>Lower Saxony (Germany)</dcterms:spatial>
+   <dcterms:spatial>Mediterranean Region</dcterms:spatial>
+   <dcterms:spatial>Mexico, Gulf of</dcterms:spatial>
+   <dcterms:spatial>Netherlands</dcterms:spatial>
+   <dcterms:spatial>North America</dcterms:spatial>
+   <dcterms:spatial>North Sea</dcterms:spatial>
+   <dcterms:spatial>Pacific Ocean</dcterms:spatial>
+   <dcterms:spatial>Portugal</dcterms:spatial>
+   <dcterms:spatial>South America</dcterms:spatial>
+   <dcterms:spatial>South Atlantic Ocean</dcterms:spatial>
+   <dcterms:spatial>Sri Lanka</dcterms:spatial>
+   <dcterms:spatial>Tasmania</dcterms:spatial>
+   <dcterms:spatial>West Indies</dcterms:spatial>
+   <dcterms:spatial>Amsterdam, Netherlands</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1551583/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:54547</edm:isShownAt>
+</mdRecord>

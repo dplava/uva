@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>750914</dcterms:identifier>
+   <dcterms:title>The Infirmary and Enfield House, exterior</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1811..1826]</dcterms:created>
+   <dcterms:description>General view front and side</dcterms:description>
+   <dcterms:description>Foreground:The Infirmary served as the Shaker's community hospital from the 1840s through the 1960s, and today is the oldest hospital building in New Hampshire. Although most Shaker communities operated such facilities, few survive; the Canterbury Infirmary is the largest and most complete facility of its kind. The building contains nine period rooms and exhibit areas, including patient rooms from different time periods, an apothecary, a surgical exhibit, a dentistry exhibit, and a kitchen with pantries. [work]</dcterms:description>
+   <dcterms:description>Background: Enfield House was originally constructed in 1826 as the office of the Second Family. In 1918 the structure was moved about 400 meters south to the Church Family, and two elevated entrance porches were added on the south side. The Shakers moved into the house in November 1921, and it subsequently housed elderly sisters who moved to Canterbury from the Shaker Village in Enfield, New Hampshire, in 1923. Today it houses the collections department and is used for artifact and archival document storage. -- http://www.shakers.org/dwelling-house.html [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>historic buildings</dcterms:subject>
+   <dcterms:subject>Shaker (Christian sect)</dcterms:subject>
+   <dcterms:subject>religious communities (built complexes)</dcterms:subject>
+   <dcterms:subject>siding (material)</dcterms:subject>
+   <dcterms:subject>pediments</dcterms:subject>
+   <dcterms:subject>porches</dcterms:subject>
+   <dcterms:subject>paths</dcterms:subject>
+   <dcterms:subject>lampposts</dcterms:subject>
+   <dcterms:spatial>288 Shaker Road, Canterbury, Merrimack, New Hampshire, United States</dcterms:spatial>
+   <dcterms:spatial>43.358889, -71.49</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/09/13/15/f3aec31e-8f8f-4845-9e5c-987e5cb529ab_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_750914</edm:isShownAt>
+</mdRecord>

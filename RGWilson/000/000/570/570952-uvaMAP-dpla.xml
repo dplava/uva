@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>570952</dcterms:identifier>
+   <dcterms:title>Chapel, exterior</dcterms:title>
+   <dcterms:creator>Maybeck, Bernard Ralph (American architect and artist, 1862-1957) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2003</dcterms:created>
+   <dcterms:medium>concrete; steel (alloy); limestone [work]</dcterms:medium>
+   <dcterms:description>Southeast elevation</dcterms:description>
+   <dcterms:description>After studying meeting houses and churches in Massachusetts and the exposed site high on a bluff overlooking the river, Maybeck developed a design that involved the use of steel, concrete, and Bedford Indiana limestone. In order to avoid the "institutional effect," Maybeck placed the windows with uneven spacing. Also, the interior of the Chapel is faced in random-width boards. Considering the Chapel a central feature of the campus, Maybeck worked very closely with Frederic Morgan and often referred to the Chapel as his favorite building at Principia. In terms of its dense steel framework, heavy reinforcing steel in the foundation, and footings 7 times larger than usual, the Chapel remains a very permanent structure without cracks in the reinforced concrete over the past 70 years. The Chapel strikes a fine balance between formality and informality. The stonework, while carefully measured, is "shot-sawn," leaving filings in the grooves to rust and thereby create texture, color and age. http://www.principia.edu/maybeck/build/chapel.htm [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>American Colonial</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>classrooms</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>pediments</dcterms:subject>
+   <dcterms:subject>gable roofs</dcterms:subject>
+   <dcterms:subject>steeples (building components)</dcterms:subject>
+   <dcterms:spatial>1 Maybeck Place, Elsah, Jersey, Illinois, United States</dcterms:spatial>
+   <dcterms:spatial>38.950740, -90.348346</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/06/04/17/d4eddc5e-d6f6-4cf3-a92c-5a778e606e5d_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_570952</edm:isShownAt>
+</mdRecord>

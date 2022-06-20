@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:55 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>24376562</dcterms:identifier>
+   <dcterms:title>Saint Clara Church, general view</dcterms:title>
+   <dcterms:title>Saint Gelasius Church</dcterms:title>
+   <dcterms:title>Shrine of Christ the King Sovereign Priest</dcterms:title>
+   <dcterms:creator>Schlacks, Henry John (American architect, 1868-1938) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2003</dcterms:created>
+   <dcterms:description>Facade and bell towers</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Classical Revival (European revival style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Roman Catholicism</dcterms:subject>
+   <dcterms:spatial>6401 South Woodlawn Avenue, Chicago, Cook, Illinois, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/01/14/15/50c02ebd-c297-44d2-96ed-ca6ad161f6bc_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_24376562</edm:isShownAt>
+</mdRecord>

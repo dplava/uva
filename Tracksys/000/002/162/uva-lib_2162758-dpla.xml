@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 8:36 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2162758</dcterms:identifier>
+   <dcterms:title>Alderman Library</dcterms:title>
+   <dcterms:creator>Thompson, Ralph R.</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:description>publicity photographs ; from excerpt on photo: Literary scholars at the University of Virginia may now speed up their work of making text comparisons of various copies of the same work by using the new electrical collating machine in the Rare Book Room of the Alderman Library. Matthew Bruccoli, graduate student in English from New York, is shown at the collating machine under the supervision of Fredson Bowers, professor of English and well known bibliographical expert.</dcterms:description>
+   <dcterms:description>Original Negative Present [original]</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Visual History Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia</dcterms:subject>
+   <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2162758/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2162758</edm:isShownAt>
+</mdRecord>

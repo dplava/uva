@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:52 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>13969634</dcterms:identifier>
+   <dcterms:title>Cherokee Heights Residence, exterior</dcterms:title>
+   <dcterms:creator>Hentz, Reid &amp; Adler (American architectural firm, 20th century) [work]</dcterms:creator>
+   <dcterms:creator>Reid, Neel (American architect, 1885-1926) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2002</dcterms:created>
+   <dcterms:description>Facade</dcterms:description>
+   <dcterms:description>Cherokee Heights ... was one of the first planned residential and suburban communities in Macon. Developed from 1909 – 1923, the homes are primarily built in the styles of Georgian Revival, English Tudor, Spanish Mission, Craftsman and Bungalow, including many homes designed by Georgian architect, Neel Reid. Cherokee Heights was developed by a real estate developing company, the Vineville Improvement Company. This company provided the first suburban development of its kind in Macon. The area was developed in two phases, the first from 1909 to 1911, and the second in 1923. Businessmen, managers, and other professionals of the early Twentieth Century middle class resided in Cherokee Heights. -- http://www.historicmacon.org/cherokeeheights/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Georgian Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>housing (concept)</dcterms:subject>
+   <dcterms:subject>housing developments</dcterms:subject>
+   <dcterms:subject>Cherokee Heights (Macon, Ga.)</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:spatial>Macon, Bibb, Georgia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2016/04/18/11/92581675-82e4-4efa-928a-1155923c55c6_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_13969634</edm:isShownAt>
+</mdRecord>

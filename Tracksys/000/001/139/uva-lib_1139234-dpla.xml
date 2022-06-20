@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 6:37 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1139234</dcterms:identifier>
+   <dcterms:title>Come home, Father: song and chorus / words and music by Henry Clay Work</dcterms:title>
+   <dcterms:title>Father, dear father, come home with me now</dcterms:title>
+   <dcterms:title>Hear the sweet voice of the child</dcterms:title>
+   <dcterms:creator>Work, Henry C. (Henry Clay), 1832-1884</dcterms:creator>
+   <dcterms:publisher>S. Brainard's Sons</dcterms:publisher>
+   <dcterms:created>1864</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, mixed chorus (4), piano</dcterms:description>
+   <dcterms:description>For voice and piano, with chorus refrain (SATB).</dcterms:description>
+   <dcterms:description>Introduced in the play Ten nights in a bar-room by Timothy Shay Arthur. cf. Mattfeld, Variety music cavalcade, p. 117.</dcterms:description>
+   <dcterms:description>Advertisement on p. [2]: How the gates came ajar. On p. [6]: Select list of valuable musical works.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:subject>Temperance--Songs and music.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1139235/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1139234</edm:isShownAt>
+</mdRecord>

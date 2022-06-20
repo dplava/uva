@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 2:59 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>30322033</dcterms:identifier>
+   <dcterms:title>School of Architecture Student Exhibit, Fall 1993, display board end view and Rotunda</dcterms:title>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1993-11</dcterms:created>
+   <dcterms:description>An exhibit of student work marking the 250th birthday of Thomas Jefferson, at the south end of the Lawn in front of Old Cabell Hall. Featured innovative display boards that swung perpendicular to their frames. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Sculpture and Installations</dcterms:subject>
+   <dcterms:subject>exhibitions (events)</dcterms:subject>
+   <dcterms:subject>student projects</dcterms:subject>
+   <dcterms:subject>architectural drawings (visual works)</dcterms:subject>
+   <dcterms:subject>exhibit cases</dcterms:subject>
+   <dcterms:subject>University of Virginia. School of Architecture</dcterms:subject>
+   <edm:preview>https://stor.artstor.org/iiif/2021/05/03/19/a058146e-aafb-487f-a72c-8e67810e1813_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_30322033</edm:isShownAt>
+</mdRecord>

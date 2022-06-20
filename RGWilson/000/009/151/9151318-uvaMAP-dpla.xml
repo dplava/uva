@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:50 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9151318</dcterms:identifier>
+   <dcterms:title>The Concord Minuteman, general view</dcterms:title>
+   <dcterms:creator>French, Daniel Chester (American sculptor, 1850-1931) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1997</dcterms:created>
+   <dcterms:medium>casting (process); bronze (metal) [work]</dcterms:medium>
+   <dcterms:description>Front view</dcterms:description>
+   <dcterms:description>"... inscribed with a sentence from Ralph Waldo Emerson's "Concord Hymn."..." -- http://www.yeodoug.com/resources/dc_french/concord_mman/dcfrench_concord_mman.html [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>naturalism (artistic form of expression)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Sculpture and Installations</dcterms:subject>
+   <dcterms:subject>statues</dcterms:subject>
+   <dcterms:subject>figures (representations)</dcterms:subject>
+   <dcterms:subject>soldiers' monuments</dcterms:subject>
+   <dcterms:subject>pedestals</dcterms:subject>
+   <dcterms:subject>inscriptions</dcterms:subject>
+   <dcterms:subject>statues</dcterms:subject>
+   <dcterms:subject>rifles (long guns)</dcterms:subject>
+   <dcterms:subject>plows (agricultural equipment)</dcterms:subject>
+   <dcterms:subject>coats (garments)</dcterms:subject>
+   <dcterms:subject>hats</dcterms:subject>
+   <dcterms:spatial>Old North Bridge, Concord, Middlesex, Massachusetts, United States</dcterms:spatial>
+   <dcterms:spatial>42.468931, -71.351278</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/04/16/17/1fd58267-311c-4d59-a818-ddd68a1812c0_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9151318</edm:isShownAt>
+</mdRecord>

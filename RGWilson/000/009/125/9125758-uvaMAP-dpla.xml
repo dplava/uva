@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:50 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9125758</dcterms:identifier>
+   <dcterms:title>Rock Crest / Rock Glen, general view</dcterms:title>
+   <dcterms:creator>Griffin, Walter Burley (American architect and city planner, 1876-1937, active in the United States, Australia, and India) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1974</dcterms:created>
+   <dcterms:description>Willow Creek</dcterms:description>
+   <dcterms:description>In 1911, developer Joshua Melson contacted Marion Mahony Griffin, asking if she would be interested in assisting with development plans for Mason City. Marion declined but recommended her husband, Walter Burley Griffin. Walter came to Mason City within a week to look at the situation. He talked Melson and partner James Blythe into building on a site that they had previously discarded because it had been turned into a garbage dump. Griffin didn't see the site as a garbage dump but instead envisioned that the 18-acre parcel situated along Willow Creek would be an ideal natural setting for a group of homes. At the end of Griffin's visit, the men signed a contract which gave Griffin complete approval in developing the property, Rock Crest, Rock Glen. -- http://iagenweb.org/cerrogordo/history/MasonCity/cg_rockcrest_rockglen.htm [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>houses</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>subdivisions (complexes)</dcterms:subject>
+   <dcterms:subject>creeks (bodies of water)</dcterms:subject>
+   <dcterms:spatial>Mason City, Cerro Gordo, Iowa, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/04/10/13/fd433325-afca-467c-a8ed-89c3c3e2cb9d_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9125758</edm:isShownAt>
+</mdRecord>

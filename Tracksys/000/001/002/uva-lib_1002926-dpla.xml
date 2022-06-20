@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:49 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1002926</dcterms:identifier>
+   <dcterms:title>To the people of Virginia: What shall be done for the University?</dcterms:title>
+   <dcterms:title>What shall be done for the University?</dcterms:title>
+   <dcterms:creator>Henry.</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1830</dcterms:created>
+   <dcterms:extent>11 p.</dcterms:extent>
+   <dcterms:extent>26 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Five articles discussing the state literary fund and urging increased funding for the University of Virginia. Reprinted from the Richmond Enquirer; each signed, in print, Henry.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Transferred from UVa Chronological file, 2000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia--Finance.</dcterms:subject>
+   <dcterms:subject>Virginia. Literary Fund.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:867021/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002926</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 2:43 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:730711</dcterms:identifier>
+   <dcterms:title>Remonstrance au peuple de France</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Riviere &amp; Son</dcterms:creator>
+   <dcterms:creator>Ronsard, Pierre de, 1524-1585</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1563</dcterms:created>
+   <dcterms:extent>[32] p.</dcterms:extent>
+   <dcterms:extent>16 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Imprimé nouuellement.</dcterms:description>
+   <dcterms:description>Signatures: A-D⁴.</dcterms:description>
+   <dcterms:description>Pirated edition, according to Ricci.</dcterms:description>
+   <dcterms:description>First published by Gabriel Buon, Paris, 1563.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Riviere &amp; Son. Unidentified monogram / cypher bookplate. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 434.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>France--History--Wars of the Huguenots, 1562-1598--Poetry.</dcterms:subject>
+   <dcterms:subject>France--History--Wars of the Huguenots, 1562-1598--Pamphlets.</dcterms:subject>
+   <dcterms:temporal>Wars of the Huguenots, 1562-1598</dcterms:temporal>
+   <dcterms:spatial>France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:735784/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730711</edm:isShownAt>
+</mdRecord>

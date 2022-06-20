@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 6:47 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1141788</dcterms:identifier>
+   <dcterms:title>Last night = Sehnsucht / Halfdan Kjerulf ; (Christian Winther)</dcterms:title>
+   <dcterms:title>Ich konnte heute nicht schlafen</dcterms:title>
+   <dcterms:title>Last night the nightingale woke me</dcterms:title>
+   <dcterms:title>Sehnsucht</dcterms:title>
+   <dcterms:title>Kjerulf, Halfdan, 1815-1868. Sånger. op. 3. English &amp; German. Laengsel. English &amp; German</dcterms:title>
+   <dcterms:creator>Kjerulf, Halfdan, 1815-1868</dcterms:creator>
+   <dcterms:creator>Winther, Christian, 1796-1876</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>[1886..1887]</dcterms:created>
+   <dcterms:extent>1 score (3 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, soprano voice</dcterms:description>
+   <dcterms:description>Sop. in A♭.</dcterms:description>
+   <dcterms:description>For soprano and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [4]: New songs for one voice.</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's plate number.</dcterms:description>
+   <dcterms:description>English and German words.</dcterms:description>
+   <dcterms:isPartOf>Classic songs by modern German composers ; no. 20</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Winther, Christian, 1796-1876--Musical settings.</dcterms:subject>
+   <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1141789/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1141788</edm:isShownAt>
+</mdRecord>

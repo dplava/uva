@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:55 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003488</dcterms:identifier>
+   <dcterms:title>Map of Wytheville and vicinity / prepared by G.Wm. Baist, Map Publisher, Ph906 Walnut St., Philadelphia</dcterms:title>
+   <dcterms:creator>Baist, G. Wm. (George William), 1859-1927</dcterms:creator>
+   <dcterms:creator>Wytheville Development Company.</dcterms:creator>
+   <dcterms:publisher>Issued by the Wytheville Development Co.</dcterms:publisher>
+   <dcterms:created>1910</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>42 x 42 cm. (circular) on sheet 50 x 60 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>Radial distances at roughly 9 mile intervals indicated on map, which covers the area from Roanoke to Bristol and Johnson City Tennessee.</dcterms:description>
+   <dcterms:description>Explanation color coded for various mineral deposits and railroads.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:570,240]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Mines and mineral resources--Virginia, Southwest--Maps.</dcterms:subject>
+   <dcterms:subject>Railroads--Virginia, Southwest--Maps.</dcterms:subject>
+   <dcterms:subject>Virginia, Southwest--Maps.</dcterms:subject>
+   <dcterms:subject>Wytheville (Va.)--Maps.</dcterms:subject>
+   <dcterms:spatial>Virginia, Southwest</dcterms:spatial>
+   <dcterms:spatial>Wytheville (Va.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:897901/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003488</edm:isShownAt>
+</mdRecord>

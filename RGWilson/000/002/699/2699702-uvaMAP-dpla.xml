@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:42 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2699702</dcterms:identifier>
+   <dcterms:title>Arthur Rule House, exterior|general view</dcterms:title>
+   <dcterms:title>Blythe-Rule House</dcterms:title>
+   <dcterms:creator>Griffin, Walter Burley (American architect and city planner, 1876-1937, active in the United States, Australia, and India) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1911..1914]</dcterms:created>
+   <dcterms:medium>masonry; reinforced concrete [work]</dcterms:medium>
+   <dcterms:description>Facade</dcterms:description>
+   <dcterms:description>This house and the Page House were the first two Prairie School residences constructed in Rock Glen. James Blythe lived in this house while his residence was under construction, then sold it to his law partner, Arthur Rule. For this reason it is sometimes referred to as the Blythe-Rule House. -- http://www.prairieschooltraveler.com/html/ia/masoncity/griffin/rule.html [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Modern (styles and periods)</dcterms:description>
+   <dcterms:description>International Style (modern European architecture style)</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>historic preservation</dcterms:subject>
+   <dcterms:subject>historic districts</dcterms:subject>
+   <dcterms:subject>masonry</dcterms:subject>
+   <dcterms:subject>concrete</dcterms:subject>
+   <dcterms:subject>stucco</dcterms:subject>
+   <dcterms:subject>lead glass</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:spatial>11 Rock Glen, Mason City, Iowa, Mason City, Cerro Gordo, Iowa, United States</dcterms:spatial>
+   <dcterms:spatial>43.151557, -93.192888</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/04/09/10/c4c48a63-0111-41f1-84c5-9186bf9f340b_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2699702</edm:isShownAt>
+</mdRecord>

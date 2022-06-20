@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 7:18 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18824</dcterms:identifier>
+   <dcterms:title>The Friends and acquaintances of: [a collection of funeral invitations from Clarksville, Tennessee, 1851-1854]</dcterms:title>
+   <dcterms:title>Funeral invitation</dcterms:title>
+   <dcterms:creator>Hendrick, J. T. (John Thilman), 1815-1898</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1851/1854</dcterms:created>
+   <dcterms:extent>&lt;7&gt; pieces</dcterms:extent>
+   <dcterms:extent>18 x 12 cm. or smaller. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>1851, July 3, James, son of Mr. and Mrs. Baird; services by Rev. Mr. Baldwin -- 1851, Aug. 22, Anna Conrad, infant daughter of Alfred and Mary E. Robb; services by Rev. J.T. Hendrick -- 1851, Aug. 27, Mr. William Dick; services by Rev. J.T. Hendrick -- 1851, Dec. 12, Sarah Elizabeth, infant daughter of Mr. &amp; Mrs. R.M. House; services by the Rev. J.T. Hendrick. -- 1852, Jan. 24th: Jane, wife of Rev. J.T. Hendrick; services by the Rev. Dr. Edgar -- 1852, June 21, Eliza Jane, wife of Mr. G.G. Hinch; services by Rev. A.R. Irwin -- 1854, Jan. 30, Edward Howard.</dcterms:description>
+   <dcterms:description>Text of each is printed on p. [1] of a folded sheet, with a single black rule above and below the invitation. One is prefaced by the words "Funeral invitation." All pages have a black mourning border, but there is no text on p. [2]-[4] blank.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Baird, James, d. 1851--Death and burial.</dcterms:subject>
+   <dcterms:subject>Robb, Anna Conrad, d. 1851--Death and burial.</dcterms:subject>
+   <dcterms:subject>Dick, William, d. 1851--Death and burial.</dcterms:subject>
+   <dcterms:subject>House, Sarah Elizabeth, d. 1851--Death and burial.</dcterms:subject>
+   <dcterms:subject>Hendrick, Jane, d. 1852--Death and burial.</dcterms:subject>
+   <dcterms:subject>Hinch, Eliza Jane, d. 1852--Death and burial.</dcterms:subject>
+   <dcterms:subject>Howard, Edward, d. 1854--Death and burial.</dcterms:subject>
+   <dcterms:subject>Funeral rites and ceremonies--Tennessee--Clarksville.</dcterms:subject>
+   <dcterms:subject>Clarksville (Tenn.)--Biography.</dcterms:subject>
+   <dcterms:spatial>Clarksville (Tenn.)</dcterms:spatial>
+   <dcterms:spatial>Clarksville.</dcterms:spatial>
+   <dcterms:spatial>Tennessee</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1517599/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18824</edm:isShownAt>
+</mdRecord>

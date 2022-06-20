@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:57 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>25863636</dcterms:identifier>
+   <dcterms:title>Schönbrunn Palace, exterior|general view</dcterms:title>
+   <dcterms:title>Schloss Schönbrunn</dcterms:title>
+   <dcterms:creator>Aman, Johann (Austrian architect, active 19th century) [work]</dcterms:creator>
+   <dcterms:creator>Fischer von Erlach, Johann Bernhard (Austrian architect, 1656-1723) [work]</dcterms:creator>
+   <dcterms:creator>Pacassi, Nikolaus (Austrian architect, 1716-1790) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1999</dcterms:created>
+   <dcterms:description>Entrance court from the palace, showing gates</dcterms:description>
+   <dcterms:description>The Palace in its present form was commissioned from Fischer von Erlach by Leopold I in 1687 and built 1696-1711. Renovated and extended 1743-1749 by Nikolaus Pacassi; renovations continued 1750-1762 and 1769-1777; facades renovated 1817-19 by Johan Aman. Became property of the Austrian Republic 1918 and preserved as a museum. [work]</dcterms:description>
+   <dcterms:description>Austrian</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:description>Rococo</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>official residences</dcterms:subject>
+   <dcterms:subject>gardens</dcterms:subject>
+   <dcterms:subject>museums</dcterms:subject>
+   <dcterms:subject>Habsburg, House of</dcterms:subject>
+   <dcterms:subject>Maria-Theresa, Empress (Austrian ruler, patron, and collector, 1717-1780)</dcterms:subject>
+   <dcterms:subject>courtyards</dcterms:subject>
+   <dcterms:subject>gateways</dcterms:subject>
+   <dcterms:subject>arcades (structural assemblies)</dcterms:subject>
+   <dcterms:subject>obelisks (monumental pillars)</dcterms:subject>
+   <dcterms:spatial>Heitzing District, Vienna, Vienna state, Austria</dcterms:spatial>
+   <dcterms:spatial>48.18456, 16.311865</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/08/12/15/17e7c563-5048-435e-af5b-eae17718989c_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_25863636</edm:isShownAt>
+</mdRecord>

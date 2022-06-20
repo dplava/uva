@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:39 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2052617</dcterms:identifier>
+   <dcterms:title>Maryland State House, exterior|general view</dcterms:title>
+   <dcterms:creator>Anderson, Joseph Horatio (American architect, mid-18th century) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1973</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Facade</dcterms:description>
+   <dcterms:description>An annex to the State House was constructed between 1902 and 1906 under the supervision of Baltimore architects Baldwin &amp; Pennington; the new annex replaced earlier 19th-century annexes. -- https://en.wikipedia.org/wiki/Maryland_State_House [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Georgian (British Renaissance-Baroque style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>legislative buildings</dcterms:subject>
+   <dcterms:subject>public buildings</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>porticoes</dcterms:subject>
+   <dcterms:subject>domes (architectural elements)</dcterms:subject>
+   <dcterms:subject>lanterns (roof appendages)</dcterms:subject>
+   <dcterms:spatial>State Circle, Annapolis, Anne Arundel, Maryland, United States</dcterms:spatial>
+   <dcterms:spatial>38.978889, -76.491111</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/10/08/12/25f0f33a-f1c8-4e2f-9290-e90c7a0189eb_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2052617</edm:isShownAt>
+</mdRecord>

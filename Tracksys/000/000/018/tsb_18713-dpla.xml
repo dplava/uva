@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 7:16 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18713</dcterms:identifier>
+   <dcterms:title>Boarding and day school for young ladies: corner of Franklin and Fifth streets, Shockoe Hill, Richmond, Virginia : Rev. Moses D. Hoge, pastor of the Second Presbyterian Church, principal</dcterms:title>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1849</dcterms:created>
+   <dcterms:extent>[4] p.</dcterms:extent>
+   <dcterms:extent>25 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>P. [2] and [4] blank.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Addressed on p. [4] to F.T. Anderson, Fincastle, Va. and docketed June 30, 1849. From the Papers of the Anderson Family, MSS 38-96, etc.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Hoge, Moses D. (Moses Drury), 1818-1899</dcterms:subject>
+   <dcterms:subject>Boarding schools--Virginia--Richmond.</dcterms:subject>
+   <dcterms:subject>Schools--Virginia--Richmond.</dcterms:subject>
+   <dcterms:subject>Women--Education--Virginia--Richmond.</dcterms:subject>
+   <dcterms:spatial>Richmond.</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1517286/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18713</edm:isShownAt>
+</mdRecord>

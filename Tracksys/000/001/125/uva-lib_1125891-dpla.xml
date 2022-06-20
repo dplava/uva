@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:51 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1125891</dcterms:identifier>
+   <dcterms:title>Jessie of Glengyle / music by W.C. Peters ; words by W.H. Donoho</dcterms:title>
+   <dcterms:title>We met within the banquet hall</dcterms:title>
+   <dcterms:creator>Donoho, W. H.</dcterms:creator>
+   <dcterms:creator>Fairthorne, Emma R.</dcterms:creator>
+   <dcterms:creator>Gillingham, Edwin</dcterms:creator>
+   <dcterms:creator>Peters, W. C. (William Cumming), 1805-1866</dcterms:creator>
+   <dcterms:publisher>W.C. Peters</dcterms:publisher>
+   <dcterms:created>1850</dcterms:created>
+   <dcterms:extent>1 score (4 p.)</dcterms:extent>
+   <dcterms:extent>31 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, piano</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>At head of title: "To Mrs. Emma R. Fairthorne."</dcterms:description>
+   <dcterms:description>At foot of title page: "Gillingham."</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v. 68, no. 41]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1125892/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125891</edm:isShownAt>
+</mdRecord>

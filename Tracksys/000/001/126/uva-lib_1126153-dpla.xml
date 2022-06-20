@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:52 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1126153</dcterms:identifier>
+   <dcterms:title>Ruth and Naomi: from Sabbath melodies / the words selected from the holy scriptures ; the music composed by R. Topliff</dcterms:title>
+   <dcterms:title>Topliff, R. (Robert), 1793-1868. Sabbath melodies. Ruth and Naomi</dcterms:title>
+   <dcterms:creator>Gillingham, Edwin</dcterms:creator>
+   <dcterms:creator>Topliff, R. (Robert), 1793-1868</dcterms:creator>
+   <dcterms:creator>Webb, L. W.</dcterms:creator>
+   <dcterms:publisher>Geo. Willig, Jr.</dcterms:publisher>
+   <dcterms:created>[1838..1841]</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:extent>32 cm. [original]</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, piano</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>"Ruth chap. 1, verses 14-17"--Caption.</dcterms:description>
+   <dcterms:description>At foot of title page: "E. Gillingham."</dcterms:description>
+   <dcterms:description>"L.W. Webb"--Colophon.</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v. 155, no. 27]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Ruth, (Biblical figure)--Songs and music.</dcterms:subject>
+   <dcterms:subject>Sacred songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1126154/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1126153</edm:isShownAt>
+</mdRecord>

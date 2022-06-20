@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:48 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1125112</dcterms:identifier>
+   <dcterms:title>On the beautiful Rhine I think of thee = Am schönen Rhein gedenk' ich dein = Aux bords du Rhin, je pense à toi : op. 83, waltzes / by Kéler Béla</dcterms:title>
+   <dcterms:title>Am schönen Rhein gedenk' ich dein</dcterms:title>
+   <dcterms:title>Aux bords du Rhin, je pense à toi</dcterms:title>
+   <dcterms:creator>Kéler, Béla, 1820-1882</dcterms:creator>
+   <dcterms:creator>Swain, George F.</dcterms:creator>
+   <dcterms:publisher>Lee &amp; Walker</dcterms:publisher>
+   <dcterms:created>[1872..1875]</dcterms:created>
+   <dcterms:extent>15 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>At foot of title page: "G. F. Swain."</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Waltzes</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1125113/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125112</edm:isShownAt>
+</mdRecord>

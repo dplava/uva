@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 2:50 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:845865</dcterms:identifier>
+   <dcterms:title>Virginia</dcterms:title>
+   <dcterms:creator>Colton, J. H. (Joseph Hutchins), 1800-1893</dcterms:creator>
+   <dcterms:creator>J.H. Colton &amp; Co.</dcterms:creator>
+   <dcterms:publisher>Published by J.H. Colton &amp; Co. No. 172 William Street</dcterms:publisher>
+   <dcterms:created>1857</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>29 x 38 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Map does not include Wise County, which was formed in 1856.</dcterms:description>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>Prime meridians: Greenwich and Washington (D.C.)</dcterms:description>
+   <dcterms:description>Two insets: Richmond Henrico County, Manchester and Spring Hill Chesterfield Co. -- Norfolk, Portsmouth and Gosport. (separate scales)</dcterms:description>
+   <dcterms:description>"Entered according to Act of Congress in the year 1855 by J.H. Colton &amp; Co. in the Clerks Office of the District Court for the Southern District of New York."</dcterms:description>
+   <dcterms:description>Explanations: Rail Roads, Common, Canals, State Capital, County Towns, Vill. P.O. &amp; Depots</dcterms:description>
+   <dcterms:description>Printed on lightweight paper, without plate number.</dcterms:description>
+   <dcterms:description>Was probably folded into covers which are no longer present.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:2,000,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Virginia--Maps--19th century.</dcterms:subject>
+   <dcterms:temporal>19th century.</dcterms:temporal>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>New York (City), New York (State), United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1008025/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:845865</edm:isShownAt>
+</mdRecord>

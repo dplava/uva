@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:25 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>181276</dcterms:identifier>
+   <dcterms:title>Schlessinger House, exterior|general view</dcterms:title>
+   <dcterms:creator>Schindler, Rudolph Michael (American architect, 1887-1953) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1973-01</dcterms:created>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Modernist</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>cantilevers</dcterms:subject>
+   <dcterms:subject>stucco</dcterms:subject>
+   <dcterms:subject>screened porches</dcterms:subject>
+   <dcterms:subject>ribbon windows</dcterms:subject>
+   <dcterms:subject>steps</dcterms:subject>
+   <dcterms:subject>driveways</dcterms:subject>
+   <dcterms:spatial>Los Angeles, California, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/15/10/a595b7cb-3f78-4363-bb6c-2ad459b06295_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_181276</edm:isShownAt>
+</mdRecord>

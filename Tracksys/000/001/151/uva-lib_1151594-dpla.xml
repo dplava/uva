@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 7:28 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1151594</dcterms:identifier>
+   <dcterms:title>Anna song: from "Nanon" / English translation by Helen D. Tretbar ; music by R. Genée</dcterms:title>
+   <dcterms:title>Was ist denn heut' wohl fuer ein Tag</dcterms:title>
+   <dcterms:title>Why does this day to me impart</dcterms:title>
+   <dcterms:title>Genée, Richard, 1823-1895. Nanon. Anna song. English &amp; German</dcterms:title>
+   <dcterms:creator>Genée, Richard, 1823-1895</dcterms:creator>
+   <dcterms:creator>Tretbar, Helen D.</dcterms:creator>
+   <dcterms:publisher>Emerson Drug Co.</dcterms:publisher>
+   <dcterms:created>[1890..1899]</dcterms:created>
+   <dcterms:extent>1 vocal score (2 p.).</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>voice, organ</dcterms:description>
+   <dcterms:description>Opera excerpts, orchestral accompaniment arranged for piano or organ.</dcterms:description>
+   <dcterms:description>Imprint date inferred from list on title page, headed: "New selections added, January 1st, 1899."</dcterms:description>
+   <dcterms:description>Title page illustration: Bromo-Seltzer bottle cartouche with text "Cures all headaches neuralgia &amp; nervousness" / Balto. Eng. Co.</dcterms:description>
+   <dcterms:description>Advertisement on p. [3]: Emerson Drug Company, Baltimore, Md.</dcterms:description>
+   <dcterms:description>German and English words.</dcterms:description>
+   <dcterms:isPartOf>Bromo-Seltzer : free music</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Songs with organ</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano.</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with organ.</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1151595/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1151594</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 10:49 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2524237</dcterms:identifier>
+   <dcterms:title>Tracheonomy set</dcterms:title>
+   <dcterms:creator>R. and H. Mathieu Fils [manufacturer]</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1905~/1910~</dcterms:created>
+   <dcterms:extent>5 x 24 x 11 cm [original]</dcterms:extent>
+   <dcterms:medium>metal; wood (plant material) [original]</dcterms:medium>
+   <dcterms:description>The set is contained in case with the following text stamped on the interior: "Maison L. Mathieu R&amp; H Matheiu Fils Sr5. 113 Bard Street Germain Paris". The set includes the following items: forceps mathieu, 17; unidentified instrument, mathieu 4; tracheotomy tube, 3.5 cm MAT [_]L 2 9 0; tracheonomy tube, 5 cm; tracheonmy tube, 4.5 cm; tracheonomy tube insert, 4.5 cm; tracheonomy tube, 4 cm; tracheonomy tube, 3cm; unidentified wooden instrument.</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2524237/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524237</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 4:06 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>31057354</dcterms:identifier>
+   <dcterms:title>Rodmarton Manor, exterior|detail view</dcterms:title>
+   <dcterms:creator>Barnsley, Ernest (British architect, 1863-1926) [work]</dcterms:creator>
+   <dcterms:creator>Barnsley, Sidney (British furniture designer, craftsman, 1865-1926) [work]</dcterms:creator>
+   <dcterms:creator>Jewson, Norman (British architect, 1884-1975) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1986</dcterms:created>
+   <dcterms:medium>yellow oolitic limestone (Cotswold stone); slate (roofing) [work]</dcterms:medium>
+   <dcterms:description>Dormer and chimney, main block</dcterms:description>
+   <dcterms:description>… built for the Biddulph family [and] constructed in the early 20th century in an Arts and Crafts style, to a design by Ernest Barnsley. After Ernest's death in 1925, it was completed by Sidney Barnsley, his brother, and then by Norman Jewson, Ernest's son-in-law. [work]</dcterms:description>
+   <dcterms:description>… the central "public" wing was not lived in by the family, instead being used for community teaching and events. Crafts were taught in the building and the vast majority of the furniture was commissioned for the house and built locally. The house was described by the designer Charles Ashbee as the single best example of the Arts and Crafts movement. -- https://en.wikipedia.org/wiki/Rodmarton_Manor [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Arts and Crafts (movement)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Decorative Arts, Utilitarian Objects and Interior Design</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>dormers</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:spatial>Rodmarton, Gloucestershire, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>51.6781, -2.0837</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2021/08/17/15/4b80d242-b27f-4b11-95a0-b8d43460d605_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_31057354</edm:isShownAt>
+</mdRecord>

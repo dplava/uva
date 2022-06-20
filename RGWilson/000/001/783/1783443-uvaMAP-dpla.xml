@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:37 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1783443</dcterms:identifier>
+   <dcterms:title>Old Barracks, detail view</dcterms:title>
+   <dcterms:creator>Davis, Alexander Jackson (American architect and printmaker, 1803-1892) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1986</dcterms:created>
+   <dcterms:description>Jackson Arch (main entrance)</dcterms:description>
+   <dcterms:description>Philip St. George Cocke, member of the Virginia Military Institute Board of Visitors, wished to make the newly established state military academy a great southern polytechnic institute housed in a prominent architectural complex. He was instrumental in having the renowned architect Alexander Jackson Davis commissioned to design the physical plant. From 1848 to 1861 Davis provided six castellated Gothic-style buildings, forming one of the nation's first Gothic Revival campus complexes and a prototype for numerous other military schools. The dominant element of the group is the Barracks, a prodigious, fortresslike structure with corner towers, crenellated parapets, and a galleried inner quadrangle. The building was burned by Union forces in 1864 but was rebuilt to Davis's design in 1867-68. The structure has since been extended, but the east elevation, the main front, preserves much of the original romanticism of Davis's design. -- Loth, Calder (editor). The Virginia landmarks register. Charlottesville: University Press of Virginia, 1999 (4th ed.) [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Cocke, Philip St. George, 1809-1861</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>military academies</dcterms:subject>
+   <dcterms:subject>dormitories (buildings)</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:subject>schools (buildings)</dcterms:subject>
+   <dcterms:subject>battlements</dcterms:subject>
+   <dcterms:subject>pointed arches</dcterms:subject>
+   <dcterms:spatial>309 Letcher Ave, Lexington, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>37.790278, -79.438611</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/08/07/12/8380cca6-e39b-4709-a5d4-811debfd1089_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1783443</edm:isShownAt>
+</mdRecord>

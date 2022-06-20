@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65848</dcterms:identifier>
+   <dcterms:title>Reports of cases argued and adjudged in the Court of King's Bench: in the eleventh and twelfth years of the reign of King George the Second. [1737-1738] / By George Andrews</dcterms:title>
+   <dcterms:creator>Andrews, George Esq</dcterms:creator>
+   <dcterms:creator>Great Britain. Court of Common Pleas.</dcterms:creator>
+   <dcterms:creator>Great Britain. Court of King's Bench.</dcterms:creator>
+   <dcterms:creator>Vernon, G. W. (George William), 1762-1792</dcterms:creator>
+   <dcterms:publisher>Printed for G. G. J. Robinson, Whieldon and Butterworth, W. Clarke and Son</dcterms:publisher>
+   <dcterms:created>1792</dcterms:created>
+   <dcterms:extent>397, xiv, [42] p. 22 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>2d ed.</dcterms:description>
+   <dcterms:description>Paging irregular, following the starred paging of earlier edition inset in the margin of the text.</dcterms:description>
+   <dcterms:description>"In this edition I have added, in an appendix, two cases decided in C. B. Westminster, in the time of Geo. 2. [1741]."--Pref.</dcterms:description>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain.</dcterms:subject>
+   <dcterms:spatial>Great Britain.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2372100/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65848</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 6:41 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1140192</dcterms:identifier>
+   <dcterms:title>Spring-tide = Frühlingszeit = Printemps : song / by Reinhold Becker ; [English translation by R.E.S.]</dcterms:title>
+   <dcterms:title>Frühlingszeit</dcterms:title>
+   <dcterms:title>Printemps</dcterms:title>
+   <dcterms:title>Quand l'air chaud s'élève aux monts altiers</dcterms:title>
+   <dcterms:title>Wenn der Frühling auf die Berge steigt</dcterms:title>
+   <dcterms:title>When the spring-tide o'er the hills is seen</dcterms:title>
+   <dcterms:title>Becker, Reinhold, 1842-1924. Lieder. op. 3. Polyglot. Frühlingszeit. Polyglot</dcterms:title>
+   <dcterms:creator>Becker, Reinhold, 1842-1924</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1883</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:extent>35 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>alto voice, piano</dcterms:description>
+   <dcterms:description>Contralto in F.</dcterms:description>
+   <dcterms:description>For alto and piano.</dcterms:description>
+   <dcterms:description>German, English and French words.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: [Sheet music collection, v.17, no.2]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.147 no.7: In grey boxes on top shelves above books with Library of Congress call numbers.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <dcterms:subject>Spring--Songs and music.</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1140193/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1140192</edm:isShownAt>
+</mdRecord>

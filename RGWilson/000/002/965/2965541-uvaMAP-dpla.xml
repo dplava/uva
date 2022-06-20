@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:43 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2965541</dcterms:identifier>
+   <dcterms:title>Harold C. Bradley House, exterior|detail view</dcterms:title>
+   <dcterms:title>Mrs. Josephine Crane Bradley Residence</dcterms:title>
+   <dcterms:title>Sigma Phi Fraternity House</dcterms:title>
+   <dcterms:creator>Elmslie, George Grant (American architect, 1871-1952) [architect, design and completion]</dcterms:creator>
+   <dcterms:creator>Sullivan, Louis H. (American architect, 1856-1924) [architect, design]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1980</dcterms:created>
+   <dcterms:medium>wood (plant material); brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Sleeping porch</dcterms:description>
+   <dcterms:description>"The Bradleys … met with Sullivan, who prepared two designs for the house. They were displeased with the size of the house proposed… . Sullivan withdrew from the projects by December 1909, and the house was completed by Claude and Starck, Architects of Madison, Wisconsin, with George Grant Elmslie, who had worked for Sullivan as his chief draftsman in Chicago. … In 1917, the house was purchased by the Sigma Phi Fraternity, for use by students at the University of Wisconsin at Madison." — Nickel and Siskind, The Complete architecture of Adler &amp; Sullivan, 2010 ; The Bradley House was "designed by Elmslie with only occasional suggestions from Sullivan. All of the existing ... drawings are from Elmslie’s hand. Many of the design elements involved in [this house] were continued by Elmslie when he joined in partnership with William Gray Purcell in 1909." — Gebhard, Louis Sullivan and George Grant Elmslie, JSAH, vol. 19 no. 2 (May 1960) [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>fraternity houses</dcterms:subject>
+   <dcterms:subject>sleeping porches</dcterms:subject>
+   <dcterms:subject>brackets (structural elements)</dcterms:subject>
+   <dcterms:spatial>106 North Prospect Avenue, Madison, Dane, Wisconsin, United States</dcterms:spatial>
+   <dcterms:spatial>43.069797, -89.421878</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/06/27/17/1c667593-cd8e-4da2-a2c1-cfc25caf70c7_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2965541</edm:isShownAt>
+</mdRecord>

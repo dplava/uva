@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:26 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>183398</dcterms:identifier>
+   <dcterms:title>Church of the Ascension, exterior|general view</dcterms:title>
+   <dcterms:creator>Upjohn, Richard (American architect, 1802-1878) [work]</dcterms:creator>
+   <dcterms:creator>White, Stanford (American architect, 1853-1906) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1978</dcterms:created>
+   <dcterms:medium>brownstone (material) [work]</dcterms:medium>
+   <dcterms:description>Facade and tower from across the street</dcterms:description>
+   <dcterms:description>... built in 1840–41, the first church to be built on Fifth Avenue and was designed by Richard Upjohn in the Gothic Revival style.  The interior was remodeled by Stanford White in 1885–88. -- https://en.wikipedia.org/wiki/Church_of_the_Ascension,_Episcopal_(Manhattan) [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Episcopal</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:subject>pointed arches</dcterms:subject>
+   <dcterms:spatial>36–38 Fifth Avenue and West 10th Street, Greenwich Village, New York, United States</dcterms:spatial>
+   <dcterms:spatial>40.733694, -73.996167</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/01/04/13/b9b52000-2d20-4318-b167-02e4d0b73336_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_183398</edm:isShownAt>
+</mdRecord>

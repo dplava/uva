@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:53 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1126234</dcterms:identifier>
+   <dcterms:title>Far away across the sea: from the opera of La traviata / Verdi</dcterms:title>
+   <dcterms:title>Di Provenza il mar</dcterms:title>
+   <dcterms:title>Far away across the sea</dcterms:title>
+   <dcterms:title>Verdi, Giuseppe, 1813-1901. Traviata. Di Provenza il mar. English &amp; Italian</dcterms:title>
+   <dcterms:creator>Verdi, Giuseppe, 1813-1901</dcterms:creator>
+   <dcterms:publisher>George Willig</dcterms:publisher>
+   <dcterms:created>[1859..1862]</dcterms:created>
+   <dcterms:extent>1 vocal score (7 p.)</dcterms:extent>
+   <dcterms:extent>34 cm. [original]</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>At foot of title page: "Gillingham."</dcterms:description>
+   <dcterms:description>Italian words with parallel English translation.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.8 no.38: Thirty-eighth title in a bound volume of sheet music from the library of Mrs. Judith Blair, with inscription on the front pastedown: "Song books of Judith [?] of N.Y. City, who married Capt. Wm. Barrett Blair of Richmond, Va. in 1846 at West Point, N.Y."</dcterms:description>
+   <dcterms:isPartOf>Beauties from Italian operas ; no. 23</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1126235/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1126234</edm:isShownAt>
+</mdRecord>

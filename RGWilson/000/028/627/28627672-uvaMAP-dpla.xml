@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 4:03 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28627672</dcterms:identifier>
+   <dcterms:title>Castle in the Clouds, exterior|detail view</dcterms:title>
+   <dcterms:title>Lucknow</dcterms:title>
+   <dcterms:creator>Beal, J. Williams (American architect, 1855- 1919) [work]</dcterms:creator>
+   <dcterms:creator>Beal, John Woodbridge (American architect, 1887-1971) [work]</dcterms:creator>
+   <dcterms:creator>Plant, Thomas Gustave (American manufacturer, 1859-1841) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2004</dcterms:created>
+   <dcterms:medium>structural steel; cast-in-place concrete; architectural terracotta; stone (rock) [work]</dcterms:medium>
+   <dcterms:description>Lantern, north porch</dcterms:description>
+   <dcterms:description>Built by millionaire shoe manufacturer Thomas Gustave Plant (1859-1941) for his second wife, Olive Cornelia Dewey. He named the estate Lucknow, perhaps after the city of Lucknow in India. The property comprised the mansion, a stable/garage, gatehouses, a greenhouse, farm buildings, and a golf course and eventually extended to 6,300 acres (25 km2). The interiors were designed by Irving &amp; Casson-A.H. Davenport. Bronze and tile work were by William Jackson &amp; Company; electric fixtures by Edward F. Caldwell &amp; Co.; and glass by Tiffany. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Craftsman (style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>country houses</dcterms:subject>
+   <dcterms:subject>historic house museums</dcterms:subject>
+   <dcterms:subject>lanterns (lighting devices)</dcterms:subject>
+   <dcterms:spatial>455 Old Mountain Road, Moultonboro, Carroll, New Hampshire, United States</dcterms:spatial>
+   <dcterms:spatial>43.728333, -71.321944</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/08/20/18/040ef09a-5540-4abd-beba-d29bafb3e290_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28627672</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:37 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1463477</dcterms:identifier>
+   <dcterms:title>Ironmaster's Mansion, exterior</dcterms:title>
+   <dcterms:title>Big House</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1997-02</dcterms:created>
+   <dcterms:description>Distant view</dcterms:description>
+   <dcterms:description>Hopewell Furnace National Historic Site in southeastern Berks County, near Elverson, Pennsylvania, is an example of an American 19th century rural "iron plantation". The “Big House” served as the home of the ironmaster and his family. Several servants and the company clerk lived here too. Since there were no hotels near Hopewell, travelers and merchants often spent the night here. The Big House at Hopewell had nineteen rooms on four floors. Around the back of the ironmaster’s mansion is the moulder’s kitchen, dining area, and the bake ovens. Hopewell Furnace was founded in 1771 by ironmaster Mark Bird. -- http://www.nps.gov/hofu/forteachers/upload/sgtour.pdf [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>American Colonial</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>historic sites</dcterms:subject>
+   <dcterms:subject>Bird, Mark, 1739-1812</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>ironworks (factories)</dcterms:subject>
+   <dcterms:subject>gable roofs</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:subject>machinery sheds</dcterms:subject>
+   <dcterms:subject>corbie gables</dcterms:subject>
+   <dcterms:spatial>Berks, Pennsylvania, United States</dcterms:spatial>
+   <dcterms:spatial>40.20667, -75.767660</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/04/24/15/8caafb52-983a-4664-94c5-4176ec4af1b3_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1463477</edm:isShownAt>
+</mdRecord>

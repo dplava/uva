@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:49 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8986540</dcterms:identifier>
+   <dcterms:title>Schindler House, exterior</dcterms:title>
+   <dcterms:title>Kings Road House</dcterms:title>
+   <dcterms:title>Schindler Chace House</dcterms:title>
+   <dcterms:creator>Schindler, Rudolph Michael (American architect, 1887-1953) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1988</dcterms:created>
+   <dcterms:medium>concrete; wood (plant material); tilt-up construction [work]</dcterms:medium>
+   <dcterms:description>"The Schindler House was such a departure from existing residential architecture because of what it did not have; there is no conventional living room, dining room or bedrooms in the house. The residence was meant to be a cooperative live/work space for two young families. The concrete walls and sliding glass panels made novel use of industrial materials, while the open floor plan integrated the external environment into the residence, setting a precedent for California architecture in particular." -- "http://en.wikipedia.org/wiki/Schindler_House" [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Modernist</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>historic houses</dcterms:subject>
+   <dcterms:subject>patios</dcterms:subject>
+   <dcterms:subject>walkways</dcterms:subject>
+   <dcterms:spatial>833 North Kings Road, Hollywood, Los Angeles, California, United States</dcterms:spatial>
+   <dcterms:spatial>34.086389, -118.371111</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/03/20/10/7447bdf5-27df-445c-a3b6-79ba93098cf5_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8986540</edm:isShownAt>
+</mdRecord>

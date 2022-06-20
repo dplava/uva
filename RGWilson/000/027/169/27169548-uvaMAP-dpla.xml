@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:58 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>27169548</dcterms:identifier>
+   <dcterms:title>Niagara Hudson Building, interior</dcterms:title>
+   <dcterms:title>Niagara Mohawk Building</dcterms:title>
+   <dcterms:creator>Bley and Lyman (American architectural firm, active 1930s) [consulting architects]</dcterms:creator>
+   <dcterms:creator>King, Melvin L. (American architect, 1868-1946) [architect]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1983</dcterms:created>
+   <dcterms:medium>steel frame construction ; steel (alloy); masonry; Vitrolite ; stainless steel [work]</dcterms:medium>
+   <dcterms:description>Elevator doors, lobby</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Art Deco</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>administration buildings</dcterms:subject>
+   <dcterms:subject>corporate headquarters</dcterms:subject>
+   <dcterms:subject>public utilities</dcterms:subject>
+   <dcterms:subject>elevators</dcterms:subject>
+   <dcterms:spatial>300 Erie Boulevard West, Syracuse, Onondaga, New York, United States</dcterms:spatial>
+   <dcterms:spatial>43.051189, -76.156181</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/11/25/20/b8319722-892a-45f8-9bcc-f928337ada3d_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_27169548</edm:isShownAt>
+</mdRecord>

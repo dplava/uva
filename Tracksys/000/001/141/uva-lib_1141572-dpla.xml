@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 6:47 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1141572</dcterms:identifier>
+   <dcterms:title>The beautiful ballad, Say "Au revoir" but not "Good-bye": a song for the parlor - for the concert - or the minstrel / words and music by Harry Kennedy</dcterms:title>
+   <dcterms:title>Say "au revoir" but not "good-bye"</dcterms:title>
+   <dcterms:title>Kennedy, Harry, -1894. Say "Au revoir" but not "Good-bye"</dcterms:title>
+   <dcterms:creator>Kennedy, Harry, -1894</dcterms:creator>
+   <dcterms:publisher>Kennedy Publishing House</dcterms:publisher>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>At head of title: "150,000 already sold in the United States, May 25, 1895."</dcterms:description>
+   <dcterms:description>Illustration: Portrait of Harry Kennedy, with signature below.</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: Just published: the following songs by the late Harry Kennedy.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Kennedy, Harry, -1894, Portraits</dcterms:subject>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1141573/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1141572</edm:isShownAt>
+</mdRecord>

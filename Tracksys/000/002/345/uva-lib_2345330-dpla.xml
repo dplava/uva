@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 10:05 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2345330</dcterms:identifier>
+   <dcterms:title>Relacion historica del viage a la America Meridional hecho de orden de S. Mag. para medir algunos grados de meridiano terrestre, y venir por ellos en conocimiento de la verdadera figura, y magnitud de la tierra, con otras varias observaciones astronomicas, y phisicas / por Don Jorge Juan .. y Don Antonio de Ulloa .. Impressa de orden del rey nuestro Senõr</dcterms:title>
+   <dcterms:creator>Juan, Jorge, 1713-1773</dcterms:creator>
+   <dcterms:creator>Ulloa, Antonio de, 1716-1795</dcterms:creator>
+   <dcterms:creator>Vega, Garcilaso de la, 1539-1616</dcterms:creator>
+   <dcterms:publisher>Aporntonio Marin</dcterms:publisher>
+   <dcterms:created>1748</dcterms:created>
+   <dcterms:extent>4 v. in 2 pt. fronts., illus., 20 fold. pl. incl. ports. 14 fold. maps and plans. 31 cm.</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:medium>plans</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>Spanish</dcterms:language>
+   <dcterms:description>1st pt.: tomo 1 &amp; 2, 2d pt.: tomo 3 &amp; 4.</dcterms:description>
+   <dcterms:description>Title in red and black; title vignette (the royal arms in an allegorical design) head pieces.</dcterms:description>
+   <dcterms:description>Written by Antonio de Ulloa. cf. Prologo. The account of the scientific work of the expedition, written by Jorge Juan y Santacilia, was published separately, Madrid, 1748, under title: Observaciones astronomicas, y phisicas hechas ... en los reynos del Perù.</dcterms:description>
+   <dcterms:description>"Resumen historico del origen, y succession de los Incas, y demas soberanos del Perú ... [por Garcilaso de la Vega]": cxcv p. at end of v. 4.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Gift of B. Tayloe.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:subject>Scientific expeditions</dcterms:subject>
+   <dcterms:subject>Arc measures</dcterms:subject>
+   <dcterms:subject>South America--Description and travel.</dcterms:subject>
+   <dcterms:subject>South America--Social life and customs.</dcterms:subject>
+   <dcterms:subject>Spain--Colonies--South America.</dcterms:subject>
+   <dcterms:subject>Earth (Planet)--Figure</dcterms:subject>
+   <dcterms:spatial>Chile</dcterms:spatial>
+   <dcterms:spatial>Colombia</dcterms:spatial>
+   <dcterms:spatial>Earth (Planet)</dcterms:spatial>
+   <dcterms:spatial>Peru</dcterms:spatial>
+   <dcterms:spatial>South America</dcterms:spatial>
+   <dcterms:spatial>Spain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2396777/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2345330</edm:isShownAt>
+</mdRecord>

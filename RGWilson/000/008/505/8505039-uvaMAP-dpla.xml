@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:48 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8505039</dcterms:identifier>
+   <dcterms:title>Edward R. Hills House, exterior|general view</dcterms:title>
+   <dcterms:title>Hills-DeCaro House</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Wright, Frank Lloyd (American architect, 1867-1959) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1975</dcterms:created>
+   <dcterms:description>Principal façade from street</dcterms:description>
+   <dcterms:description>"...also known as the Hills-DeCaro House, is a residence located at 313 Forest Avenue in the Chicago suburb of Oak Park, Illinois. It is most notable for a 1906 remodel by architect Frank Lloyd Wright in his signature Prairie style. The Hills-DeCaro House represents the melding of two distinct phases in Wright's career; it contains many elements of both the Prairie style and the designs with which Wright experimented throughout the 1890s. The house is listed as a contributing property to a federal historic district on the U.S. National Register of Historic Places and is a local Oak Park Landmark. Since construction, the home has undergone many changes. During the 1906 remodel, the original late 19th century Stick style structure was moved and essentially completely rebuilt. Alterations carried out between 1912 and 1965 obscured some of Wright's intended design. In 1976, a major fire destroyed or damaged much of the house. The house was immediately reconstructed and partially restored. This was furthered by another partial restoration by the current home owners. As a result of the remodels, the house today bears the work of at least four different architects. The house remains a private residence, but it is occasionally opened for special tours." -- http://en.wikipedia.org/wiki/Edward_R._Hills_House [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>renovation</dcterms:subject>
+   <dcterms:subject>hip roofs</dcterms:subject>
+   <dcterms:subject>banding</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:spatial>313 Forest Avenue, Oak Park, Cook, Illinois, United States</dcterms:spatial>
+   <dcterms:spatial>41.892417, -87.800639</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/02/11/13/de44957c-ca96-4ea3-826e-c12b4190a700_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8505039</edm:isShownAt>
+</mdRecord>

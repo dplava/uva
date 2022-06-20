@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 2:44 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:743709</dcterms:identifier>
+   <dcterms:title>Georgia, Midland &amp; Gulf Ry / Rand, McNally &amp; Co., Engr's, Chicago</dcterms:title>
+   <dcterms:title>Georgia, Midland and Gulf Railway</dcterms:title>
+   <dcterms:creator>Georgia, Midland and Gulf Railroad Company.</dcterms:creator>
+   <dcterms:creator>Rand McNally and Company.</dcterms:creator>
+   <dcterms:publisher>Rand, Mcnally &amp; Co., Map Publishers</dcterms:publisher>
+   <dcterms:created>1887</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>49 x 34 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>Indicates major railroad connections through Georgia.</dcterms:description>
+   <dcterms:description>"Copyright, 1887, by Rand, McNally &amp; Co., Map Publishers."</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,200,000] ;</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Georgia, Midland and Gulf Railroad Company--Maps.</dcterms:subject>
+   <dcterms:subject>Railroads--Georgia--Maps.</dcterms:subject>
+   <dcterms:subject>Georgia--Maps.</dcterms:subject>
+   <dcterms:spatial>Georgia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096371/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:743709</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:27 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>212030</dcterms:identifier>
+   <dcterms:title>The Falls Church, interior</dcterms:title>
+   <dcterms:title>Falls Church</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Wren, James (1728-1815) (American builder) [architect]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1997</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>General view showing pews and altar</dcterms:description>
+   <dcterms:description>The Fairfax militia recruited from the church during the Revolutionary War… During the American Civil War the church was used by Union troops as a hospital and later as a stable. …The church was remodeled in 1908 and extensively renovated in 1959. Galleries in Wren's original design but never constructed were installed, and a new chancel was added. Other than repairs of war damage and the chancel addition, the structure reflects the original 1769 construction. -- https://en.wikipedia.org/wiki/The_Falls_Church [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Georgian (British Renaissance-Baroque style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Episcopal</dcterms:subject>
+   <dcterms:subject>box pews</dcterms:subject>
+   <dcterms:subject>Palladian windows</dcterms:subject>
+   <dcterms:subject>galleries (upper level spaces)</dcterms:subject>
+   <dcterms:subject>balustrades</dcterms:subject>
+   <dcterms:spatial>115 E Fairfax St, Falls Church, VA 22046, USA, 115 E Fairfax St, Falls Church, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.8808008, -77.17098299999998</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/10/05/12/11362865-1182-4c6e-aee5-682c9dbe75ef_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_212030</edm:isShownAt>
+</mdRecord>

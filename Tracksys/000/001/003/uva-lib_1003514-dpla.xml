@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003514</dcterms:identifier>
+   <dcterms:title>Map of Powhatan County, Va / made by order of the County Court, by J.E. La Prade. Surveyor, 1880</dcterms:title>
+   <dcterms:creator>American Photo-Lithographic Company.</dcterms:creator>
+   <dcterms:creator>Laprade, J. E.</dcterms:creator>
+   <dcterms:creator>Powhatan County (Va.). County Court.</dcterms:creator>
+   <dcterms:publisher>Powhatan County Court</dcterms:publisher>
+   <dcterms:created>1880</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>57 x 77 cm. on sheet 62 x 82 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>Shows magisterial districts.</dcterms:description>
+   <dcterms:description>Explanatory table for roads, railroads, houses, mills, creeks or branches, churches and post offices.</dcterms:description>
+   <dcterms:description>Also gives names of individual landowners.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Gift of Joseph W. Hazelgrove, 1933.</dcterms:description>
+   <dcterms:description>Scale 1:63,360; 1 mile to the inch.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Judicial districts--Virginia--Powhatan County--Maps.</dcterms:subject>
+   <dcterms:subject>Landowners--Virginia--Powhatan County--Maps.</dcterms:subject>
+   <dcterms:subject>Powhatan County (Va.)--Maps.</dcterms:subject>
+   <dcterms:spatial>Powhatan County</dcterms:spatial>
+   <dcterms:spatial>Powhatan County (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:901678/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003514</edm:isShownAt>
+</mdRecord>

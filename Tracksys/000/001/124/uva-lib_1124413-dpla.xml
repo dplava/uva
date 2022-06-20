@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:45 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1124413</dcterms:identifier>
+   <dcterms:title>Long weary day, or, The peasant maiden's lament = Des Mädchens Klage : with English and German words, ballad / arranged by C.G. Weber ; [translated from the German by Charlie Hine]</dcterms:title>
+   <dcterms:title>Den lieben langen Tag</dcterms:title>
+   <dcterms:title>Mädchens Klage</dcterms:title>
+   <dcterms:title>Peasant maiden's lament</dcterms:title>
+   <dcterms:title>The weary day to me</dcterms:title>
+   <dcterms:title>Silcher, Friedrich, 1789-1860. Lieben langen Tag; arr. English &amp; German</dcterms:title>
+   <dcterms:creator>Hine, Charlie</dcterms:creator>
+   <dcterms:creator>Silcher, Friedrich, 1789-1860</dcterms:creator>
+   <dcterms:creator>Weber, C. G. (Carl Gottwalt), 1815-1879</dcterms:creator>
+   <dcterms:publisher>Balmer &amp; Weber</dcterms:publisher>
+   <dcterms:created>1851</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Music by Friedrich Silcher.</dcterms:description>
+   <dcterms:description>German words with English translation.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy imperfect; lacking p. 3-4.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Grief--Songs and music.</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1124414/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124413</edm:isShownAt>
+</mdRecord>

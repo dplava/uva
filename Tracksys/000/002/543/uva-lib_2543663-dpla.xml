@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 10:51 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2543663</dcterms:identifier>
+   <dcterms:title>Binoculars</dcterms:title>
+   <dcterms:creator>Colmont [manufacturer]</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1900~/1919~</dcterms:created>
+   <dcterms:extent>16 x 14.5 x 8.3 cm [original]</dcterms:extent>
+   <dcterms:medium>leather; metal; glass (material) [original]</dcterms:medium>
+   <dcterms:description>Black binoculars with leather case. Inside of case reads: "Marque de Fabrique, Colmont Fab! Paris, 37 &amp; 39 Avenue de la Republique, Paris." Back of case reads, "P.E. Duggins, Medical Corps USA." Property of Percy Elisha Duggins (1890-1965), a 1913 graduate of the UVA School of Medicine</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:description>Owned by Percy Elisha Duggins. [original]</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:subject>Binoculars</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2543663/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2543663</edm:isShownAt>
+</mdRecord>

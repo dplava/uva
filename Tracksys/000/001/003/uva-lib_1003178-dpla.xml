@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:51 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1003178</dcterms:identifier>
+   <dcterms:title>Le second volume des oeuures d'Amadis Iamin</dcterms:title>
+   <dcterms:title>Oeuures d'Amadis Iamin</dcterms:title>
+   <dcterms:title>Oeuvres d'Amadis Iamin</dcterms:title>
+   <dcterms:title>Oeuvres poetiques d'Amadis Iamyn</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Duru, Hippolyte, -1884</dcterms:creator>
+   <dcterms:creator>Jamyn, Amadis, -1592 or 1593</dcterms:creator>
+   <dcterms:creator>Le Mangnier, Robert, active 1557-1584</dcterms:creator>
+   <dcterms:publisher>Pour Robert le Mangnier ...</dcterms:publisher>
+   <dcterms:created>1584</dcterms:created>
+   <dcterms:extent>[3], 182 (i.e. 176), [4] leaves. 14 cm. (12mo)</dcterms:extent>
+   <dcterms:extent>14 cm. (12mo) [original]</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: ã⁴ a-p¹² (leaf ã4 is blank)</dcterms:description>
+   <dcterms:description>Errors in foliation: nos. 61-72 omitted; nos. 79-84 repeated.</dcterms:description>
+   <dcterms:description>Special title page (leaf [129]) for: Discours de la philosophie a Passicharis et a Rodanthe. -- A Paris : Pour Felix le Mangnier ..., 1584.</dcterms:description>
+   <dcterms:description>Brunet, t. 3, col. 498 describes a Second volume, with imprint: Paris : Felix Le Mangnier, 1584.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Duru, 1859. In uniform binding with: Oeuures poetiques d'Amadis Iamyn. -- A Paris, 1579. Bookplate of Lucien Double. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 402, v.2.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:926643/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003178</edm:isShownAt>
+</mdRecord>

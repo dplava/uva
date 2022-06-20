@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:53 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003374</dcterms:identifier>
+   <dcterms:title>Map of the Ohio extension of the Norfolk and Western Railroad: showing the location of the coal and timber lands of the Flat-Top Coal Land Association and of the Guyandot Coal Land Association in Virginia and West Virginia, February 1892</dcterms:title>
+   <dcterms:title>Flat-Top &amp; Guyandot</dcterms:title>
+   <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+   <dcterms:publisher>Jed. Hotchkiss?</dcterms:publisher>
+   <dcterms:created>1892</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>34 x 97 cm. on sheet 42 x 104 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Attributed to office of Jed Hotchkiss.</dcterms:description>
+   <dcterms:description>"No. 3."--Upper left margin.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Hotchkiss C; not in Swem, E.G. Maps relating to Virginia or in Phillips, P.L. Maps of America; handwritten on map verso: Flat-Top &amp; Guyandot</dcterms:description>
+   <dcterms:description>Scale: [ca. 1:201,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Hotchkiss, Jedediah, 1828-1899--Library--Personal copy.</dcterms:subject>
+   <dcterms:subject>Flat-Top Coal Land Association--Maps.</dcterms:subject>
+   <dcterms:subject>Guyandot Coal Land Association--Maps.</dcterms:subject>
+   <dcterms:subject>Norfolk and Western Railroad--Maps.</dcterms:subject>
+   <dcterms:subject>Coalfields--West Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Coalfields--Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Railroads--West Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Railroads--Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Real property--West Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Real property--Virginia--Maps.</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>West Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:891460/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003374</edm:isShownAt>
+</mdRecord>

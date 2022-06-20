@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:19 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1090301</dcterms:identifier>
+   <dcterms:title>Les oeures Maistre Francoys Villon: Le Monologue du franc Archier de Baignollet. Le Dyalogue des seigneurs de Malle paye &amp; Bailleuent</dcterms:title>
+   <dcterms:title>Villon, François, 1431-1463. Works. 1533</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Janot, Denis, -1544</dcterms:creator>
+   <dcterms:creator>Lotrian, Alain</dcterms:creator>
+   <dcterms:creator>Mercier, Emile, 1855-1910</dcterms:creator>
+   <dcterms:creator>Trepperel, Jean, active 1491-1511</dcterms:creator>
+   <dcterms:creator>Villon, François, 1431-1463</dcterms:creator>
+   <dcterms:publisher>On les vent a Paris a la rue neufue nostre dame a lenseigne de Lescu de France</dcterms:publisher>
+   <dcterms:created>1533</dcterms:created>
+   <dcterms:extent>[272] p.</dcterms:extent>
+   <dcterms:extent>12 cm. [original]</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: A-R⁸.</dcterms:description>
+   <dcterms:description>Printed by Alain Lotrian and D. Janot, according to Brunet; by Jean Trepperel, according to the Hoe Catalogue.</dcterms:description>
+   <dcterms:description>Colophon: Fin des oeures &amp; repues de feu Maistre Fra[n]coys Villon nouuellement imprimees a Paris. M.D.XXXIII.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Mercier. Bookplate of Robert Hoe. Inscription on t.p. dated Jan. 24, 1704. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 374.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>French poetry--To 1500.</dcterms:subject>
+   <dcterms:temporal>To 1500.</dcterms:temporal>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1103306/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1090301</edm:isShownAt>
+</mdRecord>

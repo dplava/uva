@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:35 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1085061</dcterms:identifier>
+   <dcterms:title>Brooklyn Trust Company, general view</dcterms:title>
+   <dcterms:title>Chase Bank</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>York and Sawyer (American architectural partnership, active 1904-1928) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1973</dcterms:created>
+   <dcterms:description>Brooklyn Trust Building</dcterms:description>
+   <dcterms:description>The Brooklyn Trust Company building, designed by the prominent firm of York &amp; Sawyer, a talented, prolific, and versatile team, was constructed in 1913-16 in a style modeled after the palazzi of the sixteenth-century Italian High Renaissance. -- http://www.flickr.com/photos/emilio_guerra/5171679113/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Renaissance Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Brooklyn Trust Company Building (New York, N.Y.)</dcterms:subject>
+   <dcterms:subject>Chase Manhattan Bank, N.A.</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:subject>medallions (ornament areas)</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>eagles</dcterms:subject>
+   <dcterms:subject>grilles (barrier elements)</dcterms:subject>
+   <dcterms:subject>cornices</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:spatial>177 Montague Street, Brooklyn, New York, United States</dcterms:spatial>
+   <dcterms:spatial>40.694167, -73.9925</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/12/06/15/805e9328-baa4-4f74-b8fb-b27fb52688dc_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1085061</edm:isShownAt>
+</mdRecord>

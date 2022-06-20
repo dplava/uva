@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:56 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1130375</dcterms:identifier>
+   <dcterms:title>Air du Roi Louis XIII: Amaryllis : op. 261 / [arranged] for the guitar by W.L. Hayden</dcterms:title>
+   <dcterms:title>Amaryllis</dcterms:title>
+   <dcterms:title>Beaujoyeulx, Baltasar de, -approximately 1587. Ballet comique de la royne. Clochette; arr.</dcterms:title>
+   <dcterms:creator>Beaujoyeulx, Baltasar de, -approximately 1587</dcterms:creator>
+   <dcterms:creator>Hayden, W. L. (Winslow L.)</dcterms:creator>
+   <dcterms:creator>Louis XIII, King of France, 1601-1643</dcterms:creator>
+   <dcterms:publisher>Oliver Ditson &amp; Co.</dcterms:publisher>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>5 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>guitar</dcterms:description>
+   <dcterms:description>For guitar solo.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Erroneously attributed to Louis XIII under the title of Amaryllis, but really by Baltasar de Beaujoyeulx. Cf. Elson. Folk songs of many nations. p. 142.</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: "The history of thirteen valuable, or invaluable, music-books!"</dcterms:description>
+   <dcterms:isPartOf>Gems of the season / arranged for the guitar by W.L. Hayden</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Guitar music, Arranged</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1130376/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1130375</edm:isShownAt>
+</mdRecord>

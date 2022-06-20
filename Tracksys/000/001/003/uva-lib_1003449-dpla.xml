@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:54 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003449</dcterms:identifier>
+   <dcterms:title>Preliminary chart of Rappahannock River Virginia from entrance to Deep Creek / from a trigonometrical survey under the direction of A.D. Bache superintendent of the Survey of the Coast of the United States ; triangulation by E. Blunt, Capt. W.R. Palmer Topl. Engrs. and J. Farley Assts. ; topography by J. Seib &amp; I. Hull Adams Assts. ; hydrography by the parties under the command of Lieuts. Comdg. S.P. Lee, J.J. Almy &amp; R. Wainwright U.S.N. Assts</dcterms:title>
+   <dcterms:creator>Adams, I. Hull.</dcterms:creator>
+   <dcterms:creator>Almy, John Jay, 1815-1895</dcterms:creator>
+   <dcterms:creator>Blunt, Edmund, 1799-1866</dcterms:creator>
+   <dcterms:creator>Farley, John, 1802 or 1803-1874</dcterms:creator>
+   <dcterms:creator>Lee, S. P.</dcterms:creator>
+   <dcterms:creator>Lindenkohl, A.</dcterms:creator>
+   <dcterms:creator>Maedel, E. A.</dcterms:creator>
+   <dcterms:creator>Palmer, W. R. (William R.), -1862</dcterms:creator>
+   <dcterms:creator>Seib, John.</dcterms:creator>
+   <dcterms:creator>Sipe, E. H.</dcterms:creator>
+   <dcterms:creator>Smith, M. L. (Martin Luther), 1819-1866</dcterms:creator>
+   <dcterms:creator>United States Coast Survey.</dcterms:creator>
+   <dcterms:creator>Wainwright, Richard, 1817-1862</dcterms:creator>
+   <dcterms:publisher>United States Coast Survey</dcterms:publisher>
+   <dcterms:created>1857</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>73 x 42 cm. on sheet 76 x 46 cm. [original]</dcterms:extent>
+   <dcterms:medium>bathymetry/soundings</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"No. 20" printed in upper left margin.</dcterms:description>
+   <dcterms:description>Oriented with north to upper right .</dcterms:description>
+   <dcterms:description>Depths shown by soundings.</dcterms:description>
+   <dcterms:description>Engd. by E. A. Maedel &amp; App. F. H. Sipe.</dcterms:description>
+   <dcterms:description>Redd. drng. by A. Lindenkohl.</dcterms:description>
+   <dcterms:description>Verified M.L. Smith Capt. Topl. Engrs. Asst. in charge of office.</dcterms:description>
+   <dcterms:description>Includes sailing directions and additional notes on soundings, etc.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Imperfect, with part of the left margin removed at center of sheet. Lindn-backed.</dcterms:description>
+   <dcterms:description>Scale 1:60,000</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Nautical charts--Virginia--Rappahannock River--Maps.</dcterms:subject>
+   <dcterms:subject>Rappahannock River (Va.)--Maps.</dcterms:subject>
+   <dcterms:spatial>Rappahannock River</dcterms:spatial>
+   <dcterms:spatial>Rappahannock River (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Washington, District of Columbia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:894174/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003449</edm:isShownAt>
+</mdRecord>

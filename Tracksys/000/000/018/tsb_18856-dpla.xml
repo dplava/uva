@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 7:20 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18856</dcterms:identifier>
+   <dcterms:title>State of California, Mariposa County: Received of [B.V. Fox] the sum of [48] dollar and [00] cents, it beiny [sic] the full amount of his State and County tax for the present year, this the [8] of [Nov.] A.D., 1853[5] J. Boling Sherff [sic] / by S. Sterling Deputy] J. Boling, Sheriff</dcterms:title>
+   <dcterms:creator>Boling, J.</dcterms:creator>
+   <dcterms:creator>Fox, B. V.</dcterms:creator>
+   <dcterms:creator>Mariposa County (Calif.). Sheriff.</dcterms:creator>
+   <dcterms:creator>Sterling, S.</dcterms:creator>
+   <dcterms:created>1853</dcterms:created>
+   <dcterms:extent>1 broadside. 9 x 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>SPECIAL COLLECTIONS: Bracketed information is handwritten.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1518167/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18856</edm:isShownAt>
+</mdRecord>

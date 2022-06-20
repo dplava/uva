@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 7:38 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2144926</dcterms:identifier>
+   <dcterms:title>The Committee appointed to report what further provisions are necessary for the more general promulgation of the laws, report: .. [December 23, 1794</dcterms:title>
+   <dcterms:creator>Moore, Andrew, 1752-1821</dcterms:creator>
+   <dcterms:creator>United States. Congress. House. Committee Appointed to Report What Further Provisions are Necessary for the More General Promulgation of the Laws.</dcterms:creator>
+   <dcterms:created>1794</dcterms:created>
+   <dcterms:extent>1 broadside. 32x20cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Dated in ms. "made 1st. December, 1794."</dcterms:description>
+   <dcterms:description>Cf. Greely p. 167. Reported by Andrew Moore.</dcterms:description>
+   <dcterms:isPartOf>[United States. 3d Congress, 2d sess., 1794-1795. House. Report 114]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Printing, Public--United States.</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2174434/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2144926</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 2:46 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:768802</dcterms:identifier>
+   <dcterms:title>Florida index map: United States intra-coastal waterways, Trans-Florida Canal Division : Withlacoochee - Oklawaha - St. Johns Rivers route / War Department, United States Engineer Office, Jacksonville, Florida District ; from surveys 1909-10-11 ; prepared under the direction of Captain Geo. R. Spalding, Corps of Engineers, U.S. Army</dcterms:title>
+   <dcterms:creator>Spalding, George R.</dcterms:creator>
+   <dcterms:creator>United States. Army. Corps of Engineers. Jacksonville District.</dcterms:creator>
+   <dcterms:creator>United States. War Department</dcterms:creator>
+   <dcterms:publisher>U.S. Govt. Printing Office</dcterms:publisher>
+   <dcterms:created>1913</dcterms:created>
+   <dcterms:extent>1 map on 3 sheets</dcterms:extent>
+   <dcterms:extent>each image 47 x 72 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Detached from: United States. Army. Corps of Engineers. Intracoastal waterway, across Florida section. Washington D.C., 1913. (House Doc. 233, 63rd Congress 1st session). The maps submitted with the document are described on p. 38 as 1 title sheet, 3 index sheets and 38 local map sheets. The local map sheets were not printed.</dcterms:description>
+   <dcterms:description>Scale 1:200,000.</dcterms:description>
+   <dcterms:isPartOf>House document (United States. Congress. House) 63rd Congress, no. 233</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Intracoastal waterways--Florida--Maps.</dcterms:subject>
+   <dcterms:subject>Canals--Florida--Maps.</dcterms:subject>
+   <dcterms:subject>Florida--Maps.</dcterms:subject>
+   <dcterms:spatial>Florida</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:793800/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:768802</edm:isShownAt>
+</mdRecord>

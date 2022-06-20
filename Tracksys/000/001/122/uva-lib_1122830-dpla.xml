@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:38 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1122830</dcterms:identifier>
+   <dcterms:title>Sonatine, op. 55, no. 6 / [Kuhlau]</dcterms:title>
+   <dcterms:title>Kuhlau, Friedrich, 1786-1832. Sonatinas, piano. op. 55. No. 6</dcterms:title>
+   <dcterms:creator>Kuhlau, Friedrich, 1786-1832</dcterms:creator>
+   <dcterms:publisher>Richard A. Saalfield</dcterms:publisher>
+   <dcterms:created>[1890..1899]</dcterms:created>
+   <dcterms:extent>[5] p. of music.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>On series title page, work is listed as "1395."</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: The Saalfield series : standard and popular music books.</dcterms:description>
+   <dcterms:isPartOf>Kuhlau's sonatines ; 9</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Sonatas (Piano)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1122831/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1122830</edm:isShownAt>
+</mdRecord>

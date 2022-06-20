@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 2:46 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>14842267</dcterms:identifier>
+   <dcterms:title>Portrait photograph of Murray Howard, Architect for Historic Buildings and Grounds, in front of the south portico of the Rotunda</dcterms:title>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1986-08</dcterms:created>
+   <dcterms:description>James Murray Howard (1948-2008) was the Architect for Historic Buildings and Grounds at the University of Virginia from 1982 to 2002. He supervised a comprehensive restoration program for the Academical Village, overseeing numerous restoration projects over the course of his career. This image collection is his personal archive of his researches into the history of the creation of Jefferson’s buildings, of techniques and processes used in their construction, decoration and restoration, and of his teaching career directing what he called “a practical working laboratory for University students.” [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Photographs</dcterms:subject>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>portraits</dcterms:subject>
+   <dcterms:subject>Howard, James Murray (American architect and university professor, 1947-2007)</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <edm:preview>https://stor.artstor.org/iiif/2021/04/22/14/a137cc5d-ca89-4dc8-a62c-841b225f421d_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_14842267</edm:isShownAt>
+</mdRecord>

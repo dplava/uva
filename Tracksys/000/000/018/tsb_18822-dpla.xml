@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 7:18 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18822</dcterms:identifier>
+   <dcterms:title>Obituary: Died, at his residence in Washington County, Va., on the third day of May, 1851, after a long and painful illness, Beatie Ryburn, Esq., at the advanced age of sixty-two</dcterms:title>
+   <dcterms:title>Died, at his residence in Washington County, Va</dcterms:title>
+   <dcterms:creator>E.</dcterms:creator>
+   <dcterms:publisher>Printed at the Virginian Office</dcterms:publisher>
+   <dcterms:created>1851</dcterms:created>
+   <dcterms:extent>1 broadside</dcterms:extent>
+   <dcterms:extent>25 x 19 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Text within ornamental border.</dcterms:description>
+   <dcterms:description>Signed, in print, at end: E.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Coles Fund.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Ryburn, Beatie</dcterms:subject>
+   <dcterms:spatial>Abingdon (Va.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1517633/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18822</edm:isShownAt>
+</mdRecord>

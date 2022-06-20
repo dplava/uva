@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 4:00 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>27602138</dcterms:identifier>
+   <dcterms:title>Golden Rondelle Theater, exterior|general view</dcterms:title>
+   <dcterms:creator>Taliesin Associated Architects (American architectural firm, contemporary) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1977</dcterms:created>
+   <dcterms:description>The Golden Rondelle Theater is a historic theater currently located in the administration complex of S. C. Johnson &amp; Son in Racine, Wisconsin. Featuring a radical design, the theater was originally part of the 1964-65 World's Fair before being moved to Racine. After the fair, the theater was dismantled, shipped to Racine, and used as the basis of a re-designed theater. -- https://en.wikipedia.org/wiki/Golden_Rondelle_Theater [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>performing arts buildings</dcterms:subject>
+   <dcterms:subject>New York World's Fair (1964-1965 : New York, N.Y.)</dcterms:subject>
+   <dcterms:subject>S.C. Johnson &amp; Son</dcterms:subject>
+   <dcterms:spatial>1525 Howe Street, Racine, Wisconsin, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/02/19/18/3b41ec84-05f1-4ce1-b091-bf96a3abeb26_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_27602138</edm:isShownAt>
+</mdRecord>

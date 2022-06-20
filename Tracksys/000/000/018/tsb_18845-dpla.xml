@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 7:19 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18845</dcterms:identifier>
+   <dcterms:title>Parthenon Society: you are respectfully invited to attend the valedictory oration of the Parthenon Society of the University of Virginia, to be delivered by Mr. Charles E. Fenner of New Orleans, La., in the chapel, on Friday, the 25th instant, at 8 o'clock P.M.</dcterms:title>
+   <dcterms:creator>University of Virginia. Parthenon Society.</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1852</dcterms:created>
+   <dcterms:extent>1 sheet ([4] p.)</dcterms:extent>
+   <dcterms:extent>14 x 19 cm. folded to 14 x 9 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Text within embossed ornamental border.</dcterms:description>
+   <dcterms:description>P. [2]-[4] blank.</dcterms:description>
+   <dcterms:description>"University of Va., June 3, 1852"</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: From the Papers of the Blackford Family, MSS 5927; in envelope addressed to Lancelot M. Blackford, Lynchburg.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia. Parthenon Society.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1518262/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18845</edm:isShownAt>
+</mdRecord>

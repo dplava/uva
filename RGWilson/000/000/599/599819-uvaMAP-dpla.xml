@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>599819</dcterms:identifier>
+   <dcterms:title>Holkham Hall, general view</dcterms:title>
+   <dcterms:creator>Boyle, Richard, 3rd Earl of Burlington (English patron, collector, architect, 1694-1753) [work]</dcterms:creator>
+   <dcterms:creator>Kent, William (English architect, landscape gardener, and painter, 1684 or 1685-1748) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2003</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>North view</dcterms:description>
+   <dcterms:description>Holkham Hall is an eighteenth-century country house located adjacent to the village of Holkham, on the north coast of the English county of Norfolk. http://en.wikipedia.org/wiki/Holkham_Hall [work]</dcterms:description>
+   <dcterms:description>English</dcterms:description>
+   <dcterms:description>Palladian</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>roads</dcterms:subject>
+   <dcterms:subject>grasses (plants)</dcterms:subject>
+   <dcterms:subject>lakes (bodies of water)</dcterms:subject>
+   <dcterms:spatial>Wells-next-the-Sea, Holkham, Norfolk, England, United Kingdom</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/07/05/14/30b7bbc0-1679-4ca1-bbd5-3e4c21e3752e_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_599819</edm:isShownAt>
+</mdRecord>

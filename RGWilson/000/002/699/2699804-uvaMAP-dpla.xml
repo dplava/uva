@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:42 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2699804</dcterms:identifier>
+   <dcterms:title>Dock, general view</dcterms:title>
+   <dcterms:creator>Durant, William West (American architect, 1850-1934) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1989-08</dcterms:created>
+   <dcterms:description>From lake</dcterms:description>
+   <dcterms:description>Camp Pine Knot was the first of the "Adirondack Great Camps" and epitomizes the "Great Camp" architectural style. Elements of the style include log and native stonework construction, decorative rustic items of branches and twigs, and the layout of the site is a compound of separated structures. The camp consists of some two dozen buildings, including a seven-room "Swiss Cottage", four "Log Cottages" with one to three rooms, two frame cottages of three and five rooms, a "Glass Dining Room", and a five-stall horse barn and wagon shed. Covered walkways connect many of the buildings. There was also the Barque, a 20 by 60 foot four-room bark cabin built on a log raft, used to escape from the dreaded black fly in the spring; it was fully equipped, with a kitchen, bath, and running water. [work]</dcterms:description>
+   <dcterms:description>Pine Knot was started by Durant's father, railroad developer Thomas C. Durant, as a showplace to draw investors to Durant's holdings, but it was William West Durant that would develop it into the model for Adirondack Great Camps to follow. In 1895 West sold the camp to wealthy industrialist Collis P. Huntington. [work]</dcterms:description>
+   <dcterms:description>The camp went unused from the start of the 20th century until 1947, when it was sold to the State University of New York at Cortland for 1 dollar, for use as their Outdoor Education center. Due to the soundness of its construction, despite its long disuse, the buildings required little repair. [work]</dcterms:description>
+   <dcterms:description>The camp was included in a multiple property submission for listing on the National Register of Historic Places in 1986 and was in fact listed in 1986, and was declared a National Historic Landmark in 2004. -- http://en.wikipedia.org/wiki/Camp_Pine_Knot [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Stick Style</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>camps (recreation areas)</dcterms:subject>
+   <dcterms:subject>lodges (public accommodations)</dcterms:subject>
+   <dcterms:subject>vacation houses</dcterms:subject>
+   <dcterms:subject>summer resorts</dcterms:subject>
+   <dcterms:subject>recreation areas</dcterms:subject>
+   <dcterms:subject>cottages</dcterms:subject>
+   <dcterms:subject>chalets</dcterms:subject>
+   <dcterms:subject>State University College at Cortland</dcterms:subject>
+   <dcterms:subject>lakes (bodies of water)</dcterms:subject>
+   <dcterms:subject>natural landscapes</dcterms:subject>
+   <dcterms:subject>benches (furniture)</dcterms:subject>
+   <dcterms:subject>docks</dcterms:subject>
+   <dcterms:spatial>Raquette Lake, Hamilton, New York, United States</dcterms:spatial>
+   <dcterms:spatial>43.784852, -74.639568</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/04/09/10/e74eb867-45dd-4e03-9ad2-f8787205f6cd_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2699804</edm:isShownAt>
+</mdRecord>

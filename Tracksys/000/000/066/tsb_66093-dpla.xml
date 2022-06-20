@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:42 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66093</dcterms:identifier>
+   <dcterms:title>Reports of cases argued and determined in the High Court of Chancery: and of some special cases adjudged in the Court of King's Bench [1695-1735] / collected by William Peere Williams .. Published, with notes and references, and two tables to each volume; one of the names of the cases, the other of the principal matters: by his son William Peere Williams</dcterms:title>
+   <dcterms:creator>Cox, Samuel Compton.</dcterms:creator>
+   <dcterms:creator>England and Wales. Court of King's Bench.</dcterms:creator>
+   <dcterms:creator>Great Britain. Court of Chancery.</dcterms:creator>
+   <dcterms:creator>Williams, William Peere Jr, 1664-1736</dcterms:creator>
+   <dcterms:creator>Williams, William Peere, 1664-1736</dcterms:creator>
+   <dcterms:publisher>Printed by A. Strahan and W. Woodfall, for E. and R. Brooke</dcterms:publisher>
+   <dcterms:created>1793</dcterms:created>
+   <dcterms:extent>3 v. 25 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>5th ed.,</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain.</dcterms:subject>
+   <dcterms:subject>Equity--Great Britain.</dcterms:subject>
+   <dcterms:spatial>Great Britain.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2522895/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66093</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>624389</dcterms:identifier>
+   <dcterms:title>Hendrickson House, exterior</dcterms:title>
+   <dcterms:creator>Hendrickson, Andrew [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2002</dcterms:created>
+   <dcterms:description>General view with churchyard</dcterms:description>
+   <dcterms:description>The Hendrickson House invites visitors to glimpse what the private life of a Swedish colonial family would have been like. Historians believe that the house was built in 1690. The Hendrickson House was the home of Swedish farmer Andrew Hendrickson and his wife, Brigitta Morton. Born in the New Sweden colony Andrew and Brigitta made a home in their new house that was both Swedish and American. Originally built along the banks of Crum Creek, in Chester County, Pennsylvania, the Hendrickson House is a unique example of Swedish colonial home. After over 250 years in its original location, the house was dismantled, moved to the site of Old Swedes Church, and reconstructed beside the burial grounds. [work]</dcterms:description>
+   <dcterms:description>Swedish</dcterms:description>
+   <dcterms:description>American Colonial</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>New Sweden</dcterms:subject>
+   <dcterms:subject>Holy Trinity Church (Wilmington, Del.)</dcterms:subject>
+   <dcterms:subject>houses</dcterms:subject>
+   <dcterms:subject>building stone</dcterms:subject>
+   <dcterms:subject>gambrel roofs</dcterms:subject>
+   <dcterms:subject>shed dormers</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:subject>tombstones (sepulchral monuments)</dcterms:subject>
+   <dcterms:subject>churchyards</dcterms:subject>
+   <dcterms:spatial>606 Church Street, Wilmington, New Castle, Delaware, United States</dcterms:spatial>
+   <dcterms:spatial>606 Church Street, Crum Creek, Chester County, Pennsylvania</dcterms:spatial>
+   <dcterms:spatial>N 39° 44′ 18.6″, N 39° 44′ 18.6″</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/07/19/16/f70870b7-ef67-45d8-b517-00728ac1c795_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_624389</edm:isShownAt>
+</mdRecord>

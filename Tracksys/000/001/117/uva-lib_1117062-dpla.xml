@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:21 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1117062</dcterms:identifier>
+   <dcterms:title>I love the merry sunshine: ballad / words by J.W. Lake ; music by S. Glover</dcterms:title>
+   <dcterms:title>I love the merry, merry sunshine</dcterms:title>
+   <dcterms:creator>Glover, Stephen, 1813-1870</dcterms:creator>
+   <dcterms:creator>Lake, J. W.</dcterms:creator>
+   <dcterms:publisher>David P. Faulds</dcterms:publisher>
+   <dcterms:publisher>Peters &amp; Field</dcterms:publisher>
+   <dcterms:publisher>W.C. Peters</dcterms:publisher>
+   <dcterms:created>[1850..1852]</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:extent>33 cm. [original]</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, piano</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.5 no.6: Sixth title in a bound volume of sheet music from the library of Mrs. Harriet Irvine.</dcterms:description>
+   <dcterms:isPartOf>Gems of English song : with accompaniment of the piano forte ; 5</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1117063/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1117062</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 7:35 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1300795</dcterms:identifier>
+   <dcterms:title>Course of the River Mississipi from the Balise to Fort Chartres: taken on an Expedition to the Illinois, in the latter end of the year 1765 / By Lieut. Ross of the 34th Regiment ; Improved from the Surveys of the River made by the French</dcterms:title>
+   <dcterms:creator>Ross Lieut</dcterms:creator>
+   <dcterms:creator>Sayer, Robert, 1725-1794</dcterms:creator>
+   <dcterms:publisher>Printed for Robt. Sayer. No. 53 in Fleet Street, Publishd as the Act directs</dcterms:publisher>
+   <dcterms:created>1772</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>113 x 35 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown pictorially.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library, American History Collection.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:870,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+   <dcterms:subject>Mississippi River--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:spatial>Mississippi River</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1562823/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1300795</edm:isShownAt>
+</mdRecord>

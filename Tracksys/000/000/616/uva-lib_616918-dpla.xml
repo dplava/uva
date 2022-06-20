@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 2:09 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:616918</dcterms:identifier>
+   <dcterms:title>Cecil Lang Collection of Vanity Fair Illustrations 1868-1914</dcterms:title>
+   <dcterms:creator>Beerbohm, Max Sir, 1872-1956</dcterms:creator>
+   <dcterms:creator>Chartran, Théobald, 1849-1907</dcterms:creator>
+   <dcterms:creator>Dalton, F. T, fl. 1895-1900</dcterms:creator>
+   <dcterms:creator>Guth, Jean Baptiste, fl.1883-1921</dcterms:creator>
+   <dcterms:creator>Pellegrini, Carlo, 1838-1889</dcterms:creator>
+   <dcterms:creator>Prosperi, Liberio.</dcterms:creator>
+   <dcterms:creator>Thompson, Alfred, fl. 1862-1876</dcterms:creator>
+   <dcterms:creator>Ward, Leslie Sir, 1851-1922</dcterms:creator>
+   <dcterms:creator>Wright, H. C. Seppings.</dcterms:creator>
+   <dcterms:created>1868/1914</dcterms:created>
+   <dcterms:extent>901 items</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>The collection consists of portraits and caricatures, chiefly by "Spy," published as chromolithographs. A few prints by other artists are included. Among them are "Ape" (Carlo Pellegrini); "ATN" (Alfred Thompson); "Bulbo," "Max" and "Ruth" (Sir Max Beerbohm); "FTD" (F.T. Dalton); "GUTH" (Jean Baptiste Guth; "Hay"; "LIB" (Liberio Prosperi); "STUFF" (H. C. Sepping Wright); and T" (Theobald Chartran).</dcterms:description>
+   <dcterms:description>The prints are arranged in the following categories: ambassadors from and to England, Americans, architects and engineers, artists, bankers and financiers, businessmen and empire builders, chancellors of exchequer, clergy, doctors and scientists, freemasons, ladies, and legal and literary figures.</dcterms:description>
+   <dcterms:description>Also military and navy, musicians, newspaper publishers, policemen, politicians, prime ministers, royalty, shipping officials, stock exchange officials, teachers and headmasters, and theatrical figures.</dcterms:description>
+   <dcterms:description>Also sports, particularly horse related ones including carriages, fox hunters, horse trainers, sport riders, and turf devotees.</dcterms:description>
+   <dcterms:description>Although the majority of the subjects are English, Americans are occasionally caricatured including presidents McKinley and Roosevelt, Charles Francis Adams, P. T. Barnum, Ulysses Grant, Bret Harte, James Russell Lowell, Dwight L. Moody, Whitelaw Reid and Ira Sankey.</dcterms:description>
+   <dcterms:description>Dealer catalog listing prints has been shelved with the collection.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Adams, Charles Francis, 1807-1886</dcterms:subject>
+   <dcterms:subject>Barnum, P. T. (Phineas Taylor), 1810-1891</dcterms:subject>
+   <dcterms:subject>Grant, Ulysses S. (Ulysses Simpson), 1822-1885</dcterms:subject>
+   <dcterms:subject>Harte, Bret, 1836-1902</dcterms:subject>
+   <dcterms:subject>Lowell, James Russell, 1819-1891</dcterms:subject>
+   <dcterms:subject>McKinley, William, 1843-1901</dcterms:subject>
+   <dcterms:subject>Moody, Dwight Lyman, 1837-1899</dcterms:subject>
+   <dcterms:subject>Reid, Whitelaw, 1837-1912</dcterms:subject>
+   <dcterms:subject>Roosevelt, Theodore, 1858-1919--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Sankey, Ira David, 1840-1908</dcterms:subject>
+   <dcterms:subject>Sumner, Charles, 1811-1874</dcterms:subject>
+   <dcterms:subject>Whistler, James McNeill, 1834-1903</dcterms:subject>
+   <dcterms:subject>Great Britain. Army--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Great Britain. Royal Navy--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Air pilots--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Ambassadors--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Americans--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Architects--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Artists--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Authors--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Bankers--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Businessmen--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Capitalists and financiers--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Clergy--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Engineers--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Explorers--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Finance ministers--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Fox hunting--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Freemasonry--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Horse racing--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Inventors--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Jockeys--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Kings and rulers--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Lawyers--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Musicians--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Physicians--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Police--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Politicians--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Prime ministers--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Publishers and publishing--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Queens--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>School principals--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Scientists--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Statesmen--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Stock exchanges--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Teachers--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Theater--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Upper class--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Women--Great Britain--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>England--Social life and customs--History--19th century.</dcterms:subject>
+   <dcterms:subject>England--Social life and customs--History--20th century.</dcterms:subject>
+   <dcterms:temporal>19th century.</dcterms:temporal>
+   <dcterms:temporal>20th century.</dcterms:temporal>
+   <dcterms:spatial>England</dcterms:spatial>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:620554/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616918</edm:isShownAt>
+</mdRecord>

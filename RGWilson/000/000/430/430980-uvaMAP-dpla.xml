@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>430980</dcterms:identifier>
+   <dcterms:title>Union Trust Building, exterior|detail view</dcterms:title>
+   <dcterms:title>705 Building</dcterms:title>
+   <dcterms:title>Central National Bank</dcterms:title>
+   <dcterms:title>Lincoln Trust</dcterms:title>
+   <dcterms:title>Missouri Trust</dcterms:title>
+   <dcterms:title>Saint Louis Union Trust</dcterms:title>
+   <dcterms:creator>Adler and Sullivan (American architectural firm, 1883-1924) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2004</dcterms:created>
+   <dcterms:description>Cornice</dcterms:description>
+   <dcterms:description>After the Wainwright, this is Louis Sullivan's other major surviving design in St. Louis. Its street-level facade, which featured massive and heavily ornamented circular windows at the second story, was considerably altered in 1924. A remnant of the round windows may still be seen on the west-side alley, however. http://www.builtstlouis.net/opos/705olive.html [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>skyscrapers</dcterms:subject>
+   <dcterms:subject>cornices</dcterms:subject>
+   <dcterms:subject>moldings (architectural)</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:spatial>705 Olive Street, Saint Louis, Saint Louis City, Missouri, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/04/10/16/86f8a69d-f52e-46f4-b004-dc2844038538_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_430980</edm:isShownAt>
+</mdRecord>

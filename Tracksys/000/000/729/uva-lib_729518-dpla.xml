@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 2:42 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:729518</dcterms:identifier>
+   <dcterms:title>The United States of North America, with the British territories</dcterms:title>
+   <dcterms:title>British territories</dcterms:title>
+   <dcterms:creator>Faden, William, 1749-1836</dcterms:creator>
+   <dcterms:creator>Wyld, James, 1812-1887</dcterms:creator>
+   <dcterms:publisher>Published by Jas. Wyld (successor to Mr. Faden) Geographer to Her Majesty, Charing Cross East</dcterms:publisher>
+   <dcterms:created>1838</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>53 x 63 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Hand colored.</dcterms:description>
+   <dcterms:description>Prime meridian: London.</dcterms:description>
+   <dcterms:description>Relief shown pictorially.</dcterms:description>
+   <dcterms:description>This issue introduces the states of Missouri and Arkansas. For a comparison of the Faden/Wyld maps, see: Henry Stevens and Roland Tree, "Comparative cartography" (Chapter 2, Mapping of America / R.V. Tooley, p. 100-101)</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Paul Mellon bequest, May 12, 2000.</dcterms:description>
+   <dcterms:description>Scale: ca. 1:6,500,000</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Mellon, Paul--Library--Personal copy.</dcterms:subject>
+   <dcterms:subject>United States--Maps.</dcterms:subject>
+   <dcterms:subject>Canada--Maps.</dcterms:subject>
+   <dcterms:spatial>Canada</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:731417/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:729518</edm:isShownAt>
+</mdRecord>

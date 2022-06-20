@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 4:03 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28618161</dcterms:identifier>
+   <dcterms:title>Calumet Building, exterior|general view</dcterms:title>
+   <dcterms:creator>Carmina Wood Morris DPC (American architectural firm, 2001 CE-) [work]</dcterms:creator>
+   <dcterms:creator>Esenwein and Johnson (American architectural firm, 1898-1930) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2005</dcterms:created>
+   <dcterms:medium>steel frame construction; architectural terracotta [work]</dcterms:medium>
+   <dcterms:description>Facade</dcterms:description>
+   <dcterms:description>addition and interior renovation 2012 by Carmina Wood Morris Architects. -- https://buffaloah.com/a/chipp/46/int/int.html [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Art Nouveau</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>office buildings</dcterms:subject>
+   <dcterms:spatial>46-58 West Chippewa Street / 233 Franklin Street, Buffalo, Erie, New York, United States</dcterms:spatial>
+   <dcterms:spatial>42.890278, -78.874722</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/08/14/12/a87ab6f0-6b9a-4bf1-af74-d6bb86f64e8f_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28618161</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 6:44 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1141126</dcterms:identifier>
+   <dcterms:title>The fields in May: song with piano accompaniment / music by C. Whitney Coombs ; [words by William Allingham]</dcterms:title>
+   <dcterms:title>What can better please</dcterms:title>
+   <dcterms:creator>Allingham, William, 1824-1889</dcterms:creator>
+   <dcterms:creator>Coombs, C. Whitney (Charles Whitney), 1859-1940</dcterms:creator>
+   <dcterms:creator>Smith, Gerrit Mrs</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1892</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, baritone voice</dcterms:description>
+   <dcterms:description>piano, mezzo-soprano voice</dcterms:description>
+   <dcterms:description>Mezzo soprano or baritone in G.</dcterms:description>
+   <dcterms:description>For mezzo-soprano or baritone and piano.</dcterms:description>
+   <dcterms:description>At head of caption: "To Mrs. Gerrit Smith."</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: G. Schirmer's edition of song-albums.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1141127/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1141126</edm:isShownAt>
+</mdRecord>

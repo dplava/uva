@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:35 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1130016</dcterms:identifier>
+   <dcterms:title>Methuen Cotton Mills, exterior</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1979</dcterms:created>
+   <dcterms:description>General view</dcterms:description>
+   <dcterms:description>now converted to the Mill Falls Apartments [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>mills (buildings)</dcterms:subject>
+   <dcterms:subject>cotton (fiber)</dcterms:subject>
+   <dcterms:subject>apartment houses</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>gambrel roofs</dcterms:subject>
+   <dcterms:spatial>51 Osgood Street, Methuen, Essex, Massachusetts, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/12/14/14/7c0324d2-7e36-4573-be41-d5d476ebb95e_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1130016</edm:isShownAt>
+</mdRecord>

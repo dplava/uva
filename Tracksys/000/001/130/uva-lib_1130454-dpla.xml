@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:56 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1130454</dcterms:identifier>
+   <dcterms:title>The captive knight / the words by Mrs. Hemans ; the music by her sister</dcterms:title>
+   <dcterms:title>Cease awhile clarion</dcterms:title>
+   <dcterms:title>Twas a trumpet's pealing sound</dcterms:title>
+   <dcterms:creator>Browne Miss</dcterms:creator>
+   <dcterms:creator>Gillingham, Edwin</dcterms:creator>
+   <dcterms:creator>Hemans Mrs, 1793-1835</dcterms:creator>
+   <dcterms:creator>Scott, Walter, 1771-1832</dcterms:creator>
+   <dcterms:publisher>George Willig Jr.</dcterms:publisher>
+   <dcterms:created>[1829..1840]</dcterms:created>
+   <dcterms:extent>1 score ([5] p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publisher was active in this city between 1829 and 1867. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>At foot of title page engraving: "Gillingham."</dcterms:description>
+   <dcterms:description>"Respectfully dedicated to Sir Walter Scott."</dcterms:description>
+   <dcterms:isPartOf>Boudoir : a collection of favorite songs and ballads by various authors</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:subject>Knights and knighthood--Songs and music.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1130455/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1130454</edm:isShownAt>
+</mdRecord>

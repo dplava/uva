@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>721539</dcterms:identifier>
+   <dcterms:title>Saint George's Chapel, exterior</dcterms:title>
+   <dcterms:title>St. George's Chapel</dcterms:title>
+   <dcterms:creator>Cram, Ralph Adams (American architect, 1863-1942) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1987</dcterms:created>
+   <dcterms:medium>stone (rock) [work]</dcterms:medium>
+   <dcterms:description>Entrance porch</dcterms:description>
+   <dcterms:description>Founded in 1896, St. George's School is an independent boarding and day school with an Episcopal heritage welcoming students from grades 9 - 12. Set atop a lush 25 acres overlooking Sachuest Beach in Middletown --http://middletown.patch.com/listings/st-georges-school-8 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>boarding schools</dcterms:subject>
+   <dcterms:subject>educational complexes</dcterms:subject>
+   <dcterms:subject>schools (buildings)</dcterms:subject>
+   <dcterms:subject>doors</dcterms:subject>
+   <dcterms:subject>pointed arches</dcterms:subject>
+   <dcterms:subject>shields (armor)</dcterms:subject>
+   <dcterms:subject>ornaments</dcterms:subject>
+   <dcterms:subject>statuettes</dcterms:subject>
+   <dcterms:spatial>Middletown, Rhode Island, Newport, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/08/22/11/231ab710-1b61-4f91-909c-fb157360d1c6_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_721539</edm:isShownAt>
+</mdRecord>

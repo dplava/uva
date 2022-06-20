@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:27 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>241595</dcterms:identifier>
+   <dcterms:title>Interstate Commerce Commission, exterior</dcterms:title>
+   <dcterms:creator>Brown, Arthur (American architect, designer of many civic buildings in San Francisco, Calif, 1874-1957) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1985-10</dcterms:created>
+   <dcterms:description>General view, end pavilion</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Beaux-Arts</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>office buildings</dcterms:subject>
+   <dcterms:subject>pavilions (building divisions)</dcterms:subject>
+   <dcterms:subject>pediments</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>triglyphs</dcterms:subject>
+   <dcterms:subject>metopes</dcterms:subject>
+   <dcterms:subject>steps</dcterms:subject>
+   <dcterms:subject>balustrades</dcterms:subject>
+   <dcterms:subject>bas-reliefs (sculpture)</dcterms:subject>
+   <dcterms:subject>cornices</dcterms:subject>
+   <dcterms:subject>double-hung windows</dcterms:subject>
+   <dcterms:spatial>Federal Triangle, Washington, District of Columbia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/10/17/13/ee6c6f32-b943-466f-94ed-34ee58f56ac2_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_241595</edm:isShownAt>
+</mdRecord>

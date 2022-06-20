@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:28 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>262421</dcterms:identifier>
+   <dcterms:title>Philadelphia Museum of Art, exterior</dcterms:title>
+   <dcterms:creator>Trumbauer, Horace (American architect, 1868-1938) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Zantzinger, Borie and Medary (American architectural firm, 1910-1929) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1973-07</dcterms:created>
+   <dcterms:description>View of main entry</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Greek Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>art museums</dcterms:subject>
+   <dcterms:subject>exhibition buildings</dcterms:subject>
+   <dcterms:subject>porticoes</dcterms:subject>
+   <dcterms:subject>pediments</dcterms:subject>
+   <dcterms:subject>stairs</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>Corinthian capitals</dcterms:subject>
+   <dcterms:subject>windows</dcterms:subject>
+   <dcterms:subject>entablatures</dcterms:subject>
+   <dcterms:subject>antefixes</dcterms:subject>
+   <dcterms:spatial>Philadelphia, Pennsylvania, United States</dcterms:spatial>
+   <dcterms:spatial>39.965742, -75.180922</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/10/29/13/9b4dde54-6d3c-485b-90ac-0c0635300079_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_262421</edm:isShownAt>
+</mdRecord>

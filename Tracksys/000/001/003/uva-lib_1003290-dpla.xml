@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:51 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003290</dcterms:identifier>
+   <dcterms:title>Map of a route from Austin-City to Paso del Norte &amp;c / compiled mostly from the journal &amp; notes taken by Dr. John S. Ford of his exploring expedition in company with Mjr. Robert S. Neighbors in March, April &amp; May 1849 ; Robert Creuzbaur fecit</dcterms:title>
+   <dcterms:creator>Creuzbaur, Robert.</dcterms:creator>
+   <dcterms:creator>Ford, John Salmon.</dcterms:creator>
+   <dcterms:creator>H. Long &amp; Brother.</dcterms:creator>
+   <dcterms:creator>Mayer &amp; Korff's Lith.</dcterms:creator>
+   <dcterms:creator>Neighbors, Robert Simpson, 1815-1859</dcterms:creator>
+   <dcterms:publisher>H. Long &amp; Brother</dcterms:publisher>
+   <dcterms:created>1849</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>on sheet 75 x 54 cm. [original]</dcterms:extent>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"Entered, according to act of Congress, in the year 1849, by H. Long &amp; Brother, in the Clerk's Office of the District Court of the United States, for the Southern District of New York."</dcterms:description>
+   <dcterms:description>Shows routes and trails: main road as recommended, Ford &amp; Neighbors' road to El Paso, suggested improvements to the road.</dcterms:description>
+   <dcterms:description>Map is printed in 2 sections on 1 sheet, with the western portion (Pecos River west to the Rio Grande), containing the title, at the bottom of the sheet, and the eastern portion (Austin west to the Pecos River) printed upside down on the top half of the sheet. "No. 2" is printed in the lower right corner of the upper section (or the upper left corner after the sections are cut apart and properly joined)</dcterms:description>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,200,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Roads--Texas--Maps.</dcterms:subject>
+   <dcterms:subject>Trails--Texas--Maps.</dcterms:subject>
+   <dcterms:subject>Texas--Maps.</dcterms:subject>
+   <dcterms:spatial>Texas</dcterms:spatial>
+   <dcterms:spatial>New York (City), New York (State), United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:890713/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003290</edm:isShownAt>
+</mdRecord>

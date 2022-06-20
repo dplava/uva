@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 2:47 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:770584</dcterms:identifier>
+   <dcterms:title>Les meslanges de P. de Ronsard / dediees a Ian Brinon</dcterms:title>
+   <dcterms:creator>Corrozet, Gilles, 1510-1568</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Ronsard, Pierre de, 1524-1585</dcterms:creator>
+   <dcterms:publisher>On les vend en la grand salle du Palais en la boutique de Gilles Corrozet ...</dcterms:publisher>
+   <dcterms:created>1555</dcterms:created>
+   <dcterms:extent>56 leaves</dcterms:extent>
+   <dcterms:extent>17 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Seconde edition.</dcterms:description>
+   <dcterms:description>Signatures: A-G⁸.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Fifth of six titles in volume with: Le bocage de P. de Ronsard ... -- A Paris, 1554. Search by call number to retrieve all titles in the volume. Mosaic binding. The volume is described in "Bibliothèque de feu m. Hector de Backer" pt. 1, no. 391. Bookplates of Baron Jérome Pichon (motto Memor fui dierum antiquoru[m] PS. CXLII) and of Hector de Backer; with unidentified cypher bookplate. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 505.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:868141/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770584</edm:isShownAt>
+</mdRecord>

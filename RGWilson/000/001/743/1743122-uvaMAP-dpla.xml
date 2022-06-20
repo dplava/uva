@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:37 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1743122</dcterms:identifier>
+   <dcterms:title>City Hall and Library, exterior</dcterms:title>
+   <dcterms:title>Oceanside Art Museum</dcterms:title>
+   <dcterms:creator>Gill, Irving J. (American architect, 1870-1936) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1984-05</dcterms:created>
+   <dcterms:medium>stucco [work]</dcterms:medium>
+   <dcterms:description>Facade</dcterms:description>
+   <dcterms:description>Famous San Diego architect, Irving Gill, designed the city hall and library in 1934. The Oceanside Museum of Art opened in the old city hall building in October 1997. -- http://www.utsandiego.com/news/2012/Aug/19/tp-oceanside-museum-highlights-the-past-and/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Art Deco</dcterms:description>
+   <dcterms:description>Streamlined Moderne</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>municipal buildings</dcterms:subject>
+   <dcterms:subject>historic buildings</dcterms:subject>
+   <dcterms:subject>city halls</dcterms:subject>
+   <dcterms:subject>libraries (buildings)</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>retaining walls</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:subject>step pattern</dcterms:subject>
+   <dcterms:subject>arcades (structural assemblies)</dcterms:subject>
+   <dcterms:spatial>704 Pier View Way, Oceanside, San Diego, California, United States</dcterms:spatial>
+   <dcterms:spatial>33.197954, -117.378517</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/07/18/15/43581468-c6fd-48a9-b3a4-b7e877d409e5_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1743122</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 9:38 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:58827</dcterms:identifier>
+   <dcterms:title>La prière d'une vierge = The maiden's prayer : morceau de salon pour piano / composèe par Thekla Badarzewska</dcterms:title>
+   <dcterms:title>Maiden's prayer</dcterms:title>
+   <dcterms:title>Badarzewska, Thekla, 1834-1861. Modlitwa dziewicy</dcterms:title>
+   <dcterms:creator>Badarzewska, Thekla, 1834-1861</dcterms:creator>
+   <dcterms:publisher>Firth, Pond &amp; Co.</dcterms:publisher>
+   <dcterms:created>1858</dcterms:created>
+   <dcterms:extent>5, [1] p. of music</dcterms:extent>
+   <dcterms:extent>32 cm. [original]</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>"Op. 4"--Caption.</dcterms:description>
+   <dcterms:description>Probable date of publication inferred from plate number. Firth, Pond &amp; Co. was at this address from 1856 until 1862. Cf. Early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>Price mark: 2 1/2 in six-pointed star.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .A2 no.2209: Gift of Mr. &amp; Mrs. C. R. Gittings, 1990.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1698410/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58827</edm:isShownAt>
+</mdRecord>

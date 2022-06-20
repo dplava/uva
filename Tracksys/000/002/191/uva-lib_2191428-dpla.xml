@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 10:04 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2191428</dcterms:identifier>
+   <dcterms:title>Protestation de la foy: auecques sept co[n]sideratio[n]s qui doibt auoir vne p[er]sonne pour effacier &amp; estaindre tous peches mortels : Et pour viure seurement</dcterms:title>
+   <dcterms:creator>Chambolle-Duru (Firm)</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1520</dcterms:created>
+   <dcterms:extent>[6] p.</dcterms:extent>
+   <dcterms:extent>15 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: a⁴ (leaf a4 is blank)</dcterms:description>
+   <dcterms:description>Printed on vellum.</dcterms:description>
+   <dcterms:description>Woodcut on verso of title.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Chambolle-Duru. Bookplates of Colombina Biblioteca, C.N. Radoulesco and Cte. Chandon de Briailles. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 408.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Faith</dcterms:subject>
+   <dcterms:subject>Christian life--Early works to 1800.</dcterms:subject>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2191534/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2191428</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:37 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1392681</dcterms:identifier>
+   <dcterms:title>The Battle of Westport } Cavalry Charge, general view</dcterms:title>
+   <dcterms:title>The Mine Creek Charge</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Wyeth, N. C. (American painter and illustrator, 1882-1945) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1989</dcterms:created>
+   <dcterms:medium>oil on canvas [work]</dcterms:medium>
+   <dcterms:description>N.C. Wyeth painted eight beautiful lunettes (murals in the shape of a half moon) along the east end mezzanine of the Missouri State Capitol -- https://www.flickr.com/photos/eoskins/galleries/72157625310761002/. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Humanities and Social Sciences</dcterms:subject>
+   <dcterms:subject>Paintings</dcterms:subject>
+   <dcterms:subject>government office buildings</dcterms:subject>
+   <dcterms:subject>chambers (assembly spaces)</dcterms:subject>
+   <dcterms:subject>capitols</dcterms:subject>
+   <dcterms:subject>battles</dcterms:subject>
+   <dcterms:subject>lunettes</dcterms:subject>
+   <dcterms:spatial>201 West Capitol Avenue, Jefferson City, Cole, Missouri, United States</dcterms:spatial>
+   <dcterms:spatial>38.57912, -92.172991</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/03/26/11/00022ed4-2f24-43fe-9ed9-e41341cf9e30_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1392681</edm:isShownAt>
+</mdRecord>

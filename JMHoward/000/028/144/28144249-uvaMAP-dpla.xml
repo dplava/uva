@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 2:50 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28144249</dcterms:identifier>
+   <dcterms:title>Homer, detail view</dcterms:title>
+   <dcterms:title>Blind Homer With His Student Guide</dcterms:title>
+   <dcterms:title>Homeric Group</dcterms:title>
+   <dcterms:creator>Ezekiel, Moses Jacob (American sculptor, 1844-1917) [sculptor]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1996-05-17</dcterms:created>
+   <dcterms:medium>casting (process) (figure) ; bronze (metal) (figure); black marble (upper base); stone (rock) (lower base) [work]</dcterms:medium>
+   <dcterms:description>Looking east at figure's left side</dcterms:description>
+   <dcterms:description>Ezekiel completed the statue in 1907 on a commission from John Woodruff Simpson as a gift for Amherst College, his alma mater. For reasons unknown the gift was refused, and Thomas Nelson Page, a Virginia alumnus who was active in the UVA Alumni Association, stepped in to secure the gift of the statue to UVa instead. -- https://en.wikipedia.org/wiki/Homer_(Ezekiel) [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Ancient Greek</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Sculpture and Installations</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>sculpture (visual work)</dcterms:subject>
+   <dcterms:subject>Homer (Greek author, active 9th-8th cs. BCE)</dcterms:subject>
+   <dcterms:subject>outdoor sculpture</dcterms:subject>
+   <dcterms:subject>togas</dcterms:subject>
+   <dcterms:subject>sandals</dcterms:subject>
+   <dcterms:spatial>installation: South Lawn, Charlottesville, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.033333, -78.5075</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/05/14/13/ed35157d-ddee-436c-b22d-e7f2dbd0c79b_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28144249</edm:isShownAt>
+</mdRecord>

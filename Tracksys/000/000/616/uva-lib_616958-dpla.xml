@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 2:09 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:616958</dcterms:identifier>
+   <dcterms:title>Votes for women</dcterms:title>
+   <dcterms:creator>National American Woman Suffrage Association.</dcterms:creator>
+   <dcterms:publisher>National American Woman Suffrage Association, Allied Printing</dcterms:publisher>
+   <dcterms:created>1912</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>30 x 23 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>map</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Consists of a map of the United States, with the color-coded key to the the status of women's suffrage in each state. States with "victories this year," won November, 1912, are shown in red.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library has 2 copies, gift of Ms. Roberta Wellford.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Women--Suffrage--United States.</dcterms:subject>
+   <dcterms:spatial>United States.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:621777/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616958</edm:isShownAt>
+</mdRecord>

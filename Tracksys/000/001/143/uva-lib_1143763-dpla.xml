@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 6:55 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1143763</dcterms:identifier>
+   <dcterms:title>Thre e fishers went sailing / music by J. Hullah ; words by Rev. C. Kingsley</dcterms:title>
+   <dcterms:title>Three fishers went sailing out into the west</dcterms:title>
+   <dcterms:title>Hullah, John, 1812-1884. Storm. Three fishers went sailing</dcterms:title>
+   <dcterms:creator>Ehrgott, Forbriger &amp; Co.</dcterms:creator>
+   <dcterms:creator>Hullah, John, 1812-1884</dcterms:creator>
+   <dcterms:creator>Kingsley, Charles, 1819-1875</dcterms:creator>
+   <dcterms:publisher>S. Brainard &amp; Sons</dcterms:publisher>
+   <dcterms:created>[1860..1869]</dcterms:created>
+   <dcterms:extent>1 score (4 p.)</dcterms:extent>
+   <dcterms:extent>36 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, piano</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Illustration on list title page: Crowd waving to ship retreating into the distance and small ship tilting in rough waters / Ehrgott, Forbriger &amp; Co., Lith., Cincinnati.</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v. 88, no. 23]</dcterms:isPartOf>
+   <dcterms:isPartOf>Storm ; Three fishers / composed by John Hullah</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Sea songs</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1143764/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1143763</edm:isShownAt>
+</mdRecord>

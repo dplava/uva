@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 1:36 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1042250</dcterms:identifier>
+   <dcterms:title>Summer School Party University of Virginia</dcterms:title>
+   <dcterms:creator>Rufus W. Holsinger, 1866-1930</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1914-07-04</dcterms:created>
+   <dcterms:extent>5 x 7 in. [original]</dcterms:extent>
+   <dcterms:description>Negatives X02419A1, X02419A2, X02419A3, X02419A4, X02419A5, and X02419A6 appear to be in a sequence</dcterms:description>
+   <dcterms:description>Plate has large amount of emulsion damage. [original]</dcterms:description>
+   <dcterms:isPartOf>The Holsinger Studio Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Parties</dcterms:subject>
+   <dcterms:subject>Summer schools</dcterms:subject>
+   <dcterms:subject>Brass bands</dcterms:subject>
+   <dcterms:subject>Processions</dcterms:subject>
+   <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
+   <dcterms:subject>University of Virginia</dcterms:subject>
+   <dcterms:spatial>Charlottesville (Va.)</dcterms:spatial>
+   <dcterms:spatial>University of Virginia Lawn (Charlottesville, Va.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1042250/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1042250</edm:isShownAt>
+</mdRecord>

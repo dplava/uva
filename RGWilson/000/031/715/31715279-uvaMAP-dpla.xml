@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 4:06 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>31715279</dcterms:identifier>
+   <dcterms:title>Oakland Museum of California, exterior|general view</dcterms:title>
+   <dcterms:title>OCMA</dcterms:title>
+   <dcterms:title>Oakland Museum</dcterms:title>
+   <dcterms:creator>Kevin Roche, John Dinkeloo and Associates (American architectural partnership, active from 1966) [architectural firm]</dcterms:creator>
+   <dcterms:creator>Kiley, Daniel Urban (American landscape architect, 1912-2004) [landscape architect, landscape design]</dcterms:creator>
+   <dcterms:creator>Roche, Kevin (American architect, born 1922) [architect]</dcterms:creator>
+   <dcterms:creator>Scott, Geraldine Knight (American landscape architect, 1904-1989) [landscape architect, garden design]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1990</dcterms:created>
+   <dcterms:medium>concrete [work]</dcterms:medium>
+   <dcterms:description>Entrance facade</dcterms:description>
+   <dcterms:description>The Oakland Museum is a three level concrete structure integrated with five acres of planting. Kiley's roof garden design "sets plants of varying textures and growing habits in compatible combinations, intertwined as green carpets." The plants complement and soften the rigid geometry of the building. (Process: Architecture, no. 33, p. 72) [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Mid-Century Modernist</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>art museums</dcterms:subject>
+   <dcterms:subject>science museums</dcterms:subject>
+   <dcterms:subject>landscape gardens</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:subject>planters (containers)</dcterms:subject>
+   <dcterms:spatial>1000 Oak Street, Oakland, Alameda, California, United States</dcterms:spatial>
+   <dcterms:spatial>37.7986, -122.2636</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2021/10/14/16/6e090aab-a4b2-4490-ad52-2bde1b87a6d1_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_31715279</edm:isShownAt>
+</mdRecord>

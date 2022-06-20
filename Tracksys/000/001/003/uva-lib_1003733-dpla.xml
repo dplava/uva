@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:59 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003733</dcterms:identifier>
+   <dcterms:title>The Japan expedition under Commodore Perry / Heine</dcterms:title>
+   <dcterms:creator>Boell &amp; Lewis.</dcterms:creator>
+   <dcterms:creator>Boell &amp; Michelin.</dcterms:creator>
+   <dcterms:creator>Brown, E. Jr, 1816-1886</dcterms:creator>
+   <dcterms:creator>Heine, Wilhelm, 1827-1885</dcterms:creator>
+   <dcterms:creator>Sarony &amp; Co.</dcterms:creator>
+   <dcterms:publisher>E. Brown, Jr.</dcterms:publisher>
+   <dcterms:created>1855/1856</dcterms:created>
+   <dcterms:extent>6 plates</dcterms:extent>
+   <dcterms:extent>53 x 83 cm. on sheets 75 x 101 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>lithographs</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Return of Commodore Perry, officers and men of the squadron ... from Shui, Capitol of Lew Chew, June 6th, 1853 / Lith. of Boell &amp; Lewis, N.Y. -- Passing of the Rubicon, Lieut. S. Bent in the "Mississippi's" first cutter forcing his way through a fleet of Japanese boats while surveying the Bay of Yedo, July 11th, 1853 / Sarony &amp; Co. Lith. -- First landing of Americans in Japan ... at Core-Hama, July 14th, 1853 / Lith. of Sarony &amp; Co. -- Landing of Commodore Perry, officers &amp; men of the squadron ... Yoku-Hama, Japan, March 8th, 1854 / E. Brown Jr., Dirext. ; Lith of Sarony &amp; Co. -- Landing of Commodore Perry, officers &amp; men of the squadron ... Simoda, Japan, June 8, 1854 / E. Brown Jr. Dirext. ; Lith of Sarony &amp; Co. -- Exercise of troops in Temple grounds, Simoda, Japan, June 8th, 1854 / E. Brown Jr., Lith &amp; Dirext. ; Printed by Boell &amp; Michelin, c1856.</dcterms:description>
+   <dcterms:description>Title supplied by cataloger, from spine title on box; imprint is present on each lithograph.</dcterms:description>
+   <dcterms:description>Each lithograph includes a combination of color printing and hand coloring.</dcterms:description>
+   <dcterms:description>All plates have dedication: To Commodore M.C. Perry, Officers &amp; men of the Japan Expedition this Print is respectfully dedicated by their Obt. Servts. Heine &amp; Brown.</dcterms:description>
+   <dcterms:description>" ... the most important work of Sarony &amp; Co. was undoubtedly the series of four large folios of the Japan expedition." Cf. H.T. Peters, America on stone, p. 352-353. The description of the "four large folios' refers to plates number [2]-[5] as listed in contents note below. The 1st plate, dated June 6th, 1853, is listed as part of the same series, though made by another lithographer. The 6th plate is not mentioned at all.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Paul Mellon bequest, May 12, 2000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Perry, Matthew Calbraith, 1794-1858--Pictorial works.</dcterms:subject>
+   <dcterms:subject>Mellon, Paul--Library--Personal copy.</dcterms:subject>
+   <dcterms:subject>United States Naval Expedition to Japan (1852-1854)--Pictorial works.</dcterms:subject>
+   <dcterms:subject>Lithography--Specimens.</dcterms:subject>
+   <dcterms:subject>Lithography, American--Specimens.</dcterms:subject>
+   <dcterms:subject>Japan--Pictorial works.</dcterms:subject>
+   <dcterms:spatial>Japan</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1103229/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003733</edm:isShownAt>
+</mdRecord>

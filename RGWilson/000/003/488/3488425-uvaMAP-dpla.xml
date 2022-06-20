@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:44 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>3488425</dcterms:identifier>
+   <dcterms:title>7523 Elba Road, general view</dcterms:title>
+   <dcterms:creator>Goodman, Charles M. (American architect, 1906-1992) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2004</dcterms:created>
+   <dcterms:description>View of house from bottom of driveway</dcterms:description>
+   <dcterms:description>Hollin Hills has approximately 450 houses conceived and built by...Robert C. Davenport, and designed by D.C.-based architect Charles M. Goodman...and landscape architect Dan Kiley. The community was one of the first post-World-War-II developments around Washington, D.C., and it is known primarily for its modern architecture, which is very cohesive because of a design review committee that advises on building or modification of existing houses. - http://en.wikipedia.org/wiki/Hollin_Hills [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Modernist</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>tract houses</dcterms:subject>
+   <dcterms:subject>housing developments</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>subdivisions (complexes)</dcterms:subject>
+   <dcterms:subject>Kiley, Daniel Urban (American landscape architect, 1912-2004)</dcterms:subject>
+   <dcterms:subject>driveways</dcterms:subject>
+   <dcterms:subject>carports</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:spatial>Alexandria, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.752422, -77.072564</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/08/27/10/5d7d41ee-217c-49e6-a51c-e1394592e5c7_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_3488425</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 9:39 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:58839</dcterms:identifier>
+   <dcterms:title>The murmuring sea / music by Stephen Glover ; words by Mrs. Crawford</dcterms:title>
+   <dcterms:title>Murmuring sea! Beautiful sea! How I love to list</dcterms:title>
+   <dcterms:creator>Crawford, (Louisa McCartney) Mrs, 1790-1858</dcterms:creator>
+   <dcterms:creator>Glover, Stephen, 1813-1870</dcterms:creator>
+   <dcterms:publisher>William Hall &amp; Son</dcterms:publisher>
+   <dcterms:publisher>W.T. Mayo</dcterms:publisher>
+   <dcterms:created>[1848..1858]</dcterms:created>
+   <dcterms:extent>1 score (9 p.)</dcterms:extent>
+   <dcterms:extent>36 cm. [original]</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice (2), piano</dcterms:description>
+   <dcterms:description>For 2 voices and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>William Hall &amp; Son operated from this address between 1848 and 1858. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.5 no.1: First title in a bound volume of sheet music from the library of Mrs. Harriet Irvine.</dcterms:description>
+   <dcterms:isPartOf>Lays of the night : two vocal duetts ; no. 2</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Vocal duets with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1563101/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58839</edm:isShownAt>
+</mdRecord>

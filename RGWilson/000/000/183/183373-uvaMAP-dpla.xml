@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:26 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>183373</dcterms:identifier>
+   <dcterms:title>Washington National Cathedral, exterior|general view</dcterms:title>
+   <dcterms:title>Cathedral Church of Saint Peter and Saint Paul in the City and Diocese of Washington</dcterms:title>
+   <dcterms:creator>Bodley, George Frederick (British architect and designer, 1827-1907) [work]</dcterms:creator>
+   <dcterms:creator>Frohman, Philip Hubert (American architect, 1887-1972) [work]</dcterms:creator>
+   <dcterms:creator>Frohman, Robb &amp; Little (American architectural firm, 20th century) [work]</dcterms:creator>
+   <dcterms:creator>Vaughan, Henry (American architect, 1845-1917) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1975</dcterms:created>
+   <dcterms:medium>Indiana limestone [work]</dcterms:medium>
+   <dcterms:description>Crossing tower and scaffolding</dcterms:description>
+   <dcterms:description>Initial construction by George F. Bodley and Henry Vaughan, 1906 to 1921. Bodley died in 1907; after which Vaughan continued project. Vaughan succeeded after his death by Boston firm Frohman, Robb and Little, 1921. Washington firm Smith Segreti Tepper took over the construction 1971 through the building's completion in 1990. Ornamental work is ongoing. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>churches (buildings)</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Episcopal</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:subject>flying buttresses</dcterms:subject>
+   <dcterms:subject>pointed arches</dcterms:subject>
+   <dcterms:subject>scaffolds</dcterms:subject>
+   <dcterms:spatial>Wisconsin Avenue and Massachusetts Avenue NW, Mount Saint Alban, Washington, District of Columbia, United States</dcterms:spatial>
+   <dcterms:spatial>38.930556, -77.070833</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/15/19/08ee0281-ce7e-401a-9542-adb8d3164cbe_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_183373</edm:isShownAt>
+</mdRecord>

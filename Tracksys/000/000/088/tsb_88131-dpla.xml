@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:48 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>tsb:88131</dcterms:identifier>
+   <dcterms:title>Johnson's Virginia, Delaware, Maryland &amp; West Virginia</dcterms:title>
+   <dcterms:title>Virginia, Delaware, Maryland and West Virginia</dcterms:title>
+   <dcterms:creator>Johnson, A. J. (Alvin Jewett), 1827-1884</dcterms:creator>
+   <dcterms:publisher>Published by Johnson and Ward</dcterms:publisher>
+   <dcterms:created>1865</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>40 x 56 cm [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Shows counties, railroads, and includes some counties of West Virginia, created in 1863.</dcterms:description>
+   <dcterms:description>Relief shown by hachures. Depth shown by isolines.</dcterms:description>
+   <dcterms:description>Prime meridians: Greenwich, Washington.</dcterms:description>
+   <dcterms:description>"Entered according to Act of Congress in the year 1864, by A.J. Johnson, in the Clerk's Office of the District Court of the United States for the Southern District of New.</dcterms:description>
+   <dcterms:description>Includes illustrations of "Fortress Monroe," "General post office," "Treasury buildings, "Patent Office, " and "University of Virginia."</dcterms:description>
+   <dcterms:description>Plate numbers 33 &amp; 34 printed in upper left and right corners, respectively. Text on verso: Geographical index, or Ready reference, p. 45-46.</dcterms:description>
+   <dcterms:description>Map was issued with this plate number in: Johnson's new illustrated (steel plate) family atlas. New York : Johnson and Ward, 1865.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS. Imperfect: fragile with marginal chips and fold tears for both copies.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,450,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia--Pictorial works.</dcterms:subject>
+   <dcterms:subject>Middle Atlantic States--Civil War, 1861-1865--Maps.</dcterms:subject>
+   <dcterms:subject>Virginia--Maps--19th century.</dcterms:subject>
+   <dcterms:subject>Delaware--Maps--19th century.</dcterms:subject>
+   <dcterms:subject>Maryland--Maps--19th century.</dcterms:subject>
+   <dcterms:subject>West Virginia--Maps--19th century.</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Maps.</dcterms:subject>
+   <dcterms:temporal>19th century.</dcterms:temporal>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>Delaware</dcterms:spatial>
+   <dcterms:spatial>Maryland</dcterms:spatial>
+   <dcterms:spatial>Middle Atlantic States</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>West Virginia</dcterms:spatial>
+   <dcterms:spatial>New York (City), New York (State), United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2679311/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:88131</edm:isShownAt>
+</mdRecord>

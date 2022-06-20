@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>750780</dcterms:identifier>
+   <dcterms:title>The Dwelling House, exterior</dcterms:title>
+   <dcterms:title>The Dwelling House and Chapel</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1793..1837]</dcterms:created>
+   <dcterms:description>General view</dcterms:description>
+   <dcterms:description>Built in 1793 this massive dwelling has expanded several times and reached its current form in 1837. Originally measuring 32x42 feet, many additions and roof changes have been made to the structure. A large domed cupola containing a Paul Revere bell was added in 1832 to call the family to meals and meetings. (Because of its size, which offended the ministry at New Lebanon, the cupola was lowered by 5 feet 5 inches in 1842.) In 1837 a large meeting room or chapel, measuring 52x43 feet, was built on the north side of the dwelling. Water closets were first installed in 1887. The Shakers moved the village's library here in 1917, and the Shaker school operated here from 1921 until 1934. The building eventually expanded to contain 56 rooms and is the largest building at Shaker Village. -- http://www.shakers.org/dwelling-house.html [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>historic houses</dcterms:subject>
+   <dcterms:subject>Shaker (Christian sect)</dcterms:subject>
+   <dcterms:subject>religious communities (built complexes)</dcterms:subject>
+   <dcterms:subject>gable roofs</dcterms:subject>
+   <dcterms:subject>shed roofs</dcterms:subject>
+   <dcterms:subject>porches</dcterms:subject>
+   <dcterms:subject>cupolas (roof appendages)</dcterms:subject>
+   <dcterms:spatial>288 Shaker Road, Canterbury, Merrimack, New Hampshire, United States</dcterms:spatial>
+   <dcterms:spatial>43.358889, -71.49</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/09/13/14/8b64dccb-357b-4fb4-bf0f-8334a2d7f91d_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_750780</edm:isShownAt>
+</mdRecord>

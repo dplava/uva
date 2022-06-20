@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 7:25 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1150884</dcterms:identifier>
+   <dcterms:title>Serenata, [op. 15, no. 1] / by Moritz Moszkowski</dcterms:title>
+   <dcterms:title>Moszkowski, Moritz, 1854-1925. Stücke, piano. op. 15. Serenata</dcterms:title>
+   <dcterms:creator>Hounslow</dcterms:creator>
+   <dcterms:creator>J.H. Bufford's Sons Lith.</dcterms:creator>
+   <dcterms:creator>Moszkowski, Moritz, 1854-1925</dcterms:creator>
+   <dcterms:publisher>Spear &amp; Dehnhoff</dcterms:publisher>
+   <dcterms:created>[1876..1887]</dcterms:created>
+   <dcterms:extent>5 p. of music</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>"Spear &amp; Dehnhoff's superb edition".</dcterms:description>
+   <dcterms:description>Title page illustration: A man seated on the terrace of a walled garden, playing a mandolin / J.H. Bufford's Sons, Boston/Chicago.</dcterms:description>
+   <dcterms:description>"Hounslow N.Y.--Colophon.</dcterms:description>
+   <dcterms:description>Publisher was active between 1876 and 1887. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: Musical incipits for Dent de lion; Fairy echo; Old sentinel march; and Among the daisies.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1150885/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1150884</edm:isShownAt>
+</mdRecord>

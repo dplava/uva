@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:53 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>15144552</dcterms:identifier>
+   <dcterms:title>Saint Peter ad Vincula Parish Church, interior</dcterms:title>
+   <dcterms:creator>Hutchinson, Henry (English architect, 1800-1831) [work]</dcterms:creator>
+   <dcterms:creator>Rickman, Thomas (English architect, author, and architectural historian, 1776-1841) [work]</dcterms:creator>
+   <dcterms:creator>Scott, George Gilbert, I (English architect, 1811-1878) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1976</dcterms:created>
+   <dcterms:description>Apse and altar</dcterms:description>
+   <dcterms:description>In 1826 the Lucy family of Charlecote Park decided to tear down the older church and completely rebuild it in the newly fashionable Gothic Revival style. St Peters is one of the earliest examples of Victorian Gothic Revival, and one of the finest, due to the deep pockets of the Lucy patrons. ... The Lucys called in architect Thomas Rickman to design the tower and Henry Hutchinson to create the nave. Rickman is known as being the first to coin the three distinctive phases of English Gothic architecture; Early English, Decorated, and Perpendicular. ... In 1858 Sir Giles Gilbert Scott was called in to rebuild the chancel and add the apsidal end. Scott also completely refurbished the interior. -- http://www.britainexpress.com/counties/warwickshire/churches/hampton-lucy.htm [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>churches (buildings)</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Anglican (Church of England)</dcterms:subject>
+   <dcterms:subject>apses</dcterms:subject>
+   <dcterms:subject>altars (religious building fixtures)</dcterms:subject>
+   <dcterms:subject>ribbed vaults</dcterms:subject>
+   <dcterms:spatial>Hampton Lucy, Warwickshire, England, United Kingdom</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2016/06/17/11/ca668e5d-b2a4-4c2e-8735-474d3b1234e2_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_15144552</edm:isShownAt>
+</mdRecord>

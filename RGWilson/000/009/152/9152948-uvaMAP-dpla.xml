@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:50 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9152948</dcterms:identifier>
+   <dcterms:title>St. Stephen's Episcopal Church, exterior|general view</dcterms:title>
+   <dcterms:creator>Cram, Ralph Adams (American architect, 1863-1942) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1984</dcterms:created>
+   <dcterms:description>Entrance and tower</dcterms:description>
+   <dcterms:description>"On December 8, 1899, parishioners of St. Stephen’s church, along with Bishop William Lawrence, laid the cornerstone of the building atop Bourne’s Rock in Cohasset. The parish had begun three years earlier when twenty-one people met in the G.A.R. Hall (at the same location as the future church) and voted a Constitution and by-laws for a new Episcopal place of worship, which they voted unanimously to name St. Stephen’s. With a design by renowned neo-Gothic architect Ralph Adams Cram, the church was completed in 1900 and the distinctive tower in 1907. The installation of the 51 bell carillon happened in two waves between 1924 and 1928." -- http://ststephenscohasset.org/wetrust/history/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Episcopal</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>stonework</dcterms:subject>
+   <dcterms:subject>stonework</dcterms:subject>
+   <dcterms:subject>church towers</dcterms:subject>
+   <dcterms:spatial>16 Highland Avenue, Cohasset, Norfolk, Massachusetts, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/04/17/16/bd11cdf0-2492-4000-8023-da18ce4dbdf7_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9152948</edm:isShownAt>
+</mdRecord>

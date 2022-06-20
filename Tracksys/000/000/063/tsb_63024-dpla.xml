@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:20 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:63024</dcterms:identifier>
+   <dcterms:title>The monastery / by Sir Walter Scott</dcterms:title>
+   <dcterms:creator>Scott, Walter, 1771-1832</dcterms:creator>
+   <dcterms:publisher>D. Lothrop</dcterms:publisher>
+   <dcterms:created>[1880..1889]</dcterms:created>
+   <dcterms:extent>xli, 403 p.</dcterms:extent>
+   <dcterms:extent>20 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Includes bibliographical references.</dcterms:description>
+   <dcterms:description>ALDERMAN: With: The abbot / Sir Walter Scott. Boston : D. Lothrop, [188-?].</dcterms:description>
+   <dcterms:description>Item X001817696 has bookplate data: Edward Wilson James.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Scotland--History--1561-1587--Fiction.</dcterms:subject>
+   <dcterms:subject>Scotland--History--16th century--Fiction.</dcterms:subject>
+   <dcterms:temporal>1561-1587</dcterms:temporal>
+   <dcterms:temporal>16th century</dcterms:temporal>
+   <dcterms:spatial>Scotland</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2615700/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63024</edm:isShownAt>
+</mdRecord>

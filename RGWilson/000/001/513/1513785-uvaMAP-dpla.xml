@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:37 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1513785</dcterms:identifier>
+   <dcterms:title>Saint Christopher's By the Sea Episcopal Church, exterior</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1986-09</dcterms:created>
+   <dcterms:medium>shingle [work]</dcterms:medium>
+   <dcterms:description>General view</dcterms:description>
+   <dcterms:description>In 1891, a proposal was made to build a summer Episcopal chapel, to be known as St. Christopher's by the Sea, on Grindstone Neck in Winter Harbor, Maine. St. Christopher's seats about 100 people. The interior of the church is rustic in appearance with exposed beams and shingled walls. Memorial plaques have been placed on the walls commemorating the lives of many former worshippers in the church. An example is a lovely carved wooden panel, circa 1509-1511, of Christ accompanied by two of his disciples. http://www.episcopalmaine.org/index.php?option=com_content&amp;view=article&amp;id=91:winter-harbor&amp;catid=35:maps [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Shingle Style</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>gable roofs</dcterms:subject>
+   <dcterms:subject>helm roofs</dcterms:subject>
+   <dcterms:subject>pointed arches</dcterms:subject>
+   <dcterms:subject>louver windows</dcterms:subject>
+   <dcterms:subject>bargeboards</dcterms:subject>
+   <dcterms:subject>eaves</dcterms:subject>
+   <dcterms:subject>stoops (uncovered spaces)</dcterms:subject>
+   <dcterms:spatial>9 Clubhouse Lane, Winter Harbor, Hancock, Maine, United States</dcterms:spatial>
+   <dcterms:spatial>44.384066, -68.094626</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/05/17/09/3ce11eaf-a12e-456e-9581-69f95cb8341c_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1513785</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 6:42 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1140430</dcterms:identifier>
+   <dcterms:title>Repeat again = Redis le moi : duet for mezzo-soprano and baritone / L. Badia ; English version by H. Millard</dcterms:title>
+   <dcterms:title>Redis le moi</dcterms:title>
+   <dcterms:title>Redisles moi ces mots si doux</dcterms:title>
+   <dcterms:title>Repeat again those words so sweet</dcterms:title>
+   <dcterms:title>Ripeti a me quel dolce si</dcterms:title>
+   <dcterms:title>Badia, Luigi, 1819?-1899. Ripeti a me. Polyglot</dcterms:title>
+   <dcterms:creator>Badia, Luigi, 1819?-1899</dcterms:creator>
+   <dcterms:creator>Millard, H. (Harrison), 1830-1895</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1882</dcterms:created>
+   <dcterms:extent>1 score (8 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>mezzo-soprano voice, baritone voice, piano</dcterms:description>
+   <dcterms:description>For mezzo-soprano and baritone with piano accompaniment.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Italian words with French and English translations.</dcterms:description>
+   <dcterms:isPartOf>Due amici : a collection of the most favorite duets for soprano &amp; bass or baritone ; no. 18</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Vocal duets with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1140431/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1140430</edm:isShownAt>
+</mdRecord>

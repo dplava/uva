@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:46 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8244984</dcterms:identifier>
+   <dcterms:title>Taliesin, general view</dcterms:title>
+   <dcterms:title>Taliesin East</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Wright, Frank Lloyd (American architect, 1867-1959) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2001</dcterms:created>
+   <dcterms:description>Veiw of Taliesin from west</dcterms:description>
+   <dcterms:description>"...sometimes known as Taliesin East after 1937, was the estate of American architect Frank Lloyd Wright. Located 2.5 miles (4.0 km) south of the village of Spring Green in Iowa County, Wisconsin, United States, the 600-acre (240 ha) property was developed on land that originally belonged to Wright's maternal family. Wright designed the estate after his affair with Mamah Borthwick made headlines and forced him out his residence in Oak Park, Illinois. The design of the original house was consistent with the design principles of the Prairie School, emulating the flatness of the plains and the natural limestone outcroppings of the Driftless Area. The house was completed in 1911... Taliesin was donated to the Frank Lloyd Wright Foundation upon Wright's death in 1959. This organization oversaw renovations to the estate and now operates it as a museum. The property was designated a National Historic Landmark in 1976..." -- http://en.wikipedia.org/wiki/Taliesin_%28studio%29 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>design studios</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>museums</dcterms:subject>
+   <dcterms:subject>landscaping</dcterms:subject>
+   <dcterms:subject>roads</dcterms:subject>
+   <dcterms:spatial>Route 23, Spring Green, Sauk, Wisconsin, United States</dcterms:spatial>
+   <dcterms:spatial>43.14153, -90.07091</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/01/16/13/b77420b0-be68-477a-976c-9ee98b0a8e80_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8244984</edm:isShownAt>
+</mdRecord>

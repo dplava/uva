@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:44 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2966756</dcterms:identifier>
+   <dcterms:title>Horniman Museum, detail view</dcterms:title>
+   <dcterms:creator>Townsend, Charles Harrison (British architect, 1851-1928) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1992</dcterms:created>
+   <dcterms:description>Dedicatory Plaque</dcterms:description>
+   <dcterms:description>The museum was commissioned in 1898 and founded in 1901 by Frederick John Horniman, who had inherited his father's Horniman's Tea business, which by 1891 had become the world's biggest tea trading business. The cash from the business allowed Horniman to indulge his lifelong passion for collecting, and which after travelling extensively had some 30,000 items in his various collections, ranging from natural history, cultural artefacts and musical instruments. -- http://en.wikipedia.org/wiki/Horniman_museum [work]</dcterms:description>
+   <dcterms:description>English</dcterms:description>
+   <dcterms:description>Arts and Crafts (movement)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>institutions</dcterms:subject>
+   <dcterms:subject>public buildings</dcterms:subject>
+   <dcterms:subject>metalwork</dcterms:subject>
+   <dcterms:subject>inscriptions</dcterms:subject>
+   <dcterms:subject>pilasters</dcterms:subject>
+   <dcterms:subject>canopies (structural elements)</dcterms:subject>
+   <dcterms:spatial>100 London Road, London, Greater London, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>51.440556, -0.060833</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/06/05/14/e4b34631-13bd-4539-a67a-d103cf255705_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2966756</edm:isShownAt>
+</mdRecord>

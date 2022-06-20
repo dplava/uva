@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:49 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1002819</dcterms:identifier>
+   <dcterms:title>Les oeuures et meslanges poetiques d'Estienne Iodelle, sieur du Lymodin, Premier volume</dcterms:title>
+   <dcterms:title>Oeuvres et meslanges poetiques d'Estienne Iodelle, sieur de Lymodin</dcterms:title>
+   <dcterms:title>Jodelle, Etienne, 1532-1573. Selections. 1574</dcterms:title>
+   <dcterms:creator>Capé, Charles-François, 1806-1867</dcterms:creator>
+   <dcterms:creator>Chesneau, Nicolas, -1584</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Jodelle, Etienne, 1532-1573</dcterms:creator>
+   <dcterms:creator>La Mothe, Charles de.</dcterms:creator>
+   <dcterms:publisher>Chez Nicolas Chesneau, rue sainct Iacques ... et Mamert Patisson, rue sainct Iean de Beauuais ...</dcterms:publisher>
+   <dcterms:created>1574</dcterms:created>
+   <dcterms:extent>[8], 308 (i.e. 310), [2] leaves</dcterms:extent>
+   <dcterms:extent>24 cm. (4to) [original]</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>No more published, according to Brunet.</dcterms:description>
+   <dcterms:description>Signatures: ã⁴ ẽ⁴ a-z⁴ A-Zz⁴ AA-II⁴.</dcterms:description>
+   <dcterms:description>Error in foliation: nos. 291-292 repeated.</dcterms:description>
+   <dcterms:description>"De la poesie françoise et des oeuures d'Estienne Iodelle, sieur du Lymodin / [par Charles de la Mothe]: leaves ã2-ẽ3.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Capé. Bookplate of Louis Barthou. Ownership stamp of Paul Adam. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 120.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:849259/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002819</edm:isShownAt>
+</mdRecord>

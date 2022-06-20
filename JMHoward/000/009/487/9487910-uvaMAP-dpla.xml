@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 2:44 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9487910</dcterms:identifier>
+   <dcterms:title>Pavilion IV, exterior|detail view</dcterms:title>
+   <dcterms:title>Pavilion 4</dcterms:title>
+   <dcterms:title>Pavilion Four</dcterms:title>
+   <dcterms:creator>Jefferson, Thomas (American statesman, architect, and draftsman, 1743-1826) [architect]</dcterms:creator>
+   <dcterms:creator>Palazzo, Clay S. [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1997-12-10</dcterms:created>
+   <dcterms:medium>carpentry ; brick (clay product); masonry [work]</dcterms:medium>
+   <dcterms:description>Workers painting new ceiling under balcony</dcterms:description>
+   <dcterms:description>As part of Jefferson's design for UVA's Academical Village, professors lived and taught in unique Pavilions, which each served as a distinct model of architectural ideals. Pavilion Four features a three-bay facade with heavily ornamented portico, entablature, and columns inspired by, as Jefferson noted, the Doric Order of the Roman Temple at Albano. The first resident was Professor of Modern Languages, George Blaettermann. From 1904 until 1950, Pavilion Four housed the office of the University President. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:description>Federal</dcterms:description>
+   <dcterms:description>Palladian</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>faculty housing</dcterms:subject>
+   <dcterms:subject>classrooms</dcterms:subject>
+   <dcterms:subject>Blaetterman, George (German university professor, ca. 1779-1850)</dcterms:subject>
+   <dcterms:subject>balconies</dcterms:subject>
+   <dcterms:subject>ceilings</dcterms:subject>
+   <dcterms:subject>painters (tradespeople)</dcterms:subject>
+   <dcterms:subject>architectural conservation</dcterms:subject>
+   <dcterms:subject>renovation</dcterms:subject>
+   <dcterms:spatial>West Lawn, Charlottesville, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.035552, -78.503859</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2021/10/25/15/79cb996b-a9b3-4c6e-ad79-d6cd7c683db2_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9487910</edm:isShownAt>
+</mdRecord>

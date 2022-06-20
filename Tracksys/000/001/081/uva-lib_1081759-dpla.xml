@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:19 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1081759</dcterms:identifier>
+   <dcterms:title>Map of Clay County W. Va / compiled by H. B. Davenport, 1907</dcterms:title>
+   <dcterms:creator>Davenport, Henry B. (Henry Bedinger), 1865-1958</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined, 1907</dcterms:publisher>
+   <dcterms:created>1907</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>90 x 125 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief not shown.</dcterms:description>
+   <dcterms:description>Oriented with north to the upper right.</dcterms:description>
+   <dcterms:description>"This is the first and only map of Clay County ever made."</dcterms:description>
+   <dcterms:description>N.B. This map shows all the large tracts and about four fifths of the small tracts. It was compiled from a large number of independent maps of the various tracts, and is therefore subject to errors contained in those maps.</dcterms:description>
+   <dcterms:description>Map shows major landowners, businesses, roads, waterways, and districts.</dcterms:description>
+   <dcterms:description>Scale not determined, "1 in. = 200 ps."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Real property--West Virginia--Clay County--Maps.</dcterms:subject>
+   <dcterms:subject>Clay County (W. Va.)--Maps.</dcterms:subject>
+   <dcterms:spatial>Clay County</dcterms:spatial>
+   <dcterms:spatial>Clay County (W. Va.)</dcterms:spatial>
+   <dcterms:spatial>West Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1086300/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1081759</edm:isShownAt>
+</mdRecord>

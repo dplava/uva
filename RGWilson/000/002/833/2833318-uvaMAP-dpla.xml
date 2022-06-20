@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:43 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2833318</dcterms:identifier>
+   <dcterms:title>Boston Avenue Methodist Church, exterior</dcterms:title>
+   <dcterms:creator>Goff, Bruce Alonzo (American architect, 1904-1982) [work]</dcterms:creator>
+   <dcterms:creator>Robinson, Adah Matilda (American painter, printmaker, teacher, 1882-1962) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1990-11</dcterms:created>
+   <dcterms:medium>Indiana limestone; Minnesota red granite [work]</dcterms:medium>
+   <dcterms:description>View Above Entryway</dcterms:description>
+   <dcterms:description>The design of the church is credited to two individuals, Adah Robinson and Bruce Goff. Robinson sketched the original ideas for the church. Bruce Goff, formerly one of her high school students, then took the sketches and came up with the design for the church. Officially, the architecture firm credited is Rush, Endacott and Rush where Goff apprenticed and became a partner in 1930. There is still some debate over who was more responsible for the building. The church credits Adah Robinson with the design of this building, while Goff experts maintain that it is clearly his design. The original building consisted of a semicircular auditorium, a soaring 225-foot (68.5 m) tower, and a wing containing class rooms. At the top of the tower is a stylized sculpture that represents two hands raised upward in prayer. This motif of praying hands is one that is echoed throughout the building and is one of the areas of design that can be traced back to the early drawings by Robinson. While the building is in many ways unique, the idea of the large, semi-circular main auditorium has an earlier precursor in another Methodist church, Louis Sullivan's St. Paul's Methodist Church, designed in 1910 and built, somewhat modified, in Cedar Rapids, Iowa in 1914. The church was built by W. S. Bellows Construction Corporation. In 1993, murals were installed on the 100th anniversary of the founding of the congregation. They were designed by Chicago artist Angelo Gherardi who continued the Art Deco design to be consistent with the building's interior and exterior design. The construction of a Columbarium, designed by Tulsa architect Roger Coffey, inside the building was completed in 2000. It allowed for the cremains of church members and their immediate family members to be interred there. The columbarium contains a 6-foot (1.8 m) by 25-foot (7.6 m) cut glass window created by Richard Bohm of the Tulsa Stained Glass company. A stone from the Boston Avenue United Methodist Church is one of the stones embedded in the walls of the Chicago Tribune Building, along with over 100 others picked from historic buildings and famous sites from around the world. In 1978 the building was listed on the National Register of Historic Places and was designated as a National Historic Landmark in 1999. -- http://en.wikipedia.org/wiki/Boston_Avenue_Methodist_Church [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Art Deco</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>historic buildings</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Methodist</dcterms:subject>
+   <dcterms:subject>battlements</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:subject>finials</dcterms:subject>
+   <dcterms:subject>crocket</dcterms:subject>
+   <dcterms:subject>metalwork</dcterms:subject>
+   <dcterms:subject>architectural terracotta</dcterms:subject>
+   <dcterms:subject>sculpture (visual works)</dcterms:subject>
+   <dcterms:subject>motifs</dcterms:subject>
+   <dcterms:subject>foliation (pattern)</dcterms:subject>
+   <dcterms:spatial>1301 South Boston Avenue, Tulsa, Oklahoma, United States</dcterms:spatial>
+   <dcterms:spatial>36.143931, -95.984695</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/04/17/12/0d7a068c-50e5-4d9c-ac83-cce439ae4fd1_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2833318</edm:isShownAt>
+</mdRecord>

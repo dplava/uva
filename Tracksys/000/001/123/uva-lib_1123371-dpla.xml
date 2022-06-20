@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:40 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1123371</dcterms:identifier>
+   <dcterms:title>April = Aprile : melodie / by F. Paolo Tosti ; English version by J. Wrey Mould ; [from the Italian of R.E. Pagliara]</dcterms:title>
+   <dcterms:title>Aprile</dcterms:title>
+   <dcterms:title>Dost thou not feel how balmy</dcterms:title>
+   <dcterms:title>Non senti tu ne l'aria</dcterms:title>
+   <dcterms:title>Tosti, F. Paolo (Francesco Paolo), 1846-1916. Aprile. English &amp; Italian</dcterms:title>
+   <dcterms:creator>Mould, J. Wrey (Jacob Wrey), 1825-1886</dcterms:creator>
+   <dcterms:creator>Pagliara, R. E.</dcterms:creator>
+   <dcterms:creator>Tosti, F. Paolo (Francesco Paolo), 1846-1916</dcterms:creator>
+   <dcterms:publisher>Wm. A. Pond &amp; Co.</dcterms:publisher>
+   <dcterms:created>1884</dcterms:created>
+   <dcterms:extent>1 score (9 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Pagliara, R. E--Musical settings.</dcterms:subject>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1123372/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1123371</edm:isShownAt>
+</mdRecord>

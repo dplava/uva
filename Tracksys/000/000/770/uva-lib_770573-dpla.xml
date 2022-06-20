@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 2:47 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:770573</dcterms:identifier>
+   <dcterms:title>Le pacifique: Colloque de deux Francois, auquel il est monstré cōbien est deplorable l'horrible effusion de sang Chrestien, qui se fait par toute l'Europe passé tant d'annees sous titre de religiō: quel accord se pourroit trouuer entre les Chrestiens, s'ils se vouloyēt escouter l'vn l'autre en vn Concile libre &amp; legitime / Recuilli de diuers autheur par Theophile Friderick</dcterms:title>
+   <dcterms:title>Sermon du Cordelier aux soldats</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Friderick, Theophile.</dcterms:creator>
+   <dcterms:creator>Lortic, Marcelin, 1822-1892</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1590</dcterms:created>
+   <dcterms:extent>74 p., [1] leaf, 11 p.</dcterms:extent>
+   <dcterms:extent>18 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Title continued: Et combien il seroit necessaire, apres tant de miseres, de penser aux moyens de reunir la Chrestienté affin de conuertir vnanimement leurs forces à reduire ou reprimer les Turcs &amp; autres ennemis ouuerts de Iesus Christ, &amp; de son Eglise Chrestienne &amp; Catholique.</dcterms:description>
+   <dcterms:description>Signatures: A-E⁸ F⁴.</dcterms:description>
+   <dcterms:description>Special t.p. for: Sermon du Cordelier aux soldats: ; ensemble la response des soldats au Cordelier. / Recuellis de plusieurs bons autheurs Catholiques.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Lortic. Monogram ownership stamp, "CM", C. Mouravit. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 328.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Catholic Church--Doctrines.</dcterms:subject>
+   <dcterms:subject>Christianity--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Protestantism</dcterms:subject>
+   <dcterms:subject>Reformation</dcterms:subject>
+   <dcterms:subject>France--History--Wars of the Huguenots, 1562-1598.</dcterms:subject>
+   <dcterms:temporal>Wars of the Huguenots, 1562-1598.</dcterms:temporal>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:859457/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770573</edm:isShownAt>
+</mdRecord>

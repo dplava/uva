@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 2:08 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:614209</dcterms:identifier>
+   <dcterms:title>Bref et sommaire recueil de ce qui a esté faict, &amp; de l'ordre tenüe à la ioyeuse &amp; triumphante entree de tres-puissant, tres-magnanime &amp; tres-chrestien Prince Charles IX. de ce nom Roy de France, en sa bonne ville &amp; cité de Paris, capitale de son Royaume, le Mardy sixiesme iour de Mars: Auec le couronnement de tres-haute, tres-illustre &amp; tres-excellente Princesse Madame Elizabet d'Austriche son espouse, le Dimanche vingtcinquiesme</dcterms:title>
+   <dcterms:creator>Bouquet, Simon, active 16th century</dcterms:creator>
+   <dcterms:creator>Codoré, Olivier.</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Du Pré, Denys, active 1562-1594</dcterms:creator>
+   <dcterms:creator>Niédrée, Jean-Edouard, 1803-1854</dcterms:creator>
+   <dcterms:publisher>De l'imprimerie de Denis du Pré, pour Oliuier Codoré, rüe Guillaume Iosse, au Heraut d'armes, pres la rüe des Lombars</dcterms:publisher>
+   <dcterms:created>1572</dcterms:created>
+   <dcterms:extent>53, [1], 10, 26, [1] leaves, [2] folded leaves of plates</dcterms:extent>
+   <dcterms:extent>26 cm. (4to) [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Title concluded: Et entree de ladicte dame en icelle ville le Ieudi XXIX. dudict mois de Mars, M.D.LXXXI.</dcterms:description>
+   <dcterms:description>Signatures: A-N⁴ O² a-b⁴ c² A-G⁴ (leaf G4 is blank)</dcterms:description>
+   <dcterms:description>Special title page and separate pagination for: C'est l'ordre et forme qui a este tenu au sacre &amp; couronnement de tres-haute, tres-excellente, &amp; tres-puissante princesse Madame Elizabet d'Austriche Roine de France: faict en l'Eglise de l'Abbaie sainct Denis en France le vingt cinquiesme iour de Mars, 1571. -- A Paris : De l'imprimerie de Denis du Pré, pour Oliuier Codoré ..., 1571.</dcterms:description>
+   <dcterms:description>With 16 full page woodcuts (including 2 plates) by Olivier Codoré, who is named in the Extraict du priuilege.</dcterms:description>
+   <dcterms:description>Leaves I2 and I3 are in their original state, leaf I2 with a foliated headpiece with small dolphin heads, and leaf I3 incorrectly signed Liij; on leaf G3r (3rd group) the description of Bouquet's responsibility for the text is printed in roman letters; without the 9 leaves of verse by Pasquier. -- Cf. Mortimer, R. French 16th cent. books, no. 205-206.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Notes in an unidentified hand on end flyleaf. Binder: Niedrée. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 511.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Charles, IX, King of France, 1550-1574</dcterms:subject>
+   <dcterms:subject>Elisabeth, of Austria, Queen, consort of Charles IX, King of France, 1554-1592</dcterms:subject>
+   <dcterms:subject>Coronations--France.</dcterms:subject>
+   <dcterms:subject>France--History--Charles IX, 1560-1574.</dcterms:subject>
+   <dcterms:temporal>Charles IX, 1560-1574.</dcterms:temporal>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:614221/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:614209</edm:isShownAt>
+</mdRecord>

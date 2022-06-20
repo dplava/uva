@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:47 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66204</dcterms:identifier>
+   <dcterms:title>Officina brevium: select and approved forms of judicial writs, and other process : with their retorns and entries in the Court of Common Pleas at Westminster, as also special pleadings to writs of scire facias / collected out of many choice manuscripts by several eminent clerks and practicers of the said court</dcterms:title>
+   <dcterms:creator>Great Britain. Court of Common Pleas.</dcterms:creator>
+   <dcterms:publisher>Printed by G. Sawbridge, W. Rawlins, and S. Roycroft, assigns of R. and E. Atkins for T. Basset</dcterms:publisher>
+   <dcterms:created>1679</dcterms:created>
+   <dcterms:extent>[6], 414, [28] p.</dcterms:extent>
+   <dcterms:extent>30 cm. [original]</dcterms:extent>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Writs--Great Britain.</dcterms:subject>
+   <dcterms:subject>Scire facias</dcterms:subject>
+   <dcterms:spatial>Great Britain.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2580897/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66204</edm:isShownAt>
+</mdRecord>

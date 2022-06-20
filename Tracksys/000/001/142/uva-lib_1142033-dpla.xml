@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 6:48 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1142033</dcterms:identifier>
+   <dcterms:title>Take me back to home &amp; mother: song and chorus / music by William A. Huntley ; words by Arthur W. French</dcterms:title>
+   <dcterms:title>Take me back to home and mother</dcterms:title>
+   <dcterms:creator>French, Arthur W.</dcterms:creator>
+   <dcterms:creator>Hunter, Thomas (Lithographer)</dcterms:creator>
+   <dcterms:creator>Huntley, William A.</dcterms:creator>
+   <dcterms:publisher>Cory Bros.</dcterms:publisher>
+   <dcterms:created>1875</dcterms:created>
+   <dcterms:extent>1 score ([5] p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, mixed chorus (4), piano</dcterms:description>
+   <dcterms:description>For voice and piano; with chorus refrain (SATB).</dcterms:description>
+   <dcterms:description>At foot of title page: "Thos. Hunter Lith. Phila."</dcterms:description>
+   <dcterms:description>Illustration: Man sitting by the side of the road with seperate scene of a house inset.</dcterms:description>
+   <dcterms:description>Advertisement on p. [2]: Beautiful songs / by the eminent composer John T. Rutledge.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
+   <dcterms:subject>Homesickness--Songs and music.</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1142034/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1142033</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:28 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>271161</dcterms:identifier>
+   <dcterms:title>The Amazon, general view</dcterms:title>
+   <dcterms:title>Fighting Amazonian Woman</dcterms:title>
+   <dcterms:title>Kämpfende Amazone</dcterms:title>
+   <dcterms:creator>Kiss, August Karl Eduard (German sculptor, 1802-1865) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1983</dcterms:created>
+   <dcterms:description>From below</dcterms:description>
+   <dcterms:description>Located at the right side of the main entry of the Altes Museum. The statue on the opposite side, "Löwenkämpfer" ("Lion-fighter"), by Albert Wolff, was not added until 1861. - http://en.wikipedia.org/wiki/Altes_Museum [work]</dcterms:description>
+   <dcterms:description>German</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Sculpture and Installations</dcterms:subject>
+   <dcterms:subject>statues</dcterms:subject>
+   <dcterms:subject>equestrian statues</dcterms:subject>
+   <dcterms:subject>Amazons</dcterms:subject>
+   <dcterms:subject>plinths</dcterms:subject>
+   <dcterms:spatial>Berlin, Germany</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/11/16/15/bb6c11d9-e056-4eff-80d3-2ed52319a531_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_271161</edm:isShownAt>
+</mdRecord>

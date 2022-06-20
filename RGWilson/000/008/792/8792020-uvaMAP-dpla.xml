@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:49 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8792020</dcterms:identifier>
+   <dcterms:title>Little Thakeham, exterior|general view</dcterms:title>
+   <dcterms:creator>Lutyens, Edwin (English architect, 1869-1944) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1981</dcterms:created>
+   <dcterms:medium>Sussex marble; stone (rock); tile [work]</dcterms:medium>
+   <dcterms:description>Rear and garden facade, showing hall bay facing East</dcterms:description>
+   <dcterms:description>The property was designed by Sir Edwin Lutyens in the medieval vernacular style for wine importer Ernest Blackburn. Completed in 1903 and covering 12,500 square feet (1,160 m2), it is considered one of Lutyens best private houses. Laid out in a H-shape, it has a Cotswolds manor style about it, but using locally mined course-stone which has weathered quickly to give the house externally a 16th-century look. The house consists of two storys plus an attic, with two wings, to provide 9 bedrooms of accommodation. In the centre is a five-sided bay with 5 windows which lights the music room and main staircase. The property is surrounded by a large formal garden, and a small informal estate which includes an orchard. -- http://en.wikipedia.org/wiki/Little_Thakeham [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>housing (concept)</dcterms:subject>
+   <dcterms:subject>landscape architecture</dcterms:subject>
+   <dcterms:subject>landscape gardens</dcterms:subject>
+   <dcterms:subject>formal gardens</dcterms:subject>
+   <dcterms:subject>gables (architectural elements)</dcterms:subject>
+   <dcterms:subject>windows</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:subject>steps</dcterms:subject>
+   <dcterms:subject>bay windows</dcterms:subject>
+   <dcterms:subject>single-hung windows</dcterms:subject>
+   <dcterms:subject>rustication</dcterms:subject>
+   <dcterms:spatial>Strawberry Lane, Thakeham, Storrington, West Sussex, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>50.9304, 0.4232</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/02/26/11/7652c6f4-5a9d-4745-af67-870f7b799eb5_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8792020</edm:isShownAt>
+</mdRecord>

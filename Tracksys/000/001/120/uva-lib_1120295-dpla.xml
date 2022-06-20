@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:29 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1120295</dcterms:identifier>
+   <dcterms:title>What's in a kiss / written and sung by W.J. Scanlan in his new drama The Irish minstrel</dcterms:title>
+   <dcterms:title>Turn not away, turn not away</dcterms:title>
+   <dcterms:title>Scanlan, Wm. J. (William James), 1856-1898. Irish minstrel. What's in a kiss</dcterms:title>
+   <dcterms:creator>Scanlan, Wm. J. (William James), 1856-1898</dcterms:creator>
+   <dcterms:publisher>T. B. Harms &amp; Co.</dcterms:publisher>
+   <dcterms:created>1883</dcterms:created>
+   <dcterms:extent>1 vocal score (5 p.)</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Love songs</dcterms:subject>
+   <dcterms:subject>Musicals--Excerpts--Vocal scores with piano.</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1120296/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1120295</edm:isShownAt>
+</mdRecord>

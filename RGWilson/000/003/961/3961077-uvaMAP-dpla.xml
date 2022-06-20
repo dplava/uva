@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:46 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>3961077</dcterms:identifier>
+   <dcterms:title>Riverside YWCA, exterior</dcterms:title>
+   <dcterms:title>Riverside Art Museum</dcterms:title>
+   <dcterms:creator>Morgan, Julia (American architect, 1872-1957) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1929</dcterms:created>
+   <dcterms:medium>reinforced concrete [work]</dcterms:medium>
+   <dcterms:description>Detail of wing</dcterms:description>
+   <dcterms:description>Built in 1929 in a unique mixture of Mediterranean and Classical revival styles, the Riverside YWCA on the corner of Lime and Mission Inn incorporated practicality, convenience, and elegant simplicity in an innovative tri-block design, constructed with reinforced, poured-in-place concrete. This design is unique among the 17 YWCA's Morgan designed. The movement and interest created by the tri-block design works not only on the exterior of the building, but also on the two interior floors. Originally, the first floor housed an indoor swimming pool, dressing rooms, and showers with an entrance lobby that faced out onto an open atrium garden. A large gymnasium and stage occupied the remaining ground-floor space. The second floor contained bedrooms, offices, and a versatile meeting room with a small stage. Concealed stairs led to a roof garden that featured an outdoor fireplace, an expansive view of downtown Riverside, and ample space for badminton games. Morgan's building successfully functioned as Riverside's YWCA for nearly 40 years. The building’s distinctive architecture as a work of art in its own right brought it to the attention of the Riverside Art Center in the 1960s. Purchased from the YWCA on July 5, 1967, Morgan’s building became the proud home of the Riverside Art Museum. -- http://www.riversideartmuseum.org/about/julia-morgan/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Classical Revival (European revival style)</dcterms:description>
+   <dcterms:description>Mediterranean</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>art museums</dcterms:subject>
+   <dcterms:subject>YWCA of the U.S.A.</dcterms:subject>
+   <dcterms:subject>loggias</dcterms:subject>
+   <dcterms:subject>quoins</dcterms:subject>
+   <dcterms:spatial>3425 Mission Inn Avenue, Riverside, California, United States</dcterms:spatial>
+   <dcterms:spatial>33.981722, -117.370472</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/11/19/12/bfe5994a-ab7d-419f-b694-1e4fc9fa4b4f_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_3961077</edm:isShownAt>
+</mdRecord>

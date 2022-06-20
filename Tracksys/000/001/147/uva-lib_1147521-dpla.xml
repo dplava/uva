@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 7:12 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1147521</dcterms:identifier>
+   <dcterms:title>Sword of Ferrara: (Ferrara made and fashioned me, in Cordova, in Spain!) / Frederic Field Bullard ; [words by] William McLennan, from Harper's magazine</dcterms:title>
+   <dcterms:creator>Bullard, Frederic Field, 1864-1904</dcterms:creator>
+   <dcterms:creator>McLennan, William.</dcterms:creator>
+   <dcterms:publisher>G. Schirmer, Jr.</dcterms:publisher>
+   <dcterms:publisher>Boston Music Co.</dcterms:publisher>
+   <dcterms:created>1899</dcterms:created>
+   <dcterms:extent>1 score (9 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, bass voice</dcterms:description>
+   <dcterms:description>Bass B♭.</dcterms:description>
+   <dcterms:description>For bass voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [2]: Bass, baritone &amp; tenor songs. On p. [10]: The renaissance of the vocal art. On p. [11]: New music by standard and modern composers. On p. [12]: Favorite songs and ballads / by well-known composers.</dcterms:description>
+   <dcterms:isPartOf>Compositions / by Frederic Field Bullard</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:subject>Swords--Songs and music.</dcterms:subject>
+   <dcterms:subject>Córdoba (Spain)--Songs and music.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>Córdoba (Spain)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1147522/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1147521</edm:isShownAt>
+</mdRecord>

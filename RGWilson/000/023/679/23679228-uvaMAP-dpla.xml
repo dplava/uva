@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:55 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>23679228</dcterms:identifier>
+   <dcterms:title>Church of the Angels, general view</dcterms:title>
+   <dcterms:creator>Coxhead, Ernest Albert (English architect, 1863-1933, active in the United States) [work]</dcterms:creator>
+   <dcterms:creator>Street, Arthur Edmund (English architect, 1855-1938) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1990</dcterms:created>
+   <dcterms:medium>sandstone [work]</dcterms:medium>
+   <dcterms:description>Angel lectern</dcterms:description>
+   <dcterms:description>English</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Romanesque Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Episcopal</dcterms:subject>
+   <dcterms:spatial>1100 Avenue 64, Pasadena, Los Angeles, California, United States</dcterms:spatial>
+   <dcterms:spatial>34.125529, -118.176183</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2018/08/24/10/360844cc-9be3-48c9-8af5-976c53a5d5ef_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_23679228</edm:isShownAt>
+</mdRecord>

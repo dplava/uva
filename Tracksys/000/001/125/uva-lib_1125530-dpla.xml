@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 5:50 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1125530</dcterms:identifier>
+   <dcterms:title>March from Moses in Egypt / C. Czerny</dcterms:title>
+   <dcterms:title>Rossini, Gioacchino, 1792-1868. Mosè in Egitto. March; arr.</dcterms:title>
+   <dcterms:creator>Czerny, Carl, 1791-1857</dcterms:creator>
+   <dcterms:creator>Rossini, Gioacchino, 1792-1868</dcterms:creator>
+   <dcterms:publisher>Balmer &amp; Weber</dcterms:publisher>
+   <dcterms:created>[1846..1907]</dcterms:created>
+   <dcterms:extent>5 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:isPartOf>Popular airs in form of easy rondos / composed and fingered for the piano forte by Charles Czerny ; no. 7</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music, Arranged</dcterms:subject>
+   <dcterms:subject>Marches (Piano), Arranged</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1125531/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125530</edm:isShownAt>
+</mdRecord>

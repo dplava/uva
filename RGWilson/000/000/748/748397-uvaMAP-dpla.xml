@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>748397</dcterms:identifier>
+   <dcterms:title>Mutual Assurance Building, exterior</dcterms:title>
+   <dcterms:title>Vzajemna Insurance Company Building</dcterms:title>
+   <dcterms:creator>Plečnik, Jože (Slovene architect, 1872-1957) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1983</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Upper level of building</dcterms:description>
+   <dcterms:description>In Ljubljana, the capital of Slovenia, he built many public buildings such as National and University Library, Mutual Assurance Building, Triple Bridge etc. and planned the development of the evolving city. http://www.worldarchitecture.org/404.asp?404;http://www.worldarchitecture.org:80/world-architects/cez/joze-plecnik-slovenia-architecture-pages.html [work]</dcterms:description>
+   <dcterms:description>Slovene</dcterms:description>
+   <dcterms:description>Classical Revival (European revival style)</dcterms:description>
+   <dcterms:description>Modern (styles and periods)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>insurance</dcterms:subject>
+   <dcterms:subject>public buildings</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>windows</dcterms:subject>
+   <dcterms:subject>figures (representations)</dcterms:subject>
+   <dcterms:subject>dentils</dcterms:subject>
+   <dcterms:spatial>Miklošičeva Street 19, Ljubljana, miscellaneous/Slovenia, Slovenia</dcterms:spatial>
+   <dcterms:spatial>46.057295, 14.508222</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/09/11/12/24f533de-cbdb-4083-9cde-beead0c4108b_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_748397</edm:isShownAt>
+</mdRecord>

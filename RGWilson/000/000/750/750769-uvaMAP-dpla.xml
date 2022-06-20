@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>750769</dcterms:identifier>
+   <dcterms:title>Ohrstrom Library, interior</dcterms:title>
+   <dcterms:creator>Stern, Robert A. M. (American architect and art historian, born 1939) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2003</dcterms:created>
+   <dcterms:description>General view</dcterms:description>
+   <dcterms:description>Located on the shore of the Lower School Pond, Ohrstrom Library, designed by Robert A.M. Stern, opened in January 1991 and provides the community with a dynamic and hospitable environment for study, research, and reflection. At 32,000 square feet, the spacious Library can comfortably seat more than 250 students at a time. http://library.sps.edu/about/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Postmodern</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>academic libraries</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>stairwells</dcterms:subject>
+   <dcterms:subject>panels (surface components)</dcterms:subject>
+   <dcterms:subject>chandeliers (hanging lights)</dcterms:subject>
+   <dcterms:subject>balusters (railing components)</dcterms:subject>
+   <dcterms:subject>ribbed vaults</dcterms:subject>
+   <dcterms:spatial>325 Pleasant Street, Concord, Merrimack, New Hampshire, United States</dcterms:spatial>
+   <dcterms:spatial>43.197152, -71.573632</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/09/13/14/20c350c4-ccb2-45a4-a39a-8bbca953977d_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_750769</edm:isShownAt>
+</mdRecord>

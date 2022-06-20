@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:40 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2054829</dcterms:identifier>
+   <dcterms:title>Ethyl Corporation Corporate Office Building, exterior|general view</dcterms:title>
+   <dcterms:creator>Carneal, Johnston and Wright (American architectural firm, 20th century) [work]</dcterms:creator>
+   <dcterms:creator>Kling, Vincent G. (American architect, born 1916) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1954..1989]</dcterms:created>
+   <dcterms:description>South facade</dcterms:description>
+   <dcterms:description>1954–1956, 1985, Carneal and Johnston. 1989, pavilion addition, Vincent Kling and Associates. -- https://sah-archipedia.org/buildings/VA-01-RI111 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Palladian</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>office buildings</dcterms:subject>
+   <dcterms:subject>Ethyl Corporation</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>porticoes</dcterms:subject>
+   <dcterms:subject>pediments</dcterms:subject>
+   <dcterms:subject>arcades (structural assemblies)</dcterms:subject>
+   <dcterms:spatial>330 S 4th Street, Richmond, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/03/01/19/b7e24072-1dc4-4cf0-b4a9-d01d2d37a70c_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2054829</edm:isShownAt>
+</mdRecord>

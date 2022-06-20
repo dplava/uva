@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 6:12 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1133848</dcterms:identifier>
+   <dcterms:title>Welcome child again: ballad / written by J.M. Yardley, Esqr. ; music by J.T. Gosden</dcterms:title>
+   <dcterms:title>Do you think of me dear sister</dcterms:title>
+   <dcterms:creator>Barling, P. Blanche</dcterms:creator>
+   <dcterms:creator>Gillingham, Edwin</dcterms:creator>
+   <dcterms:creator>Gosden, J. T.</dcterms:creator>
+   <dcterms:creator>Webb, L. W.</dcterms:creator>
+   <dcterms:creator>Yardley, J. M.</dcterms:creator>
+   <dcterms:publisher>Miller &amp; Beacham, successors to F.D. Benteen</dcterms:publisher>
+   <dcterms:created>1857</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>"Webb"--Colophon.</dcterms:description>
+   <dcterms:description>At foot of title page: "Gillingham."</dcterms:description>
+   <dcterms:description>At head of title: "To Miss P. Blanche Barling."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:subject>Families--Songs and music.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1133849/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1133848</edm:isShownAt>
+</mdRecord>

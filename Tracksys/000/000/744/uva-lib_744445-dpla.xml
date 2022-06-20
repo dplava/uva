@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 2:45 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:744445</dcterms:identifier>
+   <dcterms:title>Map of Virginia / by Jed. Hotchkiss, Top. Eng., Staunton, Va., 1874 ; Department of Agriculture, G.W. Koiner, commissioner ; lith. by A. Hoen &amp; Co., Richmond, Va</dcterms:title>
+   <dcterms:creator>A. Hoen &amp; Co.</dcterms:creator>
+   <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+   <dcterms:creator>Koiner, George W. (George Wellington), 1852-1939</dcterms:creator>
+   <dcterms:creator>Virginia. Department of Agriculture</dcterms:creator>
+   <dcterms:publisher>Va. Dept. of Agriculture?], c1875.</dcterms:publisher>
+   <dcterms:created>1875</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>25 x 50 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Shows the natural divisions in color: Tidewater, Middle, Piedmont, Blue Ridge, Valley, Appalacia.</dcterms:description>
+   <dcterms:description>Includes inset of untitled regional location map.</dcterms:description>
+   <dcterms:description>Copyright 1875 by Jed. Hotchkiss in lower left corner.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Hotchkiss B; not listed in Swem, E.G. Maps relating to Virginia. Copy 1 mounted on linen; copy 2 has front cover labelled Virginia attached to its verso.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,512,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Physical geography--Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Virginia--Maps, Physical.</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:744855/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:744445</edm:isShownAt>
+</mdRecord>

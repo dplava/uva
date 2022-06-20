@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 6:28 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1137169</dcterms:identifier>
+   <dcterms:title>This afternoon at four / arranged by Max Freeman</dcterms:title>
+   <dcterms:title>This afternoon at four Simon waits at my door</dcterms:title>
+   <dcterms:title>Jakobowski, Edward, 1858-1927. Erminie. This afternoon at four.</dcterms:title>
+   <dcterms:creator>Bellamy, Claxson</dcterms:creator>
+   <dcterms:creator>Freeman, Max</dcterms:creator>
+   <dcterms:creator>Jakobowski, Edward, 1858-1927</dcterms:creator>
+   <dcterms:creator>Jansen, Marie, 1857-1914</dcterms:creator>
+   <dcterms:creator>Paulton, Harry, 1842-1917</dcterms:creator>
+   <dcterms:publisher>Richard A. Saalfield</dcterms:publisher>
+   <dcterms:created>1888</dcterms:created>
+   <dcterms:extent>1 vocal score (7 p.).</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>Excerpt from the comic opera; orchestral acc. arr. for piano.</dcterms:description>
+   <dcterms:description>Libretto by Harry Paulton and Claxson Bellamy. Cf. Gänzl, Encyclopedia of the musical theatre.</dcterms:description>
+   <dcterms:description>At head of title: "Miss Marie Jansen's famous song from Erminie."</dcterms:description>
+   <dcterms:description>"By permission of Rudoph Aronson."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1137170/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1137169</edm:isShownAt>
+</mdRecord>

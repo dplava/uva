@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:42 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2668320</dcterms:identifier>
+   <dcterms:title>Church of the Holy Family, exterior|general view</dcterms:title>
+   <dcterms:title>Cahokia Catholic Church</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2004</dcterms:created>
+   <dcterms:medium>poteaux sur solle construction; half-timber construction; plaster [work]</dcterms:medium>
+   <dcterms:description>Corner view</dcterms:description>
+   <dcterms:description>"...a Roman Catholic church located in the St. Clair County, Illinois city of Cahokia. Built in 1799 to replace a similar church built in 1699, it is a log building. Constructed of black walnut timbers in the traditional French Colonial 'poteaux-sur-solle' (post-on-sill) vertical-log construction style, the Log Church is only one of five built in this style that still exist in North America. The church was declared a National Historic Landmark and added to the National Register of Historic Places in 1970. The building is located on First Street in Cahokia. Holy Family parish is the oldest continuously active Catholic Parish in the United States, having been founded in 1699 by Canadian missionaries. Roman Catholic Services are still conducted in the church." -- http://en.wikipedia.org/wiki/Church_of_the_Holy_Family_%28Cahokia,_Illinois%29 [work]</dcterms:description>
+   <dcterms:description>French</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>French Colonial</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>parish churches</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>corner (positional attribute)</dcterms:subject>
+   <dcterms:subject>plaster</dcterms:subject>
+   <dcterms:spatial>116 Church Street, Cahokia, Saint Clair, Illinois, United States</dcterms:spatial>
+   <dcterms:spatial>38.561944, -90.172778</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/04/04/10/9588baf8-8ef0-474e-b4f3-c04a6af14f45_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2668320</edm:isShownAt>
+</mdRecord>

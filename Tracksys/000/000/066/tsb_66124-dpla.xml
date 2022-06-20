@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:43 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66124</dcterms:identifier>
+   <dcterms:title>Officium clerici pacis: a book of indictments, informations, inquistions and appeals : also the manner of holding the sessions of peace : with divers other matters relating thereunto, and necessary to be known by justices and clerks of the peace, coroners, attornies and others</dcterms:title>
+   <dcterms:title>Book of indictments, informations, inquisitions and appeals</dcterms:title>
+   <dcterms:publisher>Printed by E. and R. Nutt and R. Gosling (assigns of E. Sayer, esq.), for D. Browne ... and J. Walthoe ...</dcterms:publisher>
+   <dcterms:created>1726</dcterms:created>
+   <dcterms:extent>[2], 453, [17] p.</dcterms:extent>
+   <dcterms:extent>20 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>The third edition, with large additions ..</dcterms:description>
+   <dcterms:description>Introduction in English or Latin, balance of text chiefly in Latin.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Criminal law--Great Britain.</dcterms:subject>
+   <dcterms:subject>Criminal procedure--Great Britain.</dcterms:subject>
+   <dcterms:subject>Justices of the peace--Great Britain--Handbooks, manuals, etc.</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2540261/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66124</edm:isShownAt>
+</mdRecord>

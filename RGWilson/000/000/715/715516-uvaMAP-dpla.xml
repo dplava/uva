@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>715516</dcterms:identifier>
+   <dcterms:title>Lake Eden Studies Building, exterior</dcterms:title>
+   <dcterms:creator>Kocher, Alfred Lawrence (American architect, 1885-1969) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1940..1941]</dcterms:created>
+   <dcterms:description>View from across Lake Eden</dcterms:description>
+   <dcterms:description>In the summer of 1940, faced with the necessity of a move to Lake Eden in less than a year, the college turned to A. Lawrence Kocher. The Kocher building with four wings included student studies, a large art room and an exhibition hall, a library, administration offices, faculty apartments, and "conversation rooms" for social gatherings. -- http://www.bmcproject.org/ARCHITECTURE/INTRODUCTION/INTRODUCTION.htm [work]</dcterms:description>
+   <dcterms:description>Camp Rockmont for Boys is a Christian residential boys summer camp in Black Mountain, North Carolina. Rockmont was founded in 1956 on the former campus of Black Mountain College. -- http://en.wikipedia.org/wiki/Camp_Rockmont [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Modern (styles and periods)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>summer camps</dcterms:subject>
+   <dcterms:subject>lakes (bodies of water)</dcterms:subject>
+   <dcterms:subject>mountains</dcterms:subject>
+   <dcterms:subject>trees</dcterms:subject>
+   <dcterms:subject>windows</dcterms:subject>
+   <dcterms:spatial>Lake Eden Campus, Black Mountain, Buncombe, North Carolina, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/08/21/11/677e18de-38d3-43f3-8eff-a42d674edd02_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_715516</edm:isShownAt>
+</mdRecord>

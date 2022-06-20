@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:55 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>23046967</dcterms:identifier>
+   <dcterms:title>Ettington Park, exterior|general view</dcterms:title>
+   <dcterms:title>Ettington Park Hotel</dcterms:title>
+   <dcterms:creator>Prichard, John (Welsh architect, 1817-1886) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1978</dcterms:created>
+   <dcterms:medium>limestone; ashlar; stone slates [work]</dcterms:medium>
+   <dcterms:description>From the southeast</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>High Victorian</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>hotels (public accommodations)</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>Shirley, Evelyn Philip (British politician, 1812-1882)</dcterms:subject>
+   <dcterms:spatial>Ettington, Warwickshire, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>52.1238, -1.64</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2018/06/01/15/f9a83c11-aabe-4eee-9d8c-18df62e3013f_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_23046967</edm:isShownAt>
+</mdRecord>

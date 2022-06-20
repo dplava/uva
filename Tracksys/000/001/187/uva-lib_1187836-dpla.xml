@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 7:30 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1187836</dcterms:identifier>
+   <dcterms:title>Map of Virginia: to accompany the Battle fields of Virginia ; and illustrate the operations of the Army of Northern Virginia from the Battle of Fredericksburg, 1862, to the Battle of Chancellorsville 1863 / by Jed. Hotchkiss, Top. Eng., Staunton, Va., 1866 ; prt. by J. Bien ; W.S. Barnard Sc., N.Y.</dcterms:title>
+   <dcterms:creator>Barnard, William S., approximately 1809-</dcterms:creator>
+   <dcterms:creator>Bien, Julius, 1826-1909</dcterms:creator>
+   <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+   <dcterms:publisher>Van Nostrand</dcterms:publisher>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>26 x 40 cm [original]</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:medium>one color</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>At head of title: No. 1.</dcterms:description>
+   <dcterms:description>From: The Battle-fields of Virginia. Chancellorsville / by Jed. Hotchkiss and William Allan, 1867.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Hotchkiss B; not listed in Swem, EG. Maps relating to Virginia; map torn.</dcterms:description>
+   <dcterms:description>Scale: [1:1,900,800] 30 mi. to 1 in.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Confederate States of America. Army of Northern Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Virginia--History--Civil War, 1861-1865--Maps.</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1188852/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1187836</edm:isShownAt>
+</mdRecord>

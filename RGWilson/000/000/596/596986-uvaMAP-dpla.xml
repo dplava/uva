@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>596986</dcterms:identifier>
+   <dcterms:title>Camden Harbor Park and Amphitheatre, exterior</dcterms:title>
+   <dcterms:title>Camden Harbor Park &amp; Amphitheatre</dcterms:title>
+   <dcterms:creator>Steele, Fletcher (American landscape architect, 1881-1971) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1991</dcterms:created>
+   <dcterms:description>General view</dcterms:description>
+   <dcterms:description>The grounds of the Camden Public Library create a distinctly unique, highly articulated series of landscape experiences, the centerpiece of which is a public outdoor garden amphitheater. Designed by the renowned landscape architect Fletcher Steele, this landscape is one of his best works of art. It was designed and constructed between 1928 and 1931, and funded by local patron of the arts, Mary Louise Curtis Bok. Steele’s landscape design is an important transitional composition that blends elements of the traditional Neoclassical with the ‘new’ ideas of the French Moderne (Art Deco) and successfully marries the ideals of the Renaissance Italian garden theater with the richness of Maine’s native landscape. The popularity and unique qualities of the amphitheater immediately led to the christening of the site as the “Camden Amphitheatre”. http://www.librarycamden.org/about-the-library/camden-harbor-park-amphitheatre/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>public libraries (buildings)</dcterms:subject>
+   <dcterms:subject>amphitheaters (built works)</dcterms:subject>
+   <dcterms:subject>earthworks (sculpture)</dcterms:subject>
+   <dcterms:subject>stonework</dcterms:subject>
+   <dcterms:subject>public gardens</dcterms:subject>
+   <dcterms:subject>lawns (landscaped grass)</dcterms:subject>
+   <dcterms:spatial>55 Main Street, Camden, Knox, Maine, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/07/03/14/ba4797bc-a06c-4d2e-8d8a-2de0a4768e1d_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_596986</edm:isShownAt>
+</mdRecord>

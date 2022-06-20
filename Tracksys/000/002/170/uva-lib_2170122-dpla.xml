@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 10:01 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2170122</dcterms:identifier>
+   <dcterms:title>Members of the Senate</dcterms:title>
+   <dcterms:creator>Tennessee. General Assembly. Senate.</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1847</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>21 x 17 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Counties, grouped by senatorial district, in left column, with senators' names in the right column.</dcterms:description>
+   <dcterms:description>"Session of 1847-'48" written in contemporary hand at top of sheet.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library. McGregor Fund.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Tennessee. General Assembly. Senate--Directories.</dcterms:subject>
+   <dcterms:subject>Legislative bodies--Tennessee--Directories.</dcterms:subject>
+   <dcterms:spatial>Tennessee</dcterms:spatial>
+   <dcterms:spatial>Nashville, Tennessee, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2180232/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2170122</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:53 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>19068053</dcterms:identifier>
+   <dcterms:title>Arlington Theater, exterior</dcterms:title>
+   <dcterms:title>Fox Arlington Theater</dcterms:title>
+   <dcterms:creator>Edwards and Plunkett (American architectural firm, fl. 1929) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1970?</dcterms:created>
+   <dcterms:description>Facade, street view</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Mission Style (Spanish Colonial Revival style)</dcterms:description>
+   <dcterms:description>Art Deco</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>theaters (buildings)</dcterms:subject>
+   <dcterms:subject>performing arts buildings</dcterms:subject>
+   <dcterms:subject>Twentieth Century-Fox Film Corporation</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>marquees</dcterms:subject>
+   <dcterms:subject>arcades (structural assemblies)</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:subject>steeples (building components)</dcterms:subject>
+   <dcterms:spatial>1317 State Street, Santa Barbara, California, United States</dcterms:spatial>
+   <dcterms:spatial>34.4179, -119.697</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2017/03/03/09/f607f1ed-3f34-46ff-a337-b4aec6a173a8_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_19068053</edm:isShownAt>
+</mdRecord>

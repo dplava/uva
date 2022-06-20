@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:43 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2841278</dcterms:identifier>
+   <dcterms:title>First Congregational Church of Western Springs, interior</dcterms:title>
+   <dcterms:creator>Elmslie, George Grant (American architect, 1871-1952) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1976</dcterms:created>
+   <dcterms:description>Chancel</dcterms:description>
+   <dcterms:description>G. Grant Elmslie, a Prairie School architect and highly regarded associate of the renowned Louis Sullivan, designed this new building. Today the elegant woodwork patterns, the resplendent stained glass window above the altar, and the detailed stonework on our building's edifice serve as stunning reminders of Elmslie's talents. http://www.wscongo.org/index.php?option=com_content&amp;view=article&amp;id=192&amp;Itemid=261 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>historic buildings</dcterms:subject>
+   <dcterms:subject>stained glass (visual works)</dcterms:subject>
+   <dcterms:subject>cruciform</dcterms:subject>
+   <dcterms:subject>pews</dcterms:subject>
+   <dcterms:subject>chandeliers (hanging lights)</dcterms:subject>
+   <dcterms:subject>beams (structural elements)</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>woodwork</dcterms:subject>
+   <dcterms:subject>panels (ornament areas)</dcterms:subject>
+   <dcterms:subject>flags</dcterms:subject>
+   <dcterms:subject>candles</dcterms:subject>
+   <dcterms:subject>springers</dcterms:subject>
+   <dcterms:subject>haunches</dcterms:subject>
+   <dcterms:subject>voussoirs</dcterms:subject>
+   <dcterms:subject>span</dcterms:subject>
+   <dcterms:subject>keystones</dcterms:subject>
+   <dcterms:subject>running ornament</dcterms:subject>
+   <dcterms:spatial>1106 Chestnut Street, Western Springs, Cook, Illinois, United States (inhabited place)</dcterms:spatial>
+   <dcterms:spatial>41.813173, -87.903412</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/07/01/09/28387ae8-4200-428d-aa6d-3c12b90b8788_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2841278</edm:isShownAt>
+</mdRecord>

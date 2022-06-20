@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:59 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>27507876</dcterms:identifier>
+   <dcterms:title>Palais de Tokyo, exterior|detail view</dcterms:title>
+   <dcterms:title>Tokyo Palace</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1998</dcterms:created>
+   <dcterms:description>"Legend of the Sea" sculpture by Alfred Janniot</dcterms:description>
+   <dcterms:description>The eastern wing of the building belongs to the City of Paris, and hosts the Musée d'Art Moderne de la Ville de Paris (Museum of Modern Art of the City of Paris). The western wing belongs to the French state and since 2002 has hosted the Palais de Tokyo / Site de création contemporaine, the largest museum in France dedicated to temporary exhibitions of contemporary art. -- https://en.wikipedia.org/wiki/Palais_de_Tokyo [work]</dcterms:description>
+   <dcterms:description>French</dcterms:description>
+   <dcterms:description>Art Deco</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>national museums</dcterms:subject>
+   <dcterms:subject>Musée d'Arts Moderne de la Ville de Paris (French repository, Paris, contemporary)</dcterms:subject>
+   <dcterms:subject>bas-reliefs (sculpture)</dcterms:subject>
+   <dcterms:subject>Janniot, Alfred Auguste (French sculptor and painter, 1889-1969)</dcterms:subject>
+   <dcterms:spatial>13 avenue du Président-Wilson, Paris, Ville de Paris, Département de, Île-de-France, France</dcterms:spatial>
+   <dcterms:spatial>48.863889, 2.297222</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/01/17/19/54c8d42b-2642-4d9c-a76b-3cb404cb820e_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_27507876</edm:isShownAt>
+</mdRecord>

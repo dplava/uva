@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 2:10 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:616982</dcterms:identifier>
+   <dcterms:title>Gibraltar / surveyed by Captain P. Aldrich, assisted by Lieutts. A. Havergal, C.J. Baker, H.B. Anson &amp; W. Richardson, H.M.S. Sylvia, 1885 ; engraved by Edwd. Weller</dcterms:title>
+   <dcterms:creator>Aldrich, Pelham, 1844-1930</dcterms:creator>
+   <dcterms:creator>Great Britain. Hydrographic Department</dcterms:creator>
+   <dcterms:creator>Sylvia (Ship)</dcterms:creator>
+   <dcterms:creator>Weller, Edward, 1819-1884</dcterms:creator>
+   <dcterms:creator>Wharton, W. J. L. (William James Lloyd), 1843-1905</dcterms:creator>
+   <dcterms:publisher>Published at the Admiralty 12th. June, 1886, under the superintendence of Captain W.J.L. Wharton, R.N. Hydrographer. Sold by J.D. Potter agent for the sale of the Admiralty Charts, 31 Poultry &amp; 11 King St. Tower Hill</dcterms:publisher>
+   <dcterms:created>1886</dcterms:created>
+   <dcterms:extent>1 map (chart)</dcterms:extent>
+   <dcterms:extent>66 x 47 cm. on sheet 69 x 49 cm. [original]</dcterms:extent>
+   <dcterms:medium>bathymetry/soundings</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown by hachures and depth soundings.</dcterms:description>
+   <dcterms:description>"Soundings in fathoms."</dcterms:description>
+   <dcterms:description>"The coast line and topography are taken from the Ordinance Survey Maps, 1869."</dcterms:description>
+   <dcterms:description>"All bearings are magnetic."</dcterms:description>
+   <dcterms:description>Chart no. "144" printed in lower right margin.</dcterms:description>
+   <dcterms:description>Scale 1:12,140.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Nautical charts--Spain--Gibraltar, Bay of.</dcterms:subject>
+   <dcterms:subject>Gibraltar, Bay of (Spain)--Navigation.</dcterms:subject>
+   <dcterms:subject>Gibraltar, Bay of (Spain)--Maps.</dcterms:subject>
+   <dcterms:subject>Gibraltar--Maps.</dcterms:subject>
+   <dcterms:spatial>Gibraltar</dcterms:spatial>
+   <dcterms:spatial>Gibraltar, Bay of (Spain)</dcterms:spatial>
+   <dcterms:spatial>Gibraltar, Bay of.</dcterms:spatial>
+   <dcterms:spatial>Spain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1037570/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616982</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:53 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>16785901</dcterms:identifier>
+   <dcterms:title>Insurance Company De Utrecht, exterior|detail view</dcterms:title>
+   <dcterms:creator>Kropholler, A. J. (Dutch architect, 1881-1973) [work]</dcterms:creator>
+   <dcterms:creator>Staal, Jan Frederik (Dutch architect, 1879-1940) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1981</dcterms:created>
+   <dcterms:description>Facade, upper portion</dcterms:description>
+   <dcterms:description>Dutch</dcterms:description>
+   <dcterms:description>Expressionist</dcterms:description>
+   <dcterms:description>Amsterdam School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>insurance</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>pilasters</dcterms:subject>
+   <dcterms:subject>attics (exterior stories)</dcterms:subject>
+   <dcterms:spatial>Damrak 28, Amsterdam, North Holland, Netherlands</dcterms:spatial>
+   <dcterms:spatial>52.376165, 4.896819</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2016/09/15/09/eecf577e-01bc-4e05-b374-844e25eaf04f_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_16785901</edm:isShownAt>
+</mdRecord>

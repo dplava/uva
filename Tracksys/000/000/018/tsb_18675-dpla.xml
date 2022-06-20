@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 7:15 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18675</dcterms:identifier>
+   <dcterms:title>A splendid horse, Star of the South: He was sired by "Star of the West" the best bred horse in my opinion, that the world ever saw. .. He will stand at [blank]. He will be let to mares at $10, if paid in the season, otherwise $12 / By the Agent for C.R. Fontaine</dcterms:title>
+   <dcterms:creator>Fontaine, C. R.</dcterms:creator>
+   <dcterms:publisher>C.R. Fontaine</dcterms:publisher>
+   <dcterms:created>1850</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>48 x 31 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"The season will terminate the 1st July, and perhaps a Fall season will commence the 1st August with him and Star of the East, in this or some other section of the country."</dcterms:description>
+   <dcterms:description>Text within ornamental border.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Transferred from Papers of the Cocke family, MSS 640 &amp; 1480, Folder 11. Photographic negative, 35-197-F.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Star of the South (Horse)</dcterms:subject>
+   <dcterms:subject>Horses--Breeding.</dcterms:subject>
+   <dcterms:subject>Stallions--Virginia.</dcterms:subject>
+   <dcterms:spatial>Virginia.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1512728/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18675</edm:isShownAt>
+</mdRecord>

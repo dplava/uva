@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>715767</dcterms:identifier>
+   <dcterms:title>Basilica of Saint Lawrence, interior</dcterms:title>
+   <dcterms:title>Basilica of St. Lawrence</dcterms:title>
+   <dcterms:creator>Guastavino, Rafael (Catalonian architect active in New York City, 1842-1908) [work]</dcterms:creator>
+   <dcterms:creator>Smith, Richard Sharp (American architect, 1852-1924) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1905..1909]</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Detail of door to Guastavino's crypt</dcterms:description>
+   <dcterms:description>Completed in 1909, the Basilica of St. Lawrence D.M. is one of Asheville's architectural treasures and spiritual anchors. Designed by Rafael Gustavino and Richard Sharpe Smith, renowned architects on the Biltmore House, this Catholic church has the largest freestanding elliptical dome in the country. -- http://www.romanticasheville.com/basilica.htm [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Spanish</dcterms:description>
+   <dcterms:description>Spanish Renaissance-Baroque styles</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>churches (buildings)</dcterms:subject>
+   <dcterms:subject>Roman Catholicism</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>crosses (visual works)</dcterms:subject>
+   <dcterms:subject>mausoleums</dcterms:subject>
+   <dcterms:spatial>97 Haywood Street, Asheville, Buncombe, North Carolina, United States</dcterms:spatial>
+   <dcterms:spatial>35.597344, -82.556296</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/08/21/11/49f6de92-0bfb-4260-ad18-bf1ede825d23_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_715767</edm:isShownAt>
+</mdRecord>

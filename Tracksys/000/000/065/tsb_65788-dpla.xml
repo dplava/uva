@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 11:30 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65788</dcterms:identifier>
+   <dcterms:title>Leaves of grass</dcterms:title>
+   <dcterms:creator>Whitman, Walt, 1819-1892</dcterms:creator>
+   <dcterms:publisher>Printed by Rome Brothers</dcterms:publisher>
+   <dcterms:created>1855</dcterms:created>
+   <dcterms:extent>95 p. port. 29 cm.</dcterms:extent>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>cf. Feinburg 269 &amp; 270.</dcterms:description>
+   <dcterms:description>First edition; variant issues and bindings.</dcterms:description>
+   <dcterms:description>Exhibited February 20 - July 27, 2019 —Encompassing Multitudes: The Song of Walt Whitman, Small Special Collections Library</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 1: original blind-stamped green cloth; title in rustic letters, triple gold line borders on front and back covers, gold ornaments and lettering on backstrip. Copyright notice on verso of title page supplied in Whitman's hand. Inscribed: "R.W. Griswold, from the author." Ms. letter "June 12 [1860] Dear Friend [Henry Clapp]: signed Walt," and newspaper clippings about Leaves of grass, Boston (1860-61) pasted in. Clifton Waller Barrett Library, Walt Whitman Collection. Gift of C.W. Barrett.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 2: original blind-stamped green cloth; title in rustic letters, triple gold line borders on front and back covers, gold ornaments and lettering on backstrip. Newspaper account of Whitman's death, from the New York World, Mar. 27, 1892, pasted on back flyleaf. Clifton Waller Barrett Library, Walt Whitman Collection. Gift of C.W. Barrett.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 3: original blind-stamped green cloth; title in rustic letters, triple gold line borders on front and back covers, gold ornaments and lettering on backstrip. Inscribed: "Presented to me by the author. Lyons Farms, N.J. June 1857. Wm. Grumman" and has Putnam's monthly galley proofs regarding Whitman's Leaves of grass, laid in. Clifton Waller Barrett Library, Walt Whitman Collection. Gift of C.W. Barrett.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 4: original blind-stamped green cloth; title in rustic letters, triple gold line borders on front and back covers, gold ornaments and lettering on backstrip. Signature of Whitman, dated Feb. 12, 1882 on frontispiece portrait. Putnam's monthly galley proofs regarding Whitman's Leaves of grass; printed letter from R.W. Emerson to Whitman dated Concord, Mass'tts, 21 July 1855, commending Leaves of grass and clipping quoting Oscar Wilde on Whitman's home in Camden Town. Gift of C.W. Barrett.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 5: the second binding, same as copies 1-4 but with line borders blind-stamped. Has ms. letter from Jno. Harlan to Dewitt Miller dated Mt. Pleasant, Iowa, July 18th, 1894, giving reasons for Whitman's removal, in 1865 from clerkship in Office of Commissioner of Indian Affairs, Dept. of the Interior; newspaper clipping and list of Whitman's works (1855-1860) tipped in. Clifton Waller Barrett Library, Walt Whitman Collection. Gift of C.W. Barrett.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 6: the second binding, same as copies 1-4 but with line borders blind-stamped. Inscribed: "Albert B. Otis, the gift of Henry W. Meredith." Clifton Waller Barrett Library, Walt Whitman Collection. Gift of C.W. Barrett.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 7: the second binding, same as copies 1-4 but with line borders blind-stamped. 8 pages of press notices preceding text. Clifton Waller Barrett Library, Walt Whitman Collection. Gift of C.W. Barrett.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 8: green boards, black lettering. 8 page of press notices preceding text. Clifton Waller Barrett Library, Walt Whitman Collection. Gift of C.W. Barrett.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:spatial>Brooklyn, New York (State), United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2426172/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65788</edm:isShownAt>
+</mdRecord>

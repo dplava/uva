@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 10:49 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2524234</dcterms:identifier>
+   <dcterms:title>Mulford's Widal Test Outfit</dcterms:title>
+   <dcterms:creator>H. K. Mulford Co. [manufacturer]</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1905~</dcterms:created>
+   <dcterms:extent>11.3 x 18.8 x 10 cm [original]</dcterms:extent>
+   <dcterms:medium>metal; wood (plant material); glass (material) [original]</dcterms:medium>
+   <dcterms:description>This set contains items needed for conducting a Widal test to detect typhoid. The set includes: 30 c.c stock bottle Typhoid suspension, 30 c.c stock bottle salt solution, 10 c.c dropping flask used for dropping Typhoid Suspension, 10 c.c droping flask used for dropping salt solution, 6 graduated test tubes used in making tests, graduated pipette, 12 small capillary bulbs or tubes to collect the blood serum, needle.</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:subject>Medical laboratory technology</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2524234/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524234</edm:isShownAt>
+</mdRecord>

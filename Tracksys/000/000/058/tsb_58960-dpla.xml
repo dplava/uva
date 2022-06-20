@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-19 at 9:42 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>tsb:58960</dcterms:identifier>
+   <dcterms:title>Nature's Remedy tablets</dcterms:title>
+   <dcterms:creator>A. H. Lewis Medicine Co. [manufacturer]</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1920~/1940~</dcterms:created>
+   <dcterms:extent>1.9 x 9 x 6 cm [original]</dcterms:extent>
+   <dcterms:medium>paper (fiber product); medicines [original]</dcterms:medium>
+   <dcterms:description>Two tablets inside an orange and buff packet. The front side states "Mother Nature Supplies All the Components. Nature's Remedy, Reg. U.S. Pat. Office, NR Tablets NR. Take One NR Tonight. For defective elimination in constipation, rheumatism dyspepsia. Make the test to-night. You will feel better in the Morning. A.H. Lewis Medicine Co. St. Louis. Mo. USA."</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:subject>Pills--Medicine</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1546954/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58960</edm:isShownAt>
+</mdRecord>

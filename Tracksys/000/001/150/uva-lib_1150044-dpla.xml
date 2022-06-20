@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 7:22 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1150044</dcterms:identifier>
+   <dcterms:title>King's fool waltzes / Adolf Müller Jun. ; revised &amp; fingered by F. Ganter</dcterms:title>
+   <dcterms:title>Müller, Adolf, jun, 1839-1901. Hofnarr. Selections; arr</dcterms:title>
+   <dcterms:creator>Ganter, F.</dcterms:creator>
+   <dcterms:creator>Müller, Adolf jun, 1839-1901</dcterms:creator>
+   <dcterms:publisher>George Willig &amp; Co.</dcterms:publisher>
+   <dcterms:created>1889</dcterms:created>
+   <dcterms:extent>11 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>Excerpts from the opera, arranged for piano solo.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [12] for other publications, with musical incipits.</dcterms:description>
+   <dcterms:isPartOf>Gems from Adolf Muller's comic opera King's fool</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music, Arranged</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts, Arranged.</dcterms:subject>
+   <dcterms:subject>Waltzes</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1150045/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1150044</edm:isShownAt>
+</mdRecord>

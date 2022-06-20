@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 4:25 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1050050</dcterms:identifier>
+   <dcterms:title>Miss J.D. Martin</dcterms:title>
+   <dcterms:creator>Rufus W. Holsinger, 1866-1930</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1918-11-12</dcterms:created>
+   <dcterms:extent>8 x 10 in. [original]</dcterms:extent>
+   <dcterms:description>Negatives X06961B and X06961B2-X06961B4 depict the same subject</dcterms:description>
+   <dcterms:description>Emulsion is damaged and noticeably flaky. [original]</dcterms:description>
+   <dcterms:isPartOf>The Holsinger Studio Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Portraits</dcterms:subject>
+   <dcterms:subject>Evening gowns</dcterms:subject>
+   <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1050050/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1050050</edm:isShownAt>
+</mdRecord>

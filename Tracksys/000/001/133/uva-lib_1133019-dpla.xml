@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 6:08 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1133019</dcterms:identifier>
+   <dcterms:title>Virginia's welcome to the B.A.: Ninth International Convention, Richmond, Va., July 1899 / words by James C. Harwood ; music by Leslie F. Watson</dcterms:title>
+   <dcterms:title>Virginia awake, on your threshold today</dcterms:title>
+   <dcterms:creator>Harwood, James C.</dcterms:creator>
+   <dcterms:creator>International Convention of the Baptist Young People's Union of America (9th : 1899 : Richmond, Va.)</dcterms:creator>
+   <dcterms:creator>Watson, Leslie F.</dcterms:creator>
+   <dcterms:publisher>Hume-Minor Co.</dcterms:publisher>
+   <dcterms:created>1899</dcterms:created>
+   <dcterms:extent>1 score ([3] p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>mixed chorus (4)</dcterms:description>
+   <dcterms:description>Souvenir ed..</dcterms:description>
+   <dcterms:description>For 4-part chorus or vocal quartet.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Baptist Young People's Union--Songs and music.</dcterms:subject>
+   <dcterms:subject>Choruses, Sacred (Mixed voices, 4 parts), Unaccompanied</dcterms:subject>
+   <dcterms:subject>Sacred vocal quartets, Unaccompanied</dcterms:subject>
+   <dcterms:subject>Virginia--Songs and music.</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1133020/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1133019</edm:isShownAt>
+</mdRecord>

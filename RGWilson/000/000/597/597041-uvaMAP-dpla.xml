@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>597041</dcterms:identifier>
+   <dcterms:title>Cathedral of the Holy Cross, exterior</dcterms:title>
+   <dcterms:creator>Keely, Patrick Charles (American architect, 1816-1896) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1979</dcterms:created>
+   <dcterms:medium>pudding stone; limestone [work]</dcterms:medium>
+   <dcterms:description>General view, west front</dcterms:description>
+   <dcterms:description>Designed by the nineteenth century Irish-American ecclesiastical architect Patrick Keely, the Cathedral of the Holy Cross boasts a length of 364 feet, a width of 90 feet, and a height of 120 feet. In 1860, Bishop John Fitzpatrick realized that Boston had outgrown the cathedral on Franklin Street, but the Civil War interrupted plans for building a replacement. Ground was finally broken on April 29, 1866. The rites of dedication for New England's largest church were performed on December 8, 1875 by Archbishop John J. Williams, Boston's first archbishop. The Cathedral can seat just over 1700 people. Constructed in the Gothic Revival style, it utilizes both Roxbury puddingstone and gray limestone. The Cathedral of the Holy Cross contains an 1875 Hook and Hastings pipe organ, the largest, and arguably finest, instrument ever built by that company. -- https://holycrossboston.com/history/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Roman Catholicism</dcterms:subject>
+   <dcterms:subject>stonework</dcterms:subject>
+   <dcterms:subject>church towers</dcterms:subject>
+   <dcterms:subject>pointed arches</dcterms:subject>
+   <dcterms:subject>bell towers</dcterms:subject>
+   <dcterms:subject>rose windows</dcterms:subject>
+   <dcterms:spatial>1400 Washington Street, Boston, Suffolk, Massachusetts, United States</dcterms:spatial>
+   <dcterms:spatial>42.341077, -71.069762</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/07/03/15/db6c9998-4fbf-45aa-8c7a-1d6a9e3ba5ed_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_597041</edm:isShownAt>
+</mdRecord>

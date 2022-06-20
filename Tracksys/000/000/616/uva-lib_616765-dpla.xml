@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 2:08 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:616765</dcterms:identifier>
+   <dcterms:title>Süd Carolina: Nach des Gouverneurs von Carolina, J. Drayton's Charte (1803) reducirt</dcterms:title>
+   <dcterms:creator>Drayton, John, 1766-1822</dcterms:creator>
+   <dcterms:publisher>im Verlage der geographischen Instituts</dcterms:publisher>
+   <dcterms:created>1806</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>22 x 30 cm. [original]</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>Probably from Drayton's Beschreibung von Süd-Carolina, published in 1808.</dcterms:description>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library, American History Collection.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,800,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>South Carolina--Maps.</dcterms:subject>
+   <dcterms:spatial>South Carolina</dcterms:spatial>
+   <dcterms:spatial>Weimar, Germany</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:620350/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616765</edm:isShownAt>
+</mdRecord>

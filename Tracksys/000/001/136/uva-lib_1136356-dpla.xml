@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 6:24 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1136356</dcterms:identifier>
+   <dcterms:title>O for the swords of former time: sang at Niblos Garden, N. Y. in the romantic Irish drama The hearts of steel / words by Thomas Moore ; music by Harrison Millard</dcterms:title>
+   <dcterms:title>O for the swords of former time</dcterms:title>
+   <dcterms:creator>Clarke, Lillian Cleves</dcterms:creator>
+   <dcterms:creator>Clayton, Charles O.</dcterms:creator>
+   <dcterms:creator>Millard, H. (Harrison), 1830-1895</dcterms:creator>
+   <dcterms:creator>Moore, Thomas, 1779-1852</dcterms:creator>
+   <dcterms:publisher>Spear &amp; Dehnhoff</dcterms:publisher>
+   <dcterms:created>1880</dcterms:created>
+   <dcterms:extent>1 score (3 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>"(Clayton)"--Colophon.</dcterms:description>
+   <dcterms:description>At head ot title: "To Miss Lillian Cleves Clarke".</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1136357/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1136356</edm:isShownAt>
+</mdRecord>

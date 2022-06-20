@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:42 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2668324</dcterms:identifier>
+   <dcterms:title>Saint Louis World's Fair Pavilion, detail view</dcterms:title>
+   <dcterms:title>St. Louis World's Fair Pavilion</dcterms:title>
+   <dcterms:title>World's Fair Pavilion</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Wright, Henry (American city planner and architect, 1878-1936) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2004</dcterms:created>
+   <dcterms:description>Facade, corner tower</dcterms:description>
+   <dcterms:description>Located on Government Hill, the World's Fair Pavilion opened in 1910 as a gift from the Louisiana Purchase Exposition Committee; it helped fulfill their promise to restore the park after the 1904 World's Fair. Designed by English architect Henry Wright, the pavilion originally cost $35,000 to build. In the early 2000s, the building underwent a $1.1 million restoration with the addition of new restrooms and a catering kitchen.[47] The eastern archways of the building were removed (thereby opening the building to its original state), new lighting was installed, and the twin towers of the building were reconstructed. http://en.wikipedia.org/wiki/Forest_Park_%28St._Louis%29#The_World.27s_Fair_Pavilion [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>exhibitions (events)</dcterms:subject>
+   <dcterms:subject>world's fairs</dcterms:subject>
+   <dcterms:subject>exhibition buildings</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>corner (positional attribute)</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:spatial>5595 Grand Drive, Forest Park, Saint Louis, Saint Louis City, Missouri, United States</dcterms:spatial>
+   <dcterms:spatial>38.643988, -90.283398</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/04/04/10/78d8b005-fda0-403f-9165-b6df180d672d_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2668324</edm:isShownAt>
+</mdRecord>

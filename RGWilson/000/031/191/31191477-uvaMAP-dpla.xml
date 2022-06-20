@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 4:06 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>31191477</dcterms:identifier>
+   <dcterms:title>Christ's Hospital School, exterior|general view</dcterms:title>
+   <dcterms:creator>Webb, Aston (English architect, 1849-1930) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1981</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Entrance lodge</dcterms:description>
+   <dcterms:description>Founded 1552 as a "charity school" for the education of children from humble backgrounds at Newgate, London. Additional establishment at Hertford from 1707. New school for boys at Horsham constructed 1893-1902; Hertford buildings now girls' school. -- https://en.wikipedia.org/wiki/Christ's_Hospital#History [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>secondary schools</dcterms:subject>
+   <dcterms:subject>boarding schools</dcterms:subject>
+   <dcterms:subject>lodges (caretakers' houses)</dcterms:subject>
+   <dcterms:subject>gatehouses</dcterms:subject>
+   <dcterms:subject>pyramidal roofs</dcterms:subject>
+   <dcterms:spatial>Horsham, West Sussex, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>51.044167, -0.363056</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2021/08/26/14/bfa0fe56-f4d3-4704-b8be-ee6c4cbf82fe_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_31191477</edm:isShownAt>
+</mdRecord>

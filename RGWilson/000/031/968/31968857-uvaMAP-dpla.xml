@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 4:07 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>31968857</dcterms:identifier>
+   <dcterms:title>Mobilier National, exterior|detail view</dcterms:title>
+   <dcterms:creator>Perret, Auguste (French architect, 1874-1954) [work]</dcterms:creator>
+   <dcterms:creator>Perret, Gustave (French architect, 1876-1952) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1983</dcterms:created>
+   <dcterms:medium>cast-in-place concrete [work]</dcterms:medium>
+   <dcterms:description>Corner and steps, showing treatment of building base</dcterms:description>
+   <dcterms:description>a French national service agency under the supervision of the French Ministry of Culture. Its history goes back to the Garde-Meuble de la Couronne, which was responsible for the administration of all furniture and objects in the royal residences. The Mobilier National continues to administer state furniture but has also expanded from its historical role of conserving furniture to curating a modern collection. -- https://en.wikipedia.org/wiki/Mobilier_National [work]</dcterms:description>
+   <dcterms:description>French</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>government office buildings</dcterms:subject>
+   <dcterms:subject>furnishings (artifacts)</dcterms:subject>
+   <dcterms:subject>workshops (work spaces)</dcterms:subject>
+   <dcterms:subject>repositories (storage facilities)</dcterms:subject>
+   <dcterms:subject>corner (positional attribute)</dcterms:subject>
+   <dcterms:subject>bases (object components)</dcterms:subject>
+   <dcterms:subject>stairs</dcterms:subject>
+   <dcterms:spatial>Paris, Ville de Paris, Département de, Île-de-France, France</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/01/13/14/6d948f5a-337e-48c8-af50-b50cddad0ba6_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_31968857</edm:isShownAt>
+</mdRecord>

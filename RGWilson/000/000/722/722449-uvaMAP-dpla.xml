@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>722449</dcterms:identifier>
+   <dcterms:title>Southern Building, detail view</dcterms:title>
+   <dcterms:creator>Burnham, Daniel Hudson (American architect and city planner, 1846-1912) [work]</dcterms:creator>
+   <dcterms:creator>D. H. Burnham and Company (American architectural firm, active 1891-1912) [work]</dcterms:creator>
+   <dcterms:creator>Shalom Baranes Associates (American architectural firm, contemporary) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1992</dcterms:created>
+   <dcterms:description>Exterior corner detail</dcterms:description>
+   <dcterms:description>Constructed in 1914, the Southern Building stands as one of only three commissions completed by Daniel Burnham in Washington, D.C. Restored in 1986, the building was provided with a new two-story addition above its main cornice . . . . [Jane Nelson, Project Architect executed at Shalom Baranes Associates] -- http://www.nelsonarch.com/principal/past_experience/southern.htm [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Beaux-Arts</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>restoration (process)</dcterms:subject>
+   <dcterms:subject>coupled windows</dcterms:subject>
+   <dcterms:subject>lintel courses</dcterms:subject>
+   <dcterms:subject>roundels (circular panels)</dcterms:subject>
+   <dcterms:subject>friezes (ornamental areas)</dcterms:subject>
+   <dcterms:spatial>805 Fifteenth Street N.W., Washington, District of Columbia, United States</dcterms:spatial>
+   <dcterms:spatial>38.900584, -77.033449</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/08/22/15/074ec109-f5b1-45e0-9ab0-3918131d1fd1_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_722449</edm:isShownAt>
+</mdRecord>

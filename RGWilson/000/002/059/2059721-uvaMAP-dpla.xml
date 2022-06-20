@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:41 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2059721</dcterms:identifier>
+   <dcterms:title>Mission San José y San Miguel de Aguayo, exterior|detail view</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1720..1782]</dcterms:created>
+   <dcterms:description>Window treatment</dcterms:description>
+   <dcterms:description>Founded in 1720 by Father Antonio Margil de Jesus. Facade carving and rose window attributed to Pedro Huizar. Rebuilt in the 1930s. [work]</dcterms:description>
+   <dcterms:description>Spanish</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Spanish Colonial</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Roman Catholicism</dcterms:subject>
+   <dcterms:subject>mission churches</dcterms:subject>
+   <dcterms:spatial>San Antonio, Bexar, Texas, United States</dcterms:spatial>
+   <dcterms:spatial>29.362222, -98.479722</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/02/25/19/b333e634-0a39-4d81-8ede-d01f08a2a1de_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2059721</edm:isShownAt>
+</mdRecord>

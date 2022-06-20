@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 2:07 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:614130</dcterms:identifier>
+   <dcterms:title>Liure de la conqueste de la toison d'or, par le Prince Iason de Tessalie / faict par figures auec exposition d'icelles</dcterms:title>
+   <dcterms:title>Conqueste de la toison d'or</dcterms:title>
+   <dcterms:title>Livre de la conqueste de la toison d'or</dcterms:title>
+   <dcterms:creator>Boyvin, René, approximately 1525-approximately 1598</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>J. G. P. (Jacques Gohorry, Parisien), -1576</dcterms:creator>
+   <dcterms:creator>Lobstein, Alain</dcterms:creator>
+   <dcterms:publisher>s.l.</dcterms:publisher>
+   <dcterms:created>1563</dcterms:created>
+   <dcterms:extent>[8] p., 26 leaves of plates</dcterms:extent>
+   <dcterms:extent>27 x 34 cm. (obl. fol) [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Privilege issued to Iehan de Mauregard, who wrote the dedication.</dcterms:description>
+   <dcterms:description>Hystoire de Iason ([4] p.) signed I.G.P., i.e. Jacques Gohorry. The plates are by René Boyvin, after Léonard Tyri.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Lobstein. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 770.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Jason, (Mythological character)</dcterms:subject>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:614142/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:614130</edm:isShownAt>
+</mdRecord>

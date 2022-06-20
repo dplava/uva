@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 7:27 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1151459</dcterms:identifier>
+   <dcterms:title>Then you'll remember me: ballad / M.W. Balfe</dcterms:title>
+   <dcterms:title>When other lips and other hearts</dcterms:title>
+   <dcterms:title>Balfe, M. W. (Michael William), 1808-1870. Bohemian girl. Then you'll remember me.</dcterms:title>
+   <dcterms:creator>Balfe, M. W. (Michael William), 1808-1870</dcterms:creator>
+   <dcterms:creator>Bunn, Alfred, 1796-1860</dcterms:creator>
+   <dcterms:publisher>Emerson Drug Co.</dcterms:publisher>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>1 vocal score (2 p.).</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>Opera excerpt; orchestral accompaniment arranged for piano or organ.</dcterms:description>
+   <dcterms:description>Text by Alfred Bunn.</dcterms:description>
+   <dcterms:description>Imprint date inferred from notice on p. [3]: "The above is a reproduction of the 24th page of woman's edition 'Washington Times', July 4, 1895."</dcterms:description>
+   <dcterms:description>Title page illustration: Cartouche with Bromo-Seltzer bottle and a woman playing a Stieff piano.</dcterms:description>
+   <dcterms:description>Advertisement on p. [3]: "Bromo-Seltzer .. for the cure of headache."</dcterms:description>
+   <dcterms:isPartOf>Bromo-Seltzer collection of 74 popular songs : complete and unabridged, full music size with piano and organ accompaniment</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Songs with organ</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano.</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1151460/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1151459</edm:isShownAt>
+</mdRecord>

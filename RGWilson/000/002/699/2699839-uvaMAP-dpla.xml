@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:43 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2699839</dcterms:identifier>
+   <dcterms:title>Grand Canyon</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1984-10</dcterms:created>
+   <dcterms:description>Canyon and Waterfall</dcterms:description>
+   <dcterms:description>The Grand Canyon of the Yellowstone is the first large canyon on the Yellowstone River downstream from Yellowstone Falls in Yellowstone National Park. The canyon is approximately 24 miles (39 km) long, between 800 and 1,200 ft (240 and 370 m) deep and from .25 to .75 mi (0.40 to 1.21 km) wide. The colors in the canyon are a result of hydrothermal alteration. The rhyolite in the canyon contains a variety of different iron compounds. When the old geyser basin was active, the "cooking" of the rock caused chemical alterations in these iron compounds. Exposure to the elements caused the rocks to change colors. The rocks are oxidizing; in effect, the canyon is rusting. The colors indicate the presence or absence of water in the individual iron compounds. Most of the yellows in the canyon are the result of iron present in the rock rather than, as many people think, sulfur. -- http://en.wikipedia.org/wiki/Grand_Canyon_of_the_Yellowstone [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Photographs</dcterms:subject>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>canyons</dcterms:subject>
+   <dcterms:subject>landforms</dcterms:subject>
+   <dcterms:subject>landscapes (environments)</dcterms:subject>
+   <dcterms:subject>national parks</dcterms:subject>
+   <dcterms:subject>waterfalls (natural bodies of water)</dcterms:subject>
+   <dcterms:subject>rivers</dcterms:subject>
+   <edm:preview>https://stor.artstor.org/iiif/2014/04/09/10/45e96bee-1a73-4229-a969-adafb94c40f9_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2699839</edm:isShownAt>
+</mdRecord>

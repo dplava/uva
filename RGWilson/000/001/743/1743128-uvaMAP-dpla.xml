@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:37 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1743128</dcterms:identifier>
+   <dcterms:title>Wig Wam Motel, exterior</dcterms:title>
+   <dcterms:title>Wigwam Motel</dcterms:title>
+   <dcterms:creator>Redford, Frank (American architect, flourished 1940's) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1984-05</dcterms:created>
+   <dcterms:description>General view</dcterms:description>
+   <dcterms:description>The Wigwam Motels, also known as the "Wigwam Villages", is a motel chain in the United States in which the rooms are built in the form of tipis, mistakenly referred to as wigwams. It originally had seven different locations: two locations in Kentucky, a location in Alabama, another location in Florida, one in Arizona, one in Louisiana, and another one in California. Frank A. Redford was granted design patent in 1936. Frank Redford built this one for himself in 1947–49 and not as a franchise of the Holbrook, Arizona property. There is a central building that is currently used as an office and has a spacious lobby inside. There is a double row of wigwam guest rooms totaling 19. There is also a swimming pool, large grass front with over 35 palm trees surrounding the property as well as a base for what seems to be another never completed wigwam in the back of the property. Wigwam Village #7 is considered by many travelers to be the most famous and well kept property of them all, since the Patel family continuously maintains it to cater to modern travelers on the historic 66 road. The motel was renovated in the last few years by the Patel Family whom were awarded the National Historic Route 66 Federation's 2005 Cyrus Avery Award for their efforts in restoration. Attention to detail was the main focus during renovation, as the Wigwams lost their zigzag pattern. Restoration restored the reputation and confidence back to the travelers. The motel's owner applied for inclusion on the National Register of Historic Places in 2011. The address of the motel is in Rialto, but the motel is inside San Bernardino. It is on the boundary between the two cities on Historic Route 66, 2728 West Foothill Boulevard, Rialto, California. -- http://en.wikipedia.org/wiki/Wigwam_Motel#Village_.237:_Rialto.2FSan_Bernardino.2C_California [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Native American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>historic buildings</dcterms:subject>
+   <dcterms:subject>landmark buildings</dcterms:subject>
+   <dcterms:subject>United States Highway 66</dcterms:subject>
+   <dcterms:subject>tipis</dcterms:subject>
+   <dcterms:subject>cones (geometric figures)</dcterms:subject>
+   <dcterms:spatial>2728 West Foothill Boulevard, Rialto, San Bernardino, California, United States</dcterms:spatial>
+   <dcterms:spatial>34.107311, -117.350003</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/07/18/15/a59224bc-8b9c-4146-ba1e-4a41a7746c37_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1743128</edm:isShownAt>
+</mdRecord>

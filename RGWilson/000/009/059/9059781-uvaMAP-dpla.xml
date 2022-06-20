@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:50 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9059781</dcterms:identifier>
+   <dcterms:title>St. Marys White Chapel Church, exterior</dcterms:title>
+   <dcterms:title>Saint Mary's Whitechapel Church</dcterms:title>
+   <dcterms:creator>Jones, James (American builder, died before 1744) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1996</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>East (entrance) side and porch</dcterms:description>
+   <dcterms:description>St. Mary’s Whitechapel was named for a white “chapel of ease” outside London and for the church of that parish, St. Mary’s Church. Although the Colonial Virginia parish existed in 1657, the date of the founding of St. Mary’s White Chapel Parish is accepted as 1669. Originally the church was rectangular in shape. North and south wings were added in 1741 to accommodate a growing congregation, resulting in a cruciform or “cross plan” shape. In 17th century Colonial Virginia, St. Mary’s Whitechapel was an Anglican Church, the established church of the colony...The disestablishment of the church resulted in the disuse of St. Mary’s Whitechapel for the first 30 years of the 19th century. During that time, the east end, where the chancel originally stood, and the west gallery end had deteriorated beyond repair. About 1830 the original east and west ends were demolished, the north and south transepts were joined together, and the north door was closed with new brickwork. The result is the current rectangular form, though at right angles to the direction of the original church. -- http://www.stmaryswhitechapel.org/History/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>American Colonial</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Episcopal</dcterms:subject>
+   <dcterms:subject>shutters (opening components)</dcterms:subject>
+   <dcterms:subject>pediments</dcterms:subject>
+   <dcterms:subject>gables (architectural elements)</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:subject>hip roofs</dcterms:subject>
+   <dcterms:subject>walkways</dcterms:subject>
+   <dcterms:subject>double-hung windows</dcterms:subject>
+   <dcterms:subject>water tables</dcterms:subject>
+   <dcterms:subject>porches</dcterms:subject>
+   <dcterms:spatial>5940 White Chapel Road, Lancaster, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>37.746591, -76.553173</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/04/03/11/31ce329c-3ee4-48dc-bd6a-db2ee838878c_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9059781</edm:isShownAt>
+</mdRecord>

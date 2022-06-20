@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:50 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9151372</dcterms:identifier>
+   <dcterms:title>William Watts Sherman House, exterior|general view</dcterms:title>
+   <dcterms:creator>McKim, Mead, and White (American architectural firm, 1879-1910) [work]</dcterms:creator>
+   <dcterms:creator>Newton, Dudley (American architect, 1845-1907) [work]</dcterms:creator>
+   <dcterms:creator>Richardson, Henry Hobson (American architect, 1838-1886) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2001</dcterms:created>
+   <dcterms:description>Facade</dcterms:description>
+   <dcterms:description>"... This original design was extended and altered, 1879–1881, by McKim, Mead and White in a style consonant with earlier work; the parlor and library were designed by Stanford White. A second addition by Newport architect Dudley Newton (1845–1907), circa 1890, added a ballroom and service wing..." -- http://en.wikipedia.org/wiki/William_Watts_Sherman_House [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Queen Anne Style</dcterms:description>
+   <dcterms:description>Shingle Style</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>dormitories (buildings)</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:subject>porte-cochères</dcterms:subject>
+   <dcterms:subject>weathervanes</dcterms:subject>
+   <dcterms:spatial>2 Shepard Avenue, Newport, Rhode Island, United States</dcterms:spatial>
+   <dcterms:spatial>41.47, -71.305</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/04/16/17/b1cfcb0f-42ad-4f4c-a3f5-31630b9a1826_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9151372</edm:isShownAt>
+</mdRecord>

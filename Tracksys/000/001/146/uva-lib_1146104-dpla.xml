@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-06-20 at 7:06 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1146104</dcterms:identifier>
+   <dcterms:title>The tempest of the heart = Il balen del suo sorriso : from Il trovatore / by Verdi ; English words by Chas. Jefferys ; arranged by Chas. W. Glover</dcterms:title>
+   <dcterms:title>Balen del suo sorriso</dcterms:title>
+   <dcterms:title>Still all is silent</dcterms:title>
+   <dcterms:title>Tutto è deserto</dcterms:title>
+   <dcterms:title>Verdi, Giuseppe, 1813-1901. Trovatore. Balen del suo sorriso. English &amp; Italian</dcterms:title>
+   <dcterms:creator>Glover, Charles William, 1806-1863</dcterms:creator>
+   <dcterms:creator>Jefferys, Charles, 1807-1865</dcterms:creator>
+   <dcterms:creator>Verdi, Giuseppe, 1813-1901</dcterms:creator>
+   <dcterms:publisher>Oliver Ditson Co.</dcterms:publisher>
+   <dcterms:created>[1889..1901]</dcterms:created>
+   <dcterms:extent>1 vocal score (7 p.).</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>Orchestral accompaniment arranged for piano.</dcterms:description>
+   <dcterms:description>Italian words with English translation.</dcterms:description>
+   <dcterms:description>Publication date derived from form of publisher's name. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: New songs published by Oliver Ditson Company, Boston.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1146105/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1146104</edm:isShownAt>
+</mdRecord>

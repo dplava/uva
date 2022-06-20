@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:40 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2054868</dcterms:identifier>
+   <dcterms:title>General Motors Technical Center, interior|detail view</dcterms:title>
+   <dcterms:title>GM Design Center</dcterms:title>
+   <dcterms:title>GM Tech Center</dcterms:title>
+   <dcterms:creator>Church, Thomas Dolliver (American landscape architect, 1902-1978) [work]</dcterms:creator>
+   <dcterms:creator>Saarinen, Eero (American architect, designer, 1910-1961) [work]</dcterms:creator>
+   <dcterms:creator>Saarinen, Saarinen and Associates (American architectural partnership, active 1947-1950) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1949..1956]</dcterms:created>
+   <dcterms:medium>steel; glass; structural aluminum; enamel; brick [work]</dcterms:medium>
+   <dcterms:description>Corner</dcterms:description>
+   <dcterms:description>Officially opened on May 16, 1956. [work]</dcterms:description>
+   <dcterms:description>Harley Earl conceived of the idea, picked the location site and even chose the local Michigan father &amp; son architectural team of Eliel and Eero Saarinen to build it. Before completion, the complex was coined the “Versailles of Industry” and the reference stuck and was nationally heralded in the media at the original unveiling in in May, 1956. This architectural tour de force is still considered modern. -- http://www.carofthecentury.com/versaille_of_industry.htm [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>International Style (modern European architecture style)</dcterms:description>
+   <dcterms:description>Streamlined Moderne</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>automobile industry</dcterms:subject>
+   <dcterms:subject>industrial design</dcterms:subject>
+   <dcterms:subject>industrial buildings</dcterms:subject>
+   <dcterms:subject>Automobiles--Design and construction</dcterms:subject>
+   <dcterms:subject>General Motors Corporation</dcterms:subject>
+   <dcterms:subject>tie rods</dcterms:subject>
+   <dcterms:spatial>12 Mile, Mound and Chicago Roads, Van Dyke Avenue, Warren, Macomb, Michigan, United States</dcterms:spatial>
+   <dcterms:spatial>42.513333, -83.037778</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/01/27/19/82d88325-1c19-447c-8156-36ce7edd3882_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2054868</edm:isShownAt>
+</mdRecord>

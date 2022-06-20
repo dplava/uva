@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:53 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>16237332</dcterms:identifier>
+   <dcterms:title>Dedham Parish Church, general view</dcterms:title>
+   <dcterms:title>Church of St. Mary the Virgin, Dedham</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2003</dcterms:created>
+   <dcterms:description>Bell tower at west end</dcterms:description>
+   <dcterms:description>One of the most prosperous Perp churches of Essex, the visible proof of the flourishing cloth trade of the town, of which the church is the principal witness. ... The church is a rebuilding of an earlier structure, of which fragments remain at the W end; the (re-set) S doorway is C14 and within the S porch is some masonry from the former S wall aisle. But otherwise all is of the late C15 and early C16, starting with the chancel. The nave was begun c. 1491 and John Gurdon bequeathed money for the N aisle in 1504. Money was left for the building of the steeple in 1494-5, 1504-5, 1505-6, and a further £20 towards finishing the steeple in 1510. ... the tower and the whole church were probably complete by about 1520 -- built it appears at one go and without change of plan. -- Bettley and Pevsner, Essex, 2007, p. 319-320. [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Perpendicular Style</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>parish churches</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>bell towers</dcterms:subject>
+   <dcterms:spatial>High Street, Dedham, Essex, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>51.958614, 0.99269</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2016/08/01/16/fe16272b-1121-49f1-a400-1f69d9bdfd3c_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_16237332</edm:isShownAt>
+</mdRecord>

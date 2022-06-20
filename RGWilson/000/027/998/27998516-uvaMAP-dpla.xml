@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 4:00 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>27998516</dcterms:identifier>
+   <dcterms:title>Cragside, interior|detail view</dcterms:title>
+   <dcterms:creator>Shaw, Richard Norman (English and Scottish architect, 1831-1912) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1981</dcterms:created>
+   <dcterms:description>Second floor hall</dcterms:description>
+   <dcterms:description>The original building consisted of a small shooting lodge which Armstrong built between 1862 and 1864. In 1869, he employed the architect Richard Norman Shaw to enlarge the site, in two phases of work between 1869 and 1882. -- https://en.wikipedia.org/wiki/Cragside [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Tudor Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>Armstrong, W. G. (William George), Baron, 1810-1900</dcterms:subject>
+   <dcterms:subject>corridors</dcterms:subject>
+   <dcterms:subject>pointed arches</dcterms:subject>
+   <dcterms:spatial>Rothbury, Northumberland, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>55.3136, -1.8853</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/03/25/12/6b7feab8-cbd7-4d2a-8bf5-d45741167871_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_27998516</edm:isShownAt>
+</mdRecord>

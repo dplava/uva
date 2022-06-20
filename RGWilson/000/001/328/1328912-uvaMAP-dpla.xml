@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:35 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1328912</dcterms:identifier>
+   <dcterms:title>Congregation Beth Israel, interior</dcterms:title>
+   <dcterms:title>Charlottesville Synagogue</dcterms:title>
+   <dcterms:creator>Spooner, George Wallace (American architect, 1820-1904) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2002</dcterms:created>
+   <dcterms:description>Detail of stained glass window with wildlife motif</dcterms:description>
+   <dcterms:description>First built at the corner of Market Street and Second Street NE in Charlottesville. Moved in 1904 to build federal court and post office. It was dismantled and reassembled, reusing some of the original fabric on its present site on the Northeast corner of Third and East Jefferson Streets. (from: K. Edward Lay, The Architecture of Jefferson Country) [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Reform Judaism</dcterms:subject>
+   <dcterms:subject>stained glass (visual works)</dcterms:subject>
+   <dcterms:subject>Hebrew alphabet</dcterms:subject>
+   <dcterms:spatial>301 East Jefferson Street, Charlottesville, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.03195, -78.478972</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/02/11/15/dbe903d4-6636-425c-95fe-77dcbaeddd9b_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1328912</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-06-17 at 3:44 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2966801</dcterms:identifier>
+   <dcterms:title>Royal Courts of Justice, exterior</dcterms:title>
+   <dcterms:title>Law Courts</dcterms:title>
+   <dcterms:creator>Street, George Edmund (English architect, 1824-1881) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1976</dcterms:created>
+   <dcterms:description>Oblique view of court</dcterms:description>
+   <dcterms:description>The Royal Courts of Justice, commonly called the Law Courts, is a court building in London which houses both the High Court and Court of Appeal of England and Wales. Designed by George Edmund Street, who died before it was completed, it is a large grey stone edifice in the Victorian Gothic style built in the 1870s and opened by Queen Victoria in 1882. Entering through the main gates on the Strand, one passes under two elaborately carved porches fitted with iron gates. The carving over the outer porch consists of heads of the most eminent judges and lawyers. Over the highest point of the upper arch is a figure of Jesus; to the left and right at a lower level are figures of Solomon and Alfred the Great; that of Moses is at the northern front of the building. Also at the northern front, over the Judges entrance are a stone cat and dog representing fighting litigants in court. The walls and ceilings (of the older, original courts) are panelled in oak which in many cases is elaborately carved. -- http://en.wikipedia.org/wiki/Royal_Courts_of_Justice [work]</dcterms:description>
+   <dcterms:description>English</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>courts (judicial bodies)</dcterms:subject>
+   <dcterms:subject>public buildings</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:subject>pointed arches</dcterms:subject>
+   <dcterms:subject>brickwork (masonry)</dcterms:subject>
+   <dcterms:subject>polychrome</dcterms:subject>
+   <dcterms:spatial>Strand, London, Greater London, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>51.513611, -0.113333</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/06/05/14/2465e833-4c0d-4cc4-9ab0-52e98af54994_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2966801</edm:isShownAt>
+</mdRecord>
