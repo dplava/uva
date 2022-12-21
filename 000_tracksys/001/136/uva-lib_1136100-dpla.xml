@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:30 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1136100</dcterms:identifier>
+   <dcterms:title>Marionetta / Erik Meyer-Helmund</dcterms:title>
+   <dcterms:title>Hab' ihr oft genug gestanden</dcterms:title>
+   <dcterms:title>Oft to tell her I'd endeavor</dcterms:title>
+   <dcterms:title>Meyer-Helmund, Erik, 1861-1932. Marionetta. English &amp; German</dcterms:title>
+   <dcterms:creator>Meyer-Helmund, Erik, 1861-1932</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1889</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, soprano voice</dcterms:description>
+   <dcterms:description>piano, tenor voice</dcterms:description>
+   <dcterms:description>Sop. or ten. in G.</dcterms:description>
+   <dcterms:description>For soprano or tenor and piano.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy has dealer's stamp: "John F. Ellis &amp; Co., 937 Penn. Ave., Washington, D.C."</dcterms:description>
+   <dcterms:isPartOf>German songs, 2d ser</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1136101/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1136100</edm:isShownAt>
+</mdRecord>

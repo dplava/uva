@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:18 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1131155</dcterms:identifier>
+   <dcterms:title>Pity for one in childhood torn: in the opera of the Bohemian girl / music composed by M.W. Balfe</dcterms:title>
+   <dcterms:title>Pity for one in childhood torn</dcterms:title>
+   <dcterms:title>Balfe, M. W. (Michael William), 1808-1870. Bohemian girl. Pity for one in childhood torn.</dcterms:title>
+   <dcterms:creator>Balfe, M. W. (Michael William), 1808-1870</dcterms:creator>
+   <dcterms:creator>Fraser Mr</dcterms:creator>
+   <dcterms:creator>Seguin, Anne, 1814-1888</dcterms:creator>
+   <dcterms:creator>Seguin, Arthur Edward Shelden, 1809-1852</dcterms:creator>
+   <dcterms:publisher>F. Perring</dcterms:publisher>
+   <dcterms:created>18XX</dcterms:created>
+   <dcterms:extent>1 vocal score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice, with orchestral accompaniment arranged for piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>:"As sung by Mr. &amp; Mrs. Seguin and Mr. Fraser."</dcterms:description>
+   <dcterms:isPartOf>F. Perring's edition of the gems of Balfe's opera of the Bohemian girl</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano.</dcterms:subject>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1131156/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1131155</edm:isShownAt>
+</mdRecord>

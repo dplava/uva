@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:39 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1140142</dcterms:identifier>
+   <dcterms:title>Adagio favori: op. 15 / L. van Beethoven</dcterms:title>
+   <dcterms:title>Adagio from concerto, op. 15</dcterms:title>
+   <dcterms:title>Beethoven, Ludwig van, 1770-1827. Concertos, piano, orchestra, C major. no. 1, op. 15, C major. arr. Largo; arr.</dcterms:title>
+   <dcterms:creator>Beethoven, Ludwig van, 1770-1827</dcterms:creator>
+   <dcterms:creator>Cross, M. H. (Michael Hurley), 1833-1897</dcterms:creator>
+   <dcterms:creator>Thorburn, E. B.</dcterms:creator>
+   <dcterms:publisher>F. A. North &amp; Co.</dcterms:publisher>
+   <dcterms:created>[1872..1890]</dcterms:created>
+   <dcterms:extent>9 p. of music.</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>At foot of engraving on list title page: "Thorburn, N.Y."</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:isPartOf>Student's album : a collection of choice gems by the best masters, selected for the study of good music / fingered and revised by Prof. M.H. Cross ; no. 1</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Concertos (Piano)--Excerpts, Arranged.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1140143/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1140142</edm:isShownAt>
+</mdRecord>

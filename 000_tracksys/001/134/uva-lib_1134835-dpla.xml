@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:27 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1134835</dcterms:identifier>
+   <dcterms:title>Sehnsucht am Meere = Longings by the sea : op. 8 / von Rud. Willmers</dcterms:title>
+   <dcterms:title>Longings by the sea</dcterms:title>
+   <dcterms:creator>Benkert, George F. (George Felix), 1831-1876</dcterms:creator>
+   <dcterms:creator>Gray, M.</dcterms:creator>
+   <dcterms:creator>M.H. Traubel &amp; Co.</dcterms:creator>
+   <dcterms:creator>Willmers, Rudolf, 1821-1878</dcterms:creator>
+   <dcterms:publisher>G. André &amp; Co.</dcterms:publisher>
+   <dcterms:created>[1858..1875]</dcterms:created>
+   <dcterms:extent>15 p. of music</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>Illustration: Couples in Elizabethan dress strolling arm in arm or sitting in a forest beneath statuary.</dcterms:description>
+   <dcterms:description>Inside t.p. illustration: "M.H. Traubel &amp; Co., Phila."</dcterms:description>
+   <dcterms:description>At foot of t.p. illustration: "San Francisco, M. Gray."</dcterms:description>
+   <dcterms:description>At head of caption title: "À Mr. G.F. Benkert."</dcterms:description>
+   <dcterms:isPartOf>Perles du salon : collection choisie ; no. 14</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1134836/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1134835</edm:isShownAt>
+</mdRecord>

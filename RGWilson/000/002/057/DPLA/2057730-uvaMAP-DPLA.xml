@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:14 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2057730</dcterms:identifier>
+   <dcterms:title>Christ Church, exterior</dcterms:title>
+   <dcterms:title>Christ Church (Lancaster County, Va.)</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1730..1735]</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>West doorway</dcterms:description>
+   <dcterms:description>Christ Church is notable for its unique Georgian design. The church is the only colonial Virginia church that still has its original high-backed pews and one of two that has maintained its original three-tiered pulpit. The first church erected at the site was a wooden building, the construction of which was funded by powerful landowner John Carter in 1670. Carter died before the construction was completed, but was buried on the church grounds alongside four of his five wives. John Carter’s son Robert, a wealthy vestryman and planter, decided that the parish deserved a more substantial place of worship and, in 1730, funded and supervised the construction of a brick building on the approximate foundations of the old wooden church. ... The three English table tombs of Robert Carter, Betty Carter, and Judith Carter stand just outside the east end. -- http://en.wikipedia.org/wiki/Christ_Church_%28Lancaster_County,_Virginia%29; http://www.christchurch1735.org/architecture.html [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Georgian (British Renaissance-Baroque style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Anglican (Church of England)</dcterms:subject>
+   <dcterms:subject>Episcopal</dcterms:subject>
+   <dcterms:subject>Carter, Robert (American plantation owner and patron, 1663-1732)</dcterms:subject>
+   <dcterms:subject>segmental pediments</dcterms:subject>
+   <dcterms:subject>pilasters</dcterms:subject>
+   <dcterms:subject>gauged brick</dcterms:subject>
+   <dcterms:subject>brickwork (masonry)</dcterms:subject>
+   <dcterms:spatial>420 Christ Church Road, Weems, Lancaster, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>37.6806396, -76.42315439999999</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2021/02/04/13/f97e0fb2-26b8-4ab9-be88-0ff4353daabe_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2057730</edm:isShownAt>
+</mdRecord>

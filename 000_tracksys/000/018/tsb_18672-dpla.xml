@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 11:52 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18672</dcterms:identifier>
+   <dcterms:title>Utilitarian, by Eclipse: Too well and favorably known in this vicinity to need puffing, will stand the ensuing season at Hopewell plantation, 4 miles from Greensboro', on the Withers' Landing road, and at Newbern, the season to commence forthwith, and terminate with the month of July / A. Perkins, Agent for John H. Cocke. .. March 9, 1850</dcterms:title>
+   <dcterms:creator>Cocke, John Hartwell, 1780-1866</dcterms:creator>
+   <dcterms:creator>Perkins, A. (Adrian)</dcterms:creator>
+   <dcterms:publisher>A. Perkins?</dcterms:publisher>
+   <dcterms:created>1850</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>46 x 30 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Illustration (unsigned) shows a groom holding a bridled, rearing, horse. Text and ill. enclosed within an ornamental border.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Text defective at old fold line at signature for "A. Perkins, Agent." Transferred from Papers of the Cocke family, MSS 6040, Folder 6. (Purchased) Photographic negative, 35-197-E.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Utilitarian (Horse)</dcterms:subject>
+   <dcterms:subject>Horses--Breeding.</dcterms:subject>
+   <dcterms:subject>Eclipse (Horse : American)</dcterms:subject>
+   <dcterms:subject>Stallions--Virginia--Fluvanna County.</dcterms:subject>
+   <dcterms:spatial>Fluvanna County.</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1511590/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18672</edm:isShownAt>
+</mdRecord>

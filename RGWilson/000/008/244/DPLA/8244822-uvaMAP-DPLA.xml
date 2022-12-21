@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:16 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8244822</dcterms:identifier>
+   <dcterms:title>Romeo and Juliet Windmill, general view</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Wright, Frank Lloyd (American architect, 1867-1959) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2001</dcterms:created>
+   <dcterms:description>...an interesting windmill; Wright christened the structure the "Romeo and Juliet Windmill Tower". Designed in 1886 [sic] to carry water to the Hillside School -- and to withstand some of the area's strongest storms -- critics said it would never remain standing more than 10 years. Romeo (a diamond shaped structure) and Juliet (an octagonal-shaped structure) are locked in an embrace that inspired the moniker. True to the strength of Wright's design and a testament to his engineering genius, the windmill -- although now undergoing renovation to repair damage done by marauding squirrels -- still stands.... -- http://www.franklloydwrightsites.com/wisconsin/springgreen/taliesin/taliesin.htm [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>industrial buildings</dcterms:subject>
+   <dcterms:subject>weathervanes</dcterms:subject>
+   <dcterms:spatial>Spring Green, Sauk, Wisconsin, United States</dcterms:spatial>
+   <dcterms:spatial>43.14153, -90.07091</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/01/16/12/a59f4d4c-20b9-4497-b820-567032c696fe_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8244822</edm:isShownAt>
+</mdRecord>

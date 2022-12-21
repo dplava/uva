@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:16 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8287812</dcterms:identifier>
+   <dcterms:title>Portrait of Llewellyn Solomon Haskell, detail view</dcterms:title>
+   <dcterms:creator>Thompson, Launt (American sculptor 1833-1894) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1978</dcterms:created>
+   <dcterms:medium>bronze (metal) [work]</dcterms:medium>
+   <dcterms:description>From below</dcterms:description>
+   <dcterms:description>"Established in 1857, Llewellyn Park is listed in the National and State Historic Registers as both the first romantically landscaped and one of the first planned luxury estate communities in America." --http://www.llewellynpark.com/page/13266~93842/Highlights "[Llewellyn Solomon Haskell] had resided on the summit of Orange mountain, New Jersey, for several years, when he became impressed with the many advantages offered by its southeastern slope as a place of residence for business men. Having spent two years in the purchase of land there, he began in 1857 to lay out Llewellyn park, and about 1859 retired from business to give his whole time to its improvement. The park is now filled with fine residences. Mr. Haskell was a practical landscape-gardener, and many of its most beautiful features are due to him. A bronze bust of its founder has been placed near the entrance." --http://www.haskellfamilyhistory.com/database/42201.html [work]</dcterms:description>
+   <dcterms:description>... portrait bust of Llewellyn S. Haskell, with this inscription: "Erected in honor of Llewellyn Park, MDCCCLXXX." Haskell had died nine years before, and the residents subscribed for this memorial. The sculptor was Launt Thompson, and this is a good example of his art. The architect of the pedestal, with its swelling lines, is Stanford White. -- House &amp; Garden, Volume 3, 1903, p. 329 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Sculpture and Installations</dcterms:subject>
+   <dcterms:subject>historic monuments</dcterms:subject>
+   <dcterms:subject>portraits</dcterms:subject>
+   <dcterms:subject>sculpture (visual works)</dcterms:subject>
+   <dcterms:subject>Haskell, Llewellyn S. (American architect and planner, 1815-1872)</dcterms:subject>
+   <dcterms:subject>White, Stanford (American architect, 1853-1906)</dcterms:subject>
+   <dcterms:subject>planned communities</dcterms:subject>
+   <dcterms:subject>neighborhoods</dcterms:subject>
+   <dcterms:subject>urban planning</dcterms:subject>
+   <dcterms:spatial>1 Park Way, Llewellyn Park, West Orange, Essex, New Jersey, United States</dcterms:spatial>
+   <dcterms:spatial>40.782172, -74.238351</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/01/26/11/b4cc4a4d-e86e-45f3-80b1-bca7dca52875_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8287812</edm:isShownAt>
+</mdRecord>

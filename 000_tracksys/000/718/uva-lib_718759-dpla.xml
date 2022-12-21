@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:57 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:718759</dcterms:identifier>
+   <dcterms:title>Charlottesville, Albemarle County, Virginia</dcterms:title>
+   <dcterms:creator>Sanborn Map Company.</dcterms:creator>
+   <dcterms:publisher>Sanborn Map Company</dcterms:publisher>
+   <dcterms:created>1920</dcterms:created>
+   <dcterms:extent>42 double col. maps</dcterms:extent>
+   <dcterms:extent>55 x 34 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>SPECIAL COLLECTIONS Manuscript map of Scottsville, Va., 1921, pasted on front lining paper. (57 x 65 cm) Gift of Mrs. W.B. Murphy.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Fire risk assessment--Maps</dcterms:subject>
+   <dcterms:subject>Charlottesville (Va.)--Maps.</dcterms:subject>
+   <dcterms:subject>Albemarle County (Va.)--Maps.</dcterms:subject>
+   <dcterms:spatial>Albemarle County (Va.)</dcterms:spatial>
+   <dcterms:spatial>Charlottesville (Va.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:718760/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:718759</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:32 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003538</dcterms:identifier>
+   <dcterms:title>Tourist map of the Warm Springs Valley: showing the railways, roads, and paths leading to the Healing, Hot and Warm Springs / compiled from U.S. Geol. Survey and other maps [by the] Eng. Office of Jed. Hotchkiss, Staunton, Va., 1895</dcterms:title>
+   <dcterms:title>Chesapeake and Ohio Railway tourist map of the Warm Springs Valley</dcterms:title>
+   <dcterms:title>Map of Warm Springs Valley</dcterms:title>
+   <dcterms:creator>Chesapeake and Ohio Railway Company.</dcterms:creator>
+   <dcterms:creator>Geological Survey (U.S.)</dcterms:creator>
+   <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+   <dcterms:publisher>Jed. Hotchkiss?</dcterms:publisher>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>93 x 71 cm. [original]</dcterms:extent>
+   <dcterms:medium>one color</dcterms:medium>
+   <dcterms:medium>photo</dcterms:medium>
+   <dcterms:medium>paper; negative</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Blue-line print.</dcterms:description>
+   <dcterms:description>At head of title: Chesapeake and Ohio Railway</dcterms:description>
+   <dcterms:description>Includes: unnamed cross section.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Hotchkiss C; not in Swem, E.G. Maps relating to Virginia; writing on front of map; on verso of map: Map of Warm Springs Valley by J. Hotchkiss and no. 26 in circle.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:63750].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Hotchkiss, Jedediah, 1828-1899--Library--Personal copy.</dcterms:subject>
+   <dcterms:subject>Railroads--Virginia--Warm Springs Valley--Maps.</dcterms:subject>
+   <dcterms:subject>Roads--Virginia--Warm Springs Valley--Maps.</dcterms:subject>
+   <dcterms:subject>Warm Springs Valley (Va.)--Maps.</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Warm Springs Valley</dcterms:spatial>
+   <dcterms:spatial>Warm Springs Valley (Va.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:903093/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003538</edm:isShownAt>
+</mdRecord>

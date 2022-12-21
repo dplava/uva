@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:17 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8791935</dcterms:identifier>
+   <dcterms:title>Edison Brothers Building Mural, general view</dcterms:title>
+   <dcterms:creator>Haas, Richard (American trompe l'oeil painter and muralist, born 1936) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1985</dcterms:created>
+   <dcterms:medium>trompe-l'oeil; silicate paint [work]</dcterms:medium>
+   <dcterms:description>South facade</dcterms:description>
+   <dcterms:description>This is a three-sided mural with eight obelisks at its corners, a painted sculpture of Peace on the west facade, and a painted equestrian statue of St. Louis on the south facade. -- http://www.richardhaas.com/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Paintings</dcterms:subject>
+   <dcterms:subject>warehouses</dcterms:subject>
+   <dcterms:subject>hotels (public accommodations)</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>public art</dcterms:subject>
+   <dcterms:subject>Edison Brothers Stores, Inc.</dcterms:subject>
+   <dcterms:subject>equestrian statues</dcterms:subject>
+   <dcterms:subject>streetscapes</dcterms:subject>
+   <dcterms:spatial>400 South 14th Street, Saint Louis, Missouri, United States</dcterms:spatial>
+   <dcterms:spatial>38.62425, -90.202049</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/07/13/08/71425c83-a7bd-45f9-9473-0d358c914df1_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8791935</edm:isShownAt>
+</mdRecord>

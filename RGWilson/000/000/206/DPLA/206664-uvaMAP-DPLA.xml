@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:09 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>206664</dcterms:identifier>
+   <dcterms:title>Heard House, interior</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2003-06</dcterms:created>
+   <dcterms:description>Second floor balustrade</dcterms:description>
+   <dcterms:description>Built by Ipswich merchant John Heard. Purchased from the Heard family to become part of the Ipswich Museum, 1936. -- http://www.essexheritage.org/sites/heard_house.shtml [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>American Colonial</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>art museums</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>Heard, John, 1744-1834</dcterms:subject>
+   <dcterms:subject>wainscoting</dcterms:subject>
+   <dcterms:subject>handrails</dcterms:subject>
+   <dcterms:subject>balustrades</dcterms:subject>
+   <dcterms:subject>stairs</dcterms:subject>
+   <dcterms:subject>posts (structural elements)</dcterms:subject>
+   <dcterms:subject>wood floors</dcterms:subject>
+   <dcterms:spatial>Ipswich, Essex, Massachusetts, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/10/02/16/d728c1e7-d154-4bf7-801d-cf7b62fc729f_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_206664</edm:isShownAt>
+</mdRecord>

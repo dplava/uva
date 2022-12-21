@@ -2,11 +2,11 @@
 <?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
       type="application/xml"
       schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2021-12-06 at 11:52 p.m. -->
-<mdRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xmlns="http://dplava.lib.virginia.edu"
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 3:07 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:provenance>University of Virginia</dcterms:provenance>
    <dcterms:type>still image</dcterms:type>
@@ -24,6 +24,7 @@
    <dcterms:subject>row houses</dcterms:subject>
    <dcterms:subject>International Style (modern European architecture style)</dcterms:subject>
    <dcterms:subject>Weissenhofsiedlung (Stuttgart, Germany)</dcterms:subject>
+   <dcterms:subject>Stuttgart, Baden-Württemberg, Germany</dcterms:subject>
    <edm:preview>https://stor.artstor.org/iiif/2019/09/09/14/263ac6d3-e663-4c2f-981a-8695d9daf808_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
    <edm:isShownAt>https://search.lib.virginia.edu/items/i_26208047</edm:isShownAt>
 </mdRecord>

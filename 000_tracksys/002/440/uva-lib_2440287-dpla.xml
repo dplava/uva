@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 11:18 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2440287</dcterms:identifier>
+   <dcterms:title>Blood detection tablets</dcterms:title>
+   <dcterms:creator>Ames Company [manufacturer]</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1940~/1970~</dcterms:created>
+   <dcterms:medium>glass (material); paper (fiber product) [original]</dcterms:medium>
+   <dcterms:description>Brown glass bottle with red metal cap filled with Hematest Reagent Tablets. Label Information: 60 tablets; Stock No. 6505-110-6575; Blood detection tablets; Hematest Reagent Tablets; Pat. No. 2,290,436; Active ingredients: Calcium Acetate, Tartaric Acid, Strontium Peroxide, Ortholtolidin; Ames Company, Inc., Elkhart, Indiana, U.S.A. Instructions on back of bottle and separate sheet included. Filter paper for testing included.</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:subject>Medical laboratory technology</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2440287/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440287</edm:isShownAt>
+</mdRecord>

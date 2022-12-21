@@ -2,11 +2,11 @@
 <?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
       type="application/xml"
       schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2021-12-06 at 11:51 p.m. -->
-<mdRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xmlns="http://dplava.lib.virginia.edu"
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 3:07 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:provenance>University of Virginia</dcterms:provenance>
    <dcterms:type>still image</dcterms:type>
@@ -22,6 +22,7 @@
    <dcterms:subject>Photographs</dcterms:subject>
    <dcterms:subject>multiple dwellings</dcterms:subject>
    <dcterms:subject>Jugendstil (German, Austrian Art Nouveau)</dcterms:subject>
+   <dcterms:subject>Vienna, Vienna state, Austria</dcterms:subject>
    <edm:preview>https://stor.artstor.org/iiif/2019/08/29/20/32154423-b44e-4d30-ac24-e9a3d67b71ee_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
    <edm:isShownAt>https://search.lib.virginia.edu/items/i_26153936</edm:isShownAt>
 </mdRecord>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:17 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9068174</dcterms:identifier>
+   <dcterms:title>William Scarbrough House, general view</dcterms:title>
+   <dcterms:title>Ships of the Sea Museum</dcterms:title>
+   <dcterms:creator>Jay, William (British architect, 1792-1837, active in the United States) [architect]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1819</dcterms:created>
+   <dcterms:medium>brick (clay product); stucco [work]</dcterms:medium>
+   <dcterms:description>Street facade</dcterms:description>
+   <dcterms:description>It was built in 1819 for one of the principal owners of the Savannah, the first steamship to cross the Atlantic Ocean. Scarbrough's architect, William Jay from Bath, England, created one of the earliest examples of domestic Greek Revival architecture in the South. Used as a public school from the 1870's - 1960's, the mansion was then abandoned for a brief period but later restored by Historic Savannah Foundation in the 1970's. After another period of vacancy, Ships of the Sea Maritime Museum restored the house again in 1996-97, building a new roof based on a documented William Jay design, adding a new rear portico and enlarging the garden. -- https://www.shipsofthesea.org/scarbrough-house [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Greek Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>town houses</dcterms:subject>
+   <dcterms:subject>historic house museums</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>maritime museums</dcterms:subject>
+   <dcterms:subject>porticoes</dcterms:subject>
+   <dcterms:subject>entablatures</dcterms:subject>
+   <dcterms:subject>Diocletian windows</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:spatial>41 Martin Luther King Jr. Blvd (41 West Broad Street), Savannah, Chatham, Georgia, United States</dcterms:spatial>
+   <dcterms:spatial>32.08117, -81.09727</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/04/01/10/4c15db2e-1401-4789-9a2e-21f4b18721f2_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9068174</edm:isShownAt>
+</mdRecord>

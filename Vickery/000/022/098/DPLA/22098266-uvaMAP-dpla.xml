@@ -2,11 +2,11 @@
 <?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
       type="application/xml"
       schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2021-12-06 at 11:42 p.m. -->
-<mdRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xmlns="http://dplava.lib.virginia.edu"
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 3:03 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:provenance>University of Virginia</dcterms:provenance>
    <dcterms:type>still image</dcterms:type>
@@ -26,6 +26,7 @@
    <dcterms:subject>Buddhism</dcterms:subject>
    <dcterms:subject>Angkor Archaeological Park (Cambodia)</dcterms:subject>
    <dcterms:subject>carvings (visual works)</dcterms:subject>
+   <dcterms:subject>Angkor, Siĕm Réab, Cambodia</dcterms:subject>
    <edm:preview>https://stor.artstor.org/iiif/2017/12/21/13/4faf99d0-be8d-4fa9-89f7-d5c61f5a1574_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
    <edm:isShownAt>https://search.lib.virginia.edu/items/i_22098266</edm:isShownAt>
 </mdRecord>

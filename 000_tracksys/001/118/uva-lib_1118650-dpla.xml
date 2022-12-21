@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 7:57 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1118650</dcterms:identifier>
+   <dcterms:title>Put a nickle [sic] in the slot: song, Benzina / words by Clay M. Greene ; music by Richard Maddern</dcterms:title>
+   <dcterms:title>Put a nickel in the slot</dcterms:title>
+   <dcterms:title>The merry nickle, never fickle</dcterms:title>
+   <dcterms:title>You put a nickle in the slot</dcterms:title>
+   <dcterms:title>Maddern, Richard H. Bluebeard Jr. Put a nickel in the slot.</dcterms:title>
+   <dcterms:creator>Greene, Clay Meredith, 1850-1933</dcterms:creator>
+   <dcterms:creator>Maddern, Richard H.</dcterms:creator>
+   <dcterms:publisher>Richard A. Saalfield</dcterms:publisher>
+   <dcterms:created>1889</dcterms:created>
+   <dcterms:extent>1 vocal score (3 p.)</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, piano</dcterms:description>
+   <dcterms:description>Orchestral acc. arr. for piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Includes advertisement: "The Saalfield series: Popular folios of music"--P. [4].</dcterms:description>
+   <dcterms:description>Price: 30 cts.</dcterms:description>
+   <dcterms:isPartOf>Gems from Bluebeard Jr. / produced by the Ideal Extravaganza Co. ; no.1686</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Musicals--Excerpts--Vocal scores with piano.</dcterms:subject>
+   <dcterms:subject>Revues--Excerpts--Vocal scores with piano.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1118651/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1118650</edm:isShownAt>
+</mdRecord>

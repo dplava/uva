@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-15 at 7:45 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>29918574</dcterms:identifier>
+   <dcterms:title>Campbell Hall, interior|detail view</dcterms:title>
+   <dcterms:title>Fiske Kimball Fine Arts Library</dcterms:title>
+   <dcterms:title>School of Architecture</dcterms:title>
+   <dcterms:creator>Bailey, Michael [photographer]</dcterms:creator>
+   <dcterms:creator>Belluschi, Pietro (American architect, 1899-1994) [architect, design]</dcterms:creator>
+   <dcterms:creator>Byrd, Warren T. (American landscape architect, contemporary) [landscape architect, landscape plan]</dcterms:creator>
+   <dcterms:creator>Clark, W. G. (American architect, Charleston, SC, 1942-) [architect, east addition]</dcterms:creator>
+   <dcterms:creator>Rawlings Wilson and Associates (American architectural firm) [architectural firm, architects of record]</dcterms:creator>
+   <dcterms:creator>SMBW Architects (American architectural firm, contemporary) [architectural firm, east and south additions]</dcterms:creator>
+   <dcterms:creator>Sasaki, Dawson, DeMay Associates architectural firm, design [work]</dcterms:creator>
+   <dcterms:creator>Sherman, William (American architect, born 1955) [architect, south addition]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1983</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Library second-floor Bridge, showing bucket and sheeting to address roof leaks</dcterms:description>
+   <dcterms:description>Original design 1969-1972 by Pietro Belluschi and by Kenneth DeMay of Sasaki, Dawson, DeMay; Rawlings and Wilson, architects of record. East addition 2009 by WG Clark Associates; south addition 2009 by William Sherman Associates; landscape plan 2009 by Warren Byrd. -- Wilson/Neuman/Butler, University of Virginia campus guide, 2012. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Modern (styles and periods)</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>architecture (discipline)</dcterms:subject>
+   <dcterms:subject>water damage</dcterms:subject>
+   <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2021/03/03/13/a2b5b8b1-ca69-4774-9719-ca3ed3146ac2_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_29918574</edm:isShownAt>
+</mdRecord>

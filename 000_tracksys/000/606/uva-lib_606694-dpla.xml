@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:30 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:606694</dcterms:identifier>
+   <dcterms:title>Six trio dont trois concertans et trois a grand orchêstre pour deux violons et basse: 3e. livre de trio de violin</dcterms:title>
+   <dcterms:creator>Stamitz, Anton, 1750-</dcterms:creator>
+   <dcterms:publisher>M. Boyer</dcterms:publisher>
+   <dcterms:created>[1780..1789]</dcterms:created>
+   <dcterms:extent>3 pts. 37 cm.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>Parts: vl. 1st, 2nd &amp; bass.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Mackay-Smith fund.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Trio sonatas (Violins (2), violoncello)--Parts.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:993528/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:606694</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:15 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2521515</dcterms:identifier>
+   <dcterms:title>Avery Coonley Residence, exterior</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Wright, Frank Lloyd (American architect, 1867-1959) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1975-03</dcterms:created>
+   <dcterms:description>General view</dcterms:description>
+   <dcterms:description>The Avery Coonley House, also known as Coonley House, was designed by famous architect Frank Lloyd Wright. Constructed in 1907–08, this is an estate of several buildings built on the banks of the Des Plaines River in Riverside, Illinois, a suburb of Chicago. It is itself a National Historic Landmark and is included in another National Historic Landmark, the Riverside Historic District. Avery Coonley was heir to an industrial fortune and had an unlimited budget. The Coonleys had investigated Wright's other homes and told him that they saw in his work "the countenances of principle". Wright stated in his autobiography that "This was to me a great and sincere compliment. So I put my best into the Coonley House." The lower exterior is stucco rising to a ceramic tile banding with a geometric pattern. The gardens contain terraces, shallow planters and a large reflecting pool. For the education of the Coonley's young daughter Wright designed a playhouse nearby. Around 1960, the main house was divided into two separate residences, now with separate addresses. Riverside Il, is one of the earliest known planned communities, designed by Frederick Law Olmsted and C. Vaux. http://en.wikipedia.org/wiki/Coonley_House [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>horizontality</dcterms:subject>
+   <dcterms:subject>allover patterns</dcterms:subject>
+   <dcterms:subject>ribbon windows</dcterms:subject>
+   <dcterms:subject>eaves</dcterms:subject>
+   <dcterms:subject>breezeways</dcterms:subject>
+   <dcterms:spatial>300 Scottswood Road, Riverside, Cook, Illinois, United States</dcterms:spatial>
+   <dcterms:spatial>41.820447, -87.828581</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/12/18/14/6706ba17-369e-4514-9d05-58338600fcb3_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2521515</edm:isShownAt>
+</mdRecord>

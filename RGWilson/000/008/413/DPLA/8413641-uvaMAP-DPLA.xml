@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:17 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8413641</dcterms:identifier>
+   <dcterms:title>Dunleith, exterior</dcterms:title>
+   <dcterms:title>Routhlands</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1990</dcterms:created>
+   <dcterms:medium>brick (clay product); stucco [work]</dcterms:medium>
+   <dcterms:description>Section of double level porch enclosed by Doric order columns</dcterms:description>
+   <dcterms:description>Built about 1855, it is Mississippi's only surviving example of a plantation house with a fully encircling colonnade of Greek Revival columns. The 12 room main house sits on 40 acres (16 ha) along with several outbuildings including a carriage house, a dairy barn, a poultry house, and a three-story brick courtyard building that historically would have housed the kitchen, laundry and slave quarters. The main house has a Greek revival design and includes 26 Tuscan columns built of brick and stucco that completely encircle it. There are porches with distinctive wrought iron railings around the entire building on the first and second floor. [work]</dcterms:description>
+   <dcterms:description>The previous building on this plantation, called Routhland, had been built by Job Routh in the 1790s and passed down to his daughter Mary Routh. When it was struck by lightning and burned down in 1855, her husband, General Charles G. Dahlgren rebuilt, creating the present structure. It was sold for $30,000 in 1858 (equal to $897,346 today) to Alfred Vidal Davis who renamed it Dunleith. In 1976, the property was opened as a bed-and-breakfast inn. — https://en.wikipedia.org/wiki/Dunleith [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Greek Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>plantation houses</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>hotels (public accommodations)</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>transoms (opening components)</dcterms:subject>
+   <dcterms:subject>architraves</dcterms:subject>
+   <dcterms:subject>porches</dcterms:subject>
+   <dcterms:subject>shutters (opening components)</dcterms:subject>
+   <dcterms:subject>pedimented dormers</dcterms:subject>
+   <dcterms:subject>Tuscan order</dcterms:subject>
+   <dcterms:subject>galleries (upper level spaces)</dcterms:subject>
+   <dcterms:spatial>84 Homochitto Street, Natchez, Adams, Mississippi, United States</dcterms:spatial>
+   <dcterms:spatial>31.549424, -91.400086</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/02/03/09/2f93f437-2579-4971-b829-9b803ce7c7d9_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8413641</edm:isShownAt>
+</mdRecord>

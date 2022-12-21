@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:16 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>3489720</dcterms:identifier>
+   <dcterms:title>Medical Faculty of the Louvain University, exterior</dcterms:title>
+   <dcterms:title>La Maison Médicale</dcterms:title>
+   <dcterms:creator>Kroll, Lucien (Belgian architect, born 1927) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1981</dcterms:created>
+   <dcterms:description>Distant view; Eglise Notre-Dame de l'Assomption (Woluwe-Saint-Lambert) in foreground</dcterms:description>
+   <dcterms:description>Students approached Kroll for an alternative to the monotonous design proposed by the university and conducted a successful campaign for its adoption. Developed in intense consultation with students and others who would use the building, an evolving physical model became a record of the design process. The resulting building has a fragmented look, as it was split into sections with each part handed over to a separate team of architects within the office. http://www.spatialagency.net/database/why/political/participation.1970s [work]</dcterms:description>
+   <dcterms:description>Belgian (region)</dcterms:description>
+   <dcterms:description>Modern (styles and periods)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>medical schools</dcterms:subject>
+   <dcterms:subject>dormitories (buildings)</dcterms:subject>
+   <dcterms:subject>multistory buildings</dcterms:subject>
+   <dcterms:spatial>Promenade de l'Alma, 47, Brussels, Bruxelles, Belgium</dcterms:spatial>
+   <dcterms:spatial>50.850054, 4.453433</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/11/13/16/5a30d732-8261-414d-b59c-a68ddea8b46b_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_3489720</edm:isShownAt>
+</mdRecord>

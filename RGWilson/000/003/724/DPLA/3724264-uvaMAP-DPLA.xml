@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:16 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>3724264</dcterms:identifier>
+   <dcterms:title>Globe Lobby, interior</dcterms:title>
+   <dcterms:creator>Ballin, Hugo (American painter and filmmaker, 1879-1956) [work]</dcterms:creator>
+   <dcterms:creator>Kaufmann, Gordon Bernie (English architect, 1888-1949, active in southern California) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1984</dcterms:created>
+   <dcterms:description>Showing rotating globe at center</dcterms:description>
+   <dcterms:description>In 1935, when the first part of the building was opened, Harry Chandler, then the president and general manager of Times-Mirror Co., declared the building a "monument to the progress of our city and Southern California". The building, despite its historic and architecturally significant appearance, appears not to be listed as a historic landmark. -- http://en.wikipedia.org/wiki/Los_Angeles_Times_Building The Globe Lobby is one of the aesthetic highlights of the Los Angeles Times building. Its 10-foot-high murals were painted in 1935 by Hugo Ballin, who also painted the Griffith Observatory rotunda, and represent some of the finest murals produced in Los Angeles during the 1930s. The focal point is an aluminum globe, 5 1/2 feet in diameter, set on a bronze pedestal. The globe completes a rotation every five minutes. Surrounding the base are bronze bas-reliefs symbolizing industry, religion, science and art along with minor reliefs representing the American Indian, the Greek scholar, the Zulu warrior and the Chinese Mandarin. -- http://latimesblogs.latimes.com/lanow/2011/11/los-angeles-times-globe-lobby-reopens.html [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Art Deco</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>historic buildings</dcterms:subject>
+   <dcterms:subject>news agencies</dcterms:subject>
+   <dcterms:subject>multistory buildings</dcterms:subject>
+   <dcterms:subject>office buildings</dcterms:subject>
+   <dcterms:subject>entrance spaces</dcterms:subject>
+   <dcterms:subject>pedestals</dcterms:subject>
+   <dcterms:subject>sculpture (visual works)</dcterms:subject>
+   <dcterms:subject>globes (cartographic spheres)</dcterms:subject>
+   <dcterms:spatial>202 West First Street, Los Angeles, California, United States</dcterms:spatial>
+   <dcterms:spatial>34.053009, -118.244596</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/09/26/13/70603b1e-7a3b-47ee-b649-d543ec5e87b9_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_3724264</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:17 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9111423</dcterms:identifier>
+   <dcterms:title>Harold C. Bradley House II, exterior|general view</dcterms:title>
+   <dcterms:title>Harold and Josephine Bradley House</dcterms:title>
+   <dcterms:creator>Purcell and Elmslie (American architectural firm, active 1913-1922) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1980</dcterms:created>
+   <dcterms:description>Street view</dcterms:description>
+   <dcterms:description>"In just seven years, Josephine Crane Bradley built three major Prairie-style houses, all financed by her wealthy father, Charles R. Crane... Josephine's first Prairie house, a wedding gift from her father, was designed in 1909 by Louis Sullivan with Elmslie's assistance. Although beautiful, the richly detailed house in Madison, Wisconsin, was too large and extravagant... Joesphine worked closely with Elmslie, who, unlike his sometimes volatile employer, actually listened to her requests. In 1911, after a falling out with Sullivan, Josephine and her father chose Elmslie to design a seaside bungalow on Cape Cod and then a new house in Madison... Composed of creamy stucco over red brick, the Bradley House rises three stories on the street side but just two in the rear toward Lake Mendota." -- Legler, "At Home on the Prairie: The Houses of Purcell and Elmslie" p. 163 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>balconies</dcterms:subject>
+   <dcterms:subject>casement windows</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:subject>eaves</dcterms:subject>
+   <dcterms:subject>garages</dcterms:subject>
+   <dcterms:subject>ribbon windows</dcterms:subject>
+   <dcterms:spatial>Madison, Dane, Wisconsin, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/04/03/12/dd068148-7fc8-407f-a36e-6ca6968e9dfb_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9111423</edm:isShownAt>
+</mdRecord>

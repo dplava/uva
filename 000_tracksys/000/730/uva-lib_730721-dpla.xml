@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:58 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:730721</dcterms:identifier>
+   <dcterms:title>Grammaire de P. de La Ramee, lecteur du Roy en lVniuersite de Paris / a la Royne, Mere du Roy</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Lortic, M. (Marcelin), 1852-1928</dcterms:creator>
+   <dcterms:creator>Ramus, Petrus, 1515-1572</dcterms:creator>
+   <dcterms:creator>Wechel, Andreas, -1581</dcterms:creator>
+   <dcterms:publisher>De l'imprimerie d'André Wechel</dcterms:publisher>
+   <dcterms:created>1572</dcterms:created>
+   <dcterms:extent>[18], 211 p.</dcterms:extent>
+   <dcterms:extent>18 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Signatures: *⁸ **² A-N⁸ O² (leaf **2 is blank)</dcterms:description>
+   <dcterms:description>Errata: p. 211.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Lortic. Bookplate, In libris Curvatus Consciens (?) in libris. Gordon Collection. Bookplate of Douglas Gordon. Gordon list 349.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>French language--Middle French, 1300-1600--Grammar.</dcterms:subject>
+   <dcterms:temporal>Middle French, 1300-1600</dcterms:temporal>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:736346/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730721</edm:isShownAt>
+</mdRecord>

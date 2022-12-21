@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:12 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>748514</dcterms:identifier>
+   <dcterms:title>Dragon Bridge, detail view</dcterms:title>
+   <dcterms:title>Jubilee Bridge of the Emperor Franz Josef I</dcterms:title>
+   <dcterms:title>Zmajski Most</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Zaninovich, Giorgio (Italian architect, contemporary) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1983</dcterms:created>
+   <dcterms:medium>concrete; paving asphalt [work]</dcterms:medium>
+   <dcterms:description>Dragon sculpture and decoration at bridge entrance</dcterms:description>
+   <dcterms:description>Dragon Bridge is a triple-hinged arch bridge and has a span of 33.34 metres (109 ft 5 in). --http://en.wikipedia.org/wiki/Dragon_Bridge [work]</dcterms:description>
+   <dcterms:description>Italian</dcterms:description>
+   <dcterms:description>Sezessionstil</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>arch bridges</dcterms:subject>
+   <dcterms:subject>dragons</dcterms:subject>
+   <dcterms:subject>animals, mythical</dcterms:subject>
+   <dcterms:subject>Franz Joseph I, Emperor of Austria, 1830-1916</dcterms:subject>
+   <dcterms:subject>Ljubljanica River (Slovenia)</dcterms:subject>
+   <dcterms:subject>statues</dcterms:subject>
+   <dcterms:subject>balustrades</dcterms:subject>
+   <dcterms:subject>concrete</dcterms:subject>
+   <dcterms:subject>windows</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>dentils</dcterms:subject>
+   <dcterms:subject>lampposts</dcterms:subject>
+   <dcterms:spatial>between Kopitar and Ressel Streets, Ljubljana, miscellaneous/Slovenia, Slovenia</dcterms:spatial>
+   <dcterms:spatial>46.051968, 14.510438</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/09/11/14/7deec023-d0df-4467-8bfc-95f8ca157d17_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_748514</edm:isShownAt>
+</mdRecord>

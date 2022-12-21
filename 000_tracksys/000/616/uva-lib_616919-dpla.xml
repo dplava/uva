@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:31 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:616919</dcterms:identifier>
+   <dcterms:title>Poem addressed, by Philis (a young Affrican, of surprising genius) to a gentleman of the navy, with his reply</dcterms:title>
+   <dcterms:title>Answer</dcterms:title>
+   <dcterms:title>Celestial muse! for sweetness fam'd inspire</dcterms:title>
+   <dcterms:title>Poem addressed to a gentleman of the navy</dcterms:title>
+   <dcterms:creator>Wheatley, Phillis, 1753-1784</dcterms:creator>
+   <dcterms:created>1774</dcterms:created>
+   <dcterms:extent>p. 473-475</dcterms:extent>
+   <dcterms:extent>24 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Title from caption title.</dcterms:description>
+   <dcterms:description>Wheatley's poem, dated Boston, October 30th, 1774, begins: Celestial muse! for sweetness fam'd inspire / My wondrous theme with true poetic fire, / Rochfort, for thee! And Greaves deserve my lays / The sacred tribute of ingenuous praise.</dcterms:description>
+   <dcterms:description>"The Answer," dated December 2d 1774, begins: Celestial muse sublimest of the nine, / Assist my song, and dictate every line ; ... But yet, alas! what tribute can I bring, / WH--TL-Y but smiles, whilst I thus faintly sing, / Behold with reverence, and with joy adore; / The lovely daughter of the Affric shore ...</dcterms:description>
+   <dcterms:description>With introductory paragraph: By this single instance may be seen, the importance of education. Uncultivated nature is much the same in every part of the globe. It is probable Europe and Affrica would be alike savage or polite in the same circumstances ...</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Stitched sheets, unbound. Tracy W. McGregor Library, American History Collection.</dcterms:description>
+   <dcterms:isPartOf>Royal American magazine</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Wheatley, Phillis, 1753-1784--Poetry.</dcterms:subject>
+   <dcterms:subject>African Americans--Education.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1098594/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616919</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:58 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:743728</dcterms:identifier>
+   <dcterms:title>Corrected map of Staunton Park Addition Co., adjoining City Park, Staunton, Va., June 26, 1916 / by E.E. McCutchan, D.C.</dcterms:title>
+   <dcterms:creator>McCutchan, E. E.</dcterms:creator>
+   <dcterms:creator>Staunton Park Addition Co. (Staunton, Va.)</dcterms:creator>
+   <dcterms:publisher>Staunton Park Addition Co.</dcterms:publisher>
+   <dcterms:created>1916</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>56 x 46 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief not shown.</dcterms:description>
+   <dcterms:description>Individual street names, block and lot numbers shown.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,800], 1 inch = 150 feet</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Staunton Park Addition Co. (Staunton, Va.)</dcterms:subject>
+   <dcterms:subject>Real estate development--Virginia--Staunton--Maps.</dcterms:subject>
+   <dcterms:subject>Staunton (Va.)--Maps.</dcterms:subject>
+   <dcterms:spatial>Staunton</dcterms:spatial>
+   <dcterms:spatial>Staunton (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096393/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:743728</edm:isShownAt>
+</mdRecord>

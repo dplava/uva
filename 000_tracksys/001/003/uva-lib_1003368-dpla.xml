@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003368</dcterms:identifier>
+   <dcterms:title>Map of town of West Lynchburg, Campbell County, Va: Property of the West Lynchburg Land Company / prepared by G. Wm. Baist, Map Publisher, 906 Walnut St., Philadelphia</dcterms:title>
+   <dcterms:title>Property of the West Lynchburg Land Company</dcterms:title>
+   <dcterms:creator>Baist, G. Wm. (George William), 1859-1927</dcterms:creator>
+   <dcterms:creator>West Lynchburg Land Company (Lynchburg, Va)</dcterms:creator>
+   <dcterms:publisher>West Lynchburg Land Company</dcterms:publisher>
+   <dcterms:created>[1880..1889]</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>56 x 80 cm. on sheet 60 x 84 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>contours</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown by contour lines.</dcterms:description>
+   <dcterms:description>Shows city sections, with block and lot numbers.</dcterms:description>
+   <dcterms:description>Note upper left: The West Lynchburg Land Company, of Campbell County, Virginia, reserves the full, free and exclusive righ to the streets, avenues and alleys, now or hereafter...</dcterms:description>
+   <dcterms:description>Four lithographic vignettes: West Lynchburg Furniture Company's Factory Building -- Hotel -- Cottage for hotel site -- Valley Engine &amp; Machine Works.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Imperfect: Many scattered small areas of text lost where paper has peeled from its linen backing. Handwritten information has been added in red ink.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:4,200].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>West Lynchburg Land Company (Lynchburg, Va.)</dcterms:subject>
+   <dcterms:subject>Real property--Virginia--Lynchburg--Maps.</dcterms:subject>
+   <dcterms:subject>Real estate development--Virginia--Lynchburg--Maps.</dcterms:subject>
+   <dcterms:subject>Lynchburg (Va.)--Maps.</dcterms:subject>
+   <dcterms:spatial>Lynchburg</dcterms:spatial>
+   <dcterms:spatial>Lynchburg (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Philadelphia, Pennsylvania, United States</dcterms:spatial>
+   <dcterms:spatial>Lynchburg, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:891453/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003368</edm:isShownAt>
+</mdRecord>

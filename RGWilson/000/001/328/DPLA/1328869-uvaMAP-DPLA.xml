@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:12 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1328869</dcterms:identifier>
+   <dcterms:title>Honolulu House, exterior</dcterms:title>
+   <dcterms:title>Abner Pratt House</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1974</dcterms:created>
+   <dcterms:description>View of facade</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Italianate (North American architecture styles )</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>housing (concept)</dcterms:subject>
+   <dcterms:subject>Hawaii</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:subject>lanais</dcterms:subject>
+   <dcterms:subject>brackets (structural elements)</dcterms:subject>
+   <dcterms:subject>hip roofs</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:spatial>107 North Kalamazoo Street, Marshall, Calhoun, Michigan, United States</dcterms:spatial>
+   <dcterms:spatial>42.272726, -84.964557</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/02/11/14/f09ab18f-6ab3-480e-8c47-5e76f4d92b17_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1328869</edm:isShownAt>
+</mdRecord>

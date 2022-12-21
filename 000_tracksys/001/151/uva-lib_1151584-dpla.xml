@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 9:05 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1151584</dcterms:identifier>
+   <dcterms:title>The lost chord / words by Adelaide Proctor ; music by Arthur Sullivan</dcterms:title>
+   <dcterms:title>Seated one day at the organ, I was weary and ill at ease</dcterms:title>
+   <dcterms:creator>Procter, Adelaide Anne, 1825-1864</dcterms:creator>
+   <dcterms:creator>Sullivan, Arthur Sir, 1842-1900</dcterms:creator>
+   <dcterms:publisher>Emerson Drug Co.</dcterms:publisher>
+   <dcterms:created>1893</dcterms:created>
+   <dcterms:extent>1 score ([3] p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>voice, organ</dcterms:description>
+   <dcterms:description>For voice and piano or organ.</dcterms:description>
+   <dcterms:description>Imprint date inferred from advertisement on title page: "See the Stieff piano at World's Exposition, Chicago, 1893."</dcterms:description>
+   <dcterms:description>Title page illustration: Cartouche with woman playing a Stieff piano and a bottle of Bromo-Seltzer / B.G. Malone, Balto.</dcterms:description>
+   <dcterms:description>Advertisement on p. [3]: "Bromo-Seltzer cures all headaches; trial size, 10 cts."</dcterms:description>
+   <dcterms:isPartOf>Bromo-Seltzer collection of 54 popular songs : complete and unabridged, full music size with piano &amp; organ accompaniment</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Songs with organ</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1151585/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1151584</edm:isShownAt>
+</mdRecord>

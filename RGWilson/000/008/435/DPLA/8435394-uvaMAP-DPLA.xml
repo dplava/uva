@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:17 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8435394</dcterms:identifier>
+   <dcterms:title>The Yearling, general view</dcterms:title>
+   <dcterms:creator>Lipski, Donald (American assemblage artist, born 1947) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2001</dcterms:created>
+   <dcterms:medium>red painted steel; fiberglass [work]</dcterms:medium>
+   <dcterms:description>The red painted steel chair is 21 feet tall and ten feet wide, and the painted fiberglass pinto pony is six feet tall at the ears. The scale of this work is meant to recall that time in life when even everyday objects seemed monumental. “The Yearling” was originally commissioned for an elementary school in upper Manhattan.... The sculpture spent 1997 in New York City’s Central Park, where it was widely acclaimed before traveling to Denver in 1998 for permanent installation. -- https://www.denverlibrary.org/content/yearling [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>International Style (modern European architecture style)</dcterms:description>
+   <dcterms:description>Postmodern</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>horses</dcterms:subject>
+   <dcterms:subject>side chairs</dcterms:subject>
+   <dcterms:subject>ponies</dcterms:subject>
+   <dcterms:subject>public libraries (buildings)</dcterms:subject>
+   <dcterms:spatial>14th Avenue at Acoma Street, Denver, Colorado, United States</dcterms:spatial>
+   <dcterms:spatial>39.7375, -104.988056</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/02/06/10/5640817e-2c20-4556-a962-dc729c9631c0_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8435394</edm:isShownAt>
+</mdRecord>

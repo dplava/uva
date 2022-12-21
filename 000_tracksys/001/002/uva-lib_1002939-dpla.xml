@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:28 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1002939</dcterms:identifier>
+   <dcterms:title>The happy effects of that grand systom of shutting ports against the English!! / Cruikshank</dcterms:title>
+   <dcterms:creator>Cruikshank, Isaac, 1756?-1811?</dcterms:creator>
+   <dcterms:creator>Cruikshank, Robert, 1789-1856</dcterms:creator>
+   <dcterms:publisher>Pubd. by Walker, 7 Cornhill</dcterms:publisher>
+   <dcterms:created>1808</dcterms:created>
+   <dcterms:extent>1 print</dcterms:extent>
+   <dcterms:extent>image 21 x 33 cm. on sheet 30 x 48 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Cartoon, depicting Thomas Jefferson explaining the embargo to a group of merchants.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Byrd Fund, 1956. Previously accessioned as MSS 5350.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Byrd Fund, 1956. Previously accessioned as MSS 5350.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Jefferson, Thomas, 1743-1826--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>Embargo, 1807-1809--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:subject>United States--Politics and government--1801-1809--Caricatures and cartoons.</dcterms:subject>
+   <dcterms:temporal>1801-1809</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:872258/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002939</edm:isShownAt>
+</mdRecord>

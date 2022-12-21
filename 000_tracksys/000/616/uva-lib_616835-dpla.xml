@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:31 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:616835</dcterms:identifier>
+   <dcterms:title>A north view of Pensacola, on the Island of Santa Rosa / drawn by Dom. Serres. Plan of the Harbour and settlement of Pensacola / T. Jefferys sculp</dcterms:title>
+   <dcterms:creator>Sayer, Robert, 1725-1794</dcterms:creator>
+   <dcterms:creator>Serres, Dominic, 1719-1793</dcterms:creator>
+   <dcterms:publisher>R. Sayer &amp; T. Jefferys</dcterms:publisher>
+   <dcterms:created>1768</dcterms:created>
+   <dcterms:extent>1 view and 1 map on a single sheet</dcterms:extent>
+   <dcterms:extent>16 x 27 cm. (view) and 19 x 26 cm. (map) [original]</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>On the Plan of the Harbour... "Plate 2" is printed at upper left above the neatline and "Page 9" is printed at upper right, also above the neatline.</dcterms:description>
+   <dcterms:description>Relief shown pictorially; depth by soundings.</dcterms:description>
+   <dcterms:description>A north view of Pensacola includes notes: 1. The Fort. 2. The Church. 3. The Government house. 4. The Commandants House. 5. A Well. 6. A Bungo.</dcterms:description>
+   <dcterms:description>According to Phillips, these appeared in "A general topography of North America and the West Indies." London, for R. Sayer &amp; T. Jefferys, nos. 68 a and b.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library, American History Collection.</dcterms:description>
+   <dcterms:description>Scale for Plan of the Harbour... [ca. 1:168,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Nautical charts--Florida--Pensacola--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Views--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Florida--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:spatial>Florida</dcterms:spatial>
+   <dcterms:spatial>Pensacola</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:620422/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616835</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 11:55 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18875</dcterms:identifier>
+   <dcterms:title>Petersburg Female College, Walnut Street, Petersburg, Va: In the month of June, 1854, forty-eight gentlemen of Petersburg and its vicinity, associated themselves together for the purpose of establishing in the city a school of the highest grade, for the education of young ladies / Communications respecting the College may be addressed to D'Arcy Paul, chairman .., December, 1854. ..</dcterms:title>
+   <dcterms:creator>Paul, D'Arcy.</dcterms:creator>
+   <dcterms:creator>Petersburg Female College (Petersburg, Va.)</dcterms:creator>
+   <dcterms:publisher>Petersburg Female College</dcterms:publisher>
+   <dcterms:created>1854</dcterms:created>
+   <dcterms:extent>[4] unnumbered pages (pages [3]-[4] blank)</dcterms:extent>
+   <dcterms:extent>28 x 22 cm [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Lists the names of 8 instructors, with their credentials and course of instruction, describes boarding facilities, and gives the tuition costs..</dcterms:description>
+   <dcterms:description>A love poem of four verses, beginning "I wonder if she loves me," is handwritten on page [3] of the sheet.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Unbound. Byrd Fund, 2014/2015.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Petersburg Female College (Petersburg, Va.)</dcterms:subject>
+   <dcterms:subject>Petersburg Female College (Petersburg, Va.)--Curricula.</dcterms:subject>
+   <dcterms:subject>Women's colleges--Virginia--Petersburg.</dcterms:subject>
+   <dcterms:subject>Private schools--Virginia--Petersburg.</dcterms:subject>
+   <dcterms:subject>Women--Education--Virginia--19th century.</dcterms:subject>
+   <dcterms:temporal>19th century.</dcterms:temporal>
+   <dcterms:spatial>Petersburg.</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Petersburg, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1518190/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18875</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 3:01 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:798063</dcterms:identifier>
+   <dcterms:title>Liure tres bon plaisant et salutaire de linstitution de la femme chrestienne, tant en son enfance, que mariage &amp; viduite: Aussi de loffice du mary / naguerec cōposez en latin par Iehan Loys Viues, &amp; nouuellement traduictz en langue francoyse par Pierre de Changy escuyer. Auquel est adioustee de nouueau vne .. instruction de la vertu dhumilite. Auec vne epistre de sainct Bernard touchant le negoce &amp; gouuernement dune maison</dcterms:title>
+   <dcterms:title>De l'institution de la femme chrestienne</dcterms:title>
+   <dcterms:title>Livre tres bon plaisant et salutaire de linstitution de la femme chrestienne</dcterms:title>
+   <dcterms:title>Vives, Juan Luis, 1492-1540. De institutione feminae Christianae. French</dcterms:title>
+   <dcterms:creator>Changy, Pierre de</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Fezandat, Jacques</dcterms:creator>
+   <dcterms:creator>Kerver, Jacques, -1583</dcterms:creator>
+   <dcterms:creator>Vives, Juan Luis, 1492-1540</dcterms:creator>
+   <dcterms:publisher>On les vend a Paris en la rue sainct Iaques a lenseigne des deux couchetz, par Iaques Keruer</dcterms:publisher>
+   <dcterms:created>1543</dcterms:created>
+   <dcterms:extent>[6], cli, [1] leaves</dcterms:extent>
+   <dcterms:extent>16 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Le tout reueu &amp; corrige oultre les precedentes impressions.</dcterms:description>
+   <dcterms:description>Signatures: A-T⁸ V⁴.</dcterms:description>
+   <dcterms:description>Colophon: Imprime à Paris par Iaques Fæzandat. Pour Iaques Keruer libraire iure en luniuersite de Paris le xxv. iour de Iuing. 1543.</dcterms:description>
+   <dcterms:description>Translation of: De institutione fœminæ christianæ.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Bookplates of Robert Hoe and Lucius Wilmerding. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 283.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Women--France.</dcterms:subject>
+   <dcterms:subject>Women--Education--France.</dcterms:subject>
+   <dcterms:subject>Women and religion--France.</dcterms:subject>
+   <dcterms:spatial>France.</dcterms:spatial>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1008044/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:798063</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:30 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:602598</dcterms:identifier>
+   <dcterms:title>Atlas nouveau, contenant toutes les parties du monde: ou sont exactement remarquées les empires, monarchies, royaumes, etats, republiques &amp;c / Par Guillaume de l'Isle</dcterms:title>
+   <dcterms:creator>L'Isle, Guillaume de, 1675-1726</dcterms:creator>
+   <dcterms:creator>Sanson, Nicolas, 1600-1667</dcterms:creator>
+   <dcterms:publisher>Chez Jean Cóvens &amp; Corneille Mortier sur le Vygendam</dcterms:publisher>
+   <dcterms:created>1733</dcterms:created>
+   <dcterms:extent>[4] l., 31, [1] p. 64 double maps. 54.5 cm.</dcterms:extent>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Title in red and black with added t.-p. in Latin and French engraved by R. de Hooghe "Atlas novus ad serenissime Burgundiae ducis. Atlas franco̧is a l'usage de monseigneur le duc de Bourgogne ..."</dcterms:description>
+   <dcterms:description>Text preceding maps has special t.-p. "Introduction a la geographie ... par le sieur Sanson d'Abbeville ... A Amsterdam, Chez Jean Covens &amp; Corneille Mortier [1733?]</dcterms:description>
+   <dcterms:description>Cf. Phillips 580 and 581.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library, American History Collection.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Atlases</dcterms:subject>
+   <dcterms:spatial>Amsterdam, Netherlands</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:602630/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:602598</edm:isShownAt>
+</mdRecord>

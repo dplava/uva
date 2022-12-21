@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:16 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8227476</dcterms:identifier>
+   <dcterms:title>Troescher Building, general view</dcterms:title>
+   <dcterms:title>Chicago Daily Illustrated Times Building</dcterms:title>
+   <dcterms:title>Troescher, Anton F. Building</dcterms:title>
+   <dcterms:creator>Adler and Sullivan (American architectural firm, 1883-1924) [architectural firm]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1977</dcterms:created>
+   <dcterms:medium>brownstone (material) [work]</dcterms:medium>
+   <dcterms:description>Street façade</dcterms:description>
+   <dcterms:description>… this building was commissioned by Anton F. Troescher, a New York-based executive of the Brunswick-Balke-Collender Company, a manufacturer of sports equipment and custom millwork. The Troescher Building exhibited a clarity of structural expression comparable to that of later steel-frame structures. Above the rusticated brownstone arches at ground level, the pressed-brick facade was articulated as a grid of continuous piers and recessed spandrels. The lunettes and terra-cotta spandrels between the second and third stories were notable examples of Sullivan's ornament of the period. The building was demolished in 1978. -- Nickel and Sisking, The complete architecture of Adler &amp; Sullivan, Richard Nickel Committee, 2010. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>office buildings</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>windows</dcterms:subject>
+   <dcterms:subject>architectural ornament</dcterms:subject>
+   <dcterms:spatial>15 South Wacker Drive, former site: 15 South Wacker Drive, Chicago, Cook, Illinois, United States</dcterms:spatial>
+   <dcterms:spatial>41.881389, -87.636734</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/01/14/13/d6b3b239-6b7f-4e49-82a3-18f6dd8f9b56_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8227476</edm:isShownAt>
+</mdRecord>

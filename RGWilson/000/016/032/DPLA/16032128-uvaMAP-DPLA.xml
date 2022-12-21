@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:18 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>16032128</dcterms:identifier>
+   <dcterms:title>Hollyhock House, detail view</dcterms:title>
+   <dcterms:title>Aline Barnsdall Hollyhock House</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Wright, Frank Lloyd (American architect, 1867-1959) [work]</dcterms:creator>
+   <dcterms:creator>Wright, Lloyd (American architect and scenographer, 1890-1978) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1982</dcterms:created>
+   <dcterms:medium>balloon frames ; structural clay tile; stucco [work]</dcterms:medium>
+   <dcterms:description>Sunroom off the nursery wing</dcterms:description>
+   <dcterms:description>The Aline Barnsdall Hollyhock House [was] originally designed by Frank Lloyd Wright as a residence for oil heiress Aline Barnsdall, built in 1919–1921. The building is now the centerpiece of the city's Barnsdall Art Park. [work]</dcterms:description>
+   <dcterms:description>Barnsdall originally intended the house to be part of an arts and theater complex on a property known as Olive Hill, but the larger project was never completed. [Wright] delegated many of the responsibilities involved in designing the house to his son, Lloyd Wright. [work]</dcterms:description>
+   <dcterms:description>Disillusioned by the costs of construction and maintenance, Barnsdall donated the house to the city of Los Angeles in 1927 under the stipulation that a fifteen-year lease be given to the California Art Club for its headquarters, which it maintained until 1942. The house has been used as an art gallery and as a United Service Organizations (USO) facility over the years. [work]</dcterms:description>
+   <dcterms:description>The U.S. Department of the Interior designated Hollyhock House a National Historic Landmark in 2007. [work]</dcterms:description>
+   <dcterms:description>In January 2015 it was announced on the official site that, following extensive renovations, the house would once again open for tours on 13 February. -- https://en.wikipedia.org/wiki/Hollyhock_House [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Mayan Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>single-family dwellings</dcterms:subject>
+   <dcterms:subject>art parks</dcterms:subject>
+   <dcterms:subject>National Historic Landmarks</dcterms:subject>
+   <dcterms:subject>historic house museums</dcterms:subject>
+   <dcterms:subject>solariums</dcterms:subject>
+   <dcterms:spatial>4800 Hollywood Blvd, Los Angeles, CA 90027, USA, 4800 Hollywood Blvd, Los Angeles, California, United States</dcterms:spatial>
+   <dcterms:spatial>34.1015282, -118.2943343</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2016/07/07/08/871f76be-6883-4b08-8f38-a007ede35cd8_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_16032128</edm:isShownAt>
+</mdRecord>

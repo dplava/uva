@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:34 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003631</dcterms:identifier>
+   <dcterms:title>A new map of Germany, Hungary, Transilvania &amp; the Suisse cantons: with many remarks not extant in any map / According to ye newest and most exact observations, by Herman Moll Geographer, 1712</dcterms:title>
+   <dcterms:creator>Bowles, John, 1701-1779</dcterms:creator>
+   <dcterms:creator>Bowles, Thomas, -1767</dcterms:creator>
+   <dcterms:creator>King, John.</dcterms:creator>
+   <dcterms:creator>Marlborough, John Churchill Duke of, 1650-1722</dcterms:creator>
+   <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+   <dcterms:creator>Overton, Philip, -1751</dcterms:creator>
+   <dcterms:publisher>Printed for H. Moll between Temple Bar &amp; St Clements Church in ye Strand, I Bowles Print and Map Seller at the Black Horse in Cornhill and by P Overton Mapp &amp; Print seller near St. Dunstans Church in Fleet Street, and T. Boules Print &amp; Mapp seller next to ye Chapter house in St. Pauls Church Yard and by Iohn King Print and Map Seller at the Globe in the Poultry.</dcterms:publisher>
+   <dcterms:created>1730</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>61 x 100 on sheet 63 x 107. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Dedication: To His Grace John Duke of Marleborough, Prince of Mindelheim &amp;c. This map of Germany &amp;c. is most Humbly Dedicated by H. Moll Geographer.</dcterms:description>
+   <dcterms:description>Note: The several countries contained in this map yeilding many natural advantages, as gold, silver, copper, lead and iron mines; salt springs &amp;c ...</dcterms:description>
+   <dcterms:description>Note: The Emperor has 200 ships and gallies, on the Danube fo ye defence of ye Kingdom of Hungary and ye Turks as many; so that there never were such large fleets, and so great navel engagements, any where at such a distance from the sea as in the late war on that river.</dcterms:description>
+   <dcterms:description>Pictorial inset: The general Diet of the Empire, or it's parliament with ye order of it's different colleges ...</dcterms:description>
+   <dcterms:description>Below title: Note, that in this map are comprehended these dominions belonging to ye House of Austria viz Bohemia, Silesia, Austria, Hungary, Transilvania, Stiria, Carinthia and Carniola, Principality of Swabia, Tirol &amp;c. Also the ecclesiasticall and secular electorates, all the states and sovereignties in Swabia, Franconia, Hessia, Westphalia &amp; Saxony.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: "Germany" is handwritten in brown ink on the verso.</dcterms:description>
+   <dcterms:description>Scale [ca. 1,800,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Europe, Central--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Germany--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Switzerland--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Hungary--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:spatial>Europe, Central</dcterms:spatial>
+   <dcterms:spatial>Germany</dcterms:spatial>
+   <dcterms:spatial>Hungary</dcterms:spatial>
+   <dcterms:spatial>Switzerland</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:906135/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003631</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:12 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1085001</dcterms:identifier>
+   <dcterms:title>Somme American Cemetery and Memorial, general view</dcterms:title>
+   <dcterms:creator>Howe, George (American architect, ca.1887-1955) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1984</dcterms:created>
+   <dcterms:description>Graves, with chapel in background</dcterms:description>
+   <dcterms:description>The World War I Somme American Cemetery and Memorial in France is sited on a gentle slope typical of the open, rolling Picardy countryside. The 14.3-acre cemetery contains the graves of 1,844 of our military dead. Most lost their lives while serving in American units attached to British armies, or in operations near Cantigny. The headstones, set in regular rows, are separated into four plots by paths that intersect at the flagpole near the top of the slope. The longer axis leads to the chapel at the eastern end of the cemetery. A massive bronze door surmounted by an American eagle leads into the chapel, whose outer walls contain sculptured pieces of military equipment. Once inside, light from a cross-shaped crystal window above the marble altar bathes the subdued interior with light. The walls bear the names of 333 of the missing. Rosettes mark the names of those since recovered and identified. -- http://www.abmc.gov/cemeteries/cemeteries/so.php [work]</dcterms:description>
+   <dcterms:description>The Somme American Cemetery and Memorial is administered by the American Battle Monuments Commission. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Mid-Century Modernist</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Somme, 2nd Battle of the, France, 1918</dcterms:subject>
+   <dcterms:subject>World War, 1914-1918</dcterms:subject>
+   <dcterms:subject>American Battle Monuments Commission</dcterms:subject>
+   <dcterms:subject>soldiers</dcterms:subject>
+   <dcterms:subject>chapels (rooms or structures)</dcterms:subject>
+   <dcterms:subject>tombstones (sepulchral monuments)</dcterms:subject>
+   <dcterms:subject>landscaping</dcterms:subject>
+   <dcterms:subject>crosses (visual works)</dcterms:subject>
+   <dcterms:spatial>Aisne, Picardy, France</dcterms:spatial>
+   <dcterms:spatial>49.98505, 3.2133</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/12/06/15/57b6ea8e-cf03-4e92-b89f-d765d611f786_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1085001</edm:isShownAt>
+</mdRecord>

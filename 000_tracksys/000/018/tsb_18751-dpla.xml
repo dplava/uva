@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 11:53 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18751</dcterms:identifier>
+   <dcterms:title>State of Virginia, Henry County, to-wit: I, John H. Pharis, a Notary Public in and for the county aforesaid, in the state of Virginia, do hereby certify that [blank] whose name [blank] signed to the foregoing and annexed writing, bearing date on the [blank] day of [blank] 18 [blank], this day personally appeared before me in my county aforesaid, and acknowledged the said writing to be [blank] act and deed. Given under my hand this [blank] day of [blank] 18 [blank] N.P.</dcterms:title>
+   <dcterms:title>I, John H. Pharis, a Notary Public in and for the county aforesaid, in the state of Virginia, do hereby certify that</dcterms:title>
+   <dcterms:creator>Henry County (Va.)</dcterms:creator>
+   <dcterms:creator>Pharis, John. H.</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>[1850..1859]</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>32 x 21 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Two-part form printed on a single sheet; seal of the Commonwealth of Virginia on a background of a surveyor at Natural Bridge, in upper left.</dcterms:description>
+   <dcterms:description>Second part of form reads as follows: State of Virginia, Henry County, to-wit: I, John H. Pharis, a notary public in and for the county aforesaid, in the state of Virginia, do hereby certify that [blank] wife of [blank] whose names are signed to the writing hereunto annexed, bearing date on the [blank] day of [blank] 18 [blank], this day personally appeared before me in writing in my county aforesaid, and being examined by me privily and apart from [blank] husband, and having the writing aforesaid fully explained to [blank] the said [blank] acknowledged the said writing to be [blank] act and deed, and declared that [blank] had willingly executed the same, and do [blank] wish to retract it. Given under my hand this [blank] day of [blank] 18 [blank] N.P.</dcterms:description>
+   <dcterms:description>Blank form, printed on yellow paper.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Pharis, John. H</dcterms:subject>
+   <dcterms:subject>Notaries--Virginia--Henry County--Forms.</dcterms:subject>
+   <dcterms:subject>Oaths--Virginia--Henry County--Forms.</dcterms:subject>
+   <dcterms:subject>Affidavits--Virginia--Henry County--Forms.</dcterms:subject>
+   <dcterms:spatial>Henry County</dcterms:spatial>
+   <dcterms:spatial>Henry County (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1517635/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18751</edm:isShownAt>
+</mdRecord>

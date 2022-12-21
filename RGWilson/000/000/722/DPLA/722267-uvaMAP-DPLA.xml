@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:11 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>722267</dcterms:identifier>
+   <dcterms:title>Court of Neptune Fountain, detail view</dcterms:title>
+   <dcterms:creator>Perry, Roland Hinton (American painter, 1870-1941) [work]</dcterms:creator>
+   <dcterms:creator>Weinert, Albert (American sculptor 1863-1947) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1971</dcterms:created>
+   <dcterms:description>The fountain consists of a semicircular granite basin set in a retaining wall flanked by a set of stairs. Within the retaining wall, there are three large niches. Neptune, king of the sea, sits on a rock in the middle niche. Neptune is flanked by his sons, the tritons, mythological gods characterized by figures with the torsos of men and the fins of fishes. The tritons blow on conch shells like trumpets. In the niches on either side of Neptune, is a nymph riding a wild sea horse. Out in the basin four turtles, two frogs, and a sea serpent spray water. On the retaining wall, just above the niches, are reliefs of dolphins and stalactites. -- http://siris-artinventories.si.edu/ipac20/ipac.jsp?&amp;profile=all&amp;source=~!siartinventories&amp;uri=full=3100001~!18226~!0#focus [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Beaux-Arts</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Library of Congress Thomas Jefferson Building (Washington, D.C.)</dcterms:subject>
+   <dcterms:subject>fountains</dcterms:subject>
+   <dcterms:subject>statues</dcterms:subject>
+   <dcterms:subject>bronzes (objects)</dcterms:subject>
+   <dcterms:subject>niches</dcterms:subject>
+   <dcterms:subject>deities</dcterms:subject>
+   <dcterms:spatial>First Street S.E., Washington, District of Columbia, United States</dcterms:spatial>
+   <dcterms:spatial>38.8887, -77.0046</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/08/22/15/2760f3db-ace6-4054-bf0a-0712beb26145_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_722267</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:20 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>25921874</dcterms:identifier>
+   <dcterms:title>Villa Carlotta, interior|general view</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1983</dcterms:created>
+   <dcterms:description>Il Salone di Marmi (Marble Room) and sculpture gallery</dcterms:description>
+   <dcterms:description>Milanese marquis Giorgio Clerici established a country estate in 1690 on ancestral lakeside land at Tremezzo. The estate was complete in its initial form by 1695. The garden is first mentioned in 1699. [work]</dcterms:description>
+   <dcterms:description>Upon the death of Giorgio Clerici his great grandson Anton Giorgio Clerici (1715-1768) inherited the family fortune and completed the villa in 1745. -- https://en.wikipedia.org/wiki/Villa_Carlotta [work]</dcterms:description>
+   <dcterms:description>Italian</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>landscape architecture</dcterms:subject>
+   <dcterms:subject>Como, Lago di, Lombardy, Italy</dcterms:subject>
+   <dcterms:subject>museums</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>botanical gardens</dcterms:subject>
+   <dcterms:spatial>Tremezzo, Como, Lombardy, Italy</dcterms:spatial>
+   <dcterms:spatial>45.986389, 9.230917</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/08/15/19/04897a91-8164-4c80-afb4-16dc9ad25eb9_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_25921874</edm:isShownAt>
+</mdRecord>

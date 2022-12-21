@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:17 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8797439</dcterms:identifier>
+   <dcterms:title>Cathedral Basilica of Saint Louis, general view</dcterms:title>
+   <dcterms:title>St. Louis Cathedral</dcterms:title>
+   <dcterms:creator>Barnett, Haynes and Barnett (American architectural partnership, active 1898-1912) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2004</dcterms:created>
+   <dcterms:description>Tiffany mosaic</dcterms:description>
+   <dcterms:description>"...a cathedral of the Roman Catholic Church located in the Central West End area of St. Louis, Missouri. Completed in 1914, it is the mother church of the Archdiocese of St. Louis and the seat of its archbishop, currently Robert James Carlson. The cathedral is named for Saint Louis and was designated a basilica by Pope John Paul II in 1997. The cathedral was built as a replacement for the previous Cathedral of St. Louis located along the Mississippi River. Although workers began clearing ground for the building on May 1, 1907, dedication of the Cathedral and its first mass did not take place until October 18, 1914, when the superstructure was complete. Consecration of the church took place more than a decade later on June 29, 1926. The church is known for its large mosaic installation (which is one of the largest in the Western Hemisphere), burial crypts, and the addition of an outdoor sculpture to promote racial harmony." -- http://en.wikipedia.org/wiki/Cathedral_Basilica_of_Saint_Louis [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Byzantine Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Louis IX, King of France, 1214-1270</dcterms:subject>
+   <dcterms:subject>Roman Catholicism</dcterms:subject>
+   <dcterms:subject>mosaics (visual works)</dcterms:subject>
+   <dcterms:subject>Tiffany Studios (American jewelery, ceramics, and glass manufactory, 19th century)</dcterms:subject>
+   <dcterms:spatial>4431 Lindell Boulevard, Saint Louis, Saint Louis City, Missouri, United States</dcterms:spatial>
+   <dcterms:spatial>38.6425, -90.2546</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/02/27/13/dca43e91-441d-4079-95ac-3caa747582e4_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8797439</edm:isShownAt>
+</mdRecord>

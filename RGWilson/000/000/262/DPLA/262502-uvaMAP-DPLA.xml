@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:10 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>262502</dcterms:identifier>
+   <dcterms:title>Short Hills Casino, interior</dcterms:title>
+   <dcterms:creator>McKim, Mead, and White (American architectural firm, 1879-1910) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1879</dcterms:created>
+   <dcterms:description>Auditorium and stage</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Beaux-Arts</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>recreation buildings</dcterms:subject>
+   <dcterms:subject>auditoriums</dcterms:subject>
+   <dcterms:subject>stage lighting</dcterms:subject>
+   <dcterms:subject>pianos</dcterms:subject>
+   <dcterms:subject>sets (architectural components)</dcterms:subject>
+   <dcterms:subject>arch braces</dcterms:subject>
+   <dcterms:subject>pilasters</dcterms:subject>
+   <dcterms:subject>benches (furniture)</dcterms:subject>
+   <dcterms:spatial>Short Hills, Millburn, Essex, New Jersey, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/10/31/15/028f4166-e97d-46d8-9e7b-d37129a926c4_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_262502</edm:isShownAt>
+</mdRecord>

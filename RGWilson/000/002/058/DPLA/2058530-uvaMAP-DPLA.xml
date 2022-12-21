@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:14 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2058530</dcterms:identifier>
+   <dcterms:title>John Ward House, interior|general view</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1684..1912]</dcterms:created>
+   <dcterms:medium>frame construction [work]</dcterms:medium>
+   <dcterms:description>Kitchen, side chair</dcterms:description>
+   <dcterms:description>John Ward ... built the first portion of the house in 1684. This consisted of a two story structure with one room on each floor, and a large chimney at one end. This portion was extended by Ward to the right-side of the chimney, giving the house a typical colonial five-bay facade, with center entry and chimney. The last addition to the house was the leanto at the rear, which gave the house a saltbox appearance, and was apparently added not long before Ward's death in 1734. ... The house was moved to its present site in 1910 and restored by the Essex Institute (predecessor to the current owner, the Peabody Essex Museum), under the direction of curator and early preservationist George Francis Dow. The house was moved by splitting it into two and rolled on ox-drawn logs from its original site three blocks away. In 1912 the house underwent a careful restoration under the direction of antiquarian George Francis Dow. In 1911, The John Ward House opened to the public, becoming the first outdoor museum of architecture in the country. The Peabody Essex Museum now offers guided tours of the house. Rooms on the first floor feature 17th century furnishings. -- http://en.wikipedia.org/wiki/John_Ward_House_%28Salem,_Massachusetts%29 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>American Colonial</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>vernacular architecture</dcterms:subject>
+   <dcterms:subject>saltbox houses</dcterms:subject>
+   <dcterms:subject>historic house museums</dcterms:subject>
+   <dcterms:subject>kitchens</dcterms:subject>
+   <dcterms:subject>side chairs</dcterms:subject>
+   <dcterms:subject>slat-back chairs</dcterms:subject>
+   <dcterms:spatial>132 Essex Street, Salem, Essex, Massachusetts, United States</dcterms:spatial>
+   <dcterms:spatial>42.522778, -70.893333</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/01/21/13/2687d310-367a-4813-84a1-d66f3896abc1_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2058530</edm:isShownAt>
+</mdRecord>

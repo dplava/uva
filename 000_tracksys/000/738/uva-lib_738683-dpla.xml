@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:58 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:738683</dcterms:identifier>
+   <dcterms:title>Les quatre premiers liures des odes de Pierre de Ronsard, Vandomois. ; Ensemble son Bocage</dcterms:title>
+   <dcterms:title>Quatre premiers livres des odes</dcterms:title>
+   <dcterms:creator>Cavellat, Guillaume, -1576 or 1577</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Ronsard, Pierre de, 1524-1585</dcterms:creator>
+   <dcterms:publisher>Chez Guillaume Cauellart [i.e. Cavellat] ...</dcterms:publisher>
+   <dcterms:created>1550</dcterms:created>
+   <dcterms:extent>[8], 170, [2] leaves</dcterms:extent>
+   <dcterms:extent>17 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: A⁸ a-x⁸ y⁴ (leaf y3 is signed z3)</dcterms:description>
+   <dcterms:description>Without "Surauertissement au lecteur" following preface, but with 2 unnumbered leaves of errata at end. First leaf of errata, signed z3, is headed "Fautes en l'impression" and the 2nd, umsigned, has "Faute en l'exposition" and "Fautes en l'hinne de France." Running litle on leaf 136v reads "BOVCAGE"; leaf 155 is correctly numbered.</dcterms:description>
+   <dcterms:description>Gordon; 1550; .R65</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Bookplate of Henri Burton, with unidentified cypher bookplate. Also from the libraries of Soinne (inscr. on title), Abel Lefranc and Lardanchet, according to bookseller's descriptions which were laid in. (Descriptions have been placed in INSERT FILE. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 777.</dcterms:description>
+   <dcterms:description>Gordon; 1550; .R65</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:836977/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:738683</edm:isShownAt>
+</mdRecord>

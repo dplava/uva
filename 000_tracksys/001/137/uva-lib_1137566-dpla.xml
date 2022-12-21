@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:34 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1137566</dcterms:identifier>
+   <dcterms:title>Let me love thee = Lass dich lieben : song / by L. Arditi</dcterms:title>
+   <dcterms:title>Lass dich lieben</dcterms:title>
+   <dcterms:title>Let me love thee</dcterms:title>
+   <dcterms:title>Arditi, Luigi, 1822-1903. Let me love thee. German &amp; English</dcterms:title>
+   <dcterms:creator>Arditi, Luigi, 1822-1903</dcterms:creator>
+   <dcterms:creator>Maynard, Walter, 1828 or 1829-1894</dcterms:creator>
+   <dcterms:publisher>Oliver Ditson &amp; Co.</dcterms:publisher>
+   <dcterms:created>[1877..1889]</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>"Words by Walter Maynard"--Caption.</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: "Choice gems selected from Oliver Ditson Company's latest lists of new music."</dcterms:description>
+   <dcterms:description>English and German words.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1137567/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1137566</edm:isShownAt>
+</mdRecord>

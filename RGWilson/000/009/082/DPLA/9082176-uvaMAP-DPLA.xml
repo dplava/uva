@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:17 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9082176</dcterms:identifier>
+   <dcterms:title>Montacute House, exterior</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1992</dcterms:created>
+   <dcterms:medium>building stone [work]</dcterms:medium>
+   <dcterms:description>West front</dcterms:description>
+   <dcterms:description>A textbook example of English architecture during a period that was moving from the medieval Gothic to the Renaissance Classical, and one of few fine houses to survive almost unchanged from the Elizabethan era, the house has been designated by English Heritage as a Grade I listed building, and Scheduled Ancient Monument. ... Designed by an unknown architect, possibly the mason William Arnold, the three-storey mansion, constructed of the local Ham Hill stone, was built in about 1598 by Sir Edward Phelips, Master of the Rolls and the prosecutor during the trial of the Gunpowder Plotters. -- http://en.wikipedia.org/wiki/Montacute_House [work]</dcterms:description>
+   <dcterms:description>Early English</dcterms:description>
+   <dcterms:description>Elizabethan</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>Phelips, Edward, approximately 1555-1614</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>pavilions (building divisions)</dcterms:subject>
+   <dcterms:subject>shaped gables</dcterms:subject>
+   <dcterms:subject>balustrades</dcterms:subject>
+   <dcterms:subject>lawns (landscaped grass)</dcterms:subject>
+   <dcterms:subject>driveways</dcterms:subject>
+   <dcterms:spatial>Yeovil, Somerset, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>50.951819, -2.713836</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/04/07/13/d961c10d-9c2c-478f-bbaf-b12746875767_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9082176</edm:isShownAt>
+</mdRecord>

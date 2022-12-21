@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:32 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1136908</dcterms:identifier>
+   <dcterms:title>Marien polka: op. 123 / C. Faust</dcterms:title>
+   <dcterms:title>Faust, Carl, 1825-1892. Marien-Polka</dcterms:title>
+   <dcterms:creator>Faust, Carl, 1825-1892</dcterms:creator>
+   <dcterms:publisher>W.A. Evans &amp; Bro.</dcterms:publisher>
+   <dcterms:created>[1881..1885]</dcterms:created>
+   <dcterms:extent>p. 252-253 of music</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>Title page illustration: A woman looking coyly to the left beneath a broad-brimmed hat.</dcterms:description>
+   <dcterms:description>Advertisement on p. [4]: "Evans' standard sheet music."</dcterms:description>
+   <dcterms:isPartOf>Parlor favorites : for the piano</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Polkas</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1136909/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1136908</edm:isShownAt>
+</mdRecord>

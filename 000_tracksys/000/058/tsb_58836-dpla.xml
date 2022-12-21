@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 1:47 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:58836</dcterms:identifier>
+   <dcterms:title>Willie schottisch / James Bellak</dcterms:title>
+   <dcterms:creator>Bellak, Ja's (James)</dcterms:creator>
+   <dcterms:publisher>Lee &amp; Walker</dcterms:publisher>
+   <dcterms:created>1857</dcterms:created>
+   <dcterms:extent>5 p. of music</dcterms:extent>
+   <dcterms:extent>33 cm. [original]</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano (2)</dcterms:description>
+   <dcterms:description>For piano, 4 hands.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>"E. McCarthy."</dcterms:description>
+   <dcterms:description>"To William N. Toy Esq. of Philadelphia."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Dealer's stamp: H. Kleber &amp; Bro., No. 53 Fifth Street, Pittsburgh.</dcterms:description>
+   <dcterms:isPartOf>Willie : schottisch ; polka ; mazourka. Duett</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Schottisches</dcterms:subject>
+   <dcterms:subject>Piano music (4 hands)</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1701545/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58836</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:15 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2876779</dcterms:identifier>
+   <dcterms:title>Masonic Hall, exterior</dcterms:title>
+   <dcterms:title>Historic Pullman Center</dcterms:title>
+   <dcterms:creator>Beman, Solon Spencer (American architect, 1853-1914) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1988</dcterms:created>
+   <dcterms:description>Front side view</dcterms:description>
+   <dcterms:description>Formerly a block house of individual tenements, the building at 614 East 113th Street was converted into a Masonic Hall after the Pullman Land Association sold the Pullman Company’s residential property. A large auditorium was carved out of the upper floors. Owned by the Historic Pullman Foundation since 1973, the building is known as the Historic Pullman Center and hosts meetings and offices. The building also provides storage for the Historic Pullman Foundation collections. Exterior restoration work was completed in 2012. -- http://www.pullmanil.org/FINAL_Pullman%20Historic%20District%20Reconnaissance%20Survey_July%202013%20Small.pdf [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Queen Anne Style</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>masonic buildings</dcterms:subject>
+   <dcterms:subject>tenement houses</dcterms:subject>
+   <dcterms:subject>listed buildings</dcterms:subject>
+   <dcterms:subject>historic districts</dcterms:subject>
+   <dcterms:subject>office buildings</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>Pullman, George Mortimer (American industrial designer and philanthropist, 1831-1897)</dcterms:subject>
+   <dcterms:subject>brickwork (masonry)</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:subject>shingle</dcterms:subject>
+   <dcterms:subject>casement windows</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>lug sills</dcterms:subject>
+   <dcterms:subject>hip roofs</dcterms:subject>
+   <dcterms:subject>porches</dcterms:subject>
+   <dcterms:subject>handrails</dcterms:subject>
+   <dcterms:subject>driveways</dcterms:subject>
+   <dcterms:subject>utility poles</dcterms:subject>
+   <dcterms:subject>sidewalks</dcterms:subject>
+   <dcterms:subject>mansard roofs</dcterms:subject>
+   <dcterms:spatial>614 East 113 th Street, Pullman, Chicago, Cook, Illinois, United States (neighborhood)</dcterms:spatial>
+   <dcterms:spatial>41.689417, -87.607734</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/05/14/16/60f8e887-b2e5-4889-b1c9-6080acde6d7a_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2876779</edm:isShownAt>
+</mdRecord>

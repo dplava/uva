@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:30 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:602670</dcterms:identifier>
+   <dcterms:title>Map of the bituminous coal fields of Alabama</dcterms:title>
+   <dcterms:creator>Wagner &amp; M'Guigan.</dcterms:creator>
+   <dcterms:publisher>Wagner &amp; McGuigan's Lith. 4 Franklin Pl., Phila.</dcterms:publisher>
+   <dcterms:created>[1850..1859]</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>18 x 26 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief not shown.</dcterms:description>
+   <dcterms:description>Shows Warrior, Cahawba and Coosa coal fields, from the border with Tennessee and Georgia southwest to Tuscaloosa and the Cahawba River..</dcterms:description>
+   <dcterms:description>Below main map image: "Section of the strata of Alabama from North to South" (from Huntsville southwest to Mobile)</dcterms:description>
+   <dcterms:description>Detached from an unidentified publication.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library, American History Collection. McGregor Fund, 1980.</dcterms:description>
+   <dcterms:description>Scale not given.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Bituminous coal--Alabama--Maps.</dcterms:subject>
+   <dcterms:subject>Mining districts--Alabama--Maps.</dcterms:subject>
+   <dcterms:subject>Coal mines and mining--Alabama--Maps.</dcterms:subject>
+   <dcterms:subject>Alabama--Maps.</dcterms:subject>
+   <dcterms:spatial>Alabama</dcterms:spatial>
+   <dcterms:spatial>Philadelphia, Pennsylvania, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:625499/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:602670</edm:isShownAt>
+</mdRecord>

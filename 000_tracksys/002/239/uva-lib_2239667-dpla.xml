@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 11:10 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2239667</dcterms:identifier>
+   <dcterms:title>Glorious news!: The triumph of Federal efforts. : Our administration have at length yielded to the offers long since made to settle our differences with Great-Britain. : The war hoop is silenced-- The acknowledgment of satisfaction for the outrage upon the Chesapeake .. is at last accepted. : On the repeal or suspension of the Non-Intercourse, the Embargo and Non-Importation laws, the Orders in Council are to be revoked, and a treaty is hereafter to be negociated</dcterms:title>
+   <dcterms:title>Triumph of Federal efforts</dcterms:title>
+   <dcterms:creator>Federal Party (N.Y.)</dcterms:creator>
+   <dcterms:publisher>Federal Party</dcterms:publisher>
+   <dcterms:created>1809</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>28 x 20 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Text, which is not signed, is followed by an extract of a letter from the Federal General Committee, dated New-York, Saturday 22nd April, 6 o'clock afternoon."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Jefferson, Thomas, 1743-1826--Political and social views.</dcterms:subject>
+   <dcterms:subject>Republican Party (U.S. : 1792-1828)</dcterms:subject>
+   <dcterms:subject>Federal Party (U.S.)</dcterms:subject>
+   <dcterms:subject>Campaign literature--New York (State)</dcterms:subject>
+   <dcterms:subject>Embargo, 1807-1809</dcterms:subject>
+   <dcterms:subject>United States--Foreign relations--Great Britain.</dcterms:subject>
+   <dcterms:subject>Great Britain--Foreign relations--United States.</dcterms:subject>
+   <dcterms:subject>United States--Commercial policy.</dcterms:subject>
+   <dcterms:subject>United States--Politics and government--1801-1809.</dcterms:subject>
+   <dcterms:subject>New York (State)--Politics and government--1775-1865.</dcterms:subject>
+   <dcterms:temporal>1775-1865.</dcterms:temporal>
+   <dcterms:temporal>1801-1809.</dcterms:temporal>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <dcterms:spatial>New York (State)</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Albany, New York, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2179921/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2239667</edm:isShownAt>
+</mdRecord>

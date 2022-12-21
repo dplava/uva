@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:30 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:606692</dcterms:identifier>
+   <dcterms:title>Suonate a tre, due violini e violone col basso per l'organo: Op. 1</dcterms:title>
+   <dcterms:title>Carelio, Antonio. Trio sonatas, violins (2), violoncello, bass. op. 1</dcterms:title>
+   <dcterms:creator>Carelio, Antonio.</dcterms:creator>
+   <dcterms:created>1710</dcterms:created>
+   <dcterms:extent>4 pts. 33 cm.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>Parts: vl. 1st, 2d, violoncello, &amp; figured bass for organ.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Mss. date on t.-p., pts. 1-3.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Mackay-Smith fund.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Quartets (Organ, violins (2), cello)--Parts.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:993354/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:606692</edm:isShownAt>
+</mdRecord>

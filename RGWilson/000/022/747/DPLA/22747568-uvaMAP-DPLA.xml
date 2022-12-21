@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:19 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>22747568</dcterms:identifier>
+   <dcterms:title>The Castle, exterior|general view</dcterms:title>
+   <dcterms:title>Usen Castle</dcterms:title>
+   <dcterms:creator>Harrison and Abramovitz (American architectural firm, 1945-1976) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1968</dcterms:created>
+   <dcterms:description>General view</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Norman Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>residential structures</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:spatial>415 South Street, Waltham, Middlesex, Massachusetts, United States</dcterms:spatial>
+   <dcterms:spatial>42.366944, -71.255833</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2018/04/24/16/d41a365d-3272-4f52-9700-1677fc8d7c9a_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_22747568</edm:isShownAt>
+</mdRecord>

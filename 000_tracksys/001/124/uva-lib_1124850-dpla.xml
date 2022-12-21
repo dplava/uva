@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:11 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1124850</dcterms:identifier>
+   <dcterms:title>Old Dominion polka / by Henry Bellman</dcterms:title>
+   <dcterms:creator>A. Hoen &amp; Co.</dcterms:creator>
+   <dcterms:creator>Bellman, Henry.</dcterms:creator>
+   <dcterms:creator>Webb, L. W.</dcterms:creator>
+   <dcterms:publisher>Miller &amp; Beacham</dcterms:publisher>
+   <dcterms:created>1854</dcterms:created>
+   <dcterms:extent>5 p. of music</dcterms:extent>
+   <dcterms:extent>32 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Illustration: Woman with a sword and a spear standing on top of a man whose crown has toppled / Lith. by A. Hoen and Co., Balto.</dcterms:description>
+   <dcterms:description>"Webb"--Colophon.</dcterms:description>
+   <dcterms:description>"Respectfully dedicated to Miss Mary L. Atkinson."</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v. 149, no. 20]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Polkas</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--United States--To 1901.</dcterms:subject>
+   <dcterms:subject>Virginia--Songs and music.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1124851/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124850</edm:isShownAt>
+</mdRecord>

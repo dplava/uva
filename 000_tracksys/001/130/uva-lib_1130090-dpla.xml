@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:16 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1130090</dcterms:identifier>
+   <dcterms:title>The darkie's picnic: cake walk / Lawrence B. O'Connor</dcterms:title>
+   <dcterms:creator>Armstrong, Edna M.</dcterms:creator>
+   <dcterms:creator>O'Connor, Lawrence B.</dcterms:creator>
+   <dcterms:creator>West, Annie E.</dcterms:creator>
+   <dcterms:publisher>B.F. Wood Music Co.</dcterms:publisher>
+   <dcterms:created>1899</dcterms:created>
+   <dcterms:extent>6 p. of music</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>Title page illustration: A young African American boy playing a 5-string banjo.</dcterms:description>
+   <dcterms:description>"Dedicated to Miss Edna M. Armstrong and Miss Annie E. West"--Caption.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>African Americans--Music.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1130091/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1130090</edm:isShownAt>
+</mdRecord>

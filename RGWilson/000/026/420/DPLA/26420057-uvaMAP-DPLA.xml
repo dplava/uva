@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:20 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>26420057</dcterms:identifier>
+   <dcterms:title>Cité de la Musique, interior|general view</dcterms:title>
+   <dcterms:title>City of Music</dcterms:title>
+   <dcterms:title>Philharmonie de Paris 2</dcterms:title>
+   <dcterms:creator>Portzamparc, Christian Urvoy de (French architect, born 1944) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1998</dcterms:created>
+   <dcterms:description>Atrium</dcterms:description>
+   <dcterms:description>a group of institutions dedicated to music ... It consists of an amphitheater, a concert hall that can accommodate an audience of 800–1,000, a music museum containing an important collection of classical music instruments dating mainly from the fifteenth- to twentieth-century, a music library, exhibition halls and workshops. -- https://en.wikipedia.org/wiki/Cit%C3%A9_de_la_Musique [work]</dcterms:description>
+   <dcterms:description>French</dcterms:description>
+   <dcterms:description>Deconstructivist</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>concert halls</dcterms:subject>
+   <dcterms:subject>libraries (buildings)</dcterms:subject>
+   <dcterms:subject>museums</dcterms:subject>
+   <dcterms:subject>exhibition buildings</dcterms:subject>
+   <dcterms:subject>parks (recreation areas)</dcterms:subject>
+   <dcterms:spatial>avenue Jean-Jaurès, Paris, Ville de Paris, Département de, Île-de-France, France</dcterms:spatial>
+   <dcterms:spatial>48.889722, 2.393889</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/09/25/18/38f7ab5c-1808-4d30-b014-ea3b0330f38a_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_26420057</edm:isShownAt>
+</mdRecord>

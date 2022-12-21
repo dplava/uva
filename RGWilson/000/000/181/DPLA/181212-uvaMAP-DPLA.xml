@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:09 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>181212</dcterms:identifier>
+   <dcterms:title>Huntington Mausoleum, general view</dcterms:title>
+   <dcterms:creator>Pope, John Russell (American architect, 1874-1937) [Male]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2003-12</dcterms:created>
+   <dcterms:description>mausoleum of Henry and Arabella Huntington; designed in the form of a Greek temple [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Beaux-Arts</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>temples (buildings)</dcterms:subject>
+   <dcterms:subject>gardens</dcterms:subject>
+   <dcterms:subject>Huntington, Henry Edwards, 1850-1927</dcterms:subject>
+   <dcterms:subject>Huntington, Arabella Duval, 1850 or 51-1924</dcterms:subject>
+   <dcterms:subject>domes (architectural elements)</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>lawns (landscaped grass)</dcterms:subject>
+   <dcterms:spatial>San Marino, Los Angeles, California, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/15/10/c31d6b57-3367-4bd9-8529-aa8407473f06_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_181212</edm:isShownAt>
+</mdRecord>

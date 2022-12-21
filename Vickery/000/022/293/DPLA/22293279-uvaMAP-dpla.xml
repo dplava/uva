@@ -2,11 +2,11 @@
 <?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
       type="application/xml"
       schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2021-12-06 at 11:46 p.m. -->
-<mdRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xmlns="http://dplava.lib.virginia.edu"
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 3:05 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:provenance>University of Virginia</dcterms:provenance>
    <dcterms:type>still image</dcterms:type>
@@ -28,6 +28,7 @@
    <dcterms:subject>formal gardens</dcterms:subject>
    <dcterms:subject>islands</dcterms:subject>
    <dcterms:subject>landscape architecture</dcterms:subject>
+   <dcterms:subject>Stresa, Verbano-Cusio Ossola, Piedmont, Italy; Maggiore, Lago, Varese, Lombardy, Italy</dcterms:subject>
    <edm:preview>https://stor.artstor.org/iiif/2018/02/02/16/5823beed-033f-4dea-974a-af3166e5be8e_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
    <edm:isShownAt>https://search.lib.virginia.edu/items/i_22293279</edm:isShownAt>
 </mdRecord>

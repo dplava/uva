@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:16 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8281205</dcterms:identifier>
+   <dcterms:title>Brooklyn Bridge, general view</dcterms:title>
+   <dcterms:title>East River Bridge</dcterms:title>
+   <dcterms:creator>Roebling, John Augustus (American engineer, 1806-1869) [work]</dcterms:creator>
+   <dcterms:creator>Roebling, Washington Augustus (American engineer, 1837-1926) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1980</dcterms:created>
+   <dcterms:medium>algal limestone; granite (rock) [work]</dcterms:medium>
+   <dcterms:description>Bridge from New York (Manhattan) side, Bridge supports, cables, railings, suspensions</dcterms:description>
+   <dcterms:description>The Brooklyn Bridge links the two boroughs of Manhattan and Brooklyn. The bridge’s construction took 14 years, involved 600 workers and cost $15 million (more than $320 million in today’s dollars). At least two dozen people died in the process, including its original designer. Now more than 125 years old, this iconic feature of the New York City skyline still carries roughly 150,000 vehicles and pedestrians every day. -- http://www.history.com/topics/brooklyn-bridge [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>cable-stayed bridges</dcterms:subject>
+   <dcterms:subject>suspension bridges</dcterms:subject>
+   <dcterms:subject>East River, United States</dcterms:subject>
+   <dcterms:subject>continuous bridges</dcterms:subject>
+   <dcterms:subject>cables</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:spatial>East River, from Civic Center, Manhattan to Dumbo/Brooklyn Heights, Brooklyn, New York, United States</dcterms:spatial>
+   <dcterms:spatial>40.706045, -73.996831</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/01/22/09/fb3d3c73-3e22-4a55-bd28-136f48ded83c_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8281205</edm:isShownAt>
+</mdRecord>

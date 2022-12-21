@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1136535</dcterms:identifier>
+   <dcterms:title>Si tu m'aimais! = (If thou did'st love me) : mélodie / par L. Denza</dcterms:title>
+   <dcterms:title>If thou did'st love me</dcterms:title>
+   <dcterms:creator>Denza, Luigi.</dcterms:creator>
+   <dcterms:publisher>G. Schirmer, 35 Union Square</dcterms:publisher>
+   <dcterms:created>1884</dcterms:created>
+   <dcterms:extent>1 score (9 p.) 35 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>Alto or baritone in C.</dcterms:description>
+   <dcterms:description>English, French and Italian words.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: [Sheet music collection, v.21, no.13]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1136536/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1136535</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:11 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>675815</dcterms:identifier>
+   <dcterms:title>Church of Saint Vincent Ferrer, exterior</dcterms:title>
+   <dcterms:creator>Goodhue, Bertram Grosvenor (American architect, 1869-1924) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1973</dcterms:created>
+   <dcterms:description>Entrance detail</dcterms:description>
+   <dcterms:description>The Church of St. Vincent Ferrer is a Roman Catholic parish in Manhattan, New York City. On October 22, 1916 the construction of the present incarnation of St. Vincent was completed, at a cost of $1.5 million dollars ($32 million in contemporary dollars). It was dedicated on May 5, 1918, when over 50,000 people attended. The church building, at the corner of Lexington Avenue and East 66th Street on the Upper East Side, has been called "one of New York's greatest architectural adornments". It was built by the Dominicans; the attached priory serves as the headquarters of the Eastern United States Province of the order. The church complex comprises four buildings, all on the block between East 65th and 66th on the east side of Lexington. Across the street are low rowhouses; just to the north are the Seventh Regiment Armory, a National Historic Landmark, and the apartment building at 131–35 East 66th Street, also a city landmark. The entire site is less than an acre (4,000 m²). -- http://en.wikipedia.org/wiki/Church_of_St._Vincent_Ferrer_(New_York) [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Roman Catholicism</dcterms:subject>
+   <dcterms:subject>stonework</dcterms:subject>
+   <dcterms:subject>sculpture (visual works)</dcterms:subject>
+   <dcterms:subject>surrounds</dcterms:subject>
+   <dcterms:subject>crucifixes</dcterms:subject>
+   <dcterms:subject>aedicules</dcterms:subject>
+   <dcterms:subject>quoins</dcterms:subject>
+   <dcterms:subject>tympana</dcterms:subject>
+   <dcterms:subject>portals</dcterms:subject>
+   <dcterms:subject>billet moldings</dcterms:subject>
+   <dcterms:spatial>869 Lexington Avenue, New York, United States</dcterms:spatial>
+   <dcterms:spatial>40.766239, -73.964738</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/08/02/15/3de56488-a1a5-47ae-8e1f-9088855d2dc7_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_675815</edm:isShownAt>
+</mdRecord>

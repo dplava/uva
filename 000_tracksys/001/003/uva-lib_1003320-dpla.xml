@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:30 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003320</dcterms:identifier>
+   <dcterms:title>New York / S. Lewis, del. ; H.S. Tanner, sc</dcterms:title>
+   <dcterms:creator>Lewis, Samuel, 1753 or 1754-1822</dcterms:creator>
+   <dcterms:creator>Tanner, Henry Schenck, 1786-1858</dcterms:creator>
+   <dcterms:publisher>Fielding Lucas</dcterms:publisher>
+   <dcterms:created>1817</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>21 x 27 cm. [original]</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>The names of Lewis and Tanner appear very faintly just below the title border.</dcterms:description>
+   <dcterms:description>Prime meridians: Philadelphia and London.</dcterms:description>
+   <dcterms:description>Appeared in: A New and elegant general atlas containing maps of each of the United States. Baltimore &amp; Philadelphia, Fielding Lucas, 1817.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:2,600,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>New York (State)--Maps.</dcterms:subject>
+   <dcterms:spatial>New York (State)</dcterms:spatial>
+   <dcterms:spatial>Baltimore, Maryland, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:890755/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003320</edm:isShownAt>
+</mdRecord>

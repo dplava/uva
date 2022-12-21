@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:42 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1141099</dcterms:identifier>
+   <dcterms:title>Why are roses red? = Perché rosse è la rosa? / Claude Melnotte</dcterms:title>
+   <dcterms:title>Perché rossa è la rosa</dcterms:title>
+   <dcterms:title>Perché rosse è la rosa?</dcterms:title>
+   <dcterms:title>Why are red roses red?</dcterms:title>
+   <dcterms:title>Kunkel, Charles, 1840-1923. Perché rosse è la rosa? Italian &amp; English</dcterms:title>
+   <dcterms:creator>Kunkel, Charles, 1840-1923</dcterms:creator>
+   <dcterms:publisher>Kunkel Bros.</dcterms:publisher>
+   <dcterms:created>1877</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: Music free!</dcterms:description>
+   <dcterms:description>Italian and English words.</dcterms:description>
+   <dcterms:isPartOf>Vocal gems by celebrated composers : adapted for exhibition and concert use</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Roses--Songs and music.</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1141100/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1141099</edm:isShownAt>
+</mdRecord>

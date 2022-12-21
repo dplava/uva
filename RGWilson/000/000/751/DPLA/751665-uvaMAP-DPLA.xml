@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:12 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>751665</dcterms:identifier>
+   <dcterms:title>Searles School and Chapel, exterior|general view</dcterms:title>
+   <dcterms:creator>Vaughan, Henry (American architect, 1845-1917) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1996</dcterms:created>
+   <dcterms:medium>half-timber construction [work]</dcterms:medium>
+   <dcterms:description>Rear</dcterms:description>
+   <dcterms:description>The Searles School and Chapel was built and donated to the Town of Windham by Mr. Searles in exchange for a piece of property on which originally stood "school house No. 1". Because the school land was completely surrounded by Searles-owned property, Mr. Searles proposed the exchange, which would include a Tudor style school with stained glass windows, cypress paneling, and a tower holding twelve carillons. The building opened in 1909 and is, today, listed on the National Register of Historic Places. http://www.windhamnewhampshire.com/updated/searlesdistrict.htm [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Tudor Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>schools (buildings)</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>banquet halls</dcterms:subject>
+   <dcterms:subject>Searles, Edward F., 1841-1920</dcterms:subject>
+   <dcterms:subject>bell towers</dcterms:subject>
+   <dcterms:subject>gable roofs</dcterms:subject>
+   <dcterms:spatial>3 Chapel Road, Windham, Rockingham, New Hampshire, United States</dcterms:spatial>
+   <dcterms:spatial>42.809324, -71.25656</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/09/13/15/7e0d2f54-a28a-4039-8270-5251b0827fe4_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_751665</edm:isShownAt>
+</mdRecord>

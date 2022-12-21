@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:18 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>16785896</dcterms:identifier>
+   <dcterms:title>De Telegraaf Office building, exterior|general view</dcterms:title>
+   <dcterms:title>Kantoorgebouw De Telegraaf</dcterms:title>
+   <dcterms:creator>Langhout, G. J. (Gerard) (Dutch architect, 1879-1962) [work]</dcterms:creator>
+   <dcterms:creator>Staal, Jan Frederik (Dutch architect, 1879-1940) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1981</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>West facade</dcterms:description>
+   <dcterms:description>This former office building/printers' works slots into an awkward site making full use of its surface area. Staal, who was mainly occupied with designing the facades, accentuated the transition from old to new with visually distinct volumes, scaling the arrangement of windows in the taut facade to the size and proportions of the surrounding houses. The tower is decorated with sculpture by Hildo Krop. -- http://www.architectureguide.nl/project/list_projects_of_architect/arc_id/208/prj_id/335 [work]</dcterms:description>
+   <dcterms:description>Dutch</dcterms:description>
+   <dcterms:description>Expressionist</dcterms:description>
+   <dcterms:description>Amsterdam School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>printers (people)</dcterms:subject>
+   <dcterms:subject>factories (structures)</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:subject>ribbon windows</dcterms:subject>
+   <dcterms:spatial>Nieuwezijds Voorburgwal 225, Amsterdam, North Holland, Netherlands</dcterms:spatial>
+   <dcterms:spatial>52.371569, 4.891147</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2016/09/15/09/8fdf0e02-c00f-4053-8802-336e9be6015b_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_16785896</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 11:51 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18652</dcterms:identifier>
+   <dcterms:title>Gems from the popular opera of Norma: being a collection of the most beautiful airs : complete / arranged for the piano forte .. by J.F. Petri</dcterms:title>
+   <dcterms:title>Bellini, Vincenzo, 1801-1835. Norma. Selections; arr</dcterms:title>
+   <dcterms:creator>Bellini, Vincenzo, 1801-1835</dcterms:creator>
+   <dcterms:creator>Petri, J. F.</dcterms:creator>
+   <dcterms:creator>Webb, L. W.</dcterms:creator>
+   <dcterms:publisher>Frederick D. Benteen</dcterms:publisher>
+   <dcterms:created>1843</dcterms:created>
+   <dcterms:extent>9, 9, 9 p. of music</dcterms:extent>
+   <dcterms:extent>34 cm. [original]</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>"L. W. Webb"--Colophon.</dcterms:description>
+   <dcterms:description>"Respectfully dedicated to his pupils Miss Sophia &amp; Rebecca Carroll."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Thirty-fifth title in a bound volume of sheet music from the library of Mrs. Abby A. Waterhouse, with her name on the cover.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy has dealer's stamp: Sold by P.H. Taylor, Richmond, Va.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music, Arranged</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts, Arranged.</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1542130/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18652</edm:isShownAt>
+</mdRecord>

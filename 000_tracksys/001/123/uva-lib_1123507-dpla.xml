@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:08 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1123507</dcterms:identifier>
+   <dcterms:title>Good bye, but come again: a beautiful ballad / by J.R. Thomas ; [words by George Cooper]</dcterms:title>
+   <dcterms:title>Oh, must we part</dcterms:title>
+   <dcterms:creator>Cook, Kate</dcterms:creator>
+   <dcterms:creator>Cooper, George, 1840-1927</dcterms:creator>
+   <dcterms:creator>Ehrgott, Forbriger &amp; Co.</dcterms:creator>
+   <dcterms:creator>Thomas, J. R. (John Rogers), 1830-1896</dcterms:creator>
+   <dcterms:publisher>J. L. Peters &amp; Bro.</dcterms:publisher>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>1 score (6 p.)</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Illustration: cartouche of roses and ribbons in red and gold / Ehrgott, Forbriger &amp; Co., Lith., Cincinnati.</dcterms:description>
+   <dcterms:description>At head of title: "To Miss Kate Cook."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:subject>Farewells--Songs and music.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1123508/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1123507</edm:isShownAt>
+</mdRecord>

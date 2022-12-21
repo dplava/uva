@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 11:54 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18829</dcterms:identifier>
+   <dcterms:title>University of Virginia: Matriculation, course of instruction, expenses, &amp;c</dcterms:title>
+   <dcterms:title>Matriculation, course of instruction, expenses, &amp;c</dcterms:title>
+   <dcterms:creator>University of Virginia.</dcterms:creator>
+   <dcterms:publisher>University of Virginia</dcterms:publisher>
+   <dcterms:created>1851</dcterms:created>
+   <dcterms:extent>1 folded sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>25 x 40 cm. folded to 25 x 20 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Printed on p. [1]; p. [2]-[3] are blank; addressed on p. [4] to Alexr. C. Garrett Esq., Williamsburg, Va. Postmarked University of Va. Jul. 12.</dcterms:description>
+   <dcterms:description>The faculty names listed are those included in the University Catalogue for the session of 1851/1852.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Broadside 1851 .U55: Gift of E. Sclater Montague.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: LD5670.U57 1851: Imperfect; lacks p.[3]-[4]. Date of purchase 11/13/28 written in upper right corner; in chipboard pamphlet binder with Dewey Decimal number. Byrd Fund.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia--Curricula.</dcterms:subject>
+   <dcterms:subject>University of Virginia--Entrance requirements.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1518066/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18829</edm:isShownAt>
+</mdRecord>

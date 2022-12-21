@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:20 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65929</dcterms:identifier>
+   <dcterms:title>Reports of cases adjudged in the Court of King's Bench: from Hilary term, the 14th of George III. 1774, to Trinity term, the 18th of George III. 1778. Both inclusive / By Henry Cowper</dcterms:title>
+   <dcterms:creator>Cowper, Henry, 1758-1840</dcterms:creator>
+   <dcterms:creator>Great Britain. Court of King's Bench.</dcterms:creator>
+   <dcterms:publisher>Printed by A. Strahan, for E. and R. Brooke and J. Rider</dcterms:publisher>
+   <dcterms:created>1800</dcterms:created>
+   <dcterms:extent>2 v. 24 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>2d ed.</dcterms:description>
+   <dcterms:description>Paged continuously.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain.</dcterms:subject>
+   <dcterms:spatial>Great Britain.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2415761/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65929</edm:isShownAt>
+</mdRecord>

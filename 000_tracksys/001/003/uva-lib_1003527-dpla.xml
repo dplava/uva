@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:32 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003527</dcterms:identifier>
+   <dcterms:title>Desilver's steel plate military map of the United States showing the location of the military posts, arsenals, barracks, batteries, Navy yards, rail roads, &amp;c, &amp;c</dcterms:title>
+   <dcterms:title>Military map of the United States showing the location of the military posts, arsenals, barracks, batteries, Navy yards, rail roads, &amp;c, &amp;c</dcterms:title>
+   <dcterms:creator>Charles Desilver (Firm)</dcterms:creator>
+   <dcterms:creator>Wagner, T. S. (Thomas S.)</dcterms:creator>
+   <dcterms:publisher>Chas. Desilver, 1229 Chestnut Street</dcterms:publisher>
+   <dcterms:publisher>Thos. S. Wagner, 38 Hudson St.</dcterms:publisher>
+   <dcterms:created>1861</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>38 x 65 cm. on sheet 55 x 65 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Includes 4 inset maps (separate scales): District of Columbia -- Maryland and Delaware -- Vicinity of Anapolis -- A new map of the state of Virginia exhibiting its internal improvements roads distances &amp;c.</dcterms:description>
+   <dcterms:description>Relief shown by hachures and spot heights.</dcterms:description>
+   <dcterms:description>Forts, arsenals and other military locations listed in lateral margins.</dcterms:description>
+   <dcterms:description>"Price 25 Cents." centered in upper margin.</dcterms:description>
+   <dcterms:description>"Entered according to Act of Congress in the year 1861 by Charles Desilver in the Clerks office of the DIstrict Court of the Eastern District of Pennlvania" printed just inside left lower neatline, just below the map of Virginia.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:8,750,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Military bases--United States--19th century--Maps.</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Maps.</dcterms:subject>
+   <dcterms:subject>Virginia--Maps.</dcterms:subject>
+   <dcterms:temporal>19th century</dcterms:temporal>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Philadelphia, Pennsylvania, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:901694/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003527</edm:isShownAt>
+</mdRecord>

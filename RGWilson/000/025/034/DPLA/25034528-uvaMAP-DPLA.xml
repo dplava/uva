@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:20 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>25034528</dcterms:identifier>
+   <dcterms:title>Santa Monica City Hall, interior|detail view</dcterms:title>
+   <dcterms:creator>Estep, Joseph Morgan (American architect, 1888-1959) [work]</dcterms:creator>
+   <dcterms:creator>Parkinson, Donald B. (American architect, 1895-1945) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1998</dcterms:created>
+   <dcterms:description>Mural by Stanton Macdonald-Wright</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Streamlined Moderne</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>public buildings</dcterms:subject>
+   <dcterms:subject>municipal buildings</dcterms:subject>
+   <dcterms:subject>Macdonald-Wright, Stanton (American painter, muralist, and aesthetician, 1890-1973)</dcterms:subject>
+   <dcterms:spatial>Santa Monica, Los Angeles, California, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/06/04/15/6905eb80-5310-4d03-8907-4f1642452e53_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_25034528</edm:isShownAt>
+</mdRecord>

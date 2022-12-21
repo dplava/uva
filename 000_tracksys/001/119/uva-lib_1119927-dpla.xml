@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:01 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1119927</dcterms:identifier>
+   <dcterms:title>Thou'rt like unto a lovely flower = Du bist wie eine Blume : (alto) / words after Heine ; music by Wilson G. Smith</dcterms:title>
+   <dcterms:title>Du bist wie eine Blume</dcterms:title>
+   <dcterms:title>Thou'rt like unto a lovely flower</dcterms:title>
+   <dcterms:title>Smith, Wilson, 1855-1929. Du bist wie eine Blume. English &amp; German</dcterms:title>
+   <dcterms:creator>C.G. Röder (Firm)</dcterms:creator>
+   <dcterms:creator>Heine, Heinrich, 1797-1856</dcterms:creator>
+   <dcterms:creator>Salter, Sumner, 1856-1944</dcterms:creator>
+   <dcterms:creator>Smith, Wilson, 1855-1929</dcterms:creator>
+   <dcterms:publisher>J.H. Rogers</dcterms:publisher>
+   <dcterms:created>1889</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, alto voice</dcterms:description>
+   <dcterms:description>Alto in E.</dcterms:description>
+   <dcterms:description>For alto voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>At foot of t.p. engraving: "Printed by C.G. Röder, Leipzig."</dcterms:description>
+   <dcterms:description>At head of title: "To Mr. Sumner Salter."</dcterms:description>
+   <dcterms:description>English and German words.</dcterms:description>
+   <dcterms:isPartOf>Compositions of Wilson G. Smith ; no. 5</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Heine, Heinrich, 1797-1856--Musical settings.</dcterms:subject>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1119928/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1119927</edm:isShownAt>
+</mdRecord>

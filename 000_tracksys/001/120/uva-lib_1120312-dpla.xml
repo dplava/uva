@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:01 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1120312</dcterms:identifier>
+   <dcterms:title>Rivulets story = Fluss-Märchen : etude characteristic : op. 26, no. 2 / Louis Schehlmann</dcterms:title>
+   <dcterms:title>Fluss-Märchen</dcterms:title>
+   <dcterms:title>Schehlmann, Louis. Fluss-Märchen</dcterms:title>
+   <dcterms:creator>Ashmall, William E. (William Edwin), 1860-1927</dcterms:creator>
+   <dcterms:creator>Brandstetter, Oscar</dcterms:creator>
+   <dcterms:creator>Schehlmann, Louis.</dcterms:creator>
+   <dcterms:publisher>William E. Ashmall &amp; Co.</dcterms:publisher>
+   <dcterms:created>1888</dcterms:created>
+   <dcterms:extent>3 p. of music</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>"Oscar Brandstetter Leipzig"--Caption.</dcterms:description>
+   <dcterms:description>At head of caption title: "To Wm. E. Ashmall."</dcterms:description>
+   <dcterms:isPartOf>Standard classic edition of antique and modern pianoforte music, 4th series ; no. 82</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1120433/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1120312</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:16 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8246832</dcterms:identifier>
+   <dcterms:title>The Inn at Middleton Place, exterior</dcterms:title>
+   <dcterms:title>Middleton Inn</dcterms:title>
+   <dcterms:creator>Clark &amp; Menefee Architects (American architectural firm, contemporary) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1993</dcterms:created>
+   <dcterms:medium>steel, glass, reinforced concrete [work]</dcterms:medium>
+   <dcterms:description>Side portal with stairway, opening</dcterms:description>
+   <dcterms:description>This project was Clark's first major work, and was more in tune with the work of Peter Eisenman. 15 miles outside of Charleston, SC [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Postmodern</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>resorts</dcterms:subject>
+   <dcterms:subject>inns</dcterms:subject>
+   <dcterms:subject>double return stairs</dcterms:subject>
+   <dcterms:subject>portals</dcterms:subject>
+   <dcterms:subject>openings (architectural elements)</dcterms:subject>
+   <dcterms:spatial>4290 Ashley River Road, Charleston vicinity, Dorchester, South Carolina, United States</dcterms:spatial>
+   <dcterms:spatial>32.899, -80.131</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/01/19/14/15fd442f-3ce1-4d6d-8fd2-b47dbf23f77d_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8246832</edm:isShownAt>
+</mdRecord>

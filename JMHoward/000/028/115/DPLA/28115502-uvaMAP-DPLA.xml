@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-15 at 7:41 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28115502</dcterms:identifier>
+   <dcterms:title>Poplar Forest, interior|general view</dcterms:title>
+   <dcterms:creator>Jefferson, Thomas (American statesman, architect, and draftsman, 1743-1826) [architect]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1989-05-18</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Double-hung window on east side of house</dcterms:description>
+   <dcterms:description>Poplar Forest was Thomas Jefferson's plantation and plantation house in what is now Forest, Bedford County, Virginia, near Lynchburg. He designed it and treated it as a private retreat, working on it from 1806 until his death 20 years later. Jefferson once wrote a correspondent saying "It is the most valuable of my possessions." [work]</dcterms:description>
+   <dcterms:description>By different owners, the main house underwent many alterations. There was a fire in 1845; the Cobbs and Hutter families chose to rebuild in the Greek revival style … The original walls, chimney, and columns remained after the renovation. The Corporation for Jefferson's Poplar Forest is using early 19th-century building materials … to restore Poplar Forest to Jefferson's original architectural vision. -- http://en.wikipedia.org/wiki/Poplar_Forest [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Palladian</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>country houses</dcterms:subject>
+   <dcterms:subject>plantation houses</dcterms:subject>
+   <dcterms:subject>octagons</dcterms:subject>
+   <dcterms:subject>historic house museums</dcterms:subject>
+   <dcterms:subject>restoration (process)</dcterms:subject>
+   <dcterms:subject>double-hung windows</dcterms:subject>
+   <dcterms:subject>restoration (process)</dcterms:subject>
+   <dcterms:spatial>1548 Bateman Bridge Road, Forest, Bedford, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>37.34826, -79.26495</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/05/04/13/57da7960-88c8-49f5-be61-c7e95a085489_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28115502</edm:isShownAt>
+</mdRecord>

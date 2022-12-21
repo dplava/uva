@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:09 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>192753</dcterms:identifier>
+   <dcterms:title>Redtop, exterior</dcterms:title>
+   <dcterms:title>Red Top</dcterms:title>
+   <dcterms:title>William Dean Howells House</dcterms:title>
+   <dcterms:creator>McKim, Mead and Bigelow (American architectural partnership, active 1878-1879) [work]</dcterms:creator>
+   <dcterms:creator>Mead, William Rutherford (American architect, 1846-1928) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1981</dcterms:created>
+   <dcterms:medium>brick [work]</dcterms:medium>
+   <dcterms:description>Entrance facade</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Shingle Style</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>Howells, William Dean, 1837-1920</dcterms:subject>
+   <dcterms:subject>porches</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>gables (architectural elements)</dcterms:subject>
+   <dcterms:spatial>90 Somerset Street, Belmont, Middlesex, Massachusetts, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/20/01/dd85be4f-8f7b-4a6e-ab30-d591bfcde3e6_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_192753</edm:isShownAt>
+</mdRecord>

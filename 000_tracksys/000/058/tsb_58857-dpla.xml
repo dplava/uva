@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 1:48 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:58857</dcterms:identifier>
+   <dcterms:title>Her bright smile haunts me still / [poetry by J.E. Carpenter] ; music by W.T. Wrighton</dcterms:title>
+   <dcterms:title>'Tis years since last we met</dcterms:title>
+   <dcterms:creator>Carpenter, J. E. (Joseph Edwards), 1813-1885</dcterms:creator>
+   <dcterms:creator>Wrighton, W. T. (William Thomas), 1816-1880</dcterms:creator>
+   <dcterms:publisher>John C. Schreiner &amp; Son [and others</dcterms:publisher>
+   <dcterms:created>[1863..1867]</dcterms:created>
+   <dcterms:extent>1 score ([4] p.)</dcterms:extent>
+   <dcterms:extent>32 cm. [original]</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, piano</dcterms:description>
+   <dcterms:description>Second edition.</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>"Weeks Pr."--Colophon, p. [4].</dcterms:description>
+   <dcterms:description>Verses 2-3 printed as text following score.</dcterms:description>
+   <dcterms:description>John C. Schreiner &amp; Son operated in Savannah between 1863 and 1867. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.5 no.19: Nineteenth title in a bound volume of sheet music from the library of Mrs. Harriet Irvine.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:subject>Popular music--Confederate States of America.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>Confederate States of America.</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Macon, Georgia, Confederate States of America</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2352458/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58857</edm:isShownAt>
+</mdRecord>

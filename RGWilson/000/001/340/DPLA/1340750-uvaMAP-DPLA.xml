@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:12 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1340750</dcterms:identifier>
+   <dcterms:title>Klutho Apartments, general view</dcterms:title>
+   <dcterms:title>Operation New Hope</dcterms:title>
+   <dcterms:creator>Klutho, Henry John (American architect, 1873-1964) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1996</dcterms:created>
+   <dcterms:description>Facade after the 1993 fire, before restoration</dcterms:description>
+   <dcterms:description>Klutho built this apartment building as a residence for movie stars such as Charles Chaplin who worked at the nearby movie studio Klutho also operated. A fire in 1993 nearly destroyed the three-story Klutho Building, gutting the interior and causing most of the building to collapse into the basement. Fire fighters, however, were able to save the front section, including the staircase, from serious damage.... After a five-year restoration project completed in 2004, the Klutho Building is the home of Operation New Hope, a faith-based nonprofit community development corporation. -- http://www.bizjournals.com/jacksonville/stories/2004/10/25/focus4.html#ixzz1FhcK22pn, http://www.operationnewhope.com/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>community development</dcterms:subject>
+   <dcterms:subject>community organizations</dcterms:subject>
+   <dcterms:subject>restoration (process)</dcterms:subject>
+   <dcterms:subject>housing (concept)</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>balconies</dcterms:subject>
+   <dcterms:subject>gables (architectural elements)</dcterms:subject>
+   <dcterms:spatial>1830 North Main Street, Jacksonville, Duval, Florida, United States</dcterms:spatial>
+   <dcterms:spatial>30.346572, -81.654161</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/02/25/09/54503e52-b437-4545-a29f-4be16fb10c3c_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1340750</edm:isShownAt>
+</mdRecord>

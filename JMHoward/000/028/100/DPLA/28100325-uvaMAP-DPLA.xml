@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-15 at 7:40 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28100325</dcterms:identifier>
+   <dcterms:title>Entrance Building, interior|general view</dcterms:title>
+   <dcterms:title>Corner Building</dcterms:title>
+   <dcterms:creator>Bradbury, Eugene (American architect, 1874-1960) [architect]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1914</dcterms:created>
+   <dcterms:medium>brick (clay product); reinforced concrete [work]</dcterms:medium>
+   <dcterms:description>Corridor, showing dropped ceiling and book storage</dcterms:description>
+   <dcterms:description>Built to house post office, shops and tearoom. Moved from original to present location, 1927. Student Health Center located here, 1962-1989. Currently houses the Women’s Center and other administrative offices. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Colonial Revival</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>schools (buildings)</dcterms:subject>
+   <dcterms:subject>mercantile buildings</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>health facilities</dcterms:subject>
+   <dcterms:subject>infirmaries</dcterms:subject>
+   <dcterms:subject>office buildings</dcterms:subject>
+   <dcterms:subject>corridors</dcterms:subject>
+   <dcterms:subject>bookshelves</dcterms:subject>
+   <dcterms:spatial>1400 University Avenue, Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/04/28/15/6b4ed45f-fee9-4ef1-88eb-8c3b1a508cb7_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28100325</edm:isShownAt>
+</mdRecord>

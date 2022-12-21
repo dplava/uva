@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 7:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1102160</dcterms:identifier>
+   <dcterms:title>[The Declaration of Independence in newspapers / as collected by Albert H. Small]</dcterms:title>
+   <dcterms:creator>Albert H. Small Declaration of Independence Collection (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Small, Albert H. (Albert Harrison)</dcterms:creator>
+   <dcterms:creator>United States. Continental Congress.</dcterms:creator>
+   <dcterms:created>1775/1781</dcterms:created>
+   <dcterms:extent>&lt;10&gt; pieces</dcterms:extent>
+   <dcterms:extent>30 x 44 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Boston gazette, and Country journal, Oct., 23, 1775 (correspondence between Washington &amp; Gage, p. 1) -- Pennsylvania gazette, July 10, 1776 (text, p. 1) -- Dunlap's Pennsylvania packet, or the General advertiser, July 22, 1776 (Declaration in New Jersey, p. 2, col. 1) -- New-England Chronicle, July 25, 1776 (Declaration in Boston, p. 3, col. 2) -- Caledonian mercury, Edinburgh, Aug. 7, 1776 (item about the Declaration, p. 2, col. 3) -- London Chronicle, Aug. 15/17, 1776 (text, p. 164) -- Edinburgh advertiser, Aug. 16/20 1776 (text, p. 116-117) -- Dunlap's Pennsylvania packet, or the General advertiser, Sept. 17 1776 (Declaration in South Carolina, p. 2, col. 1) -- Independent chronicle, and The Universal advertiser, Boston, May 8, 1777 (various war related material) -- Connecticut gazette and the Universal intelligencer, April 27, 1781 (text, p. 1)</dcterms:description>
+   <dcterms:description>Title supplied by cataloger.</dcterms:description>
+   <dcterms:description>Includes single issues of newspapers which contain either the text of the Declaration, reports related to the Declaration, or general articles about the Revolution. Arranged chronologically, as listed in contents.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Albert H. Small Declaration of Independence Collection. Deposit of Albert H. Small, July 14, 2003.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>United States.--Declaration of Independence</dcterms:subject>
+   <dcterms:subject>United States--History--Revolution, 1775-1783--Sources.</dcterms:subject>
+   <dcterms:temporal>Revolution, 1775-1783</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1102470/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1102160</edm:isShownAt>
+</mdRecord>

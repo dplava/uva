@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:28 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:87847</dcterms:identifier>
+   <dcterms:title>Cæsar's Commentaries: with an analytical and interlinear translation of the first five books, for the use of schools and private learners / by James Hamilton</dcterms:title>
+   <dcterms:title>Caesar, Julius. De bello Gallico. English</dcterms:title>
+   <dcterms:creator>Caesar, Julius.</dcterms:creator>
+   <dcterms:creator>Clark, Thomas, 1787-1860</dcterms:creator>
+   <dcterms:creator>Hamilton, James, 1769-1829</dcterms:creator>
+   <dcterms:publisher>Hall &amp; McCreary</dcterms:publisher>
+   <dcterms:created>1884</dcterms:created>
+   <dcterms:extent>435 p.</dcterms:extent>
+   <dcterms:extent>19 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>A new and more correct ed., with an interlinear translation of the sixth and seventh books / by Thomas Clark.</dcterms:description>
+   <dcterms:description>VIVA Repository Copy 2014.</dcterms:description>
+   <dcterms:description>Item X004249068 has bookplate data: Vera V. Via.</dcterms:description>
+   <dcterms:isPartOf>Hamilton, Locke and Clark series of interlinear translations</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Caesar, Julius</dcterms:subject>
+   <dcterms:subject>Gaul--History--Gallic Wars, 58-51 B.C.</dcterms:subject>
+   <dcterms:subject>Rome--History--Republic, 265-30 B.C.</dcterms:subject>
+   <dcterms:temporal>Gallic Wars, 58-51 B.C.</dcterms:temporal>
+   <dcterms:temporal>Republic, 265-30 B.C.</dcterms:temporal>
+   <dcterms:spatial>Gaul</dcterms:spatial>
+   <dcterms:spatial>Rome</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2643619/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:87847</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:16 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8227466</dcterms:identifier>
+   <dcterms:title>Second Leiter Building, exterior</dcterms:title>
+   <dcterms:title>Leiter Building II</dcterms:title>
+   <dcterms:title>Sears, Roebuck &amp; Company Building</dcterms:title>
+   <dcterms:creator>Jenney, William Le Baron (American architect, 1832-1907) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1973</dcterms:created>
+   <dcterms:medium>steel frame construction [work]</dcterms:medium>
+   <dcterms:description>Built in 1891 by Levi Leiter, the Second Leiter Building was designed by architect William Le Baron Jenney, who implemented the skeletal frame made of steel to make the design fireproof. The building was leased by Levi Leiter to the department store of Siegel, Cooper and Company who occupied it for approximately seven years. After Siegel Cooper closed, the building hosted various tenants until it became the downtown flagship store of Sears, Roebuck and Company in 1932. Sears occupied the space the until 1986 when it decided to close the store and the space was leased to other tenants. -- http://en.wikipedia.org/wiki/Second_Leiter_Building [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Chicago School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>department stores</dcterms:subject>
+   <dcterms:subject>office buildings</dcterms:subject>
+   <dcterms:subject>windows</dcterms:subject>
+   <dcterms:subject>fire escapes</dcterms:subject>
+   <dcterms:subject>engaged columns</dcterms:subject>
+   <dcterms:spatial>South State Street, Chicago, Cook, Illinois, United States</dcterms:spatial>
+   <dcterms:spatial>41.8764, -87.627378</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/01/14/12/2ce0d11f-71c9-4672-b286-9d6d971b94da_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8227466</edm:isShownAt>
+</mdRecord>

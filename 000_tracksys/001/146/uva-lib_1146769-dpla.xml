@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:54 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1146769</dcterms:identifier>
+   <dcterms:title>Only a withered rose: song / music by J.R. Thomas ; words by W. Dexter Smith</dcterms:title>
+   <dcterms:title>Only a withered rose it seems to thee</dcterms:title>
+   <dcterms:creator>Adams, Edwin, 1834-1877</dcterms:creator>
+   <dcterms:creator>Oakes, William H., -1890</dcterms:creator>
+   <dcterms:creator>Smith, Dexter, 1842?-1909</dcterms:creator>
+   <dcterms:creator>Thomas, J. R. (John Rogers), 1830-1896</dcterms:creator>
+   <dcterms:publisher>Wm. A. Pond &amp; Co.</dcterms:publisher>
+   <dcterms:created>1865</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>"Oakes, Eng."--Colophon.</dcterms:description>
+   <dcterms:description>"To my friend Edwin Adams Esq."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1146770/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1146769</edm:isShownAt>
+</mdRecord>

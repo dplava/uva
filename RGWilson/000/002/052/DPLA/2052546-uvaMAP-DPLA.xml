@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:14 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2052546</dcterms:identifier>
+   <dcterms:title>Flamingo Las Vegas, exterior|general view</dcterms:title>
+   <dcterms:creator>American, Artist Century: 20, architectural firm [work]</dcterms:creator>
+   <dcterms:creator>Gender: male, United States [work]</dcterms:creator>
+   <dcterms:creator>Pereira &amp; Luckman [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1946</dcterms:created>
+   <dcterms:description>Neon sign, night</dcterms:description>
+   <dcterms:description>In late 1945, mobster Bugsy Siegel and his partners came to Las Vegas. Siegel took over the final phases of construction and convinced more of his underworld associates to invest in the project. Siegel finally opened The Flamingo Hotel &amp; Casino on December 26, 1946, at a total cost of $6 million. -- https://en.wikipedia.org/wiki/Flamingo_Las_Vegas [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>gambling casinos</dcterms:subject>
+   <dcterms:subject>identification signs</dcterms:subject>
+   <dcterms:subject>neon lamps</dcterms:subject>
+   <dcterms:spatial>3555 South Las Vegas Boulevard, Paradise, Clark, Nevada, United States</dcterms:spatial>
+   <dcterms:spatial>36.116111, -115.170556</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/03/10/15/fc78b350-d44e-41bd-ab74-f0474a6c690a_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2052546</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:13 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1382073</dcterms:identifier>
+   <dcterms:title>New York Life Building, detail view</dcterms:title>
+   <dcterms:creator>McKim, Mead, and White (American architectural firm, 1879-1910) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1975</dcterms:created>
+   <dcterms:medium>brownstone (material); brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>View of main entrance at 9th Street and Baltimore Avenue</dcterms:description>
+   <dcterms:description>The New York Life Building in Kansas City, Mo., was designed by Frederick Elmer Hill of McKim, Mead &amp; White as the local office of New York Life Insurance Company. It has an H-shaped footprint with a 12-story tower with 10-story wings. Above the main entrance is a sculpture of an eagle tending eaglets in the nest by Louis St. Gaudens. -- http://en.wikipedia.org/wiki/New_York_Life_Building_(Kansas_City,_Missouri) [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Renaissance Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>office buildings</dcterms:subject>
+   <dcterms:subject>insurance</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>grilles (barrier elements)</dcterms:subject>
+   <dcterms:subject>rustication</dcterms:subject>
+   <dcterms:spatial>20 West 9th Street, Kansas City, Jackson, Missouri, United States</dcterms:spatial>
+   <dcterms:spatial>39.1037, -94.5840</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/03/21/15/67973ad0-90c2-4c45-909a-805d1e1e8f74_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1382073</edm:isShownAt>
+</mdRecord>

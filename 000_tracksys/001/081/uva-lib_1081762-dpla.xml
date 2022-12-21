@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 7:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1081762</dcterms:identifier>
+   <dcterms:title>Flamm's Advertising chart of Louisville Ky., 1893</dcterms:title>
+   <dcterms:title>Advertising chart of Louisville Ky., 1893</dcterms:title>
+   <dcterms:creator>Friedenwald Co.</dcterms:creator>
+   <dcterms:creator>Wm. A. Flamm &amp; Co.</dcterms:creator>
+   <dcterms:publisher>Wm. A. Flamm &amp; Co.</dcterms:publisher>
+   <dcterms:created>1893</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>78 x 127 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Radial distances shown at half-mile intervals.</dcterms:description>
+   <dcterms:description>List of "Business Houses of Louisville" in lateral margins.</dcterms:description>
+   <dcterms:description>Names of property owners are shown on the face of the map.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Printed on paper; coated and linen-backed.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:14,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Business enterprises--Kentucky--Louisville--Maps.</dcterms:subject>
+   <dcterms:subject>Real property--Kentucky--Louisville--Maps.</dcterms:subject>
+   <dcterms:subject>Landowners--Kentucky--Louisville--Maps.</dcterms:subject>
+   <dcterms:subject>Louisville (Ky.)--Maps.</dcterms:subject>
+   <dcterms:spatial>Kentucky</dcterms:spatial>
+   <dcterms:spatial>Louisville</dcterms:spatial>
+   <dcterms:spatial>Louisville (Ky.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1086302/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1081762</edm:isShownAt>
+</mdRecord>

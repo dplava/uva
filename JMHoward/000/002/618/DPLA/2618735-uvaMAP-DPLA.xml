@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-15 at 7:36 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2618735</dcterms:identifier>
+   <dcterms:title>Pavilion X, interior|general view</dcterms:title>
+   <dcterms:title>Pavilion 10</dcterms:title>
+   <dcterms:title>Pavilion Ten</dcterms:title>
+   <dcterms:creator>Jefferson, Thomas (American statesman, architect, and draftsman, 1743-1826) [architect]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1820..1822]</dcterms:created>
+   <dcterms:medium>frame construction ; brick (clay product); masonry [work]</dcterms:medium>
+   <dcterms:description>Kitchen (109), facing southeast, prior to renovation</dcterms:description>
+   <dcterms:description>As part of Jefferson's design for UVA's Academical Village, professors lived and taught in unique Pavilions, which each served as a distinct model of architectural ideals. Pavilion Ten features Doric ornamental elements inspired by Roland Freart de Chambray's illustration of the Roman Theater of Marcellus. An original rooftop parapet was removed in the 1890s, but rebuilt and replaced in 2010. The first resident was Dr. Robley Dunglison, Jefferson's personal physician and the nation's first Professor of Medicine. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:description>Federal</dcterms:description>
+   <dcterms:description>Palladian</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>faculty housing</dcterms:subject>
+   <dcterms:subject>classrooms</dcterms:subject>
+   <dcterms:subject>Dunglison, Robley (Scottish university professor and physician, 1798-1869)</dcterms:subject>
+   <dcterms:subject>kitchens</dcterms:subject>
+   <dcterms:subject>cabinets (case furniture)</dcterms:subject>
+   <dcterms:subject>stoves (heating equipment)</dcterms:subject>
+   <dcterms:spatial>East Lawn, Charlottesville, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.033945, -78.503876</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/02/28/14/56d19049-2b00-406d-a463-cec135039a6c_jpeg.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2618735</edm:isShownAt>
+</mdRecord>

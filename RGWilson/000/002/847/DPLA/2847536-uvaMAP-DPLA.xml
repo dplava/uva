@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:15 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2847536</dcterms:identifier>
+   <dcterms:title>Ca d'Zan, exterior</dcterms:title>
+   <dcterms:title>John and Mable Ringling Residence</dcterms:title>
+   <dcterms:creator>Baum, Dwight James (American architect, 1886-1939) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1988</dcterms:created>
+   <dcterms:description>Tower view</dcterms:description>
+   <dcterms:description>The Ringlings hired the famous New York architect Dwight James Baum, to design the home and Owen Burns to build it. However, Mable, who had kept an oilskin portfolio filled with postcards, sketches and photos she had collected during her travels, oversaw every aspect of the construction, from the mixing of the terra cotta to the glazing of the tiles. Indeed, so great was her involvement that the original architectural plans called it “The Residence of Mrs. John Ringling.” [work]</dcterms:description>
+   <dcterms:description>One of America’s wealthiest couples, the Ringlings started building Ca’ d’Zan in 1924 and completed it shortly before Christmas in 1926 at the then princely sum of $1.5 million. -- https://www.ringling.org/history-ca-dzan [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Spanish Renaissance-Baroque styles</dcterms:description>
+   <dcterms:description>Italian Renaissance-Baroque styles</dcterms:description>
+   <dcterms:description>Beaux-Arts</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>country houses</dcterms:subject>
+   <dcterms:subject>historic house museums</dcterms:subject>
+   <dcterms:subject>seasonal dwellings</dcterms:subject>
+   <dcterms:subject>parapets</dcterms:subject>
+   <dcterms:subject>trefoils (geometric motifs)</dcterms:subject>
+   <dcterms:subject>balustrades</dcterms:subject>
+   <dcterms:subject>balconies</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>cusps</dcterms:subject>
+   <dcterms:subject>belvederes</dcterms:subject>
+   <dcterms:subject>pinnacles</dcterms:subject>
+   <dcterms:spatial>5401 Bay Shore Road, Sarasota, Florida, United States</dcterms:spatial>
+   <dcterms:spatial>27.381796, -82.559279</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/08/07/16/6a743676-9307-4448-8bb5-dcdce70d2a92_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2847536</edm:isShownAt>
+</mdRecord>

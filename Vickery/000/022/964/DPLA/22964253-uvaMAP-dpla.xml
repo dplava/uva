@@ -2,11 +2,11 @@
 <?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
       type="application/xml"
       schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2021-12-06 at 11:49 p.m. -->
-<mdRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xmlns="http://dplava.lib.virginia.edu"
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 3:06 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
           xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
    <dcterms:provenance>University of Virginia</dcterms:provenance>
    <dcterms:type>still image</dcterms:type>
@@ -26,6 +26,7 @@
    <dcterms:subject>trulli</dcterms:subject>
    <dcterms:subject>vernacular architecture</dcterms:subject>
    <dcterms:subject>rural areas</dcterms:subject>
+   <dcterms:subject>Alberobello, Bari, Apulia, Italy</dcterms:subject>
    <edm:preview>https://stor.artstor.org/iiif/2018/05/11/14/d24055ea-7e61-436a-a966-f01f4475c552_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
    <edm:isShownAt>https://search.lib.virginia.edu/items/i_22964253</edm:isShownAt>
 </mdRecord>

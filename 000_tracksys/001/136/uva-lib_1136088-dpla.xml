@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:30 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1136088</dcterms:identifier>
+   <dcterms:title>Jolly huntsman = Fröhlicher Jägersmann : op. 31 / G. Merkel</dcterms:title>
+   <dcterms:title>Fröhlicher Jägersmann</dcterms:title>
+   <dcterms:creator>Cross, M. H. (Michael Hurley), 1833-1897</dcterms:creator>
+   <dcterms:creator>Merkel, Gustav, 1827-1885</dcterms:creator>
+   <dcterms:creator>Thorburn, E. B.</dcterms:creator>
+   <dcterms:publisher>F.A. North &amp; Co.</dcterms:publisher>
+   <dcterms:created>[1872..1885]</dcterms:created>
+   <dcterms:extent>3 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>"Fingered and revised by M.H. Cross."</dcterms:description>
+   <dcterms:description>At foot of t.p.: "Thorburn, N.Y."</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:isPartOf>Young student : choice music, selected for the cultivation of taste and expression ; no. 46</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1136089/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1136088</edm:isShownAt>
+</mdRecord>

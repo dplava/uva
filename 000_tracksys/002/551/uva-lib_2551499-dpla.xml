@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 11:51 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2551499</dcterms:identifier>
+   <dcterms:title>Medicine chest</dcterms:title>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1900~</dcterms:created>
+   <dcterms:extent>26.6 x 23 x 18.8 cm [original]</dcterms:extent>
+   <dcterms:medium>wood (plant material); glass (material); metal; paper (fiber product) [original]</dcterms:medium>
+   <dcterms:description>Includes 17 medicine bottles with stoppers: 1 without label, 16 with labels (prepared jamaica ginger, paregoric, sweet spirit of nitre, wine ipicach, tartaric acid, carbonate o[ ], diarrhea or bowel complaint mixture, tincture of rhubarb, spt. of sal volatile, turkey rhubarb, wine iprvsv, tincture of arnica, poison bi-chloride of mercury, antibilious pills, cough pills, rhubarb pills); medicine (ointment) bottle without stopper; cautery iron (?); 2 spatulas; apothecary scale; apothecary scale weight box; 2 apothecary scale weights; 4 Stedman's teething powder packets; paper packet for baby diarrhea; 2 additional paper packets; lice comb; paper with handwritten glossary; paper packet, for headache; paper packet, for sleep; paper with handwritten prescription.</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:description>Donated by Muriel McMurdo [original]</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:subject>Medical bottles</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2551499/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2551499</edm:isShownAt>
+</mdRecord>

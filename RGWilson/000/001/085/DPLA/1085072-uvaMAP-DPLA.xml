@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:12 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1085072</dcterms:identifier>
+   <dcterms:title>Charles Rohlfs House, detail view</dcterms:title>
+   <dcterms:creator>Colson and Hudson (American architectural firm, active 1906-1923) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2005</dcterms:created>
+   <dcterms:description>Door detail</dcterms:description>
+   <dcterms:description>The photographs in the exhibition of the house that the Rohlfs designed and built at 156 Park St. (still extant) in 1912 reveal a sense of structural harmony between woodwork and furniture that sidesteps typical Victorian clutter. -- http://en.wikipedia.org/wiki/Charles_Rohlfs [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Arts and Crafts (movement)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Rohlfs, Charles, 1853-1936</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>half-surface hinges</dcterms:subject>
+   <dcterms:spatial>156 Park Street, Buffalo, Erie, New York, United States</dcterms:spatial>
+   <dcterms:spatial>42.90118, -78.876337</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/12/06/15/93f43b74-644a-49c5-8d66-2d9372d2f1d0_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1085072</edm:isShownAt>
+</mdRecord>

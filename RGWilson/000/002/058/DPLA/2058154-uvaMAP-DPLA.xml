@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:14 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2058154</dcterms:identifier>
+   <dcterms:title>Chateau de Chantilly, exterior|general view</dcterms:title>
+   <dcterms:creator>Bullant, Jean (French architect and mason, ca. 1515-1578) [work]</dcterms:creator>
+   <dcterms:creator>Le Nôtre, André (French garden designer and collector, 1613-1700) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1560..1882]</dcterms:created>
+   <dcterms:description>From the north</dcterms:description>
+   <dcterms:description>The site comprises two attached buildings: the Petit Château built around 1560 for Anne de Montmorency and the Grand Château, which was destroyed during the French Revolution and rebuilt in the 1870s. The first mansion (no longer in existence, now replaced by the Grand Château) was built, between 1528 and 1531, for Anne de Montmorency by Pierre Chambiges. The Petit Château was also built for him, around 1560, probably by Jean Bullant. The original mansion was destroyed in the French Revolution. It was repaired in a modest way by Louis Henri II, Prince of Condé. Chantilly was entirely rebuilt, between 1875 and 1882, by Henri d'Orléans, duc d'Aumale. [work]</dcterms:description>
+   <dcterms:description>The main French formal garden, featuring extensive parterres and water features, was laid out principally by André Le Nôtre for the Grand Condé. The park also contains a French landscape garden with a cascade, pavilions, and a rustic ersatz village, the Hameau de Chantilly.  [work]</dcterms:description>
+   <dcterms:description>The château's art gallery, the Musée Condé, houses one of the finest collections of paintings in France. -- — https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chantilly [work]</dcterms:description>
+   <dcterms:description>French</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>houses</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>art museums</dcterms:subject>
+   <dcterms:subject>landscape architecture</dcterms:subject>
+   <dcterms:subject>lakes (bodies of water)</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:spatial>Chantilly, Oise, Picardy, France</dcterms:spatial>
+   <dcterms:spatial>49.193889, 2.485833</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/08/15/16/9dd07d2e-b4b4-4ed5-96b1-abd44342a5f3_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2058154</edm:isShownAt>
+</mdRecord>

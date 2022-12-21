@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:15 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2847074</dcterms:identifier>
+   <dcterms:title>Grace Episcopal Church, exterior|general view</dcterms:title>
+   <dcterms:creator>Richardson, Henry Hobson (American architect, 1838-1886) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1976</dcterms:created>
+   <dcterms:description>Entrance</dcterms:description>
+   <dcterms:description>The Grace Episcopal Church is an Episcopal church designed by noted American architect H. H. Richardson, the church was constructed 1867-1869. It is one of Richardson's earliest works. The church is designed in a picturesque Gothic style with 90-foot (27 m) high steeple (square base, octagonal spire), asymmetrical massing, and rough-cut walls of glacial boulder with granite trim. A massive slate roof, in gray with bands of red slate, dominates the nave's low walls and the five-sided apse attached to its east wall. The church has undergone extensive modifications from its original design. In 1882 a Sunday school annex was appended, in 1883 the nave interior was redecorated, and in 1957 further additions were made. In 1962 the chancel was reworked and Richardson's original altar given to the Brooklyn Museum. In the early 1970s Richardson's dark-stained interior was replaced by a brighter woodwork. As of 2007 only the pulpit remains of his original interior. -- http://en.wikipedia.org/wiki/Grace_Episcopal_Church_%28Medford,_Massachusetts%29 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Episcopal</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>rose windows</dcterms:subject>
+   <dcterms:subject>buttresses</dcterms:subject>
+   <dcterms:spatial>160 High Street, Medford, Middlesex, Massachusetts, United States</dcterms:spatial>
+   <dcterms:spatial>42.420003, -71.116733</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/04/25/12/417a1d30-8e26-4c6c-8ff8-d075f14d0e5b_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2847074</edm:isShownAt>
+</mdRecord>

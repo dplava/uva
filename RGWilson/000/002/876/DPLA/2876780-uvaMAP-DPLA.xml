@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:15 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2876780</dcterms:identifier>
+   <dcterms:title>Pullman Administration Building, exterior</dcterms:title>
+   <dcterms:creator>Beman, Solon Spencer (American architect, 1853-1914) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1988</dcterms:created>
+   <dcterms:description>Front /side angle view</dcterms:description>
+   <dcterms:description>The Administration Building and Clock Tower formed the central mass of a monumental structure seven hundred feet long. Its architectural design reflects mixed heritage. As both real and symbolic expression of the great economic power, which was the Pullman Company, it was essential the building display a strong sense of formal ordering. The Pullman buildings were given an architectural identity and set in a park-like setting. In front of the Administration Building was the beautifully landscaped Lake Vista -- an artificial lake created to serve as a cooling reservoir for the Corliss Steam Engine. At the center rises the clock tower and roof, which was echoed in the shapes of the gabled pavilions which marked the outer end of the long facade. The entire structure is oriented with the most impressive elevation to the west away from the town, which served it, and toward the Illinois Central. The power and majesty of the building was intensified by its mirror image in Lake Vista, the artificial lake that once stood before it. The central pavilion with its clock tower clearly expresses where the center of authority stood. It is hard to imagine what vista was afforded to visitors arriving by train, as most did, when they looked in awe at the grandeur of the factory, the gardens, the hotel and the arcade. The architectural heritage reflected in the Administration Building descends from the formal symmetrical ordering of elements associated with French architecture of the 17th and 18th centuries. The formality is emphasized by the landscape treatment of the area surrounding the building. The costuming style of the building ornamentation descends from romantic naturalistic heritage largely borrowed form England. In an attempt to harmonize the Administration Building with the rest of the town, Beman has been forced to introduce a wide variety of both arched and rectilinear forms into his facade in an attempt to disguise the fact that is so rigidly symmetrical. The arched shapes in both the tower and end pavilion contrasts with the angular statements made by the regularly spaced skylights of the factory wings. [work]</dcterms:description>
+   <dcterms:description>http://www.pullman-museum.org/theCompany/theFactory.html [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Queen Anne Style</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>listed buildings</dcterms:subject>
+   <dcterms:subject>historic districts</dcterms:subject>
+   <dcterms:subject>historic buildings</dcterms:subject>
+   <dcterms:subject>National Historic Landmarks</dcterms:subject>
+   <dcterms:subject>Pullman, George Mortimer (American industrial designer and philanthropist, 1831-1897)</dcterms:subject>
+   <dcterms:subject>brickwork (masonry)</dcterms:subject>
+   <dcterms:subject>shingle</dcterms:subject>
+   <dcterms:subject>spires</dcterms:subject>
+   <dcterms:subject>clock towers</dcterms:subject>
+   <dcterms:subject>cupolas (roof appendages)</dcterms:subject>
+   <dcterms:subject>helm roofs</dcterms:subject>
+   <dcterms:subject>hip roofs</dcterms:subject>
+   <dcterms:subject>pitched roofs</dcterms:subject>
+   <dcterms:subject>stringcourses</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>keystones</dcterms:subject>
+   <dcterms:subject>lintel courses</dcterms:subject>
+   <dcterms:spatial>11057 South Cottage Grove Avenue, Pullman, Chicago, Cook, Illinois, United States (neighborhood)</dcterms:spatial>
+   <dcterms:spatial>41.693332, -87.609708</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/05/14/16/7fe7c7cd-9677-404c-a439-2f151938ef5f_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2876780</edm:isShownAt>
+</mdRecord>

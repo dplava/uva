@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:43 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1141783</dcterms:identifier>
+   <dcterms:title>Synnove's song = Synnöve's Lied / Halfdan Kjerulf ; Bj. Björnson</dcterms:title>
+   <dcterms:title>Oh, to remember the happy hours</dcterms:title>
+   <dcterms:title>Sei nur gedankt für der Kindheit Freud'</dcterms:title>
+   <dcterms:title>Synnöve's Lied</dcterms:title>
+   <dcterms:title>Kjerulf, Halfdan, 1815-1868. Norske viser. Synnøves sang. English &amp; German</dcterms:title>
+   <dcterms:creator>Bjørnson, Bjørnstjerne, 1832-1910</dcterms:creator>
+   <dcterms:creator>Kjerulf, Halfdan, 1815-1868</dcterms:creator>
+   <dcterms:creator>Marzials, Theophilus, 1850-1920</dcterms:creator>
+   <dcterms:publisher>Oliver Ditson &amp; Co.</dcterms:publisher>
+   <dcterms:created>[1858..1889]</dcterms:created>
+   <dcterms:extent>1 score (p. 27-28)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [3]: Choice gems selected from Ditson &amp; Co.'s latest lists of new music.</dcterms:description>
+   <dcterms:description>Publication date derived from form of publisher's name. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>English and German words.</dcterms:description>
+   <dcterms:isPartOf>Album of songs / by Halfdan Kjerulf ; translated by T. Marzials ; no. 9</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1141784/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1141783</edm:isShownAt>
+</mdRecord>

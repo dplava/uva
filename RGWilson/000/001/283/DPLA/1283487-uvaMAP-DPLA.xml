@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:12 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1283487</dcterms:identifier>
+   <dcterms:title>Philtower Building, general view</dcterms:title>
+   <dcterms:creator>Delk, Edward Beuhler (American architect, 1885-1956) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1988</dcterms:created>
+   <dcterms:description>View of exterior tower</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:description>Art Deco</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>apartment houses</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>skyscrapers</dcterms:subject>
+   <dcterms:subject>pyramidal roofs</dcterms:subject>
+   <dcterms:subject>double windows</dcterms:subject>
+   <dcterms:subject>fire escapes</dcterms:subject>
+   <dcterms:subject>pointed arches</dcterms:subject>
+   <dcterms:spatial>427 South Boston, Tulsa, Oklahoma, United States</dcterms:spatial>
+   <dcterms:spatial>36.151944, -95.988611</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/01/21/08/dcb0d4ba-af80-43c7-8ead-7aee410d02ea_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1283487</edm:isShownAt>
+</mdRecord>

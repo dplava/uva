@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 7:57 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1117194</dcterms:identifier>
+   <dcterms:title>Storming of Monterey / Strakosch</dcterms:title>
+   <dcterms:creator>D'Avignon, Francis, 1813-</dcterms:creator>
+   <dcterms:creator>Haas, Philip, active 1837-1863</dcterms:creator>
+   <dcterms:creator>Nagel, L. (Louis)</dcterms:creator>
+   <dcterms:creator>Strakosch, Moritz, -1887</dcterms:creator>
+   <dcterms:publisher>William Hall &amp; Son</dcterms:publisher>
+   <dcterms:created>[1848..1858]</dcterms:created>
+   <dcterms:extent>9 p. of music</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publisher was at this location between 1848 and 1858. Cf. Dichter and Shapiro, Handbook of early Amer. sheet music.</dcterms:description>
+   <dcterms:description>Title page illustration: Portrait of Moritz Strakosch / engraved by F. Davignon; from a daguerrotype by P. Haas; printed by Nagel.</dcterms:description>
+   <dcterms:isPartOf>Oeuvre choisies / de Maurice Strakosch</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Monterrey, Battle of, Monterrey, Mexico, 1846--Songs and music.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1117195/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1117194</edm:isShownAt>
+</mdRecord>

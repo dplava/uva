@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:18 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9380984</dcterms:identifier>
+   <dcterms:title>James Frederic Clarke House, interior</dcterms:title>
+   <dcterms:creator>Byrne, Barry (American architect, 1892-1967) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1974</dcterms:created>
+   <dcterms:description>Room entry and exit</dcterms:description>
+   <dcterms:description>Based on the working drawings of the architect, Francis Barry Byrne (1888-1967), the Clarke House was built between 1915 and 1916 in Fairfield, Iowa. Byrne had been trained in Frank Lloyd Wright's Oak Park office, but this house goes beyond the Wright influence and carries Byrne's signature style. [work]</dcterms:description>
+   <dcterms:description>This 3,500 square feet home offers an environment of beauty, art and history with over fifty stunning original artglass windows and French doors, restored wall stencils by famed Arts &amp; Crafts artisan Alfonso Iannelli, exquisite original period light fixtures, furniture designed just for this home, and set in a lovely wooded 0.6 acre lot just four blocks from the central square. -- http://www.fairfieldculturaldistrict.org/heritage/clarkehouse/clarke.htm [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>Iannelli, Alfonso (Italian sculptor and designer, 1888-1965, active in United States)</dcterms:subject>
+   <dcterms:subject>jamb posts</dcterms:subject>
+   <dcterms:subject>shelves</dcterms:subject>
+   <dcterms:subject>insets</dcterms:subject>
+   <dcterms:subject>foundation walls</dcterms:subject>
+   <dcterms:subject>walls</dcterms:subject>
+   <dcterms:subject>semicircular</dcterms:subject>
+   <dcterms:subject>armchairs</dcterms:subject>
+   <dcterms:spatial>500 South Main Street, Fairfield, Jefferson, Iowa, United States</dcterms:spatial>
+   <dcterms:spatial>41.002848, -91.963784</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/05/22/12/c1b1f649-6dd5-4f74-8007-445c9da80410_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9380984</edm:isShownAt>
+</mdRecord>

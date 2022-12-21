@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:29 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1135575</dcterms:identifier>
+   <dcterms:title>Only a homeless, wandering child / words and music by J.P. Skelly</dcterms:title>
+   <dcterms:title>Only a homeless, wandering child</dcterms:title>
+   <dcterms:title>Poor little wanderer, out in the night</dcterms:title>
+   <dcterms:creator>Bogart, W. H. (William Henry), 1810-1888</dcterms:creator>
+   <dcterms:creator>Skelly, J. P. (Joseph P.), 1853-1895</dcterms:creator>
+   <dcterms:publisher>R.A. Saalfield</dcterms:publisher>
+   <dcterms:created>1883</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, mixed chorus (4), piano</dcterms:description>
+   <dcterms:description>For voice and piano, with SATB chorus.</dcterms:description>
+   <dcterms:description>"Presented with compliments of the Wm. Barr Dry Goods Co. ... St. Louis."</dcterms:description>
+   <dcterms:description>At head of caption title: "To Mr. William H. Bogart, New York."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1135576/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1135575</edm:isShownAt>
+</mdRecord>

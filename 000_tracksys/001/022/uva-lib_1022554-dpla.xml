@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:36 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1022554</dcterms:identifier>
+   <dcterms:title>Emblemata / Andreae Alciati Iurusconsulti clarissimi</dcterms:title>
+   <dcterms:title>Alciati, Andrea, 1492-1550. Emblematum liber</dcterms:title>
+   <dcterms:creator>Alciati, Andrea, 1492-1550</dcterms:creator>
+   <dcterms:creator>Bonhomme, Macé, active 1536-1569</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Eskrich, Pierre, approximately 1530-approximately 1590</dcterms:creator>
+   <dcterms:creator>Rouillé, Guillaume, 1518?-1589</dcterms:creator>
+   <dcterms:publisher>Apud Gulielmum Rouillium, Sub scuto Veneto</dcterms:publisher>
+   <dcterms:created>1548</dcterms:created>
+   <dcterms:extent>164, [4] p.</dcterms:extent>
+   <dcterms:extent>19 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:medium>illustrations (woodcuts)</dcterms:medium>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Colophon: Lugduni : Excudebat Mathias Bonhomme.</dcterms:description>
+   <dcterms:description>Signatures: A-K⁸ L⁴.</dcterms:description>
+   <dcterms:description>With the exception of the Tabula (p. [1]-[4] at end), each page is enclosed within a four-part ornamental border.</dcterms:description>
+   <dcterms:description>Woodcuts by Pierre Eskrich; some ornamental borders are signed PV, probably for Pierre Vase (i.e. Eskrich). Cf. Mortimer, R. French 16th cent. books, I, p. 16.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: First work in volume with: Emblemes d'Alciat. -- A Lyon, 1549. Unidentified ownership stamp on title page. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 400.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Emblems--Early works to 1800.</dcterms:subject>
+   <dcterms:spatial>Lyon, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1092185/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1022554</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 11:54 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18830</dcterms:identifier>
+   <dcterms:title>You are respectfully invited to attend the anniversary celebration of the Jefferson Society, to be held in the University chapel, on Saturday, the 13th of April, at 8 o'clock P.M.</dcterms:title>
+   <dcterms:title>Anniversary celebration</dcterms:title>
+   <dcterms:creator>University of Virginia. Jefferson Society.</dcterms:creator>
+   <dcterms:publisher>Jefferson Society</dcterms:publisher>
+   <dcterms:created>1851</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>14 x 20 cm. folded to 14 x 10 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>At head of title: Anniversary celebration.</dcterms:description>
+   <dcterms:description>"Jefferson Hall, March 10th, 1851."</dcterms:description>
+   <dcterms:description>"Orator, John P. White of Abindgon, Va. Reader of the Declaration of Independence, Charles T. Friend, of Richmond, Va."</dcterms:description>
+   <dcterms:description>Invitation printed on p. [1] only; p. [2]-[4] are blank.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: From the Papers of the Blackford Family, MSS 5927.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia. Jefferson Society.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1518141/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18830</edm:isShownAt>
+</mdRecord>

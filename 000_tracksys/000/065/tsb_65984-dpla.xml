@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:22 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65984</dcterms:identifier>
+   <dcterms:title>Reports of cases argued and determined in the High Court of Chancery: commencing in Michaelmas term, 1815 [to the end of the sittings after Michaelmas term, 1817] / By J. H. Merivale</dcterms:title>
+   <dcterms:creator>Great Britain. Court of Chancery.</dcterms:creator>
+   <dcterms:creator>Merivale, John Herman, 1779-1844</dcterms:creator>
+   <dcterms:publisher>J. Butterworth and Son; [etc., etc.</dcterms:publisher>
+   <dcterms:created>1817/1819</dcterms:created>
+   <dcterms:extent>3 v. 24 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"Appendix, containing some notes of cases [1805-1815] decided before the period at which these reports commence, and not comprised in any of the contemporary reports": v. 3, p. [665]-708.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain.</dcterms:subject>
+   <dcterms:subject>Equity--Great Britain--Cases.</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2449079/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65984</edm:isShownAt>
+</mdRecord>

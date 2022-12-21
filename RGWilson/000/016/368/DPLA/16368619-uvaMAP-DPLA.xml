@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:18 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>16368619</dcterms:identifier>
+   <dcterms:title>Dulwich Picture Gallery, exterior</dcterms:title>
+   <dcterms:creator>Mather, Rick (British architect, born 1937) [architect, addition]</dcterms:creator>
+   <dcterms:creator>Soane, John (English architect and collector, 1753-1837) [architect]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2002</dcterms:created>
+   <dcterms:medium>stock brick; Portland stone (limestone) [work]</dcterms:medium>
+   <dcterms:description>South face</dcterms:description>
+   <dcterms:description>Dulwich Picture Gallery is one of the finest examples of gallery architecture in Britain. It was designed and built by the leading architect Sir John Soane (1753-1837) at the personal request of his friend Sir Francis Bourgeois, who had left a fund of £2,000 to establish a permanent home for his collection. The commission also included a mausoleum for the Gallery’s founders, as well as almshouses. ... The authorities wanted the new gallery to be in keeping with the existing Jacobean architecture of the old college. While Soane’s initial designs incorporated some of these characteristics, he ultimately created a building with simplified forms that subtly alluded to the Classical style in a series of vertical brick projections, a type of pilaster, on the wings.-- http://www.dulwichpicturegallery.org.uk/about/our-architecture/ [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>museums</dcterms:subject>
+   <dcterms:subject>galleries (display spaces)</dcterms:subject>
+   <dcterms:subject>blind arches</dcterms:subject>
+   <dcterms:subject>stringcourses</dcterms:subject>
+   <dcterms:spatial>Gallery Rd, London SE21, UK, Gallery Rd, Dulwich, Southwark, London, Greater London, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>51.44426259999999, -0.0879334999999628</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2016/08/09/11/0dc0f11a-c0ab-42e4-ad93-f8056719ee51_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_16368619</edm:isShownAt>
+</mdRecord>

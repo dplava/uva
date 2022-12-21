@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:10 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>290887</dcterms:identifier>
+   <dcterms:title>Fredericksburg Courthouse, exterior</dcterms:title>
+   <dcterms:creator>Renwick, James, Jr (American architect, 1818-1895) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1977</dcterms:created>
+   <dcterms:medium>brick (clay product); stucco [work]</dcterms:medium>
+   <dcterms:description>View of courthouse from street</dcterms:description>
+   <dcterms:description>1870 alterations include the removal in 1870 of Renwick's raised parapets and steps on the gable ends and, later, the installation of a copper roof with extended eaves, which greatly changed the building's appearance. The tower also received alterations that changed the top and made it less phallic. -- https://sah-archipedia.org/buildings/VA-01-FR6 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>judicial buildings</dcterms:subject>
+   <dcterms:subject>public buildings</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:spatial>815 Princess Anne Street, Fredericksburg, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.301909, -77.459636</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/12/09/10/15117e35-5f31-4804-9a72-62bc627662bc_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_290887</edm:isShownAt>
+</mdRecord>

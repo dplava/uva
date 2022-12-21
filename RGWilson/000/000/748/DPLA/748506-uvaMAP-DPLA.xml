@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:12 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>748506</dcterms:identifier>
+   <dcterms:title>Ljubljana Central Market, general view</dcterms:title>
+   <dcterms:creator>Plečnik, Jože (Slovene architect, 1872-1957) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1983</dcterms:created>
+   <dcterms:description>View from river</dcterms:description>
+   <dcterms:description>Ljubljana Central Market was designed by Jože Plečnik in 1931–39. The present market building, also designed by Plečnik, was built between 1940 and 1942 by Matko Curk's company. [work]</dcterms:description>
+   <dcterms:description>Slovene</dcterms:description>
+   <dcterms:description>Classical Revival (European revival style)</dcterms:description>
+   <dcterms:description>Modern (styles and periods)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>market halls</dcterms:subject>
+   <dcterms:subject>squares (open spaces)</dcterms:subject>
+   <dcterms:subject>marketplaces</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>windows</dcterms:subject>
+   <dcterms:subject>hip roofs</dcterms:subject>
+   <dcterms:subject>domes (architectural elements)</dcterms:subject>
+   <dcterms:subject>barrel vaults</dcterms:subject>
+   <dcterms:subject>rivers</dcterms:subject>
+   <dcterms:subject>cupolas (roof appendages)</dcterms:subject>
+   <dcterms:spatial>Vodnik Square, Ljubljana, miscellaneous/Slovenia, Slovenia</dcterms:spatial>
+   <dcterms:spatial>46.051667, 14.509722</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/09/11/13/dadab000-f285-4cae-9a47-5c278c41cee6_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_748506</edm:isShownAt>
+</mdRecord>

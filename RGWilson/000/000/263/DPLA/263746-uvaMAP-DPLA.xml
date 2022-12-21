@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:10 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>263746</dcterms:identifier>
+   <dcterms:title>La Jolla Woman's Club, exterior</dcterms:title>
+   <dcterms:creator>Gill, Irving J. (American architect, 1870-1936) [architect]</dcterms:creator>
+   <dcterms:creator>Scripps, Ellen Browning (American patron and philanthropist, 1836-1932) [patron]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1985</dcterms:created>
+   <dcterms:description>Main entry door</dcterms:description>
+   <dcterms:description>The La Jolla Woman's Club home is an outstanding example of Gill's mature period and shows his particular genius as a designer, using the innovative technique of tilt-slab construction. -- http://www.lajollawomansclub.com/history.html [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Modernist</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>recreation structures</dcterms:subject>
+   <dcterms:subject>National Register of Historic Places</dcterms:subject>
+   <dcterms:subject>glass doors</dcterms:subject>
+   <dcterms:spatial>7791 Draper Ave, La Jolla, CA 92037, USA, 7791 Draper Ave, La Jolla, San Diego, California, United States</dcterms:spatial>
+   <dcterms:spatial>32.844086, -117.2770827</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/11/02/10/fb2dbf42-304e-4c9c-851d-bdd00d59037f_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_263746</edm:isShownAt>
+</mdRecord>

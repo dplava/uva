@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 9:07 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1222342</dcterms:identifier>
+   <dcterms:title>Declaration of Independence of the United States of America, 4th July 1776</dcterms:title>
+   <dcterms:creator>Albert H. Small Declaration of Independence Collection (University of Virginia)</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1876</dcterms:created>
+   <dcterms:extent>1 print on cotton</dcterms:extent>
+   <dcterms:extent>75 x 84 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>A representation of John Trumbull's painting of the signing of the Declaration. Printed in sepia on white cotton, with title at the top, a key to the figures and facsimile signatures below. The whole within an ornamental sepia border, edged in royal blue.</dcterms:description>
+   <dcterms:description>Some copies have "Independence" spelled "Independance."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Albert H. Small Declaration of Independence Collection. Deposit of Albert H. Small, July 14, 2003.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>United States.--Declaration of Independence</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1225174/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1222342</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-15 at 7:43 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28617098</dcterms:identifier>
+   <dcterms:title>Pavilion VII, exterior|general view</dcterms:title>
+   <dcterms:title>Colonnade Club</dcterms:title>
+   <dcterms:title>Pavilion 7</dcterms:title>
+   <dcterms:title>Pavilion Seven</dcterms:title>
+   <dcterms:creator>Jefferson, Thomas (American statesman, architect, and draftsman, 1743-1826) [architect]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2001</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Construction of new floor for second-floor balcony, showing new base under colonnade, behind entablature</dcterms:description>
+   <dcterms:description>As part of Jefferson's design for UVA's Academical Village, professors lived and taught in unique Pavilions, which each served as a distinct model of architectural ideals. Pavilion Seven was the first University building to be constructed, with the the ceremonial cornerstone laid by Jefferson, Madison, Monroe, and other local Freemasons on October 6th, 1817. The facade features an arched colonnade on the lower level, and columns on the upper, which Jefferson noted were inspired by Andrea Palladio's depiction of the Doric order. Since 1907, Pavilion Seven has been home to the Colonnade Club, a social group of University alumni and faculty who "promote the welfare of the University." [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:description>Federal</dcterms:description>
+   <dcterms:description>Palladian</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>faculty housing</dcterms:subject>
+   <dcterms:subject>classrooms</dcterms:subject>
+   <dcterms:subject>faculty clubs</dcterms:subject>
+   <dcterms:subject>porticoes</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>bases (object components)</dcterms:subject>
+   <dcterms:subject>joists</dcterms:subject>
+   <dcterms:subject>architectural conservation</dcterms:subject>
+   <dcterms:subject>renovation</dcterms:subject>
+   <dcterms:spatial>West Lawn, Charlottesville, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.034635, -78.504393</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/08/13/19/362e7132-062e-4227-bc9b-56b9579c23c8_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28617098</edm:isShownAt>
+</mdRecord>

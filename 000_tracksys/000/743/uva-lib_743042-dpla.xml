@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:58 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:743042</dcterms:identifier>
+   <dcterms:title>In Congress, July 4, 1776: A declaration by the representatives of the United States of America, in General Congress assembled / [62 + 4 lines]</dcterms:title>
+   <dcterms:title>Declaration by the representatives of the United States of America, in General Congress assembled</dcterms:title>
+   <dcterms:title>United States. Declaration of Independence</dcterms:title>
+   <dcterms:creator>Albert H. Small Declaration of Independence Collection (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Decatur, Stephen, 1886-</dcterms:creator>
+   <dcterms:creator>Dunlap, John, 1747-1812</dcterms:creator>
+   <dcterms:creator>Lear, Tobias, 1762-1816</dcterms:creator>
+   <dcterms:creator>Martin, H. Bradley (Henry Bradley), 1906-1988</dcterms:creator>
+   <dcterms:creator>Small, Albert H. (Albert Harrison)</dcterms:creator>
+   <dcterms:creator>Storer, George Washington</dcterms:creator>
+   <dcterms:creator>Tracy W. McGregor Library. American History Collection.</dcterms:creator>
+   <dcterms:creator>United States.</dcterms:creator>
+   <dcterms:creator>United States. Continental Congress.</dcterms:creator>
+   <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+   <dcterms:publisher>Printed by John Dunlap.</dcterms:publisher>
+   <dcterms:created>1776</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>48 x 35.5 cm [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Researchers must use the digital copy unless permission to use the original has been granted by senior Special Collections staff.</dcterms:description>
+   <dcterms:description>The first printed issue of the Declaration of Independence.--Evans 15155.</dcterms:description>
+   <dcterms:description>"Signed by order and in behalf of the Congress, John Hancock, President. Attest. Charles Thomson, Secretary."</dcterms:description>
+   <dcterms:description>Goff notes a difference in the placement of the imprint in two states of the broadside. In the earlier state the "P" of Philadephia is under the comma after Thomson's name, in the later state the "P" is under the "n" in Thomson's name.</dcterms:description>
+   <dcterms:description>Goff notes also a proof copy (imperfect), held by the Historical Society of Pennsylvania, exhibiting differences in punctuation and in the insertion in line 13 of the word ?a? before the word ?new.? Cf. Goff, F.R. The John Dunlap broadside: the first printing of the Declaration of Independence, 1976.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: A 1776 .U56: Imperfect: upper left corner replaced in facsimile; remargined. The imprint is in the earlier of Goff's two states. Tracy W. McGregor Library, American History Collection.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: KF4506 .A1 1776: The imprint is in the later of Goff's two states. George Washington's copy. Later owned by Tobias Lear, George Washington Storer, Stephen Decatur, Jr., H. Bradley Martin, and Albert H. Small. Albert H. Small Declaration of Independence Collection.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Washington, George, 1732-1799--Library--Personal copy. ViU</dcterms:subject>
+   <dcterms:subject>Washington, George, 1732-1799--Library--Personal Copy.</dcterms:subject>
+   <dcterms:subject>United States--Politics and government--1775-1783.</dcterms:subject>
+   <dcterms:subject>United States--History--Revolution, 1775-1783.</dcterms:subject>
+   <dcterms:temporal>1775-1783.</dcterms:temporal>
+   <dcterms:temporal>Revolution, 1775-1783.</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Philadelphia, Pennsylvania, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:743474/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:743042</edm:isShownAt>
+</mdRecord>

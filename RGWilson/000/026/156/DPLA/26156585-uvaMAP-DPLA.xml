@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:20 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>26156585</dcterms:identifier>
+   <dcterms:title>Story Chapel and Administration Building, exterior|general view</dcterms:title>
+   <dcterms:creator>Sears, Willard Thomas (American architect, 1837-1920) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1974</dcterms:created>
+   <dcterms:medium>Potsdam sandstone [work]</dcterms:medium>
+   <dcterms:description>Chapel entrance and tower</dcterms:description>
+   <dcterms:description>Built in 1898, Story Chapel resembles a 15th-century English parish church. The exterior is red-brown sandstone, while the interior features Gothic detailing: stone walls, a carved wooden ceiling, and a wood pulpit and pews. Its architect, Willard T. Sears, also designed Boston’s famed Isabella Stewart Gardner Museum. -- https://mountauburn.org/private-events/wedding-ceremonies/story-chapel/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Perpendicular Style</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>memorials</dcterms:subject>
+   <dcterms:subject>cemeteries</dcterms:subject>
+   <dcterms:subject>office buildings</dcterms:subject>
+   <dcterms:spatial>580 Mount Auburn Street, Cambridge, Middlesex, Massachusetts, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/08/30/16/8b6b930e-f5bc-4eae-b440-25be6c2acb8e_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_26156585</edm:isShownAt>
+</mdRecord>

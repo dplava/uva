@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:11 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>624313</dcterms:identifier>
+   <dcterms:title>Joseph R. Biden Jr. Railroad Station, detail view</dcterms:title>
+   <dcterms:title>French Street Station</dcterms:title>
+   <dcterms:title>Pennsylvania Station</dcterms:title>
+   <dcterms:title>Wilmington Station</dcterms:title>
+   <dcterms:creator>Furness, Frank (American architect, designer, 1839-1912) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1994</dcterms:created>
+   <dcterms:description>Awning detail</dcterms:description>
+   <dcterms:description>Wilmington Station changed its name to Joseph R. Biden, Jr. Railroad Station at a public ceremony on 19 March 2011, in honor of U.S. Vice President Joe Biden, who took over 7,000 round trips from the station during his U.S. Senate career. -- http://en.wikipedia.org/wiki/Wilmington_Station [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Romanesque Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>railroad stations</dcterms:subject>
+   <dcterms:subject>Southeastern Pennsylvania Transportation Authority (SEPTA)</dcterms:subject>
+   <dcterms:subject>Amtrak</dcterms:subject>
+   <dcterms:subject>Pennsylvania Railroad</dcterms:subject>
+   <dcterms:subject>Biden, Joseph R., Jr. (American president, 1942 CE-)</dcterms:subject>
+   <dcterms:subject>awnings</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>brackets (structural elements)</dcterms:subject>
+   <dcterms:subject>scrollwork</dcterms:subject>
+   <dcterms:subject>capitals (column components)</dcterms:subject>
+   <dcterms:spatial>100 South French Street, Wilmington, New Castle, Delaware, United States</dcterms:spatial>
+   <dcterms:spatial>39.736759, -75.551093</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/07/19/15/93903e54-9e2e-4198-bcb6-79b1fc709086_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_624313</edm:isShownAt>
+</mdRecord>

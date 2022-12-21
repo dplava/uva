@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:11 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>675587</dcterms:identifier>
+   <dcterms:title>Mellin Macnab Building, exterior</dcterms:title>
+   <dcterms:title>Church House</dcterms:title>
+   <dcterms:creator>Tafel, Edgar (American architect, 1912-2011) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1978</dcterms:created>
+   <dcterms:description>General view with north facade of church at left</dcterms:description>
+   <dcterms:description>The First Presbyterian Church in the City of New York was founded in 1716, and held its first services in 1719 at its sanctuary at 10 Wall Street between Broadway and Nassau Street. The congregation relocated to its present site on Fifth Avenue in 1846 with the encouragement of James Lenox, one of the richest men in the city, and an elder of the congregation. On the north side of the complex is the Church House at 12 West 12th Street, the Mellin Macnab Building, built in 1958-60, and designed by Edgar Tafel, who apprenticed under Frank Lloyd Wright. Tafel's design combined Prairie School influences with the Gothic style of the sanctuary, and has been called "a fine example of contemporary design ... used intelligently, to bring a much needed contemporary building into harmony with a neighborhood." Tafel's design won an award from the Fifth Avenue Association. -- http://en.wikipedia.org/wiki/First_Presbyterian_Church_(Manhattan) [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Protestantism</dcterms:subject>
+   <dcterms:subject>stonework</dcterms:subject>
+   <dcterms:subject>parapets</dcterms:subject>
+   <dcterms:subject>openwork</dcterms:subject>
+   <dcterms:subject>buttresses</dcterms:subject>
+   <dcterms:subject>pinnacles</dcterms:subject>
+   <dcterms:subject>pointed arches</dcterms:subject>
+   <dcterms:subject>balconies</dcterms:subject>
+   <dcterms:spatial>12 West 12th Street, New York, United States</dcterms:spatial>
+   <dcterms:spatial>40.734746, -73.995008</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/08/02/15/630a2539-5cdc-4d82-8b62-787316619412_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_675587</edm:isShownAt>
+</mdRecord>

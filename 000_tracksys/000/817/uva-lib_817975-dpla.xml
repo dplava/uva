@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 3:01 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:817975</dcterms:identifier>
+   <dcterms:title>[Horae Beatae Mariae Virginia, cum Kalendario]: Ces presentes heures a lusaige de Romme</dcterms:title>
+   <dcterms:creator>Bellew, G. (Gerald)</dcterms:creator>
+   <dcterms:creator>Pigouchet, Philippe, 15th/16th cent</dcterms:creator>
+   <dcterms:creator>Vostre, Simon, active 1488-1520</dcterms:creator>
+   <dcterms:publisher>Philippe Pigouchet, pour Simon Vostre</dcterms:publisher>
+   <dcterms:created>1502</dcterms:created>
+   <dcterms:extent>[92] l. illus. (metalcuts) 17 cm.</dcterms:extent>
+   <dcterms:medium>illustrations (metalcuts)</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>On vellum. Rubricated in gold, red and blue. Text surrounded by borders representing subjects taken from the Bible, hunting scenes &amp; a dance of death.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binding signed: G. Bellew, Bookbinder, Dublin. Bookplate: Antiquar iaat Menno Hertzberger, Amsterdam. Stone Typography Collection, from the library of Edward L. Stone, Printer of Roanoke.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:830824/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:817975</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:10 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>271938</dcterms:identifier>
+   <dcterms:title>Charles E. Beatley, Jr. Central Library, detail view</dcterms:title>
+   <dcterms:creator>Graves, Michael (American architect, born 1934) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2000</dcterms:created>
+   <dcterms:description>Entrance and portico</dcterms:description>
+   <dcterms:description>The 60,200 square foot building was designed by Pierce Goodwin Alexander &amp; Linville in association with Michael Graves, Architect. The library opened on January 31, 2000 and was named for Charles E. Beatley, Jr., Mayor of Alexandria from 1967 to 1976 and 1979 to 1985. -- http://www.waymarking.com/waymarks/WMQMQ_Charles_E_Beatley_Jr_Central_Library_Alexandria_VA The library has two primary facades, one forming the entrance from Pickett Street, and the other providing a public presence along Duke Street. The building is topped by a dozen roofs that recall the community’s roots in Old Town -- http://www.michaelgraves.com/architecture/project/charles-e-beatley-jr-central-library.html [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Postmodern</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>public libraries (buildings)</dcterms:subject>
+   <dcterms:subject>porticoes</dcterms:subject>
+   <dcterms:spatial>5005 Duke Street, Alexandria, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>N 38° 48.747, W 077° 07.073</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/11/17/15/706252a0-e3db-4b45-9bd5-00441170fffd_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_271938</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 11:53 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18720</dcterms:identifier>
+   <dcterms:title>Fredericksburg, Va. [July 22d] 184[9 Miss M.L. Hunter] Bought of Chester B. White, bookseller, stationer, and dealer in music and musical instruments: [bill head]</dcterms:title>
+   <dcterms:title>Bought of Chester B. White, bookseller</dcterms:title>
+   <dcterms:creator>White, Chester B.</dcterms:creator>
+   <dcterms:publisher>Murphy, Print.</dcterms:publisher>
+   <dcterms:created>1849</dcterms:created>
+   <dcterms:extent>1 broadside. illus. 13 x 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Bill head, with picture of White's bookstore.</dcterms:description>
+   <dcterms:description>From the Hunter Papers.</dcterms:description>
+   <dcterms:description>Bracketed information is handwritten.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>White's Book Store (Fredericksburg, Va.)</dcterms:subject>
+   <dcterms:subject>Booksellers and bookselling--Virginia--Fredericksburg.</dcterms:subject>
+   <dcterms:spatial>Fredericksburg.</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1512718/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18720</edm:isShownAt>
+</mdRecord>

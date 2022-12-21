@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 9:08 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1229362</dcterms:identifier>
+   <dcterms:title>Independence declared 1776: The union must be preserved / Designed and published by Joseph A. Arnold ; Thomas Moore's Lithography, Boston</dcterms:title>
+   <dcterms:creator>Albert H. Small Declaration of Independence Collection (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Arnold, Joseph A. (Joseph Alfred)</dcterms:creator>
+   <dcterms:creator>T. Moore's Lithography.</dcterms:creator>
+   <dcterms:publisher>Joseph A. Arnold</dcterms:publisher>
+   <dcterms:created>1839</dcterms:created>
+   <dcterms:extent>1 print</dcterms:extent>
+   <dcterms:extent>72 x 48 cm. [original]</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:medium>lithograph</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Portraits of the presidents through Van Buren at top of sheet, framed by title banners. Below is a view of the Battle of Bunker Hill, with Boston in the background. In the foreground is the "main subject being General Washington surrounded by one Representative from each of the thirteen States. The National Flag of 1776 (a Pine Tree, on a white field), is on the right whilst the present one is seen on the left hand." Columns (with portraits of Generals Warren &amp; Lafayette in the base) "represent New-England arising out of Old England, surmounted by Hope and Liberty."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Albert H. Small Declaration of Independence Collection. Deposit of Albert H. Small, July 14, 2003.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>United States.--Declaration of Independence</dcterms:subject>
+   <dcterms:subject>Presidents--United States--Portraits.</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Boston, Massachusetts, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1308636/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1229362</edm:isShownAt>
+</mdRecord>

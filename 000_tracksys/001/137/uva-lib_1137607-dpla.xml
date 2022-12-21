@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:34 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1137607</dcterms:identifier>
+   <dcterms:title>Overture to the opera Poet &amp; peasant = Dichter und Bauer / arranged by C.T. Brunner ; composed by F. von Suppé</dcterms:title>
+   <dcterms:title>Dichter und Bauer</dcterms:title>
+   <dcterms:title>Poet and peasant</dcterms:title>
+   <dcterms:title>Suppé, Franz von, 1819-1895. Dichter und Bauer. Ouvertüre; arr.</dcterms:title>
+   <dcterms:creator>Brunner, C. T. (Christian Traugott), 1792-1874</dcterms:creator>
+   <dcterms:creator>Gillingham, Edwin</dcterms:creator>
+   <dcterms:creator>Suppé, Franz von, 1819-1895</dcterms:creator>
+   <dcterms:publisher>G. André &amp; Co.</dcterms:publisher>
+   <dcterms:created>[1875..1879]</dcterms:created>
+   <dcterms:extent>17 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano (2)</dcterms:description>
+   <dcterms:description>For piano (4 hands).</dcterms:description>
+   <dcterms:description>At foot of title page: "Gillingham."</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music (4 hands), Arranged</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts--Piano score (4 hands)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1137608/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1137607</edm:isShownAt>
+</mdRecord>

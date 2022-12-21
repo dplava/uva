@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 9:06 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1196854</dcterms:identifier>
+   <dcterms:title>Middelbvrgvm, Selandiae Opp: sitv, opere, et mercimontiis, Florentiss</dcterms:title>
+   <dcterms:title>Middelburgum, Selandiae Opp: situ, opere et mercimoniis, Florentiss</dcterms:title>
+   <dcterms:creator>Hogenberg, Frans, approximately 1539-1590</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>[1574..1623]</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>32 x 35 cm. on sheet 40 x 52 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Latin text on verso has caption title "Middelbvrgvm" and Plate no. 28.</dcterms:description>
+   <dcterms:description>An engraving, presumably by Frans Hogenberg, which appeared as Plate 28 in Vol. 2 of an edition of: Civitates Orbis Terrarum van Georg Braun en Frans Hogenberg, a work in 6 parts published in Cologne between 1572 and 1623.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Gift of Eleanor Pearre Abbot in memory of Marshall Lingan Etchison, January 2011.</dcterms:description>
+   <dcterms:description>Scale not given.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Middelburg (Netherlands)--Aerial views--Early works to 1800.</dcterms:subject>
+   <dcterms:subject>Middelburg (Netherlands)--Maps--Early works to 1800.</dcterms:subject>
+   <dcterms:spatial>Middelburg (Netherlands)</dcterms:spatial>
+   <dcterms:spatial>Cologne, Germany</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1206428/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1196854</edm:isShownAt>
+</mdRecord>

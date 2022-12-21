@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 9:07 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1219811</dcterms:identifier>
+   <dcterms:title>Etats-Unis: Fac simile de quelques signatures de l'acte d'Indepéndance</dcterms:title>
+   <dcterms:title>Etats Unis</dcterms:title>
+   <dcterms:title>Fac simile de quelques signatures de l'acte d'Indépendance</dcterms:title>
+   <dcterms:title>Facsimile de quelques signatures de l'acte d'Indépendance</dcterms:title>
+   <dcterms:creator>Albert H. Small Declaration of Independence Collection (University of Virginia)</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>[1800..1899]</dcterms:created>
+   <dcterms:extent>1 sheet</dcterms:extent>
+   <dcterms:extent>Presumably a plate which has been removed from a book.</dcterms:extent>
+   <dcterms:extent>21 x 13 cm. [original]</dcterms:extent>
+   <dcterms:medium>facsimiles</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>"51" printed in upper right corner.</dcterms:description>
+   <dcterms:description>Includes facsimile signatures of 12 signers of the Declaration, including John Hancock, Th. Jefferson, Benja. Franklin and John Adams.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Albert H. Small Declaration of Independence Collection. Deposit of Albert H. Small, July 14, 2003.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>United States.--Declaration of Independence--Signers.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1225155/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219811</edm:isShownAt>
+</mdRecord>

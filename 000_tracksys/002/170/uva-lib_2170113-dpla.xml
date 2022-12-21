@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 11:08 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2170113</dcterms:identifier>
+   <dcterms:title>Mr. Jefferson's last letter</dcterms:title>
+   <dcterms:title>Jefferson, Thomas, 1743-1826. Letter to the Mayor of Washington. 1826</dcterms:title>
+   <dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+   <dcterms:creator>Washington (D.C.). Mayor.</dcterms:creator>
+   <dcterms:creator>Weightman, R. C.</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1826</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>26 x 17 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Dated: Monticello, June 24, 1826. The letter was written to the Mayor of Washington, D.C., in reply to an invitation to attend the Fourth of July celebration there.</dcterms:description>
+   <dcterms:description>Printed on silk; text within ornamental border.</dcterms:description>
+   <dcterms:description>Also published in 1826 under titles "Mr. Jefferson's letter to the Mayor of Washington" and "Thomas Jefferson's last letter."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library, American History Collection.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>United States.--Declaration of Independence</dcterms:subject>
+   <dcterms:subject>Fourth of July celebrations--Washington (D.C.)</dcterms:subject>
+   <dcterms:spatial>Washington (D.C.)</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2179966/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2170113</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:17 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8869866</dcterms:identifier>
+   <dcterms:title>United States Customs House and Court House, general view</dcterms:title>
+   <dcterms:title>Old Galveston Customhouse</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Young, Ammi B. (American architect, 1798-1874) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1979</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>"...a former home of custom house, post office, and court facilities for the United States District Court for the Eastern District of Texas, and later for the United States District Court for the Southern District of Texas. Completed in 1861, the structure is now leased by the General Services Administration to the Galveston Historical Foundation. The courthouse function was replaced in 1937 by the Galveston United States Post Office and Courthouse." -- http://en.wikipedia.org/wiki/United_States_Customs_House_and_Court_House_%28Galveston,_Texas,_1861%29 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Greek Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>courthouses</dcterms:subject>
+   <dcterms:subject>government office buildings</dcterms:subject>
+   <dcterms:subject>post offices</dcterms:subject>
+   <dcterms:subject>historical societies</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>balconies</dcterms:subject>
+   <dcterms:spatial>southeast corner 20th and Post Office (Ave. E) Streets, Galveston, Galveston Island, Texas, United States</dcterms:spatial>
+   <dcterms:spatial>29.305, -94.789722</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/03/04/14/074a824d-f44b-436b-8052-968f4479b016_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8869866</edm:isShownAt>
+</mdRecord>

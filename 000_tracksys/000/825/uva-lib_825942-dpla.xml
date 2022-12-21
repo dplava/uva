@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 3:01 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:825942</dcterms:identifier>
+   <dcterms:title>The border bandits, or The horse-thief's trail / [translated] by Francis Johnson</dcterms:title>
+   <dcterms:title>The border bandits</dcterms:title>
+   <dcterms:title>Gerstäcker, Friedrich, 1816-1872. Regulatoren in Arkansas. 13-25 Kapitel. English. 1870</dcterms:title>
+   <dcterms:creator>Gerstäcker, Friedrich, 1816-1872</dcterms:creator>
+   <dcterms:creator>Johnson, Francis, 1837-1908</dcterms:creator>
+   <dcterms:publisher>Beadle and Company</dcterms:publisher>
+   <dcterms:created>1870</dcterms:created>
+   <dcterms:extent>[5]-97 p.</dcterms:extent>
+   <dcterms:extent>22 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Series numbering also given as: Second series, no. 24.</dcterms:description>
+   <dcterms:description>Translation of: Die Regulatoren in Arkansas (chapters 13-25)</dcterms:description>
+   <dcterms:description>Translation completed with: Alapha, the squaw, or The renegades of the border (chapters 1-12) and Assowaum, the avenger, or The destroyer's doom (chapters 26-39)</dcterms:description>
+   <dcterms:description>At foot of wrapper title: Powers &amp; Brown Paper Co., Springfield.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Original pictorial orange wrappers.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Gift of C.W. Barrett.</dcterms:description>
+   <dcterms:isPartOf>American tales : complete series ; no. 68</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Dime novels</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:839827/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:825942</edm:isShownAt>
+</mdRecord>

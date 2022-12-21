@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 9:07 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1226469</dcterms:identifier>
+   <dcterms:title>[Works of James Branch Cabell]</dcterms:title>
+   <dcterms:creator>Cabell, James Branch, 1879-1958</dcterms:creator>
+   <dcterms:publisher>Robert M. McBride &amp; Company</dcterms:publisher>
+   <dcterms:created>1921/1927</dcterms:created>
+   <dcterms:extent>19 v. 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>[v. 1] Beyond life. (5th ed., 1924) -- [v. 2] Figures of earth (1925 on t.p.; c1921, 6th printing, 1925) -- [v. 3] The silver stallion (1st ed., 1926) -- [v. 4] Domnei (1923 on t.p.;Rev. ed., 1920; 3rd printing, Sept. 1923) -- [v. 5] Chivalry Rev. and enl. ed., Oct. 1921) -- [v. 6] Jurgen (1926 on t.p.; pub. 1919; 19th printing) -- [v. 7] The line of love 1926 (1926 on t.p.; pub. 1921; 3rd printing 1926)-- [v. 8] The high place (1924 on t.p.; pub. 1923; 4th printing) -- [v. 9] Gallantry (1924 ib t,p,; Rev. ed., pub. 1922, 2nd printing) -- [v. 10] Something about Eve (1927 on t.p.;pub. Sept. 1927, 2nd printing, Sept. 1927. Half-title "Kalki edition") -- [v. 11] The certain hour (1923 on p.t.; 3rd ed.) -- [v. 12] The cords of vanity (1927 on t.p.; pub. Sept. 1920; 5th printing, 1927. Half-title "Kalki edition") -- [v. 13] From the hidden way (1924 on t.p.; rev. version c1916; pub. 1924) -- [v. 14] The rivet in grandfather's neck (1925 on t.p.; pub. Oct. 1915; copyright 1921; 7th printing 1925) -- [v. 15] The eagle's shadow (1924 on t.p.; Rev. ed. pub. 1923; 2nd printing, March 1924) -- [v. 16] The cream of the jest (1926 on t.p.; pub. Sept. 1917; 8th printing, Nov. 1926) -- [v. 17] Straws and prayer-books (1924 on t.p.; 3rd ed., pub. 1924) -- [v. 18] The lineage of Lichfield (1922 on t.p.; Copy B of the limited edition) -- [v. 19] Taboo (1921 on t.p.; Copy 110 of the limited edition.</dcterms:description>
+   <dcterms:description>A group of Cabell's works as separately published by Robert McBride, put together as a set by the author for use as a proof copy in the preparation of the Storisende edition of his novels published by McBride in 1927. With Cabell's note on front free endpaper of Beyond life, "Property of James Branch Cabell. Embodies the first changes made for the Storisende edition."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: All volumes are bound in original maroon cloth. Pencilled manuscript changes throughout. Armorial bookplates of James Branch Cabell &amp; Anne Bland Munford in some volumes. A bookplate of Beverley Bland Munford, Mary-Cooke Branch, dated November 23rd 1893, with pencilled notation "Drawn by James Branch Cabell" in Vol. 13. Clifton Waller Barrett Library, James Branch Cabell Collection. Gift of C.W. Barrett.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: All volumes are bound in original maroon cloth. Pencilled manuscript changes throughout. Armorial bookplates of James Branch Cabell &amp; Anne Bland Munford in some volumes. A bookplate of Beverley Bland Munford, Mary-Cooke Branch, dated November 23rd 1893, with pencilled notation "Drawn by James Branch Cabell" in Vol. 13. Clifton Waller Barrett Library, James Branch Cabell Collection. Gift of C.W. Barrett.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Cabell, James Branch, 1879-1958--Library--Personal copy.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1305154/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1226469</edm:isShownAt>
+</mdRecord>

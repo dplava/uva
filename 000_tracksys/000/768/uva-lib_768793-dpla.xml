@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:59 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:768793</dcterms:identifier>
+   <dcterms:title>New rail road and county map of Alabama, Georgia, Sth. Carolina &amp; northern Florida / Cram's Illustrated Family Atlas of the World, Chicago, 1881 or 1882</dcterms:title>
+   <dcterms:title>New railroad and county map of Alabama, Georgia, South Carolina and northern Florida</dcterms:title>
+   <dcterms:creator>George F. Cram Company.</dcterms:creator>
+   <dcterms:publisher>George F. Cram Co.</dcterms:publisher>
+   <dcterms:created>1882</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>29 x 46. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief not shown.</dcterms:description>
+   <dcterms:description>Prime meridians Washington and Greenwich.</dcterms:description>
+   <dcterms:description>"Cram's Illustrated Family Atlas of the World Chicago 1881 or 1882" stamped in upper right margin.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:2,280,960]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Railroads--Southern States--Maps.</dcterms:subject>
+   <dcterms:subject>Railroads--Alabama--Maps.</dcterms:subject>
+   <dcterms:subject>Railroads--Georgia--Maps.</dcterms:subject>
+   <dcterms:subject>Railroads--South Carolina--Maps.</dcterms:subject>
+   <dcterms:subject>Railroads--Florida--Florida Panhandle--Maps.</dcterms:subject>
+   <dcterms:subject>Alabama--Administrative and political divisions--Maps.</dcterms:subject>
+   <dcterms:subject>Georgia--Administrative and political divisions--Maps.</dcterms:subject>
+   <dcterms:subject>South Carolina--Administrative and political divisions--Maps.</dcterms:subject>
+   <dcterms:subject>Florida Panhandle (Fla.)--Administrative and political divisions--Maps.</dcterms:subject>
+   <dcterms:subject>Southern States--Maps.</dcterms:subject>
+   <dcterms:spatial>Alabama</dcterms:spatial>
+   <dcterms:spatial>Florida</dcterms:spatial>
+   <dcterms:spatial>Florida Panhandle</dcterms:spatial>
+   <dcterms:spatial>Florida Panhandle (Fla.)</dcterms:spatial>
+   <dcterms:spatial>Georgia</dcterms:spatial>
+   <dcterms:spatial>South Carolina</dcterms:spatial>
+   <dcterms:spatial>Southern States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:793783/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:768793</edm:isShownAt>
+</mdRecord>

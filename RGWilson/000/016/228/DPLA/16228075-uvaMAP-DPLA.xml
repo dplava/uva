@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:18 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>16228075</dcterms:identifier>
+   <dcterms:title>Bedford Block, exterior|general view</dcterms:title>
+   <dcterms:title>Bedford Building</dcterms:title>
+   <dcterms:creator>Cummings and Sears (American architectural firm, 19th century) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1976</dcterms:created>
+   <dcterms:medium>New Brunswick red granite, Tuckahoen marble, pressed terracotta [work]</dcterms:medium>
+   <dcterms:description>Corner</dcterms:description>
+   <dcterms:description>... designed by Charles Amos Cummings and Willard T. Sears for Henry and Francis Lee as a retail shoe center in an area that had been destroyed by the Great Boston Fire of 1872. The building was added to the National Historic Register in 1979. Building was renovated in 1983 in conjunction with the Bay-Bedford Company. -- https://en.wikipedia.org/wiki/Bedford_Block [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>office buildings</dcterms:subject>
+   <dcterms:subject>renovation</dcterms:subject>
+   <dcterms:subject>piani nobili</dcterms:subject>
+   <dcterms:subject>polychromy</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:subject>streetscapes</dcterms:subject>
+   <dcterms:spatial>99 Bedford Street, Boston, Suffolk, Massachusetts, United States</dcterms:spatial>
+   <dcterms:spatial>42.353178, -71.058067</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2016/07/29/09/aa8aa980-1eff-4919-82e9-4eeafa632bc4_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_16228075</edm:isShownAt>
+</mdRecord>

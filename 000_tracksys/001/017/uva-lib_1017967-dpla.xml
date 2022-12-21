@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:36 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1017967</dcterms:identifier>
+   <dcterms:title>Les mimes, enseignemens et prouerbes de Ian Antoine de Baif</dcterms:title>
+   <dcterms:title>Continuation des mimes, enseignemens et prouerbes de I. Antoine de Baif</dcterms:title>
+   <dcterms:creator>Baïf, Jean-Antoine de, 1532-1589</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Patisson, Mamert, -1601 or 1602</dcterms:creator>
+   <dcterms:creator>Thouvenin, Joseph, 1791-1834</dcterms:creator>
+   <dcterms:publisher>Par Mamert Patisson Imprimeur du Roy, chez Rob. Estienne</dcterms:publisher>
+   <dcterms:created>1581</dcterms:created>
+   <dcterms:extent>108, [3], 56 leaves</dcterms:extent>
+   <dcterms:extent>14 cm. (12mo) [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Signatures: ã⁶ A-I¹² *³ A-D¹² E⁸.</dcterms:description>
+   <dcterms:description>Divisional title at leaf *1: Continuation des mimes, enseignemens et prouerbes de I. Antoine de Baif.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Thouvenin. "Ex musæo Caroli Nodier" in gilt on both covers. Bookplates of A. De Claye and of Dr. Desnos. Unidentified armorial bookplate, red leather, shield with anchor and three stars. Unidentified monogram bookplate. Handwritten note, "Marcel Benard, vente 5/14/25, no. 53." Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 156.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1032300/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1017967</edm:isShownAt>
+</mdRecord>

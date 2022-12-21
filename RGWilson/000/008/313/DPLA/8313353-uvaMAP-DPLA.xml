@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:17 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8313353</dcterms:identifier>
+   <dcterms:title>Greywalls, interior|detail view</dcterms:title>
+   <dcterms:creator>Lutyens, Edwin (English architect, 1869-1944) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1986</dcterms:created>
+   <dcterms:description>Library</dcterms:description>
+   <dcterms:description>...built in 1901 for Alfred Lyttelton, to designs by Sir Edwin Lutyens. It has been run as a hotel since 1948. The Hon. Alfred Lyttelton (1857–1913) served as a Member of Parliament from 1895 to 1913, holding office as Colonial Secretary from 1903 to 1905. Lutyens also laid out the gardens, possibly with the assistance of Gertrude Jekyll. -- http://en.wikipedia.org/wiki/Greywalls [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Edwardian</dcterms:description>
+   <dcterms:description>Arts and Crafts (movement)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>housing (concept)</dcterms:subject>
+   <dcterms:subject>hotels (public accommodations)</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>gardens</dcterms:subject>
+   <dcterms:subject>landscape architecture</dcterms:subject>
+   <dcterms:subject>Jekyll, Gertrude (English landscape architect and gardener, 1843-1932)</dcterms:subject>
+   <dcterms:subject>crown moldings</dcterms:subject>
+   <dcterms:subject>windows</dcterms:subject>
+   <dcterms:subject>panel doors</dcterms:subject>
+   <dcterms:subject>bookshelves</dcterms:subject>
+   <dcterms:subject>libraries (rooms)</dcterms:subject>
+   <dcterms:spatial>Muirfield, Gullane, East Lothian, Scotland, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>56.0422, -2.8194</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/01/28/14/8f0e6272-c72f-4f1c-b0be-60ee6c81271c_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8313353</edm:isShownAt>
+</mdRecord>

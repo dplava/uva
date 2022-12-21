@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:10 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1124447</dcterms:identifier>
+   <dcterms:title>Where the little feet are waiting, or, The golden stair / words by W. Dexter Smith, Jr. ; music by J.P. Webster</dcterms:title>
+   <dcterms:title>Golden stair</dcterms:title>
+   <dcterms:title>Put away the little dresses</dcterms:title>
+   <dcterms:creator>Kidder, Andrew Bradshaw, 1810-1881</dcterms:creator>
+   <dcterms:creator>Smith, Dexter, 1842?-1909</dcterms:creator>
+   <dcterms:creator>Utley, William L.</dcterms:creator>
+   <dcterms:creator>Webster, Joseph Philbrick, 1819-1875</dcterms:creator>
+   <dcterms:publisher>Oliver Ditson &amp; Co.</dcterms:publisher>
+   <dcterms:created>1866</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, mixed chorus (4), voice</dcterms:description>
+   <dcterms:description>For voice and piano; with chorus refrain (SATB).</dcterms:description>
+   <dcterms:description>At foot of title page: A.B. Kidder.</dcterms:description>
+   <dcterms:description>At head of title: "In remembrance of a true hearts' deepest sorrow, this little song, with sincere sympathy and respect, is dedicated to his very esteemed friend, Col. William L. Utley."</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: Choice musical publications.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
+   <dcterms:subject>Children--Death--Songs and music.</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901.</dcterms:subject>
+   <dcterms:temporal>To 1901.</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1124448/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124447</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 11:10 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2180959</dcterms:identifier>
+   <dcterms:title>Virginia State Navigation Lottery: Fifth class. [Tickets]</dcterms:title>
+   <dcterms:creator>Virginia State Navigation Lottery (Lynchburg, Va.)</dcterms:creator>
+   <dcterms:created>1827</dcterms:created>
+   <dcterms:extent>2 sheets. 27 x 14 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Tickets in two sheets, nos. 116-120 (First division), 19.311-19.315. (3rd Division) Signed : I. Anthony.</dcterms:description>
+   <dcterms:description>Aug. Leftwich, Manager.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Lotteries--Virginia--Lynchburg.</dcterms:subject>
+   <dcterms:spatial>Lynchburg.</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2187108/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2180959</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:19 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65894</dcterms:identifier>
+   <dcterms:title>A treatise of the laws of nature / By the Right Reverend Father in God, Richard Cumberland. Made English from the Latin by John Maxwell. To which is prefix'd, An introduction concerning the mistaken notions which the heathens had of the deity, and the defects in their morality, whence the usefulness of revelation may appear. At the end is subjoin'd, An appendix, containing two discourses, 1. Concerning the immateriality of thinking substance. 2. Concerning the obligation, promulgation, and observance, of the law nature, by the translator</dcterms:title>
+   <dcterms:title>Cumberland, Richard, 1631-1718. De legibus naturae disquisitio philosophica. English</dcterms:title>
+   <dcterms:creator>Cumberland, Richard, 1631-1718</dcterms:creator>
+   <dcterms:creator>Maxwell, John.</dcterms:creator>
+   <dcterms:publisher>Printed by R. Phillips</dcterms:publisher>
+   <dcterms:created>1727</dcterms:created>
+   <dcterms:extent>[28], clxviii, [1], 377, 167, [24], xxviii p. fold. plates. 26 cm.</dcterms:extent>
+   <dcterms:medium>plates</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"A philosophical inquiry into the laws of nature" and Appendix have separate title-pages and pagination.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Ethics</dcterms:subject>
+   <dcterms:subject>Christian ethics</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2396229/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65894</edm:isShownAt>
+</mdRecord>

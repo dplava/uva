@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:14 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2058577</dcterms:identifier>
+   <dcterms:title>Peirce-Nichols House, interior|general view</dcterms:title>
+   <dcterms:title>Jerathmiel Peirce House</dcterms:title>
+   <dcterms:creator>McIntire, Samuel (American architect and carver, 1757-1811) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1782</dcterms:created>
+   <dcterms:medium>wood (plant material); frame construction [work]</dcterms:medium>
+   <dcterms:description>Second floor hall and stairs</dcterms:description>
+   <dcterms:description>Samuel McIntire designed the Peirce-Nichols House (80 Federal Street), circa 1782, in a transitional late-Georgian/early Federal style for Jerathmiel Peirce, co-owner of the merchant ship Friendship. McIntire remodeled portions of the house in the Federal style twenty years later. -- http://en.wikipedia.org/wiki/Peirce-Nichols_House [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Georgian (British Renaissance-Baroque style)</dcterms:description>
+   <dcterms:description>Federal</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>Peabody Essex Museum (American repository, Salem, contemporary)</dcterms:subject>
+   <dcterms:subject>corridors</dcterms:subject>
+   <dcterms:subject>stairs</dcterms:subject>
+   <dcterms:spatial>80 Federal Street, Salem, Essex, Massachusetts, United States</dcterms:spatial>
+   <dcterms:spatial>42.522778, -70.9</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/01/18/16/77ecd27e-a127-41d4-ae1c-791822b1b258_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2058577</edm:isShownAt>
+</mdRecord>

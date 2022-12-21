@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:20 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>25039766</dcterms:identifier>
+   <dcterms:title>King Ranch Main House, interior|detail view</dcterms:title>
+   <dcterms:creator>Adams and Adams (American architectural firm, est. 1909) [work]</dcterms:creator>
+   <dcterms:creator>Tiffany Studios (American jewelry and glass manufactory, 1902-1932) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1997</dcterms:created>
+   <dcterms:extent>37,000 square feet [work]</dcterms:extent>
+   <dcterms:description>Grand Salon, painting of the Alamo over fireplace</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Mediterranean</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>agricultural complexes</dcterms:subject>
+   <dcterms:subject>ranches (agricultural complexes)</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>Alamo (San Antonio, Tex.)</dcterms:subject>
+   <dcterms:spatial>South Texas between Corpus Christi and Brownsville near Kingsville, Kingsville, Kleberg, Texas, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/06/05/19/fe2f3fca-c846-49b9-a8ab-7f4f105314f1_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_25039766</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:17 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8505341</dcterms:identifier>
+   <dcterms:title>Laura Gale House, exterior</dcterms:title>
+   <dcterms:title>Mrs. Thomas H. Gale House</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Wright, Frank Lloyd (American architect, 1867-1959) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1975</dcterms:created>
+   <dcterms:description>"Laura R. Gale, widow of realtor Thomas Gale, commissioned Frank Lloyd Wright to design the house on Elizabeth Court in 1909. This was not the first time that the Gale family utilized Wright. The architect had designed two houses on Chicago Avenue in Oak Park, two of Wright's "bootleg" houses, for the Gales.[3] The Gale House was designed during Wright's most productive Prairie style period and has been cited by architectural "authorities" as a milestone in the development of early modern architecture. The house was occupied by its original owner until 1962 when architect Howard Rosenwinkel purchased it and undertook a meticulous restoration. The house was designed by the American architect Frank Lloyd Wright in his own Prairie style. Through his use of abstract geometrical shapes in the detail and mass of the house Wright may have anticipated and inspired the modern European architects of the 1920s. The house is considered one of Wright's most unusual designs from his years in Oak Park, Illinois." -- http://en.wikipedia.org/wiki/Laura_Gale_House [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:subject>eaves</dcterms:subject>
+   <dcterms:subject>hip roofs</dcterms:subject>
+   <dcterms:subject>cantilevers</dcterms:subject>
+   <dcterms:spatial>6 Elizabeth Court, Oak Park, Cook, Illinois, United States</dcterms:spatial>
+   <dcterms:spatial>41.891667, -87.798889</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/02/11/13/77643155-047c-44f8-b2c0-651f745e12d2_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8505341</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:57 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:705770</dcterms:identifier>
+   <dcterms:title>Reconnaissance of the secession works at Yorktown, Va / made by Lieut. Abbot, Topl. Eng'rs., and at Gloucester, Va. made by Lieut. Comstock, Eng'rs., May 4, 1862 ; Julius Bien &amp; Co., Lith. N.Y.</dcterms:title>
+   <dcterms:title>Position of Yorktown with the approaches</dcterms:title>
+   <dcterms:title>Sketch exhibiting the position of Yorktown with the approaches</dcterms:title>
+   <dcterms:creator>Abbot, Henry L.</dcterms:creator>
+   <dcterms:creator>Comstock, C. B. (Cyrus Ballou), 1831-1910</dcterms:creator>
+   <dcterms:creator>Humphreys, A. A. (Andrew Atkinson), 1810-1883</dcterms:creator>
+   <dcterms:creator>Julius Bien &amp; Co.</dcterms:creator>
+   <dcterms:created>[1891..1895]</dcterms:created>
+   <dcterms:extent>4 maps on 1 sheet</dcterms:extent>
+   <dcterms:extent>41 x 69 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Map 1. Reconnaissance of the secession works at Yorktown, Va. -- Map 2. Sketch exhibiting the position of Yorktown with the approaches from reconnaissance and survey between the 5th and 10th of April 1862 / by command of Maj. Gen. Geo. B. McClellan, A.A. Humphreys, Maj. and Chief of Topl. Engineers (Report of Brig. Gen. W.F. Smith, U.S. Army, Series I, Vol. XI. Part 1, Page 365. (Scale ca. 1:120,000)) -- Map 3. Reconnaissance of Red Redoubt Group to right of Yorktown / made by Lieut. N.G. [i.e. N.J.] Hall. (Scale ca. 1:6,000) -- Map. 4. The position of Yorktown with the approaches : from reconnaissances and surveys made by command of Maj. Gen. Geo. B. McClellan / prepared under the direction of A.A. Humphreys ... April 21st 1862. (Scale ca. 1:40,000)</dcterms:description>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>Title describes Map 1only; others are listed in Contents.</dcterms:description>
+   <dcterms:description>At head of title of Map 1: For Gen. J.G. Barnard, Chief Engineer, Army of Potomac.</dcterms:description>
+   <dcterms:description>From: Atlas to accompany the Official Records of the Union and Confederate Armies 1861-1865, Plate XV.</dcterms:description>
+   <dcterms:description>Maps 1, 3 and 4 are identified as being part of "Series 1. Vol. XI. Part 1. Page 316."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Linen-backed.</dcterms:description>
+   <dcterms:description>Scale [1:6,000] (Yorktown)</dcterms:description>
+   <dcterms:description>Scale [1:7,200] (Gloucester)</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Fortification--Virginia--Yorktown--Maps.</dcterms:subject>
+   <dcterms:subject>Virginia--History--Civil War, 1861-1865--Maps.</dcterms:subject>
+   <dcterms:subject>Yorktown (Va.)--History--Maps.</dcterms:subject>
+   <dcterms:subject>Gloucester (Va.)--History--Maps.</dcterms:subject>
+   <dcterms:subject>Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Maps.</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>Gloucester (Va.)</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Yorktown</dcterms:spatial>
+   <dcterms:spatial>Yorktown (Va.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:711688/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:705770</edm:isShownAt>
+</mdRecord>

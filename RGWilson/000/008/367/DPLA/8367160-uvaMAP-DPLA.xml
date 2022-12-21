@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:17 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8367160</dcterms:identifier>
+   <dcterms:title>Hawkwood, exterior|general view</dcterms:title>
+   <dcterms:creator>Davis, Alexander Jackson (American architect and printmaker, 1803-1892) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1976</dcterms:created>
+   <dcterms:description>"...an Italianate-villa style country house near Gordonsville, Virginia. The house was designed by architect Alexander Jackson Davis of New York in 1851 for Richard Overton Morris of the locally prominent Morris family, and was completed in 1855. The house, which has also been described as in the Italian Villa style, is one of only two Davis designs in that style which have not been substantially altered.The house is constructed of stuccoed brick, dominated by a projecting two-story pavilion with one-story hipped-roof wings on either side. The south wing has an arcade on three sides, and features a picturesque three-story tower capped by a hipped roof. The main entry hall is octagonal. Interiors were sparsely detailed. Landscaping is informal, complementing the house and its hilltop site. A nearby overseer's house is complementary, in a wood-frame cottage style.The house was gutted by fire in 1982, which left the walls and tower standing. It was placed on the National Register of Historic Places on September 17, 1970. It is included in the Green Springs National Historic Landmark District, which encompasses much of the surrounding countryside." -- http://en.wikipedia.org/wiki/Hawkwood_%28Gordonsville,_Virginia%29 [work]</dcterms:description>
+   <dcterms:description>Hawkwood's walls and tower were spared in the fire and have since been stabilized and re-roofed. Complete restoration of the house is contemplated. -- http://www.nps.gov/nr/travel/journey/haw.htm [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Italianate (North American architecture styles )</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>stucco</dcterms:subject>
+   <dcterms:subject>building brick (clay products)</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:subject>arcades (structural assemblies)</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:subject>pavilions (building divisions)</dcterms:subject>
+   <dcterms:spatial>Green Springs, Louisa, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.015742, -78.194908</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/01/30/14/e1e806a3-1ad2-4f0c-b511-b1806560fcbe_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8367160</edm:isShownAt>
+</mdRecord>

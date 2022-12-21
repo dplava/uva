@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:57 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:730699</dcterms:identifier>
+   <dcterms:title>La manière de bien traduire dune langue en aultre: D'auantaige. De la punctuation de la langue. Francoyse. Plus. Des accent d'ycelle</dcterms:title>
+   <dcterms:creator>Bauzonnet-Trautz (Firm)</dcterms:creator>
+   <dcterms:creator>Dolet, Etienne, 1509-1546</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Loë, Jean de, active 1545-1560</dcterms:creator>
+   <dcterms:publisher>par Jehan Loe</dcterms:publisher>
+   <dcterms:created>[1542..1563]</dcterms:created>
+   <dcterms:extent>[39] p.</dcterms:extent>
+   <dcterms:extent>14 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: a-b⁸ c⁴.</dcterms:description>
+   <dcterms:description>First published: Lyon : Dolet, 1540.</dcterms:description>
+   <dcterms:description>An exact reimpression in gothic characters of the Dolet editions, according to Longeon.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Bauzonnet-Trautz. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 73.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Translating and interpreting</dcterms:subject>
+   <dcterms:subject>French language--Punctuation.</dcterms:subject>
+   <dcterms:subject>French language--Middle French, 1300-1600.</dcterms:subject>
+   <dcterms:subject>French language--Diacritics.</dcterms:subject>
+   <dcterms:temporal>Middle French, 1300-1600.</dcterms:temporal>
+   <dcterms:spatial>Antwerp, Belgium</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:738432/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730699</edm:isShownAt>
+</mdRecord>

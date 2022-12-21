@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:10 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>327081</dcterms:identifier>
+   <dcterms:title>Palladian Bridge, general view</dcterms:title>
+   <dcterms:creator>Allen, Ralph (English quarry owner and builder, 1694-1764) [work]</dcterms:creator>
+   <dcterms:creator>Jones, Richard (British architect, died ca. 1778) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1979</dcterms:created>
+   <dcterms:description>Bridge</dcterms:description>
+   <dcterms:description>Allen continually altered the landscape until his death in 1764 with the advice of Alexander Pope and Capability Brown. [work]</dcterms:description>
+   <dcterms:description>English</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Palladian</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>garden structures</dcterms:subject>
+   <dcterms:subject>landscape gardens</dcterms:subject>
+   <dcterms:subject>Picturesque, the</dcterms:subject>
+   <dcterms:subject>follies (architectural)</dcterms:subject>
+   <dcterms:subject>Pope, Alexander (English writer and garden designer, 1688-1744)</dcterms:subject>
+   <dcterms:subject>Brown, Capability (English landscape architect, 1716-1783)</dcterms:subject>
+   <dcterms:subject>Palladian</dcterms:subject>
+   <dcterms:subject>bridges</dcterms:subject>
+   <dcterms:subject>arch bridges</dcterms:subject>
+   <dcterms:subject>balustrades</dcterms:subject>
+   <dcterms:subject>Ionic order</dcterms:subject>
+   <dcterms:subject>ponds</dcterms:subject>
+   <dcterms:subject>engaged columns</dcterms:subject>
+   <dcterms:subject>keystones</dcterms:subject>
+   <dcterms:spatial>Ralph Allen Drive, Bath, Bath and Northeast Somerset, England, United Kingdom</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/02/09/09/4ccee026-9485-406f-a6a7-d675525a4f26_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_327081</edm:isShownAt>
+</mdRecord>

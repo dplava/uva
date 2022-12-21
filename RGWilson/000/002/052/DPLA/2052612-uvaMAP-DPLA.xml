@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:14 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2052612</dcterms:identifier>
+   <dcterms:title>Redwood Library and Athenaeum, exterior|general view</dcterms:title>
+   <dcterms:creator>Harrison, Peter (American architect, 1716-1775) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1980</dcterms:created>
+   <dcterms:description>Facade and statue of George Washington</dcterms:description>
+   <dcterms:description>The Redwood Library and Athenaeum is a subscription library, museum, rare book repository and research center founded in 1747.... Designed by Peter Harrison and completed in March 1750, [it] was the first purposely built library in the United States, and the oldest neo-Classical building in the country. It has been in continuous use since its opening. -- https://en.wikipedia.org/wiki/Redwood_Library_and_Athenaeum [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:description>Palladian</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>museums</dcterms:subject>
+   <dcterms:subject>research centers</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>porticoes</dcterms:subject>
+   <dcterms:subject>pediments</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>sculpture (visual works)</dcterms:subject>
+   <dcterms:subject>Washington, George (American president, 1732-1799)</dcterms:subject>
+   <dcterms:spatial>50 Bellevue Avenue, Newport, Rhode Island, United States</dcterms:spatial>
+   <dcterms:spatial>41.486544, -71.308296</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2021/05/20/18/ceb557f9-ff1c-45c3-80fd-6e660d0dfaa6_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2052612</edm:isShownAt>
+</mdRecord>

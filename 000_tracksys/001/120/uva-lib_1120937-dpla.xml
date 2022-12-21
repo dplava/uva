@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:02 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1120937</dcterms:identifier>
+   <dcterms:title>Last greeting = L'Adieu = L'addio / words by Beranger ; music by Schubert</dcterms:title>
+   <dcterms:title>Addio</dcterms:title>
+   <dcterms:title>Adieu</dcterms:title>
+   <dcterms:title>Adieu, 'tis love's last greeting</dcterms:title>
+   <dcterms:title>Mio ben ne vado in elelo</dcterms:title>
+   <dcterms:title>Voici l'instant suprème</dcterms:title>
+   <dcterms:title>Weyrach, August Heinrich von, b. 1788. Adieu. Polyglot</dcterms:title>
+   <dcterms:creator>Béranger, Pierre-Jean de, 1780-1857</dcterms:creator>
+   <dcterms:creator>Pearson</dcterms:creator>
+   <dcterms:creator>Weyrach, August Heinrich von, b. 1788</dcterms:creator>
+   <dcterms:publisher>J.R. Blodgett</dcterms:publisher>
+   <dcterms:created>[1864..1869]</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>"Pearson, Eng's"--Colophon.</dcterms:description>
+   <dcterms:description>English, French, and Italian words.</dcterms:description>
+   <dcterms:isPartOf>Blodgett's edition of the gems of German songs ; no. 2</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Béranger, Pierre-Jean de, 1780-1857--Musical settings.</dcterms:subject>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Farewells--Songs and music.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1120938/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1120937</edm:isShownAt>
+</mdRecord>

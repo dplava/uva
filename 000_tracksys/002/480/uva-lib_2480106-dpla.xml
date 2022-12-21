@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 11:47 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2480106</dcterms:identifier>
+   <dcterms:title>A Catalogue of the Library of the University of Virginia: arranged alphabetically under different heads, with the number and size of the volumes of each work and its edition specified. Also, a notice of such donations of books as have been made to the university</dcterms:title>
+   <dcterms:title>1828 Catalogue of the Library of the University of Virginia</dcterms:title>
+   <dcterms:title>Catalogue of the University of Virginia Library</dcterms:title>
+   <dcterms:creator>Home Library of the Garnetts of Elmwood (University of Virginia)</dcterms:creator>
+   <dcterms:creator>University of Virginia. Library.</dcterms:creator>
+   <dcterms:publisher>Published by Gilmer, Davis &amp; Co.</dcterms:publisher>
+   <dcterms:created>1828</dcterms:created>
+   <dcterms:extent>114 p. 21 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Commonly known as the 1828 catalogue of the Library of the University of Virginia.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: McGregor A 1828 .V579 L5: Tracy W. McGregor Library.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Z881 .V82 1828 Copy 1: Binder's label of Chas. W. Prufer, Staunton, Va. Wrappers lacking. Signature of John A.G. Davis on front pastedown. Pages with additions to the catalog in a contemporary hand (possibly Davis's?) are bound between the following pages: 74-75, 76-77, 78-79, 82-83. Gift of John B. Minor estate.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Z881 .V82 1828 Copy 2: Binder's label of J.P. Bell Company, Lynchburg, Va. Original blue wrappers (mutilated) bound in.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Z881 .V82 1828 Copy 4: Original brown wrappers; front wrapper mutilated and detached, back one lacking. Gift of Mrs. J. Clayton Mitchell.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Z881 .V82 1828 Copy 5: Original brown wrappers, slightly mutilated.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Z881 .V82 1828 Copy 6: Original brown wrappers, slightly mutilated, back wrapper detached.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Z881 .V82 1828b no.1: First of ten titles in volume with spine title "Pamphlets: Literary &amp; miscellaneous." From the Garnett Family Library of Elmwood, with scattered check marks next to entries and scattered handwritten lists of titles tipped in with red sealing wax. Gift of Mrs. J. Clayton Mitchell. Search by call number or keyword to retrieve all titles in the volume.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Z881 .V82 1828 Copy 1: Binder's label of Chas. W. Prufer, Staunton, Va. Wrappers lacking. Signature of John A.G. Davis on front pastedown. Pages with additions to the catalog in a contemporary hand (possibly Davis's?) are bound between the following pages: 74-75, 76-77, 78-79, 82-83. Gift of John B. Minor estate.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Z881 .V82 1828b no.1: First of ten titles in volume with spine title "Pamphlets: Literary &amp; miscellaneous." From the Garnett Family Library of Elmwood, with scattered check marks next to entries and scattered handwritten lists of titles tipped in with red sealing wax. Gift of Mrs. J. Clayton Mitchell. Search by call number or keyword to retrieve all titles in the volume.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Davis, John A. G. (John Anthony Gardner), 1801-1840--Library--Personal copy.</dcterms:subject>
+   <dcterms:subject>University of Virginia. Library--Catalogs.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2489054/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2480106</edm:isShownAt>
+</mdRecord>

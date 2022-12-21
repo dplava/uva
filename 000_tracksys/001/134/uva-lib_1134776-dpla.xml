@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:27 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1134776</dcterms:identifier>
+   <dcterms:title>The heart's spring-time = Herzens-Frühling / Friedr. V. Wickede ; English version by Nathan Haskell Dole</dcterms:title>
+   <dcterms:title>Heart, expand to inmost center</dcterms:title>
+   <dcterms:title>Herzens-Frühling</dcterms:title>
+   <dcterms:title>Thu' dich auf in deinen tiefen</dcterms:title>
+   <dcterms:title>Wickede, Friedr. V. Herzens-Frühling. English &amp; German</dcterms:title>
+   <dcterms:creator>Dole, Nathan Haskell, 1852-1935</dcterms:creator>
+   <dcterms:creator>Wickede, Friedr. V.</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1890</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, baritone voice</dcterms:description>
+   <dcterms:description>piano, mezzo-soprano voice</dcterms:description>
+   <dcterms:description>Mezzo-soprano or bar. in B♭.</dcterms:description>
+   <dcterms:description>For medium voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: "G. Schirmer's edition of song-albums."</dcterms:description>
+   <dcterms:description>German words with English translation.</dcterms:description>
+   <dcterms:isPartOf>German songs,2d series</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1134777/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1134776</edm:isShownAt>
+</mdRecord>

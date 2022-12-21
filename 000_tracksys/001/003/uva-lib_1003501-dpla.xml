@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:32 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003501</dcterms:identifier>
+   <dcterms:title>Map of the coal fields of southwest Virginia and eastern Kentucky / compiled by Scarborough and Dotson Civil &amp; Mining Engineers, Norton, Va</dcterms:title>
+   <dcterms:creator>Scarborough and Dotson Civil and Mining Engineers.</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1900</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>57 x 49 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief not shown.</dcterms:description>
+   <dcterms:description>Title is centered outside the neatline at top of sheet, with advertisements on either side.</dcterms:description>
+   <dcterms:description>Imperfect: Sheet has been trimmed to the border of the map on sides and bottom, with the advertisements that abut the title cut in half.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Linen-backed.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:190,080].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Coalfields--Virginia, Southwest--Maps.</dcterms:subject>
+   <dcterms:subject>Coalfields--Kentucky--Maps.</dcterms:subject>
+   <dcterms:subject>Virginia--Maps.</dcterms:subject>
+   <dcterms:subject>Kentucky--Maps.</dcterms:subject>
+   <dcterms:spatial>Kentucky</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Virginia, Southwest</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:897916/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003501</edm:isShownAt>
+</mdRecord>

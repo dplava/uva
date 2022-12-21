@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 8:14 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1126209</dcterms:identifier>
+   <dcterms:title>Calm me to rest = Ombre sainte que je révère, from Les vêpres siciliiennes : Ombra diletta / Giuseppe Verdi ; [English words by] Desmond Ryan</dcterms:title>
+   <dcterms:title>Ombre sainte que je révère</dcterms:title>
+   <dcterms:title>Shade of my mother</dcterms:title>
+   <dcterms:title>Verdi, Giuseppe, 1813-1901. Vêpres siciliennes. Ombra diletta. English &amp; Italian</dcterms:title>
+   <dcterms:creator>French, William, 1815-1898</dcterms:creator>
+   <dcterms:creator>Gillingham, Edwin</dcterms:creator>
+   <dcterms:creator>Ryan, Desmond L. (Desmond Lumley), 1851-1888</dcterms:creator>
+   <dcterms:creator>Verdi, Giuseppe, 1813-1901</dcterms:creator>
+   <dcterms:publisher>George Willig</dcterms:publisher>
+   <dcterms:created>[1859..1862]</dcterms:created>
+   <dcterms:extent>1 vocal score (5 p.)</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>"French"--Colophon.</dcterms:description>
+   <dcterms:description>At foot of title page engraving: "Gillingham."</dcterms:description>
+   <dcterms:isPartOf>Beauties from Italian operas ; no. 19</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1126210/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1126209</edm:isShownAt>
+</mdRecord>

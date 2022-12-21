@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:21 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>27999239</dcterms:identifier>
+   <dcterms:title>Clandon Park House, interior|general view</dcterms:title>
+   <dcterms:creator>Brown, Capability (English landscape architect, 1716-1783) [work]</dcterms:creator>
+   <dcterms:creator>Leoni, Giacomo (Italian architect, ca.1686-1746) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1992</dcterms:created>
+   <dcterms:description>Hall</dcterms:description>
+   <dcterms:description>gardens by Capability Brown, 1776-1781. [work]</dcterms:description>
+   <dcterms:description>The house was badly damaged by fire in April 2015, probably caused by an electrical fault in the basement, leaving it "essentially a shell", with only one room, the Speaker's Parlour, intact. Thousands of historic artefacts, paintings, and items of furniture were lost in what has been described as a national tragedy. [5] In January 2016, the National Trust announced that some of the principal rooms on the ground floor would be fully restored to the original 18th-century designs, and upper floors will be used for exhibitions and events. -- https://en.wikipedia.org/wiki/Clandon_Park_House [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Italian</dcterms:description>
+   <dcterms:description>Palladian</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>halls (interior spaces)</dcterms:subject>
+   <dcterms:spatial>West Clandon, Surrey, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>51.25046, -0.50836</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/03/25/16/95327b8e-7096-4a50-8678-db6d5e4ce9e8_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_27999239</edm:isShownAt>
+</mdRecord>

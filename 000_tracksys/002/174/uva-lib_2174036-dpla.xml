@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 11:09 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2174036</dcterms:identifier>
+   <dcterms:title>The Southern opinion's Prize poems</dcterms:title>
+   <dcterms:title>Prize poems</dcterms:title>
+   <dcterms:creator>Pollard, H. Rives.</dcterms:creator>
+   <dcterms:publisher>H. Rives Pollard</dcterms:publisher>
+   <dcterms:created>1866</dcterms:created>
+   <dcterms:extent>1 sheet ([2] p.)</dcterms:extent>
+   <dcterms:extent>30 x 24 cm. [original]</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Prize poem to the Confederate dead (Unanimously awarded by the Committee of the Hollywood Memorial Association, to whom were referred all poems on this subject.) Twilight at Hollywood / I.R. (i.e. Innis Randolph) -- Prize poem in laudation of the deeds, valour, sufferings and sacrifices of the Confederate soldiers. (Awarded to Paul H. Hayne, Esq., of South Carolina, by the Committee to whom were referred all poems on this subject) [Untitled] -- Prospectus of the newspaper, The Southern opinion, by H. Rives Pollard, Editor and proprietor</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Inscr. "Coln. T.J. Randolph." Gift of Miss Olivia Taylor to the Tracy W. McGregor Library.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Hollywood Cemetery (Richmond, Va.)--Poetry.</dcterms:subject>
+   <dcterms:subject>Southern opinion (Richmond, Va.)</dcterms:subject>
+   <dcterms:subject>Confederate States of America--Poetry.</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Poetry.</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>Confederate States of America</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2186870/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174036</edm:isShownAt>
+</mdRecord>

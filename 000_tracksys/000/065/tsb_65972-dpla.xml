@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:21 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65972</dcterms:identifier>
+   <dcterms:title>Apxaionomia: sive De priscis Anglorum legibus libri, sermone anglico, vetustate antiquissimo, aliquot abhinc seculis conscripti, atq; nunc demum, magno iurisperitorum, &amp; amantium antiquitatis omnium commodo,è tenebris in lucem vocati / Gulielmo Lambardo interprete. Regum qui has leges scripserunt nomenclationem, et quid præterea accesserit, altera monstrabit pagina</dcterms:title>
+   <dcterms:title>Great Britain. Laws, etc</dcterms:title>
+   <dcterms:creator>Great Britain.</dcterms:creator>
+   <dcterms:creator>Lambarde, William, 1536-1601</dcterms:creator>
+   <dcterms:creator>Nowell, Laurence, 1530-approximately 1570</dcterms:creator>
+   <dcterms:publisher>ex officina Joannis Daij</dcterms:publisher>
+   <dcterms:created>1568</dcterms:created>
+   <dcterms:extent>17 p. l., [1], 140 numb. l., [6] p. map. 20 cm.</dcterms:extent>
+   <dcterms:medium>map</dcterms:medium>
+   <dcterms:language>English, Old (ca. 450-1100)</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Leges Inæ regis.--Legis Aluredi regis.--Fœdus Aluredi, &amp; Guthruni regum.--Leges Edouardi regis.--Fœdus Edouardi &amp; Guthruni, regum.--Leges Æthelstani regis.--Leges Edmundi regis.--Leges Edgari regis.--Leges Ethelredi regis.--Senatusconsultum de Monticolis VValliæ.--Legis Canuti regis.--Leges Gulielmi regis.--Leges boni regis Edouardi, quas Gulielmus Bastardus postea confirmault.</dcterms:description>
+   <dcterms:description>T.-p. mutilated.</dcterms:description>
+   <dcterms:description>Title within ornamental border; initials; head and tail pieces.</dcterms:description>
+   <dcterms:description>Irregularities in foliation: leaf 85 repeated, leaf 87 omitted in numbering; leaves 74, 75 and 112 incorrectly numbered 72, 74, and 121, respectively.</dcterms:description>
+   <dcterms:description>First word in title transliterated from original Greek.</dcterms:description>
+   <dcterms:description>At foot of t.-p.: Cvm gratia et privilegio Regiæ Maiestatis per decemnium.</dcterms:description>
+   <dcterms:description>"This collection was originally made by Lawrance Nowell, who going abroad in 1657 [i. e. 1557?], left it to Lambarde to translate and publish."--Clarke, Bibliotheca legum.</dcterms:description>
+   <dcterms:description>The laws from Ina to Canute, inclusive, are in Anglo-Saxon and Latin on opposite pages.</dcterms:description>
+   <dcterms:description>STC 15142.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Law, Anglo-Saxon</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2442651/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65972</edm:isShownAt>
+</mdRecord>

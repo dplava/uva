@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:30 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:611515</dcterms:identifier>
+   <dcterms:title>La theologie naturelle de Raymond Sebon / traduicte nouuellement en françois par messire Michel, Seigneur de Montaigne, Cheualier de l'ordre du Roy, &amp; gentil-homme ordinaire de sa chambre</dcterms:title>
+   <dcterms:title>Liure des creatures</dcterms:title>
+   <dcterms:title>Raymond, of Sabunde, -1436. Theologia naturalis. French</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Montaigne, Michel de, 1533-1592</dcterms:creator>
+   <dcterms:creator>Raymond of Sabunde, -1436</dcterms:creator>
+   <dcterms:creator>Sonnius, Michel, active 1564-1588</dcterms:creator>
+   <dcterms:publisher>Chez Michel Sonnius, demeurant à l'Escu de Basle, ruë sainct Iaques</dcterms:publisher>
+   <dcterms:created>1581</dcterms:created>
+   <dcterms:extent>[2], 469 (i.e. 496), [30] leaves</dcterms:extent>
+   <dcterms:extent>19 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>"Ledict liure des Creatures acheué d'imprimeur le 22. iour de Septembre 1581. par ledict Gourbin, Michel Sonnius, &amp; Guillaume Chaudiere, libraires de ceste ville de Paris, suyuant leur association."--Leaf [a]2, verso.</dcterms:description>
+   <dcterms:description>Translation of: Theologia naturalis siue Liber creaturarum.</dcterms:description>
+   <dcterms:description>Running title: Liure des creatures.</dcterms:description>
+   <dcterms:description>Signatures: [a]² b-z⁸ A-Xx⁸ (leaves Xx7-8 are blank)</dcterms:description>
+   <dcterms:description>Error in foliation: leaf 496 incorrectly numbered 469.</dcterms:description>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Bookplate of Hypte. de Montcalm. Unidentified monogram bookplate. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 186.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Natural theology</dcterms:subject>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:611529/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:611515</edm:isShownAt>
+</mdRecord>

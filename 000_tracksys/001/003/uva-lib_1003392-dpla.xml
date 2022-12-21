@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003392</dcterms:identifier>
+   <dcterms:title>Map of the Douthat Survey: containing 102,000 acres situated in the counties of Bath and Alleghany, Va / surveyed under order of the U.S. Circuit Court for the Western District of Va. by M.A. Miller, C.E., Staunton, Va., 1877</dcterms:title>
+   <dcterms:title>Douthat Survey</dcterms:title>
+   <dcterms:creator>Julius Bien &amp; Co.</dcterms:creator>
+   <dcterms:creator>Miller, M. A.</dcterms:creator>
+   <dcterms:creator>United States. Circuit Court (Virginia : Western District)</dcterms:creator>
+   <dcterms:publisher>M.A. Miller?</dcterms:publisher>
+   <dcterms:created>1877</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>118 x 48 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: With many marginal tears and fold separations. From the Papers of the Anderson Family, MSS 38-96.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:63,360]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Real property--Virginia--Bath County--Maps.</dcterms:subject>
+   <dcterms:subject>Real property--Virginia--Alleghany County--Maps.</dcterms:subject>
+   <dcterms:subject>Bath County (Va.)--Maps.</dcterms:subject>
+   <dcterms:subject>Alleghany County (Va.)--Maps.</dcterms:subject>
+   <dcterms:spatial>Alleghany County</dcterms:spatial>
+   <dcterms:spatial>Alleghany County (Va.)</dcterms:spatial>
+   <dcterms:spatial>Bath County</dcterms:spatial>
+   <dcterms:spatial>Bath County (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Staunton, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:892975/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003392</edm:isShownAt>
+</mdRecord>

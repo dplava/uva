@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 7:59 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1119168</dcterms:identifier>
+   <dcterms:title>Song of heaven / words by Mrs. Ellen H. Gates ; music by Phillip Phillips</dcterms:title>
+   <dcterms:title>I will sing you a song</dcterms:title>
+   <dcterms:creator>Ernst, Thomas J., approximately 1829-</dcterms:creator>
+   <dcterms:creator>Gates, Ellen M. H. (Ellen Maria Huntington), 1835-1920</dcterms:creator>
+   <dcterms:creator>Phillips, Philip, 1834-1895</dcterms:creator>
+   <dcterms:creator>Simpson, Matthew, 1811-1884</dcterms:creator>
+   <dcterms:publisher>John Church Jr.</dcterms:publisher>
+   <dcterms:created>1866</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>At foot of t.p.: "Ernst".</dcterms:description>
+   <dcterms:description>At head of t.p.: "Respectfully dedicated to Rev. Bishop Simpson".</dcterms:description>
+   <dcterms:description>"As sung by Mr. Phillips, after the address of Bishop Simpson at the farewell anniversary excercises of the Christian Commission, in the Hall of Representatives of Washington DC Feb 11th 1866"--Caption.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1119169/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1119168</edm:isShownAt>
+</mdRecord>

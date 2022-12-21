@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:15 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2759531</dcterms:identifier>
+   <dcterms:title>TCL Chinese Theatre, exterior</dcterms:title>
+   <dcterms:title>Grauman's Chinese Theatre</dcterms:title>
+   <dcterms:title>Mann's Chinese Theatre</dcterms:title>
+   <dcterms:creator>Holler, Philip, W. (American architect , 1869-1942) [work]</dcterms:creator>
+   <dcterms:creator>Meyer, Gabriel S. (American architect , 1874-1955) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1994</dcterms:created>
+   <dcterms:description>Facade street view</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Modern (styles and periods)</dcterms:description>
+   <dcterms:description>Chinoiserie</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>performing arts buildings</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>canopies (structural elements)</dcterms:subject>
+   <dcterms:subject>pinnacles</dcterms:subject>
+   <dcterms:spatial>6925 Hollywood Boulevard, Hollywood, Los Angeles, California, United States</dcterms:spatial>
+   <dcterms:spatial>34.101944, -118.340972</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/06/03/14/4d4dd65a-5fdb-489d-a932-0014e0f786ce_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2759531</edm:isShownAt>
+</mdRecord>

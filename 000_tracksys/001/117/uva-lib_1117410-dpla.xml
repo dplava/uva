@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 7:57 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1117410</dcterms:identifier>
+   <dcterms:title>America: or An exact description of the West-Indies: more especially of those provinces which are under the dominion of the King of Spain / Collected and faithfully reported out of good Authors, both forein and domestick, by N.N.</dcterms:title>
+   <dcterms:title>America</dcterms:title>
+   <dcterms:title>Exact description of the West-Indies</dcterms:title>
+   <dcterms:creator>N. N.</dcterms:creator>
+   <dcterms:creator>Peake, Thomas.</dcterms:creator>
+   <dcterms:publisher>Printed by Ric. Hodgkinsonne for Edw. Dod ...</dcterms:publisher>
+   <dcterms:created>1655</dcterms:created>
+   <dcterms:extent>[14], 484, [2] p., [1] folded leaf of plates</dcterms:extent>
+   <dcterms:extent>15 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:medium>map</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Entered in the Stationers Register, July 6, 1655, by Thomas Peake. Cf. Sabin, 102816.</dcterms:description>
+   <dcterms:description>Pt. 2 has special title: "America: the second part. Containing the topographicall description of the several provinces, both of the northern and southern part: with some other observations incident thereunto: by N.N. Printed by R. Hodgkinsonne for E. Dod."</dcterms:description>
+   <dcterms:description>The first part includes the discovery of America by Columbus and Vespucius, with "some particular adventures made by the English into the parts of America." "Apparently written with the view of instigating the English to the conquest of the Spanish dominions in America"--Rich, Catalogue, 1832, p. 80.</dcterms:description>
+   <dcterms:description>For another issue (edition?) with the authorship statement beginning "Faithfully represented ..." instead of "Collected and faithfully reported ..." see DLC record 05-20881 (OCLC 5362352)</dcterms:description>
+   <dcterms:description>Signatures: A²⁻⁸B-Hh⁸Ii⁴ (Ii4 is blank)</dcterms:description>
+   <dcterms:description>Title within ornamental border; ornament on t.p.; initials; head-pieces; tail-piece.</dcterms:description>
+   <dcterms:description>Errata on p. [1] at end.</dcterms:description>
+   <dcterms:description>Advertisements on p. [2] at end.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binding: blue polished calf, gilt; all edges gilt, by Zaehnsdorf for H. Stevens. Gilt leather booklabels of Frank C. Deering and Paul Mellon. Paul Mellon bequest, May 12, 2000.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Blue polished calf, gilt; all edges gilt. Armorial leather bookplate of Frank C. Deering. Paul Mellon bequest, May 12, 2000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Mellon, Paul--Library--Personal copy.</dcterms:subject>
+   <dcterms:subject>America--Description and travel.</dcterms:subject>
+   <dcterms:subject>Latin America--Description and travel.</dcterms:subject>
+   <dcterms:spatial>America</dcterms:spatial>
+   <dcterms:spatial>Latin America</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1176081/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1117410</edm:isShownAt>
+</mdRecord>

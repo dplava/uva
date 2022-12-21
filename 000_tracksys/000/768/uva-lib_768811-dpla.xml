@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:59 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:768811</dcterms:identifier>
+   <dcterms:title>Map of the bottom lands of the state of Mississippi</dcterms:title>
+   <dcterms:title>Map of the bottomlands of the state of Mississippi</dcterms:title>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1870</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>163 x 96 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief not shown.</dcterms:description>
+   <dcterms:description>Map, printed on a range/township grid, shows the area between Warren and Coahoma counties on the west and Panola and Madison counties on the east. Does not include the counties of Leflore (created 1871), Sharkey (created 1876), Quitman (formed 1877) or Humphries (formed 1918).</dcterms:description>
+   <dcterms:description>Township numbers (reading top to bottom) 27-7 in right margin, Range numbers IX West to III East in lower margin.</dcterms:description>
+   <dcterms:description>Scale not given.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Alluvial plains--Mississippi--Maps.</dcterms:subject>
+   <dcterms:subject>Delta (Miss. : Region)--Maps.</dcterms:subject>
+   <dcterms:subject>Mississippi River--Alluvial plain--Maps.</dcterms:subject>
+   <dcterms:subject>Mississippi--Maps.</dcterms:subject>
+   <dcterms:spatial>Delta (Miss. : Region)</dcterms:spatial>
+   <dcterms:spatial>Mississippi</dcterms:spatial>
+   <dcterms:spatial>Mississippi River</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:793811/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:768811</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:11 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>659492</dcterms:identifier>
+   <dcterms:title>Wingspread, exterior</dcterms:title>
+   <dcterms:title>Herbert F. Johnson House</dcterms:title>
+   <dcterms:creator>Lautner, John E. (American architect, 1911-1994) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Wright, Frank Lloyd (American architect, 1867-1959) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1978</dcterms:created>
+   <dcterms:medium>construction (assembling); brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Bedroom wing</dcterms:description>
+   <dcterms:description>Wingspread, also known as the Herbert F. Johnson House, is a house designed by architect Frank Lloyd Wright for Herbert Fisk Johnson, Jr. and built in 1938-1939 in the village of Wind Point near Racine, Wisconsin. Its construction was overseen by a young John Lautner. Wingspread is no longer a residence; it was donated by Johnson and his wife to The Johnson Foundation in 1959 as an international educational conference facility. -- http://en.wikipedia.org/wiki/Wingspread [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>convention centers</dcterms:subject>
+   <dcterms:subject>educational complexes</dcterms:subject>
+   <dcterms:subject>wings (building divisions)</dcterms:subject>
+   <dcterms:subject>gable roofs</dcterms:subject>
+   <dcterms:subject>porches</dcterms:subject>
+   <dcterms:spatial>33 East Four Mile Road, Racine, Wisconsin, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/08/01/11/da36c778-f453-4534-90ba-2eed2e8250a1_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_659492</edm:isShownAt>
+</mdRecord>

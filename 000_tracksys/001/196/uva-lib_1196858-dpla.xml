@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 9:06 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1196858</dcterms:identifier>
+   <dcterms:title>Petersburg, Camp Lee and vicinity / compiled by Childrey Company, Richmond, Virginia</dcterms:title>
+   <dcterms:creator>Childrey Company.</dcterms:creator>
+   <dcterms:publisher>Childrey Company</dcterms:publisher>
+   <dcterms:created>1917</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>28 x 45 cm. folded into paper covers 16 x 9 cm. [original]</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Cover title.</dcterms:description>
+   <dcterms:description>"October, 1917" -- Map.</dcterms:description>
+   <dcterms:description>Legend: County roads; Confederate lines; Confederate forts; Federal lines; Federal forts; Confederate occupation; Federal occupation; Between lines.</dcterms:description>
+   <dcterms:description>Contains two text passages, the one on the left describing the siege of Petersburg and the one on the right detailing the construction of Camp Lee, beginning June 9th, 1917.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 1-2: Robert and Virginia Tunstall Trust Fund, 2002/2003, 2011/2012.</dcterms:description>
+   <dcterms:description>Scale ca. 1:42,240</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>World War, 1914-1918--Virginia.</dcterms:subject>
+   <dcterms:subject>Petersburg (Va.)--Maps.</dcterms:subject>
+   <dcterms:subject>Camp Lee (Va.)--Maps.</dcterms:subject>
+   <dcterms:subject>Camp Lee (Va.)--History.</dcterms:subject>
+   <dcterms:subject>Petersburg (Va.)--History--Siege, 1864-1865--Maps.</dcterms:subject>
+   <dcterms:temporal>Siege, 1864-1865</dcterms:temporal>
+   <dcterms:spatial>Camp Lee (Va.)</dcterms:spatial>
+   <dcterms:spatial>Petersburg (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1205369/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1196858</edm:isShownAt>
+</mdRecord>

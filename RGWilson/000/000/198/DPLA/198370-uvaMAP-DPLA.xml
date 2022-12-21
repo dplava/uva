@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:09 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>198370</dcterms:identifier>
+   <dcterms:title>Santa Barbara Royal Presidio, exterior|detail view</dcterms:title>
+   <dcterms:title>El Presidio Real de Santa Bárbara</dcterms:title>
+   <dcterms:creator>Ortega, Jose Francisco de (Mexican soldier and civil servant, 1734-1798) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1982</dcterms:created>
+   <dcterms:medium>adobe (material) [work]</dcterms:medium>
+   <dcterms:description>Wooden post and beam, loggia</dcterms:description>
+   <dcterms:description>Spanish</dcterms:description>
+   <dcterms:description>Spanish Colonial</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>colonial settlements</dcterms:subject>
+   <dcterms:subject>loggias</dcterms:subject>
+   <dcterms:subject>post-and-beam structures</dcterms:subject>
+   <dcterms:subject>roofing tile</dcterms:subject>
+   <dcterms:spatial>Santa Barbara, California, United States</dcterms:spatial>
+   <dcterms:spatial>34.422567, -119.6971</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/07/29/19/ab116361-28a5-4a59-891a-3e8c1f904140_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_198370</edm:isShownAt>
+</mdRecord>

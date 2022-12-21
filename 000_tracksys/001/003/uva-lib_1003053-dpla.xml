@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:29 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1003053</dcterms:identifier>
+   <dcterms:title>The black riders and other lines: [cover designs, trial covers, prospectus]</dcterms:title>
+   <dcterms:creator>Crane, Stephen, 1871-1900</dcterms:creator>
+   <dcterms:publisher>Copeland and Day</dcterms:publisher>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>3 folders in slip case.</dcterms:extent>
+   <dcterms:extent>32 cm. [original]</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Folder 1) 4 drawings for cover designs -- Folder 2) 10 proofs (on paper) for the cover, with design as published, in a variety of shades of grey and tan, also one in pale blue and some in olive green. Portrait of Crane -- Folder 3) Prospectus (as published). Prospectus with "Ordered 500 / 50 in Mar '95" written at top in green ink. Two proof copies of p. [1] of the prospectus. Six proof copies of p. [2] of the prospectus. One proof copy of text leaf, beginning "IX I stood upon a high place ... " One trial cover (?) with title printed in white on black paper.</dcterms:description>
+   <dcterms:description>See related correspondence in the Papers of Stephen Crane, MSS 5505.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Clifton Waller Barrett Library, Stephen Crane Collection. Gift of C. Waller Barrett.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Crane, Stephen, 1871-1900--Black riders and other lines</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:902817/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003053</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-20 at 3:28 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66218</dcterms:identifier>
+   <dcterms:title>Doctor and student: or, Dialogues between a doctor of divinity and a student in the laws of England / containing the grounds of those laws, together with questions and cases concerning the equity thereof. To which are now first added, Two pieces concerning suits in Chancery by subpoena. I.A replication of a serjeant at the laws of England, to certain points alledged by a student of the said laws of England, in a dialogue in English between a doctor of divinity and the said student. II. A little treatise concerning writs of subpoena</dcterms:title>
+   <dcterms:creator>Muchall, William</dcterms:creator>
+   <dcterms:creator>Saint German, Christopher, 1460?-1540</dcterms:creator>
+   <dcterms:publisher>Printed for S. Sweet</dcterms:publisher>
+   <dcterms:created>1815</dcterms:created>
+   <dcterms:extent>xii, [4], 345, [17], 47 p. 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>18th ed.,</dcterms:description>
+   <dcterms:description>"Two pieces concerning suits in Chancery by subpoena ... are printed from a manuscript in the Cottonian library at the British museum. See Cott. mss. Cleopatra, A. 15 ... Both of the pieces were clearly written in the reign of Henry the 8th ..."-p. [1] following index.</dcterms:description>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Law--Great Britain.</dcterms:subject>
+   <dcterms:spatial>Great Britain.</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2587624/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66218</edm:isShownAt>
+</mdRecord>

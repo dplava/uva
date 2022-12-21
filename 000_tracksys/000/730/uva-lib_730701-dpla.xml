@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2022-12-21 at 2:57 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:730701</dcterms:identifier>
+   <dcterms:title>Aduertissement sur les iugemens d'astrologie, a vne studieuse damoyselle</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Petit, R.</dcterms:creator>
+   <dcterms:creator>Saint-Gelais, Mellin de, 1491-1558</dcterms:creator>
+   <dcterms:creator>Tournes, Jean de, 1504-1564</dcterms:creator>
+   <dcterms:publisher>Par Iean de Tournes</dcterms:publisher>
+   <dcterms:created>1546</dcterms:created>
+   <dcterms:extent>40, [2] p.</dcterms:extent>
+   <dcterms:extent>16 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: a-b⁸ c⁶.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Petit. Bookplate of Blanchemain. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 137.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Astrology</dcterms:subject>
+   <dcterms:spatial>Lyon, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:734936/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730701</edm:isShownAt>
+</mdRecord>

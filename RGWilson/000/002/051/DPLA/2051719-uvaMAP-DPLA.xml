@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:13 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2051719</dcterms:identifier>
+   <dcterms:title>Salk Institute for Biological Studies, exterior|general view</dcterms:title>
+   <dcterms:creator>Kahn, Louis Isidore (Russian-American architect and city planner, 1901-1974) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1959..1965]</dcterms:created>
+   <dcterms:medium>reinforced concrete; teak [work]</dcterms:medium>
+   <dcterms:description>North side court</dcterms:description>
+   <dcterms:description>The institute is housed in a complex designed by the firm of Louis Kahn. Jack MacAllister, FAIA, of the Kahn firm was the supervising architect and a major design influence on the structure that consists of two symmetric buildings with a stream of water flowing in the middle travertine-paved central plaza that separates the two. -- http://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Mid-Century Modernist</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>research laboratories</dcterms:subject>
+   <dcterms:subject>complexes</dcterms:subject>
+   <dcterms:subject>courtyards</dcterms:subject>
+   <dcterms:spatial>10010 N Torrey Pines Road, La Jolla, San Diego, California, United States</dcterms:spatial>
+   <dcterms:spatial>32.887052, -117.246035</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2021/12/17/19/5c68da9f-9046-4701-8b36-12bb3a859fcc_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2051719</edm:isShownAt>
+</mdRecord>

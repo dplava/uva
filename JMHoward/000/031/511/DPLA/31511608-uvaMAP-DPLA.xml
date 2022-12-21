@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-15 at 7:47 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>31511608</dcterms:identifier>
+   <dcterms:title>University of Virginia's College at Wise, exterior|general view</dcterms:title>
+   <dcterms:title>Clinch Valley College of the University of Virginia</dcterms:title>
+   <dcterms:title>UVA Wise</dcterms:title>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1990</dcterms:created>
+   <dcterms:description>Chapel of All Faiths showing Cantrell Hall Student Union in background, between 1980 and 1995</dcterms:description>
+   <dcterms:description>Established 1954 as Clinch Valley College of the University of Virginia, a two-year junior college, and the westernmost state-supported college in Virginia. Transitioned to a four-year college beginning 1970. Renamed The University of Virginia’s College at Wise, 1999. -- https://en.wikipedia.org/wiki/University_of_Virginia%27s_College_at_Wise [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>classrooms</dcterms:subject>
+   <dcterms:subject>laboratories</dcterms:subject>
+   <dcterms:subject>chapels (rooms or structures)</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>student unions</dcterms:subject>
+   <dcterms:spatial>Wise, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>36.9725, -82.556111</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2021/09/10/15/4c1cc4f7-4604-4013-a87e-7a7ac615ef8c_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_31511608</edm:isShownAt>
+</mdRecord>

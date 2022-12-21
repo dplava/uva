@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:15 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2755463</dcterms:identifier>
+   <dcterms:title>Riverview High School, exterior</dcterms:title>
+   <dcterms:creator>Rudolph, Paul (American architect, 1918-1997) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1988</dcterms:created>
+   <dcterms:description>The carefully delineated steel frame of Riverview High, filled with glass and concrete brick, creates a consistent rhythm all through the 1,000-student school. This over-all consistency is important, because the various elements of the school are rather firmly separated in plan: the list includes three two-story rows of classrooms and labs, another block which houses the gymnasium, auditorium, and music rooms, and a third major element containing shops, cafeteria, and library. Even the administrative offices and the health suite are built in separate little one-story buildings, within the grass enclave embraced by the bigger buildings. This dividing was necessary to secure free air circulation in all the rooms, large and small. The other trademark of the school is also attributable to Florida’s semitropical climate: tiers of horizontal precast concrete slabs hung in front of the classroom walls for sunshading. Architectural Forum 110 (April 1959): 112-113 ~ http://prudolph.lib.umassd.edu/node/4542 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>International Style (modern European architecture style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>public schools</dcterms:subject>
+   <dcterms:subject>environmental design</dcterms:subject>
+   <dcterms:subject>bus shelters</dcterms:subject>
+   <dcterms:subject>courtyards</dcterms:subject>
+   <dcterms:subject>covered walkways</dcterms:subject>
+   <dcterms:spatial>1 Ram Way, Sarasota, Florida, United States</dcterms:spatial>
+   <dcterms:spatial>27.282835, -82.517544</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/06/03/15/66fd1d53-ba63-4692-85f7-92351101e583_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2755463</edm:isShownAt>
+</mdRecord>

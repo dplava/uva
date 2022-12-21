@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2022-12-14 at 8:09 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>188510</dcterms:identifier>
+   <dcterms:title>Munstead Wood House, exterior|general view</dcterms:title>
+   <dcterms:creator>Jekyll, Gertrude (English landscape architect and gardener, 1843-1932) [work]</dcterms:creator>
+   <dcterms:creator>Lutyens, Edwin (English architect, 1869-1944) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1979-08</dcterms:created>
+   <dcterms:description>West facade and garden terrace</dcterms:description>
+   <dcterms:description>Munstead Wood is a Grade I listed house and garden in Munstead Heath, Busbridge on the boundary of the town of Godalming in Surrey, England, 1 mile (1.6 km) south-east of the town centre. The garden was created first, by garden designer Gertrude Jekyll, and became widely known through her books and prolific articles in magazines such as Country Life. The Arts and Crafts style house, in which Jekyll lived from 1897 to 1932, was designed by architect Edwin Lutyens to complement the garden . . . . At Jekyll's first meeting with Lutyens in 1889 she invited him to Munstead Wood, and their collaboration began. They explored the local vernacular architecture, gathering ideas for the construction of Jekyll's house. His first building for her was The Hut, a cottage built in the grounds of Munstead Wood in 1895. Jekyll used this as a workshop, and lived in it until Lutyens completed the main house in 1897. While the house was still being built, Lutyens obtained another, larger commission in Surrey, Orchards, as a result of his future clients being impressed with Munstead Wood when they happened to walk past the construction site. Jekyll lived at Munstead Wood until her death in 1932. The house was built in a U-shape around a courtyard open on its north side. The west wing contained Jekyll's workshops, and to the east lay a service wing. On the house's south, garden elevation, the tiled roof extends down to the top of the ground floor, broken by two large gables. On the right of this elevation, a narrow, south-projecting porch wing has an arch, the house's main entrance, on its east side, where this wing forms a continuation of the house's east facade. The house was built of local Bargate stone, lined inside with brick. The casement windows were set flush with the outside walls to maximise the internal window sills. -- http://en.wikipedia.org/wiki/Munstead_Wood [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Arts and Crafts (movement)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>landscape gardens</dcterms:subject>
+   <dcterms:subject>Picturesque, the</dcterms:subject>
+   <dcterms:subject>landscape architecture</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:subject>pitched roofs</dcterms:subject>
+   <dcterms:subject>terraces (landscaped-site elements)</dcterms:subject>
+   <dcterms:spatial>Heath Lane, Busbridge, Godalming, Surrey, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>51.174722, -0.595</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/18/22/f701017a-ea8c-485c-94e7-1cae435e19f1_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_188510</edm:isShownAt>
+</mdRecord>
