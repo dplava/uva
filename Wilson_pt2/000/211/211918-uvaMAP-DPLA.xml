@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>211918</dcterms:identifier>
+   <dcterms:title>Pasadena City Hall, detail view</dcterms:title>
+   <dcterms:creator>Bakewell &amp; Brown (American architectural firm, founded 1905) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1982</dcterms:created>
+   <dcterms:description>East facade</dcterms:description>
+   <dcterms:description>The San Francisco architecture firm of Bakewell and Brown designed the City Beautiful and California Mediterranean of Mediterranean Revival Style and Spanish Colonial Revival Style architecture influenced City Hall.--http://en.wikipedia.org/wiki/Pasadena_City_Hall [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>City Beautiful Movement</dcterms:description>
+   <dcterms:description>Spanish Colonial Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>public buildings</dcterms:subject>
+   <dcterms:subject>municipal buildings</dcterms:subject>
+   <dcterms:subject>voussoirs</dcterms:subject>
+   <dcterms:subject>entablatures</dcterms:subject>
+   <dcterms:subject>rustication</dcterms:subject>
+   <dcterms:spatial>100 North Garfield Avenue, Pasadena, Los Angeles, California, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/10/05/11/ba433b6a-4495-4e74-9096-3f7b07ecaad4_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_211918</edm:isShownAt>
+</mdRecord>

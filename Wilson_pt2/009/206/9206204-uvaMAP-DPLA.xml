@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:50 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9206204</dcterms:identifier>
+   <dcterms:title>High Museum of Art, interior|detail view</dcterms:title>
+   <dcterms:creator>Meier, Richard (American architect, born 1934) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1987</dcterms:created>
+   <dcterms:description>View from upper gallery</dcterms:description>
+   <dcterms:description>"... located in Atlanta, is the leading art museum in the Southeastern United States. Located on Peachtree Street in Midtown, the city's arts district, the High is a division of the Woodruff Arts Center... In 1983, a 135,000-square-foot (12,500 m2) building designed by Richard Meier opened to house the High Museum of Art. Meier won the 1984 Pritzker Prize after completing the building. The Meier building was funded by a $7.9 million challenge grant from former Coca-Cola president Robert W. Woodruff matched by $20 million raised by the Museum." -- http://en.wikipedia.org/wiki/High_Museum_of_Art [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Modernist</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>museums</dcterms:subject>
+   <dcterms:subject>public buildings</dcterms:subject>
+   <dcterms:subject>galleries (display spaces)</dcterms:subject>
+   <dcterms:subject>mezzanines</dcterms:subject>
+   <dcterms:spatial>1280 Peachtree Street, Atlanta, Fulton, Georgia, United States</dcterms:spatial>
+   <dcterms:spatial>33.79051, -84.38517</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/04/29/13/b5c26877-b5a1-4534-ba83-c721445e25a1_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9206204</edm:isShownAt>
+</mdRecord>

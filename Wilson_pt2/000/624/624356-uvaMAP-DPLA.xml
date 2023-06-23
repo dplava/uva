@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>624356</dcterms:identifier>
+   <dcterms:title>Nemours Mansion and Gardens, exterior</dcterms:title>
+   <dcterms:creator>Carrère &amp; Hastings (American architectural firm, 1885-1926) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1986</dcterms:created>
+   <dcterms:description>Peristyle, central portion</dcterms:description>
+   <dcterms:description>mansion designed by Carrere and Hastings and built 1907-1910. Gardens considered by some to be "the finest example in North America of a formal French garden..." -- http://www.architecturaldigest.com/decor/2010-03/return_of_nemours_article [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Classical Revival (European revival style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>Du Pont, Alfred I. (Alfred Irénée), 1864-1935</dcterms:subject>
+   <dcterms:subject>Du Pont, Alicia, 1875-1920</dcterms:subject>
+   <dcterms:subject>Nemours Foundation</dcterms:subject>
+   <dcterms:subject>houses</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>formal gardens</dcterms:subject>
+   <dcterms:subject>landscape architecture</dcterms:subject>
+   <dcterms:subject>peristyles (colonnades)</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>pediments</dcterms:subject>
+   <dcterms:subject>hedges</dcterms:subject>
+   <dcterms:spatial>850 Alapocas Drive, Wilmington, New Castle, Delaware, United States</dcterms:spatial>
+   <dcterms:spatial>N 39° 46′ 35.76″, W 75° 33′ 28.8″</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/07/19/15/9a174a23-e631-44da-9511-81cf2c3bc2a0_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_624356</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 2:26 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66221</dcterms:identifier>
+   <dcterms:title>The history of gavel-kind: with the etymology thereoff; containing also an assertion that our English laws are for the most part those that were used by the antient Brytains, notwithstanding the several conquests of the Romans, Saxons, Danes, and Normans; with some observations and remarks upon many especial occurrences of British and English history / By Silas Taylor gent. To which is added a short history of William the Conquerour, written in Latin by an anonymous author, in the time of Henry the First</dcterms:title>
+   <dcterms:creator>Taylor, Silas, 1624-1678</dcterms:creator>
+   <dcterms:publisher>Printed for J. Starkey</dcterms:publisher>
+   <dcterms:created>1663</dcterms:created>
+   <dcterms:extent>13 p. l., 211 p. incl. geneal. table (fold.) 19 x 25 cm.</dcterms:extent>
+   <dcterms:medium>genealogical tables</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>"Brevis relatio de Willelmo ... ab authore anonymo, temp. Hen. Primi. Londini, typ. G. Wilson pro J. Starkey, 1663": p. [181]-211.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Gavelkind</dcterms:subject>
+   <dcterms:subject>Law--Great Britain--History</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2588864/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66221</edm:isShownAt>
+</mdRecord>

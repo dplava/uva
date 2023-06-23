@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:00 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>24925464</dcterms:identifier>
+   <dcterms:title>Carrel 3-5, upper shelf|surface</dcterms:title>
+   <dcterms:creator>East, Grace Marie [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2019-04-05</dcterms:created>
+   <dcterms:medium>ball-point pens; markers (drawing instruments) [work]</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Reference to the Presidential election of 2000 and opinion about studying [work]</dcterms:description>
+   <dcterms:description>Student graffiti art and messages inscribed on carrel walls in the new stacks, Alderman Library, University of Virginia, prior to the renovation of the building, 2020-2023. [host]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Series 1, image number 3 (left to right)</dcterms:description>
+   <dcterms:description>BUSH WINS! 12-12-2000 | TIME TO GO BACK HOME, AL GORE | A~X | Studying Sucks Drinking is better | 12/13/15</dcterms:description>
+   <dcterms:isPartOf>Alderman Library Carrel Graffiti Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:subject>Elections</dcterms:subject>
+   <dcterms:subject>Education, Higher</dcterms:subject>
+   <dcterms:subject>Alcohol</dcterms:subject>
+   <dcterms:spatial>University of Virginia. Library. New Stacks. Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/05/08/20/dcd0153b-9ccc-4c98-9d85-7e31bc7c88c7_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_24925464</edm:isShownAt>
+</mdRecord>

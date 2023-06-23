@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 2:29 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003377</dcterms:identifier>
+   <dcterms:title>Rand McNally Official 1922 auto trails map, District no. 20</dcterms:title>
+   <dcterms:title>Official 1922 auto trails map District 20</dcterms:title>
+   <dcterms:title>Rand McNally Official auto trails map District no 20</dcterms:title>
+   <dcterms:creator>Rand McNally and Company.</dcterms:creator>
+   <dcterms:created>1922</dcterms:created>
+   <dcterms:extent>Chicago</dcterms:extent>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>62 x 79 cm. folded into cover 18 x 10 cm.</dcterms:extent>
+   <dcterms:extent>[1922], c1921.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Covers: Southern Ohio, West Virginia, Virginia, Southern Maryland, Southern Delaware, North Carolina, Northern South Carolina, Northern Georga, E. Tennessee, E. Kentucky.</dcterms:description>
+   <dcterms:description>Inset: Locater map.</dcterms:description>
+   <dcterms:description>Information on trail markings and individual state highway markers at bottom of sheet.</dcterms:description>
+   <dcterms:description>Verso of map is blank.</dcterms:description>
+   <dcterms:description>Folded into original printed covers that feature an advertisement for Bedford Motor Company on front.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Gift of Howard E. Johnston.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Roads--Southern States--Maps</dcterms:subject>
+   <dcterms:subject>Roads--Middle Atlantic States--Maps</dcterms:subject>
+   <dcterms:subject>Roads--Virginia--Maps</dcterms:subject>
+   <dcterms:subject>Southern States--Maps, Tourist</dcterms:subject>
+   <dcterms:subject>Southern States--Maps</dcterms:subject>
+   <dcterms:subject>Virginia--Maps</dcterms:subject>
+   <dcterms:spatial>Middle Atlantic States</dcterms:spatial>
+   <dcterms:spatial>Southern States</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:891464/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003377</edm:isShownAt>
+</mdRecord>

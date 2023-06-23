@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 7:24 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1138800</dcterms:identifier>
+   <dcterms:title>Moment musical: op. 7, no. 2 / Moritz Moskowski ; edited &amp; fingered by A.R. Parsons</dcterms:title>
+   <dcterms:title>Moszkowski, Moritz, 1854-1925. Moments musicaux. No 2</dcterms:title>
+   <dcterms:creator>Moszkowski, Moritz, 1854-1925</dcterms:creator>
+   <dcterms:creator>Parsons, A. R. (Albert Ross), 1847-1933</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1882</dcterms:created>
+   <dcterms:extent>11 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>Authorized ed.</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [12]: Concentration and keyboard facility / Louis Stillman.</dcterms:description>
+   <dcterms:isPartOf>Selected works for piano solo and four hands / Moritz Moskowski</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1138801/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1138800</edm:isShownAt>
+</mdRecord>

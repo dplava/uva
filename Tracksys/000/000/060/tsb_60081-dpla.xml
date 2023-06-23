@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:09 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:60081</dcterms:identifier>
+   <dcterms:title>A new discovery of a vast country in America, extending above four thousand miles, between New France and New Mexico: with a description of the Great Lakes, cataracts, rivers, plants, and animals, also the manners, customs, and languages of the several native Indians, and the advantage of commerce with those different nations : with a Continuation, giving an account of the attempts of the Sieur de La Salle upon the mines of St. Barbe, &amp;c., the taking of Quebec by the English, with the advantages of a shorter cut to China and Japan : both parts illustrated with maps and figures, and dedicated to His Majesty K. William / by L. Hennepin .. ; to which is added, several new discoveries in North-America, not publish'd in the French edition</dcterms:title>
+   <dcterms:title>Account of several new discoveries in North America</dcterms:title>
+   <dcterms:title>New discovery of a large country in America</dcterms:title>
+   <dcterms:title>Hennepin, Louis, active 17th century. Nouvelle découverte d'un très grand pays situé dans l'Amérique entre le Nouveau Mexique et la mer Glaciale. English</dcterms:title>
+   <dcterms:creator>Bentley, M., active 1698</dcterms:creator>
+   <dcterms:creator>Goodwin, Timothy, -1720</dcterms:creator>
+   <dcterms:creator>Hennepin, Louis, active 17th century</dcterms:creator>
+   <dcterms:creator>Joliet, Louis, 1645-1700</dcterms:creator>
+   <dcterms:creator>Manship, S. (Samuel)</dcterms:creator>
+   <dcterms:creator>Marquette, Jacques, 1637-1675</dcterms:creator>
+   <dcterms:creator>McGregor Fund.</dcterms:creator>
+   <dcterms:creator>Mellon, Paul</dcterms:creator>
+   <dcterms:creator>Tonson, Jacob, 1656?-1736</dcterms:creator>
+   <dcterms:creator>Tracy W. McGregor Library. American History Collection.</dcterms:creator>
+   <dcterms:publisher>Printed for M. Bentley, J. Tonson, H. Bonwick, T. Goodwin, and S. Manship</dcterms:publisher>
+   <dcterms:created>1698</dcterms:created>
+   <dcterms:extent>[24], 355, [33], 48, 45-178 p., [8] folded leaves of plates</dcterms:extent>
+   <dcterms:extent>20 cm. (8vo)</dcterms:extent>
+   <dcterms:medium>ill.</dcterms:medium>
+   <dcterms:medium>maps</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>A new discovery of a vast country in America [tr. of Nouvelle decouverte d'un tres grand pays] ([24], 299 p.) -- An account of several new discoveries in North-America: Joliet's account with half-title "An account of several new discoveries in North-America" (p. [301]-306). "An account of M. la Salle's voyage to the river Mississippi." (p. 307-317). "A discovery of some new countries and nations in the Northern-America. By Father Marquette" (p. 318-349). Account of Mr. du Salle's later discoveries (p. 350-355) -- A continuation of the new discovery of a vast country in America [tr. of Nouveau voyage] (p. [32]-178 p.).</dcterms:description>
+   <dcterms:description>With an engraved frontispiece (plate), with title: A new discovery of a large country in America by Father Lewis Hennepin.</dcterms:description>
+   <dcterms:description>First folded map (bound between a4 and B1) has title: A map of a large country newly discovered in the northern America situated between New Mexico and the frozen sea, together with the course of the Great River Meschasipi. Dedicated to His Ma.ty William III King of Great Britain.</dcterms:description>
+   <dcterms:description>Second folded map (bound between 2C2 and 2C3) has title: A map of a new world between New Mexico and the frozen sea newly discovered by Father Lewis Hennepin, missionary recollect and native of Aht in Hainault. Dedicated to his Majesty of Great Britain William III.</dcterms:description>
+   <dcterms:description>Error in paging: First count: p. 94-95 misprinted 95-94, 202-203 as 102-103, 206-207 as 109-107; second count: p. 45-48 repeated; p. 131 misprinted 141.</dcterms:description>
+   <dcterms:description>"A continuation of the new discovery of a vast country in America ..." has separate t.p.</dcterms:description>
+   <dcterms:description>Signatures: A⁸ a⁴ B-2E⁸ *2e² 2F-2N⁸ 2O⁴(2O4 blank)</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: F352 .H75 1698: With 12 lines of text on p. 299. Continuation has 2 chapters numbered "XXII", the 1st beginning on p. 84, the 2nd on p. 89. "Pag. 29" printed at bottom on 1st plate, "Pag. 114" at top of the 2nd, and "Pag:" printed at top of 4th plate, with "33. Cont." handwritten. "An account of several new discoveries in North-America" (p. [301]-355) is bound after the "Continuation." Contemporary panelled calf. Signature of John Cartwright. Bookplate of Henry Eustatius Strickland. Paul Mellon Bequest, May 12, 2000.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: A 1698 .H45: With 12 lines of text on p. 299. Continuation has 2 chapters numbered "XXII," the 1st beginning on p. 84, the 2nd on p. 89. Plates: "Pag. 22. Part ye 1st" printed at bottom of the 1st plate, "Page 90 Part ye 1st" at top of the 2nd, "Cont: Pag:9" printed at top of the 3rd, "Cont: Pag. 33" printed at top of the 4th, and "Cont: Pag. 89" printed at the top of the 5th plate; "Cont: Pg. 157" printed at bottom of the 6th plate. "An account of several new discoveries in North-America" (p. [301]-355) is bound after "New Discovery" and before the "Continuation." Contemporary panelled calf, Housed in a red snap-closure box. Signature of James Hamilton. Tracy W. McGregor Library, American History Collection. This copy recataloged through a generous grant from the McGregor Fund.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: F352 .H75 1698b: With 12 lines of text on p. 299. Chapter XXIII of the Continuation is numbered correctly. Imperfect: folding maps and plates in "New Discovery" are wanting. "Cont: Pag:33" is printed at top of the 4th plate. "An account of several new discoveries in North-America" (p. [301]-355) is bound after the "Continuation." 19th century marbled boards with leather backstrip. Gift of Bernard Shipp.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: F352 .H75 1698: With 12 lines of text on p. 299. Continuation has 2 chapters numbered "XXII", the 1st beginning on p. 84, the 2nd on p. 89. "Pag. 29" printed at bottom on 1st plate, "Pag. 114" at top of the 2nd, and "Pag:" printed at top of 4th plate, with "33. Cont." handwritten. "An account of several new discoveries in North-America" (p. [301]-355) is bound after the "Continuation." Contemporary panelled calf. Signature of John Cartwright. Bookplate of Henry Eustatius Strickland. Paul Mellon Bequest, May 12, 2000.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: A 1698 .H45: With 12 lines of text on p. 299. Continuation has 2 chapters numbered "XXII," the 1st beginning on p. 84, the 2nd on p. 89. Plates: "Pag. 22. Part ye 1st" printed at bottom of the 1st plate, "Page 90 Part ye 1st" at top of the 2nd, "Cont: Pag:9" printed at top of the 3rd, "Cont: Pag. 33" printed at top of the 4th, and "Cont: Pag. 89" printed at the top of the 5th plate; "Cont: Pg. 157" printed at bottom of the 6th plate. "An account of several new discoveries in North-America" (p. [301]-355) is bound after "New Discovery" and before the "Continuation." Contemporary panelled calf, Housed in a red snap-closure box. Signature of James Hamilton. Tracy W. McGregor Library, American History Collection. This copy recataloged through a generous grant from the McGregor Fund.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>La Salle, Robert Cavelier, sieur de, 1643-1687</dcterms:subject>
+   <dcterms:subject>Indians of North America--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Indigenous peoples--Canada--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Indigenous peoples--United States--Early works to 1800</dcterms:subject>
+   <dcterms:subject>New France--Discovery and exploration--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Mississippi River Valley--Discovery and exploration--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Great Lakes (North America)--Discovery and exploration--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Québec (Québec)--History</dcterms:subject>
+   <dcterms:subject>Niagara Falls (N.Y. and Ont.)--Description and travel--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Canada</dcterms:spatial>
+   <dcterms:spatial>Great Lakes (North America)</dcterms:spatial>
+   <dcterms:spatial>Mississippi River Valley</dcterms:spatial>
+   <dcterms:spatial>New France</dcterms:spatial>
+   <dcterms:spatial>Niagara Falls (N.Y. and Ont.)</dcterms:spatial>
+   <dcterms:spatial>Québec (Québec)</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>London, England, Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2175117/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:60081</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:02 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>24927278</dcterms:identifier>
+   <dcterms:title>Carrel 4-11, northwest wall</dcterms:title>
+   <dcterms:creator>Lee, Jenny [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2019-07-05</dcterms:created>
+   <dcterms:medium>ball-point pens [work]</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Lyrics from Hillary Duff's song from the Lizzy McGuire Movie "Hey Now" (stylized to graphically imitate rhythm in the song), and Smash Mouth's "All Star" (a song featured in the animate film Shrek), with responses. [work]</dcterms:description>
+   <dcterms:description>Student graffiti art and messages inscribed on carrel walls in the new stacks, Alderman Library, University of Virginia, prior to the renovation of the building, 2020-2023. [host]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Series 1, image number 14 (top to bottom)</dcterms:description>
+   <dcterms:description>Hey now, hey nowww this is what dreams are made of → don't dream it's overr | ↑ Nightmares? | ur an all star, get your game on</dcterms:description>
+   <dcterms:isPartOf>Alderman Library Carrel Graffiti Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:subject>Popular music</dcterms:subject>
+   <dcterms:subject>Songs--Texts</dcterms:subject>
+   <dcterms:subject>Disney characters</dcterms:subject>
+   <dcterms:subject>Motion pictures</dcterms:subject>
+   <dcterms:spatial>University of Virginia. Library. New Stacks. Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/05/09/10/dc40008b-a945-4b52-ad21-d39c99257af3_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_24927278</edm:isShownAt>
+</mdRecord>

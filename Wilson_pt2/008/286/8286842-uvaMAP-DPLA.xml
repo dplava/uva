@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:48 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8286842</dcterms:identifier>
+   <dcterms:title>Riverview Terrace Restaurant, exterior|general view</dcterms:title>
+   <dcterms:title>Visitor Center for Frank Lloyd Wright Foundation</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Wright, Frank Lloyd (American architect, 1867-1959) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1980</dcterms:created>
+   <dcterms:description>"Built by Karen Johnson Keland and her husband Wilard Keland as a restaurant, this building is now the Visitor's Center for the Frank Lloyd Wright Foundation, containing bathrooms, a book shop an a food service area. The Taliesin Preservation Commission, which is overseeing the restoration of the Taliesin Valley sites, begins all tours here. All the dining rooms of this excellent restaurant overlooked the Wisconsin River. The west room was the lounge, with the bar in front of the windows. The floor level behind the bar was lower than the main room so that bartenders did not obscure the patrons' view. The Kelands also built a Wright designed house in Racine." -- Heinz, Frank Lloyd Wright field guide, 1996 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>visitors' centers</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>eaves</dcterms:subject>
+   <dcterms:subject>cantilevers</dcterms:subject>
+   <dcterms:subject>spires</dcterms:subject>
+   <dcterms:subject>streets</dcterms:subject>
+   <dcterms:spatial>Spring Green, Sauk, Wisconsin, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/01/23/14/923d2c78-164b-45b4-bb61-bc84eb43b1f4_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8286842</edm:isShownAt>
+</mdRecord>

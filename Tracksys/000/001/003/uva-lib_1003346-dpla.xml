@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 2:28 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003346</dcterms:identifier>
+   <dcterms:title>Map showing the route of the Arkansas Regiment from Shreveport La. to San Antonio de Bexar Texas</dcterms:title>
+   <dcterms:creator>Gregg, Josiah, 1806-1850</dcterms:creator>
+   <dcterms:publisher>Printed by W.M. Belt</dcterms:publisher>
+   <dcterms:created>1850</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>29 x 43 cm.</dcterms:extent>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"S. Ex. Doc. No. 32, 1st Ses. 31st Con." -- Upper left corner.</dcterms:description>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>Prime meridians: Greenwich and Washington.</dcterms:description>
+   <dcterms:description>Detached from: Report of the Secretary of War communicating, in compliance with a resolution of the Senate, a map showing the operations of the Army of the United States in Texas and the adjacent Mexican states on the Rio Grande: accompanied by astronomical observations, and descriptive and military memoirs of the country. Washington, Printed by W.M. Belt, 1850. Senate executive document, 31st Congress, 1st session, no. 32.</dcterms:description>
+   <dcterms:description>Attribution to Gregg from University of Arizona, OCLC record no. 30465477.</dcterms:description>
+   <dcterms:description>Scale not given.</dcterms:description>
+   <dcterms:isPartOf>Senate executive document (United States. Congress. Senate) 31st Congress, 1st session, no. 32</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Mexican War, 1846-1848--Maps</dcterms:subject>
+   <dcterms:subject>Texas--Maps</dcterms:subject>
+   <dcterms:subject>Louisiana--Maps</dcterms:subject>
+   <dcterms:spatial>Louisiana</dcterms:spatial>
+   <dcterms:spatial>Texas</dcterms:spatial>
+   <dcterms:spatial>Washington, District of Columbia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:891403/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003346</edm:isShownAt>
+</mdRecord>

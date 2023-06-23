@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 7:47 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1149439</dcterms:identifier>
+   <dcterms:title>Solace of tears = Dolce conforto : Il giuramento / Mercadante ; [translated by Theo. T. Barker]</dcterms:title>
+   <dcterms:title>Dolce conforto</dcterms:title>
+   <dcterms:title>Dolce conforto al misero</dcterms:title>
+   <dcterms:title>Giuramento</dcterms:title>
+   <dcterms:title>Solace of those whose wounded hearts</dcterms:title>
+   <dcterms:title>Mercadante, Saverio, 1795-1870. Giuramento. Dolce conforto</dcterms:title>
+   <dcterms:creator>Barker, Theodore T.</dcterms:creator>
+   <dcterms:creator>Mercadante, Saverio, 1795-1870</dcterms:creator>
+   <dcterms:publisher>Oliver Ditson &amp; Co.</dcterms:publisher>
+   <dcterms:created>1870</dcterms:created>
+   <dcterms:extent>1 vocal score (3 p.).</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>voice (2), piano</dcterms:description>
+   <dcterms:description>For 2 voices, with orchestral acc. arr. for piano.</dcterms:description>
+   <dcterms:description>Reprint. Originally published: Boston : Oliver Ditson &amp; Co., c1857.</dcterms:description>
+   <dcterms:description>Advertisement on p. [4]: Gems of Strauss; The hour of singing; and The organ at home.</dcterms:description>
+   <dcterms:isPartOf>Echoes from Italy : a collection of vocal duetts by eminent composers</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Vocal duets with piano</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1149440/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1149439</edm:isShownAt>
+</mdRecord>

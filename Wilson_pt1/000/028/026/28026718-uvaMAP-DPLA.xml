@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:58 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28026718</dcterms:identifier>
+   <dcterms:title>Fairmeadow Subdivision, exterior|general view</dcterms:title>
+   <dcterms:creator>Anshen &amp; Allen (American architectural firm, 20th century) [work]</dcterms:creator>
+   <dcterms:creator>Eichler, Joseph L. (American builder and developer, 1900-1974) [work]</dcterms:creator>
+   <dcterms:creator>Jones, A. Quincy (American architect, 1913-1979) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2001</dcterms:created>
+   <dcterms:description>House facade</dcterms:description>
+   <dcterms:description>Fairmeadow subdivision was developed by Joseph Eichler with street layout planned by Anshen and Allen, 1951-1952. Houses designed by A. Quincy Jones, 1952. -- https://www.eichlerforsale.com/fairmeadow-eichlers.php [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Modernist</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>planned communities</dcterms:subject>
+   <dcterms:subject>houses</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>carports</dcterms:subject>
+   <dcterms:spatial>Palo Alto, Santa Clara, California, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/04/03/13/a341dc74-5310-489d-9f66-51a964de6c23_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28026718</edm:isShownAt>
+</mdRecord>

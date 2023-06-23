@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 12:00 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>29300386</dcterms:identifier>
+   <dcterms:title>Norfolk and Western Railway Passenger Station, exterior|general view</dcterms:title>
+   <dcterms:title>O. Winston Link Museum</dcterms:title>
+   <dcterms:creator>Loewy, Raymond Fernand (American designer, 1893-1986) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2003</dcterms:created>
+   <dcterms:description>Entrance facade</dcterms:description>
+   <dcterms:description>Passenger station designed and built 1905; redesigned 1949 by Loewy. Reused as the O. Winston Link Museum of railroad photography, opened 2004. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Art Deco</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>railroads (administrative)</dcterms:subject>
+   <dcterms:subject>Norfolk and Western Railway Company</dcterms:subject>
+   <dcterms:subject>transportation buildings</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>museums</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:spatial>101 Shenandoah Avenue NE, Roanoke, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>37.273611, -79.938056</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/11/04/21/4e20f2c1-d69a-4250-b28f-c18198d0a253_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_29300386</edm:isShownAt>
+</mdRecord>

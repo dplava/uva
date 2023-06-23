@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:29 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>194992</dcterms:identifier>
+   <dcterms:title>Mesa Verde National Park (Colo.), general view</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[400..1300]</dcterms:created>
+   <dcterms:description>Pit dwelling, modified Basketmaker</dcterms:description>
+   <dcterms:description>Native American</dcterms:description>
+   <dcterms:description>Ancestral Puebloan</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>housing (concept)</dcterms:subject>
+   <dcterms:subject>pueblos (housing complexes)</dcterms:subject>
+   <dcterms:subject>landscapes (environments)</dcterms:subject>
+   <dcterms:subject>national monuments</dcterms:subject>
+   <dcterms:subject>cliff dwellings</dcterms:subject>
+   <dcterms:subject>stonework</dcterms:subject>
+   <dcterms:spatial>Mesa Verde, Montezuma, Colorado, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/20/16/13c5bdfb-51e2-47e6-9cf1-6617e4112330_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_194992</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 7:14 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1134472</dcterms:identifier>
+   <dcterms:title>It is better to laugh than be sighing = Il segretto per esser felici = Um stets heiter und glücklich : opera Lucrezia Borgia / Donizetti</dcterms:title>
+   <dcterms:title>Il segreto per esser felici</dcterms:title>
+   <dcterms:title>Il segretto per esser felici</dcterms:title>
+   <dcterms:title>It is better to laugh than be sighing</dcterms:title>
+   <dcterms:title>Um stets heiter und glücklich</dcterms:title>
+   <dcterms:title>Um stets heiter und glücklich zu leben</dcterms:title>
+   <dcterms:title>Donizetti, Gaetano, 1797-1848. Lucrezia Borgia. Segreto per esser felici</dcterms:title>
+   <dcterms:creator>Donizetti, Gaetano, 1797-1848</dcterms:creator>
+   <dcterms:publisher>A.F. Woodward &amp; Co.</dcterms:publisher>
+   <dcterms:created>18XX</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:isPartOf>Donizetti</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1134473/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1134472</edm:isShownAt>
+</mdRecord>

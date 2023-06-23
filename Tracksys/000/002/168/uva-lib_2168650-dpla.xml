@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 9:50 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2168650</dcterms:identifier>
+   <dcterms:title>School of Medicine, First Year Class, 1948-1949</dcterms:title>
+   <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1948/1949</dcterms:created>
+   <dcterms:description>First row (l to r): Kenneth William Berger, Albert William Biggs, Frank Stoddert Blanton, Jr., Loyd Warren Bond, Milton Henry Brockmeyer, Melvin Hugh Burke, Randolph Catlin, Jr., Quintin Oswald Carr, William Belfield Cave, Ben Lake Critzer, Jesse Wesley Cumbia, Nicholas Edward Davies, Meade Castleton Edmunds, Jr. Second row (l to r): Richard Thomas Ellison, Jr., Julia Langhorne Emmett, James Edge Faris, Jr., Martin Paul Fischer, James Mitchell Fite, Richard Orville Flynn, Gustave Lennard Gold, Harold Louis Goldman, William Stuart Greenspon, Robert Humphrey Gruver, William McLaurine Hall, III, Euclid Murden Hanbury, Jr., John Frederick Harlan, Jr. Third row (l to r): Kenneth Stebbins Helenbolt, Louis Reams Hundley, Holcombe Harris Hurt, Jr., Robert Mercier Hutt, Preston Lankford Jones, Robert Claggett Jones, Robert Stanley Kaplan, Harvey David Karkus, Charles Hunter Leys, Lionel Melvin Lieberman, James Watts Lippscomb, Mary Jane Luke. Fourth row (l to r): Arturo Torres Machin, Henry Page Mauck, Jr., Jason Eugene McClellan, Robert Earll McConnell, Jr., James Porter McNeil, Jr., Richard Hardaway Meade, III, John Girardeau Murray, James Linwood Odom, John Edward Osbourne, Edgar Elliott Peltz, William Clarke Pole, James Whitmell Ransone, William Norton Reingold, Nelson Glasgow Richards. Fifth row (l to r): Gilbert Fletcher Rieman, Marion Moore Sherman, Jr., Joseph H. Smith, James Roger Smith, Charles Hallacy Spencer, Aubrey Granville Tolley, Fred Wasserman, Robert Basye Webb, Jr., Charles Robinson Wicke, Adna Godfrey Wilde, Jr., Armistead Marshall Williams, George Edward Wire, Jr., Edward Ashby Woods, Jr., William Harvey Whitmore, Jr.</dcterms:description>
+   <dcterms:description>Original Negative Present [original]</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Visual History Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia</dcterms:subject>
+   <dcterms:subject>University of Virginia--Faculty</dcterms:subject>
+   <dcterms:subject>University of Virginia--Students</dcterms:subject>
+   <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168650/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168650</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:35 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1004048</dcterms:identifier>
+   <dcterms:title>Fred Holland Day House, exterior|general view</dcterms:title>
+   <dcterms:creator>Beal, J. Williams (American architect, 1855- 1919) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2004</dcterms:created>
+   <dcterms:medium>half-timber construction; Roman brick [work]</dcterms:medium>
+   <dcterms:description>Side</dcterms:description>
+   <dcterms:description>Originally built in the Second Empire style, the house was renovated by Fred Holland Day during the early 1890s. (Norwood Historical Society website) [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Stick Style</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>Day, F. Holland (American photographer and publisher, 1864-1933)</dcterms:subject>
+   <dcterms:subject>jetties (building divisions)</dcterms:subject>
+   <dcterms:spatial>93 Day Street, Norwood, Norfolk, Massachusetts, United States</dcterms:spatial>
+   <dcterms:spatial>42.193004, -71.203095</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/11/12/13/0de62462-68ad-4956-a427-1c4bc6f0e2b1_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1004048</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:43 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2699700</dcterms:identifier>
+   <dcterms:title>J. G. Melson House, exterior</dcterms:title>
+   <dcterms:creator>Griffin, Walter Burley (American architect and city planner, 1876-1937, active in the United States, Australia, and India) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1974</dcterms:created>
+   <dcterms:medium>limestone; masonry; stonework [work]</dcterms:medium>
+   <dcterms:description>General view</dcterms:description>
+   <dcterms:description>The Melson house can be considered one of the half dozen most significant houses of the Prairie movement, and it is certainly Griffin's most impressive realized domestic design. The house was designed for J. G. Melson, one of the developers of Rock Crest-Rock Glen. The house is situated right on the edge of a limestone outcropping overlooking the valley. -- http://sah-archipedia.org/detail%2Fcontent%2Fentries%2FIA-01-NO228.xml?q=%28type%3Ahouses%29%20AND%20style%3A%22Prairie%20School%22 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Modern (styles and periods)</dcterms:description>
+   <dcterms:description>International Style (modern European architecture style)</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>historic preservation</dcterms:subject>
+   <dcterms:subject>historic districts</dcterms:subject>
+   <dcterms:subject>stonework</dcterms:subject>
+   <dcterms:subject>masonry</dcterms:subject>
+   <dcterms:subject>limestone</dcterms:subject>
+   <dcterms:subject>posts (structural elements)</dcterms:subject>
+   <dcterms:subject>concrete</dcterms:subject>
+   <dcterms:subject>keystones</dcterms:subject>
+   <dcterms:subject>ironwork (objects)</dcterms:subject>
+   <dcterms:subject>panes (architectural elements)</dcterms:subject>
+   <dcterms:spatial>56 River Heights Road, Mason City, Cerro Gordo, Iowa, United States</dcterms:spatial>
+   <dcterms:spatial>43.149414, -93.193044</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/04/09/10/4d34bdf0-aed3-43cf-95e3-7df21ef2178c_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2699700</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-16 at 4:13 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>31529593</dcterms:identifier>
+   <dcterms:title>Sheet Metal Craftsmanship: Progress in Building, general view</dcterms:title>
+   <dcterms:creator>National Building Museum (American repository, Washington, contemporary) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1988</dcterms:created>
+   <dcterms:description>Steel Metal Structure by Frank Gehry (1987), west court</dcterms:description>
+   <dcterms:description>an exhibition held in the National Building Museum, Washington, D.C. in 1988 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>sheet metal</dcterms:subject>
+   <dcterms:subject>metalworking</dcterms:subject>
+   <dcterms:subject>sculpture (visual work)</dcterms:subject>
+   <dcterms:subject>Gehry, Frank (American architect, born 1929 in Canada)</dcterms:subject>
+   <dcterms:spatial>Washington, District of Columbia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2021/09/14/18/389b3d44-edf8-4dc0-8e52-ef2ce288a332_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_31529593</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:28 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>187870</dcterms:identifier>
+   <dcterms:title>Leighton House, interior|general view</dcterms:title>
+   <dcterms:title>Leighton House Museum</dcterms:title>
+   <dcterms:creator>Aitchison, George, Jr. (English architect and interior designer, 1825-1910) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1981</dcterms:created>
+   <dcterms:description>Inner Hall</dcterms:description>
+   <dcterms:description>The original house was completed in 1866 for Sir Frederic Leighton. The Arab Hall was part of the 1879 addition for Leighton. It is based on drawings made by Aitchison in Spain and includes tiles from Rhodes, Damascus, and Cairo dating from the 13th, 16th, and 17th centuries. There is a frieze by Walter Crane. Upon Leighton's death, the house was gifted to London and converted to an art gallery. The house suffered some damage during WWII and after restoration it was reopened in 1951. [work]</dcterms:description>
+   <dcterms:description>English</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Moorish Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>studios (work spaces)</dcterms:subject>
+   <dcterms:subject>galleries (display spaces)</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>museums</dcterms:subject>
+   <dcterms:subject>Leighton, Frederic, 1st Baron Leighton of Stretton (English painter and sculptor, 1830-1896)</dcterms:subject>
+   <dcterms:subject>halls (interior spaces)</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>stairs</dcterms:subject>
+   <dcterms:spatial>12 Holland Park Road (formerly no. 2), Kensington, London, Greater London, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>51.498581, -0.203089</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/18/11/627b1de0-fab1-4ed8-8c0d-2d00371a281e_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_187870</edm:isShownAt>
+</mdRecord>

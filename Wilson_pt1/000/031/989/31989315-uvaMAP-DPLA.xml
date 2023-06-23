@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 12:02 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>31989315</dcterms:identifier>
+   <dcterms:title>Salvator Dalí Theatre and Museum, general view</dcterms:title>
+   <dcterms:creator>Dalí, Salvador (Spanish painter and printmaker, 1904-1989) [work]</dcterms:creator>
+   <dcterms:creator>Pérez Piñero, Emilio (Spanish architect, 1935-1972) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1993</dcterms:created>
+   <dcterms:description>"Rainy Taxi (Mannequin Rotting in a Taxi-Cab)" installation reconstruction in the central courtyard</dcterms:description>
+   <dcterms:description>Spanish</dcterms:description>
+   <dcterms:description>Surrealist</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>museums</dcterms:subject>
+   <dcterms:subject>theaters (buildings)</dcterms:subject>
+   <dcterms:subject>installations (visual works)</dcterms:subject>
+   <dcterms:subject>sculpture (visual works)</dcterms:subject>
+   <dcterms:subject>courtyards</dcterms:subject>
+   <dcterms:spatial>Pujada del Castell, 28, Figueras, Girona, Catalonia, Spain</dcterms:spatial>
+   <dcterms:spatial>42.268056, 2.959444</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/01/21/17/7d017e19-5b41-4610-b702-4b7954d337e5_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_31989315</edm:isShownAt>
+</mdRecord>

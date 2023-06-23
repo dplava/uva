@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:51 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9957569</dcterms:identifier>
+   <dcterms:title>Toufic H. Kalil House, general view</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Wright, Frank Lloyd (American architect, 1867-1959) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1974</dcterms:created>
+   <dcterms:medium>concrete [work]</dcterms:medium>
+   <dcterms:description>View of side facade and porch from driveway</dcterms:description>
+   <dcterms:description>"The Usonian Automatic design of this house allowed Wright to meet the requirements of Dr. Toufic and Mildred Kalil, a professional couple... This 1,380-square-foot (128 m2) house contains a living room, kitchen, two bedrooms, two baths and a study. All of the original furniture, most of which is built-in, is still intact. The house is privately owned and not open to tours." -- https://en.wikipedia.org/wiki/Toufic_H._Kalil_House [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Usonian houses</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>porches</dcterms:subject>
+   <dcterms:subject>steps</dcterms:subject>
+   <dcterms:subject>driveways</dcterms:subject>
+   <dcterms:subject>lawns (landscaped grass)</dcterms:subject>
+   <dcterms:subject>trees</dcterms:subject>
+   <dcterms:subject>curbs</dcterms:subject>
+   <dcterms:subject>flat roofs</dcterms:subject>
+   <dcterms:subject>carports</dcterms:subject>
+   <dcterms:subject>fences</dcterms:subject>
+   <dcterms:subject>automobiles</dcterms:subject>
+   <dcterms:spatial>Heather Street, Manchester, Hillsborough, New Hampshire, United States</dcterms:spatial>
+   <dcterms:spatial>43.021639, -71.465353</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/07/27/10/71aee221-b925-423c-9705-e51c8ca284d1_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9957569</edm:isShownAt>
+</mdRecord>

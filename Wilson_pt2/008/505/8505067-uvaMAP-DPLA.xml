@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:48 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8505067</dcterms:identifier>
+   <dcterms:title>Walter Gale House, exterior|general view</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Wright, Frank Lloyd (American architect, 1867-1959) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1973</dcterms:created>
+   <dcterms:description>Principal façade from street</dcterms:description>
+   <dcterms:description>"...located in the Chicago suburb of Oak Park, Illinois, was designed by Frank Lloyd Wright and constructed in 1893. The house was commissioned by Walter H. Gale of a prominent Oak Park family and is the first home Wright designed after leaving the firm of Adler and Sullivan. The Gale House was listed on the U.S. National Register of Historic Places on August 17, 1973. he house was designed by Frank Lloyd Wright in 1893 for Walter H. Gale, who was a member of one of Oak Park's "founding families" and a local hardware store operator. The house was the first design undertaken after he left Louis Sullivan's firm, Adler &amp; Sullivan. The house followed on in the nature of Wright's own home and was one of a series of modest homes designed in 1892 and 1893. Two of these homes were designed for Walter Gale on a speculative basis, the other being known as the Robert P. Parker House, which stand down Chicago Avenue from the Gale House. The Gale House, like all of the homes designed in this "series," has symmetrical sides but they are difficult to see clearly because other buildings are built too closely. The Gale House appears small but is quite roomy and it follows nearly identical plans to that of the other homes designed and built around 1893, though there are differences, most prominently in the roof profiles." -- http://en.wikipedia.org/wiki/Walter_Gale_House [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Queen Anne Style</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>clapboard siding</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:subject>dormers</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:subject>sash windows</dcterms:subject>
+   <dcterms:spatial>1031 Chicago Ave., Oak Park, Cook, Illinois, United States</dcterms:spatial>
+   <dcterms:spatial>41.893889, -87.801667</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/02/11/13/b76ed066-2057-41a1-9d2d-d651a66d2ccc_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8505067</edm:isShownAt>
+</mdRecord>

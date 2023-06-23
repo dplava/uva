@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:29 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>188562</dcterms:identifier>
+   <dcterms:title>Athenaeum Theatre, exterior|general view</dcterms:title>
+   <dcterms:title>Old Royal Scottish Academy of Music</dcterms:title>
+   <dcterms:creator>Burnet, John James (Scottish architect, 1857-1938) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1981</dcterms:created>
+   <dcterms:description>West George Street facade</dcterms:description>
+   <dcterms:description>Sculpture by John Mossman. Original building by John Burnet fronted West George Street. An extension was added in 1891 by Burnet on Buchanan Street. [work]</dcterms:description>
+   <dcterms:description>Scottish</dcterms:description>
+   <dcterms:description>Classical Revival (European revival style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>performing arts buildings</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:subject>rustication</dcterms:subject>
+   <dcterms:subject>Diocletian windows</dcterms:subject>
+   <dcterms:spatial>8 Nelson Mandela Place (60 West George Street and 179 Buchanan Street), Glasgow, Scotland, United Kingdom</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/18/23/821935d5-c25c-48f3-bc0c-d1d2c9f65e60_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_188562</edm:isShownAt>
+</mdRecord>

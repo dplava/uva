@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:46 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>3961076</dcterms:identifier>
+   <dcterms:title>Strathmore Apartments, exterior</dcterms:title>
+   <dcterms:creator>Neutra, Richard (American architect, 1892-1970, born in Austria) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1982</dcterms:created>
+   <dcterms:medium>stucco; concrete [work]</dcterms:medium>
+   <dcterms:description>General view</dcterms:description>
+   <dcterms:description>The Strathmore Apartments, is an historic 8-unit multi-family complex located at 11005-11013 1/2 Strathmore Drive in the Westwood neighborhood of Los Angeles, California. It was designed in 1937 in the international or modernistic style of architecture by noted Los Angeles architect Richard Neutra, who originally planned it as 4 units, but bought the lot next door and added four more units there for himself. -- http://en.wikipedia.org/wiki/Strathmore_Apartments [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>International Style (modern European architecture style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>housing (concept)</dcterms:subject>
+   <dcterms:subject>garages</dcterms:subject>
+   <dcterms:spatial>11005-11013 1/2 Strathmore Dr., Westwood, Los Angeles, California, United States</dcterms:spatial>
+   <dcterms:spatial>34.065278, -118.450833</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/11/19/12/37b45d71-5c5d-4a52-8bd7-bf5647b0148a_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_3961076</edm:isShownAt>
+</mdRecord>

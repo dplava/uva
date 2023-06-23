@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 7:54 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1229359</dcterms:identifier>
+   <dcterms:title>The Declaration Committee: Thomas Jefferson, of Virginia, John Adams, of Massachusetts, Benjamin Franklin, of Pennsylvania, Roger Sherman of Connecticut, Robert R. Livingston, of New York, were appointed June 11th, 1776 a Committee to draw up a Declaration</dcterms:title>
+   <dcterms:creator>Albert H. Small Declaration of Independence Collection (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Currier &amp; Ives.</dcterms:creator>
+   <dcterms:publisher>Currier &amp; Ives</dcterms:publisher>
+   <dcterms:created>1876</dcterms:created>
+   <dcterms:extent>1 print</dcterms:extent>
+   <dcterms:extent>31 x 41 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>lithographs</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"Entered according to act of Congress in the year 1876 by Currier &amp; Ives, in the Office of the Librarian of Congress at Washington."</dcterms:description>
+   <dcterms:description>There is residual type evidence that additional information was originally printed at the bottom corners of the print.</dcterms:description>
+   <dcterms:description>Group portrait, showing Jefferson (quill pen in hand), Sherman and Livingston seated at a table; Franklin (holding a draft of the document) and Adams are standing. A globe and 2 books, 1 opened, are on the floor near Jefferson's chair.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Albert H. Small Declaration of Independence Collection. Deposit of Albert H. Small, July 14, 2003.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>United States.--Declaration of Independence</dcterms:subject>
+   <dcterms:spatial>New York, New York (State), United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1312818/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1229359</edm:isShownAt>
+</mdRecord>

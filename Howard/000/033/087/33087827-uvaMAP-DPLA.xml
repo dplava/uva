@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-16 at 4:26 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>33087827</dcterms:identifier>
+   <dcterms:title>Fresco Room, general view</dcterms:title>
+   <dcterms:title>Room 205</dcterms:title>
+   <dcterms:title>Salle Lafayette</dcterms:title>
+   <dcterms:creator>Jefferson, Thomas (American statesman, architect, and draftsman, 1743-1826) [architect]</dcterms:creator>
+   <dcterms:creator>La Montagne Saint-Hubert, Jean Robert (French painter and fresco painter, 1887-1950) [artist]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1990-06</dcterms:created>
+   <dcterms:extent>overall: 600-700 square feet [work]</dcterms:extent>
+   <dcterms:medium>buon fresco ; mineral pigment [work]</dcterms:medium>
+   <dcterms:description>East wall: French troops come to aid colonial forces in the American Revolution, entire, showing cornice and wainscoting</dcterms:description>
+   <dcterms:description>Originally second-floor parlor, professor’s living quarters. Frescoed decoration installed 1929, a gift of Ormond G. Smith, as a tribute to the friendship between the United States and France. Flooring installed 1928. Frescoes executed by Robert and Marthe La Montaigne St. Hubert. Installation involved closing the fireplace and removal of the mantel and heating system. Room dedicated November 20, 1929; intended for use exclusively for oral doctoral examinations. — Mesick Cohen Waite, Pavilion VI: Historic Structure Report, 1991 [work]</dcterms:description>
+   <dcterms:description>French</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Paintings</dcterms:subject>
+   <dcterms:subject>paintings (visual works)</dcterms:subject>
+   <dcterms:subject>parlors</dcterms:subject>
+   <dcterms:subject>landscapes (representations)</dcterms:subject>
+   <dcterms:subject>trompe-l'oeil</dcterms:subject>
+   <dcterms:subject>United States--History--Revolution, 1775-1783</dcterms:subject>
+   <dcterms:subject>ships</dcterms:subject>
+   <dcterms:subject>boats</dcterms:subject>
+   <dcterms:subject>cornices</dcterms:subject>
+   <dcterms:subject>entablatures</dcterms:subject>
+   <dcterms:subject>friezes (entablature components)</dcterms:subject>
+   <dcterms:subject>wainscoting</dcterms:subject>
+   <dcterms:spatial>East Lawn, Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/08/01/15/98e106c7-d1bf-43e9-9062-5f4521aa17c3_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_33087827</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:36 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1354018</dcterms:identifier>
+   <dcterms:title>Lofts in Chicago, exterior</dcterms:title>
+   <dcterms:creator>Adler and Sullivan (American architectural firm, 1883-1924) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1977-09</dcterms:created>
+   <dcterms:description>From street level</dcterms:description>
+   <dcterms:description>In July 1874 Sullivan travelled to Europe where he studied in the Vaudremer studio at the Ecole des Beaux Arts in Paris. He returned to Chicago a year later. Louis Sullivan is considered by many to be the first architect to fully imagine and realize a rich architectural vocabulary for a revolutionary new kind of building: the steel high-rise or tall building, with its distinct verticality and its expression, with a defined base, midsection and cornice or top. In 1883 Sullivan became a full partner with Dankmar Adler. They remained together until 1895 when Adler retired.Sullivan's designs generally involved a simple geometric form decorated with ornamentation based on organic symbolism. -- http://www.greatbuildings.com/architects/Louis_H._Sullivan.html [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Beaux-Arts</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>housing (concept)</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:subject>cartouches (ornament)</dcterms:subject>
+   <dcterms:spatial>Chicago, Cook, Illinois, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/02/27/14/c6ac2470-b670-4d3a-9ae2-9b657860a113_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1354018</edm:isShownAt>
+</mdRecord>

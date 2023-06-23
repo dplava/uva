@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>596989</dcterms:identifier>
+   <dcterms:title>Norumbega Castle, exterior</dcterms:title>
+   <dcterms:creator>Jennings, Arthur Bates (American architect, 1849-1927) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1991</dcterms:created>
+   <dcterms:description>General view; front</dcterms:description>
+   <dcterms:description>Arthur Bates Jennings, architect. Random rubble, frame with shingling; 3 1/2 stories, irregular shape, gabled roof sections; broken skyline with stone stepped gable ends, semielliptical oriel with conical roof, and high chimneys; gabled entrance porch on stone piers with large lunette in gable, side and rear wrap-around porch, wing with decorative patterned shingling and open porte-cochere on 1st-floor level. Queen Anne. Rugged mansion built for Joseph B. Stearns, who became wealthy from invention of duplex telegraphy, by which 2 messages could be sent simultaneously over the same wire. Private; not accessible to the public. digitalcorpora.org/corp/nps/files/govdocs1/445/445357.pdf [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Romanesque Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>country houses</dcterms:subject>
+   <dcterms:subject>Stearns, Joseph B. (Joseph Barker), 1831-1895</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>turrets (towers)</dcterms:subject>
+   <dcterms:subject>corbie gables</dcterms:subject>
+   <dcterms:subject>lunettes</dcterms:subject>
+   <dcterms:subject>balustrades</dcterms:subject>
+   <dcterms:subject>stonework</dcterms:subject>
+   <dcterms:subject>battlements</dcterms:subject>
+   <dcterms:spatial>63 High Street, Camden, Knox, Maine, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/07/03/14/4c0e538d-bc2f-4dc8-bb6e-71cd45a04b77_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_596989</edm:isShownAt>
+</mdRecord>

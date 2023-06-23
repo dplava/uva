@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:43 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2687968</dcterms:identifier>
+   <dcterms:title>Hoover Dam, general view</dcterms:title>
+   <dcterms:title>Boulder Dam</dcterms:title>
+   <dcterms:creator>Kaufmann, Gordon Bernie (English architect, 1888-1949, active in southern California) [work]</dcterms:creator>
+   <dcterms:creator>Six Companies, Inc. (American construction consortium, 20th century) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1982</dcterms:created>
+   <dcterms:medium>concrete; grout [work]</dcterms:medium>
+   <dcterms:description>View of the top of the dam from the Colorado side</dcterms:description>
+   <dcterms:description>Hoover Dam, once known as Boulder Dam, is a concrete arch-gravity dam in the Black Canyon of the Colorado River, on the border between the US states of Arizona and Nevada. ... Hoover Dam impounds Lake Mead, the largest reservoir in the United States by volume. The dam is located near Boulder City, Nevada, a municipality originally constructed for workers on the construction project, about 25 mi (40 km) southeast of Las Vegas, Nevada. The dam's generators provide power for public and private utilities in Nevada, Arizona, and California. Hoover Dam is a major tourist attraction; nearly a million people tour the dam each year. -- http://en.wikipedia.org/wiki/Hoover_Dam [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Art Deco</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>arch dams</dcterms:subject>
+   <dcterms:subject>gravity dams</dcterms:subject>
+   <dcterms:subject>United States. Bureau of Reclamation</dcterms:subject>
+   <dcterms:subject>Colorado River</dcterms:subject>
+   <dcterms:subject>transmission towers</dcterms:subject>
+   <dcterms:spatial>Black Canyon, Colorado River, Clark, Nevada, United States; Mohave, Arizona, United States; Mead, Lake, United States</dcterms:spatial>
+   <dcterms:spatial>36.015556, -114.737778</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/04/08/11/54bad826-6119-4501-904d-c014be48afc3_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2687968</edm:isShownAt>
+</mdRecord>

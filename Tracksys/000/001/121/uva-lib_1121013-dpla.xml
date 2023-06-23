@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 6:51 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1121013</dcterms:identifier>
+   <dcterms:title>Serenade = Ständchen : song / by Franz Schubert ; transcribed by Stephen Heller ; revised and fingered by Wm. Scharfenberg</dcterms:title>
+   <dcterms:title>Ständchen</dcterms:title>
+   <dcterms:title>Schubert, Franz, 1797-1828. Schwanengesang (Song cycle). Ständchen; arranged</dcterms:title>
+   <dcterms:creator>Heller, Stephen, 1813-1888</dcterms:creator>
+   <dcterms:creator>Scharfenberg, Wm. (William), 1819-1895</dcterms:creator>
+   <dcterms:creator>Schubert, Franz, 1797-1828</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1891</dcterms:created>
+   <dcterms:extent>5 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo; originally for voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: New songs and duets, selected from the catalogue of G. Schirmer, New York.</dcterms:description>
+   <dcterms:isPartOf>Lieder = Songs / by Franz Schubert ; transcribed for the piano by Stephen Heller ; no. 1</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music, Arranged</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1121014/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1121013</edm:isShownAt>
+</mdRecord>

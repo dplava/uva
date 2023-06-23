@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:37 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1463457</dcterms:identifier>
+   <dcterms:title>Brooke Mansion, exterior</dcterms:title>
+   <dcterms:creator>Furness, Frank (American architect, designer, 1839-1912) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1997-02</dcterms:created>
+   <dcterms:description>Detail view</dcterms:description>
+   <dcterms:description>The Brooke Mansion was built in 1888 by Edward Brooke II as a wedding present for his bride, Ann Louise Clingan. Brooke's ancestors emigrated to the United States from Yorkshire, England, in 1698. They acquired land in Birdsboro soon after their arrival and by 1800 had taken over the former Bird family assets in the Hay Creek area and Hopewell Furnace in Elverson. Known for his expressive designs, as one of the most inventive architects of his period, Frank Furness was commissioned by Edward Brooke. All fireplaces have a personality of their own and contain floral patterns designed by Furness. The cast iron work in the doors and windows as well as the fireplaces was produced at the Brooke foundry. Elaborate displays of fine ornate, wood craftsmanship and creative architectural design are found throughout the mansion. All woodwork is original, and many of the materials were imported from Europe. http://www.brookemansion.com/history/index.asp [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>High Victorian</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>historic houses</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>housing (concept)</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:subject>gauged arches</dcterms:subject>
+   <dcterms:subject>side lights (windows)</dcterms:subject>
+   <dcterms:subject>panel doors</dcterms:subject>
+   <dcterms:subject>art glass</dcterms:subject>
+   <dcterms:subject>door plates (finish hardware)</dcterms:subject>
+   <dcterms:subject>doorknobs</dcterms:subject>
+   <dcterms:spatial>301 Washington Street, Birdsboro, Berks, Pennsylvania, United States</dcterms:spatial>
+   <dcterms:spatial>40.260669, -75.812513</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/04/24/15/cbd2a286-04cc-4371-9319-4399e49d6dd5_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1463457</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:36 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1293815</dcterms:identifier>
+   <dcterms:title>What Wall?, general view</dcterms:title>
+   <dcterms:creator>Eric Owen Moss Architects (American architectural firm, contemporary) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2000</dcterms:created>
+   <dcterms:medium>cement (construction material) [work]</dcterms:medium>
+   <dcterms:description>The What Wall is a simple addition to a building that was originally an industrial warehouse. The new tenants, a software development company, are housed within the warehouse, with a new executive office and conference room bulging out in a counterpoint to the long flat wall. -- http://www.mimoa.eu/projects/United States/Culver City/What Wall [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Postmodern</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>office buildings</dcterms:subject>
+   <dcterms:subject>additions (general components)</dcterms:subject>
+   <dcterms:subject>warehouses</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>double-hung windows</dcterms:subject>
+   <dcterms:subject>shingle</dcterms:subject>
+   <dcterms:spatial>3524 Hayden Avenue, Culver City, Los Angeles, California, United States</dcterms:spatial>
+   <dcterms:spatial>34.026506, -118.380639</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/01/21/10/c8f3a98a-8891-4454-8791-269ea8714af4_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1293815</edm:isShownAt>
+</mdRecord>

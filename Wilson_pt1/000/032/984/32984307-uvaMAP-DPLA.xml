@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 12:02 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>32984307</dcterms:identifier>
+   <dcterms:title>Church of the Ascension, interior|general view</dcterms:title>
+   <dcterms:creator>Upjohn, Richard (American architect, 1802-1878) [architect, church]</dcterms:creator>
+   <dcterms:creator>White, Stanford (American architect, 1853-1906) [architect, interior renovation]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1840..1888]</dcterms:created>
+   <dcterms:medium>brownstone (material) [work]</dcterms:medium>
+   <dcterms:description>Nave looking toward altar, showing reredos and altar mural</dcterms:description>
+   <dcterms:description>pulpit designed by Charles Follen McKim; mosaics by D. Maitland Armstrong; reredos by Louis Saint-Gaudens; stained glass windows and altar mural by John LaFarge. -- https://en.wikipedia.org/wiki/Church_of_the_Ascension,_Episcopal_(Manhattan) [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Episcopal</dcterms:subject>
+   <dcterms:subject>naves</dcterms:subject>
+   <dcterms:subject>altars (religious building fixtures)</dcterms:subject>
+   <dcterms:subject>reredoses (screens)</dcterms:subject>
+   <dcterms:subject>mural paintings (visual works)</dcterms:subject>
+   <dcterms:subject>Saint-Gaudens, Louis (American sculptor, 1854-1913)</dcterms:subject>
+   <dcterms:subject>La Farge, John (American painter and author, 1835-1910)</dcterms:subject>
+   <dcterms:spatial>36–38 Fifth Avenue and West 10th Street, Greenwich Village, 36–38 Fifth Avenue and West 10th Street, New York, United States</dcterms:spatial>
+   <dcterms:spatial>40.733694, -73.996167</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/07/12/13/316c6972-5fcd-4b71-9620-d1cd8d80d0ef_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_32984307</edm:isShownAt>
+</mdRecord>

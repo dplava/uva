@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:40 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2057711</dcterms:identifier>
+   <dcterms:title>Arlington House, exterior|detail view</dcterms:title>
+   <dcterms:title>Custis-Lee Mansion</dcterms:title>
+   <dcterms:creator>Hadfield, George (American architect of English origin, born ca. 1763-1764, died 1826) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1803..1818]</dcterms:created>
+   <dcterms:description>West portico from side</dcterms:description>
+   <dcterms:description>The mansion was built for Mary Custis Lee's father George Washington Parke Custis, step-grandson of George Washington and grandson of Martha Dandridge Custis Washington. In 1874 Secretary of State Edwin Stanton ordered that a national cemetery be formally established on the grounds. Established as the Robert E. Lee Memorial, 1928. -- Loth, Virginia Landmarks Register, 19999 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Greek Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:subject>
+   <dcterms:subject>Arlington National Cemetery (Arlington, Va.)</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>porticoes</dcterms:subject>
+   <dcterms:spatial>319 Sherman Drive, Fort Myer, Arlington, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.882153, -77.073524</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/11/28/19/aff2869f-7e0b-4175-8746-653a1104f8f7_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2057711</edm:isShownAt>
+</mdRecord>

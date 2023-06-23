@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 7:35 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1143916</dcterms:identifier>
+   <dcterms:title>Love's dream after the ball = Songe d'amour après le bal : op. 356 / by A. Czibulka</dcterms:title>
+   <dcterms:title>Songe d amour après le bal</dcterms:title>
+   <dcterms:title>Czibulka, Alphons, 1842-1894. Liebestraum nach dem Balle; arr</dcterms:title>
+   <dcterms:creator>Czibulka, Alphons, 1842-1894</dcterms:creator>
+   <dcterms:publisher>Richard A. Saalfield</dcterms:publisher>
+   <dcterms:created>[1890..1899]</dcterms:created>
+   <dcterms:extent>7 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>Arranged for piano.</dcterms:description>
+   <dcterms:description>Date of composition: ca. 1890. Cf. Grove Music online.</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: The Saalfield series : popular dance folios.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music, Arranged</dcterms:subject>
+   <dcterms:subject>Waltzes</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1143917/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1143916</edm:isShownAt>
+</mdRecord>

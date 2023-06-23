@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 7:54 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1229349</dcterms:identifier>
+   <dcterms:title>Portraits and authograph signatures of the framers and signers of the Declaration of Independence, Philadelphia, July 4th 1776</dcterms:title>
+   <dcterms:title>Declaration centennial 1776 1876</dcterms:title>
+   <dcterms:title>Portraits and autograph signatures of the framers and signers of the Declaration of Independence</dcterms:title>
+   <dcterms:creator>Albert H. Small Declaration of Independence Collection (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Centennial Portrait and Authograph Co.</dcterms:creator>
+   <dcterms:creator>Hobart, John Henry Jr, 1775-1830</dcterms:creator>
+   <dcterms:creator>Hunter, Thomas, approximately 1828-approximately 1894</dcterms:creator>
+   <dcterms:publisher>Published by the Centennial Portrait and Authograph Co., Philada.</dcterms:publisher>
+   <dcterms:created>1876</dcterms:created>
+   <dcterms:extent>1 print</dcterms:extent>
+   <dcterms:extent>44 x 41 cm.</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:medium>lithographs</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"Copyright, 1874, by J.H. Hobart, Jr."</dcterms:description>
+   <dcterms:description>Individual cameo portraits and facsimile signatures of 50 of the signers of the Declaration, with another 7 signers representated by facsimile signature only. "Declaration 1776" appears in a circle at the upper left; "Centennial 1876" on the right. With insets of the Liberty Bell, the "State House in 1876," a military emblem and "Carpenters Hall, where the first Congress met."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Removed from acidic mounts. Albert H. Small Deposit, June, 2004.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>United States.--Declaration of Independence--Signers--Portraits</dcterms:subject>
+   <dcterms:spatial>Philadelphia, Pennsylvania, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1308641/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1229349</edm:isShownAt>
+</mdRecord>

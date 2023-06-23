@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:29 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>188530</dcterms:identifier>
+   <dcterms:title>Wightwick Manor, exterior|general view</dcterms:title>
+   <dcterms:creator>Mawson, Thomas Hayton (British landscape architect and city planner, 1861-1933) [work]</dcterms:creator>
+   <dcterms:creator>Ould, Edward Augustus Lyle (British architect, 1852/1853-1909) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1975</dcterms:created>
+   <dcterms:medium>brick (clay product); half-timber construction [work]</dcterms:medium>
+   <dcterms:description>Facade, entrance</dcterms:description>
+   <dcterms:description>built for industrialist Theodore Mander and his wife Flora. The house contains works and furniture by Rossetti, Morris &amp; Co, Kempe, and De Morgan. Thomas Hayton Mawson was responsible for the gardens. [work]</dcterms:description>
+   <dcterms:description>English</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Victorian</dcterms:description>
+   <dcterms:description>Tudor Revival</dcterms:description>
+   <dcterms:description>Arts and Crafts (movement)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>manor houses</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>landscape architecture</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:spatial>Wightwick Bank, Wolverhampton, West Midlands, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>52.5834, -2.1944</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/18/22/6bb3f668-cf8b-4abd-9fc0-1eaf483d4d41_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_188530</edm:isShownAt>
+</mdRecord>

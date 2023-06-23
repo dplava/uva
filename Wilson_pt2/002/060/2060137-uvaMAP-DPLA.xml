@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:42 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2060137</dcterms:identifier>
+   <dcterms:title>Saint Stephen's Church, exterior|general view</dcterms:title>
+   <dcterms:title>New North Church</dcterms:title>
+   <dcterms:title>New North Meeting House</dcterms:title>
+   <dcterms:creator>Bulfinch, Charles (American architect, 1763-1844) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1802..1804]</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Facade</dcterms:description>
+   <dcterms:description>... built in 1802-04 as the New North Church or New North Meeting House. ... It is the only one of the five churches Bulfinch designed in Boston to remain extant. The Congregationalist church became Unitarian in 1813, and the church was sold to the Roman Catholic Diocese in 1862, and renamed St. Stephen's. It was restored and renovated in 1964-65 by Chester F. Wright. -- https://en.wikipedia.org/wiki/St._Stephen%27s_Church_(Boston,_Massachusetts) [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Federal</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Congregational</dcterms:subject>
+   <dcterms:subject>Unitarianism</dcterms:subject>
+   <dcterms:subject>Roman Catholicism</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>bell towers</dcterms:subject>
+   <dcterms:subject>Palladian windows</dcterms:subject>
+   <dcterms:subject>Diocletian windows</dcterms:subject>
+   <dcterms:spatial>401 Hanover Street, Boston, Suffolk, Massachusetts, United States</dcterms:spatial>
+   <dcterms:spatial>42.365614, -71.052808</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2021/11/18/13/6ab67336-7589-4408-8c68-ad1e431d541b_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2060137</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 6:44 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1063592</dcterms:identifier>
+   <dcterms:title>Essais de Michel Seigneur de Montaigne</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>L'Angelier, Abel, active 1572-1609</dcterms:creator>
+   <dcterms:creator>Montaigne, Michel de, 1533-1592</dcterms:creator>
+   <dcterms:publisher>Chez Abel L'Angelier au premier pillier de la grand Salle du Palais</dcterms:publisher>
+   <dcterms:created>1588</dcterms:created>
+   <dcterms:extent>[4], 496 (i.e. 504) leaves</dcterms:extent>
+   <dcterms:extent>25 cm. (4to)</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Cinquiesme edition,</dcterms:description>
+   <dcterms:description>Signatures: ã⁴ A-Zz⁴ AAa-LLLLLl⁴.</dcterms:description>
+   <dcterms:description>Error in pagination: nos. 169-176 omitted.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Bookplate of J.C.F. Jacobi. Unidentified armorial bookplate with motto "Sans varier." Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 214.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1074547/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1063592</edm:isShownAt>
+</mdRecord>

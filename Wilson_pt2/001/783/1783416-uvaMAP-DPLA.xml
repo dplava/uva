@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:38 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1783416</dcterms:identifier>
+   <dcterms:title>Grand Opera House, interior|general view</dcterms:title>
+   <dcterms:title>Masonic Hall and Grand Theater</dcterms:title>
+   <dcterms:title>The Grand</dcterms:title>
+   <dcterms:creator>Dixon, Thomas (American architect, 1819-1886) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1984</dcterms:created>
+   <dcterms:description>Seating</dcterms:description>
+   <dcterms:description>The Grand Opera House, also known as The Grand or Masonic Hall and Grand Theater, is a 1,208-seat theater for the performing arts in Wilmington, Delaware. The four-story building was built in 1871 by the Delaware Grand Lodge of Masons to serve as a Masonic Temple and auditorium. The construction cost was $100,000. It was designed in Second Empire style by Baltimore architect Thomas Dixon and incorporates symbolism from Freemasonry into the cast-iron facade. Historically, the Grand hosted a variety of operas, symphonies, Victorian melodramas, minstrel shows, burlesque, vaudeville, and other exhibitions, including performers such as Ethel Barrymore, "Buffalo Bill" Cody and John Philip Sousa. For most of the twentieth century the Grand was operated exclusively as a movie theater, run by Warner Brothers from 1930 and eventually closing in 1967. It was reopened four years later and returned to programming emphasizing classical music, partnering with the Delaware Symphony Orchestra, OperaDelaware, and the First State Ballet Theatre. It was listed on the National Register of Historic Places in 1972 with assertions of both architectural and historical significance. It was argued it is "one of the finest remaining examples of 19th century cast iron architecture in America" and that it has important association with events and persons in Delaware's history. In 1973, management was turned over to a non-profit organization and the building underwent extensive restoration, which was completed in 1976. -- http://en.wikipedia.org/wiki/Grand_Opera_House_%28Wilmington,_Delaware%29 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Second Empire</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Freemasons. Grand Lodge of Delaware</dcterms:subject>
+   <dcterms:subject>Delaware Symphony Orchestra</dcterms:subject>
+   <dcterms:subject>OperaDelaware</dcterms:subject>
+   <dcterms:subject>First State Ballet Theatre</dcterms:subject>
+   <dcterms:subject>theaters (buildings)</dcterms:subject>
+   <dcterms:subject>masonic buildings</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>auditoriums</dcterms:subject>
+   <dcterms:subject>seating</dcterms:subject>
+   <dcterms:subject>balconies</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>balustrades</dcterms:subject>
+   <dcterms:subject>chandeliers (hanging lights)</dcterms:subject>
+   <dcterms:spatial>818 North Market Street, Wilmington, New Castle, Delaware, United States</dcterms:spatial>
+   <dcterms:spatial>39.743889, -75.548611</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/08/07/12/29f6272a-c007-41d6-a212-ebedf0e35cfa_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1783416</edm:isShownAt>
+</mdRecord>

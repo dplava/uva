@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 2:30 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003546</dcterms:identifier>
+   <dcterms:title>Richmond [1862-1865] / from surveys under the direction of Bvt. Brig. Gen. N. Michler, Maj. of Engineers and Bvt. Lieut. Col. P.S. Michie, Capt. of Engineers by command of Bvt. Maj. Genl. A.A. Humpreys, Brig. Genl. &amp; Chief of Engineers, 1867 ; surveyed &amp; drawn by Maj. J.E. Weyss, assisted by F. Theilkuhl, J. Strasser &amp; G. Thompson</dcterms:title>
+   <dcterms:creator>Bien, Julius, 1826-1909</dcterms:creator>
+   <dcterms:creator>Humphreys, A. A. (Andrew Atkinson), 1810-1883</dcterms:creator>
+   <dcterms:creator>Michie, Peter Smith, 1839-1901</dcterms:creator>
+   <dcterms:creator>Michler, N. (Nathaniel), 1827-1881</dcterms:creator>
+   <dcterms:creator>N.Y. Lith. &amp; Eng. Co.</dcterms:creator>
+   <dcterms:creator>Weyss, J. E.</dcterms:creator>
+   <dcterms:publisher>Photolith. by the N.Y. Lithographic, Engraving &amp; Printing Co., Julius Bien, Supt.</dcterms:publisher>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>56 x 85 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>In this issue, troop positions are shown in red and blue, but the background and river are not colored.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Imperfect: marginal chips and tears, with lose of text at bottom centerfold.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:21,120]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Richmond (Va.)--Maps</dcterms:subject>
+   <dcterms:subject>Virginia--History--Civil War, 1861-1865--Maps</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Maps</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>Richmond (Va.)</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904681/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003546</edm:isShownAt>
+</mdRecord>

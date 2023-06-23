@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>596931</dcterms:identifier>
+   <dcterms:title>Saint Andrew's Episcopal Church, exterior|general view</dcterms:title>
+   <dcterms:title>St. Andrew's Episcopal Church</dcterms:title>
+   <dcterms:creator>Vaughan, Henry (American architect, 1845-1917) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1992</dcterms:created>
+   <dcterms:medium>half-timber construction [work]</dcterms:medium>
+   <dcterms:description>Entrance</dcterms:description>
+   <dcterms:description>Captain William T. Glidden was a wealthy ship owner, merchant and an original director of the Union Pacific Railroad. Glidden lived in Newcastle and Boston and was frequently in England, a possible source of acquaintance with the British architect Henry Vaughan. Vaughan came to America on Glidden’s Atlantic Clipper and lived with the Gliddens in the large, white house on Glidden Street, called Riverside. During this time he designed not only St. Andrew’s Church, but also a large Georgian home for the Glidden family at the end of Glidden Street, named Gladisfen. The exterior of St. Andrew’s is unique in its “half-timber” style, popular in England in the 15th century. St. Andrew’s is one of the first American buildings to employ this style. While not a direct copy of any church building, Vaughan was clearly inspired by St. Peter’s, Melverley, Shropshire, England, built in 1406. The exterior of the church gives very little hint as to the extraordinary richness of the interior. The church, according to Vaughan’s own description “ is divided into seven bays by arches which form the principals of the roof. The chancel consists of two bays and has an arched roof (barrel-vaulted) divided by ribs into square panels and decorated with emblems and monograms. The nave has an open timber roof.” https://standrewsnewcastle.org/about-us/our-history/history-of-st-andrews-church-building-and-grounds/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Arts and Crafts (movement)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>bargeboards</dcterms:subject>
+   <dcterms:subject>leaded lights</dcterms:subject>
+   <dcterms:subject>helm roofs</dcterms:subject>
+   <dcterms:subject>lanterns (roof appendages)</dcterms:subject>
+   <dcterms:subject>porches</dcterms:subject>
+   <dcterms:spatial>11 Glidden Street, Newcastle, Lincoln, Maine, United States</dcterms:spatial>
+   <dcterms:spatial>44.035499, -69.53308</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/07/03/14/19444418-a040-4ca5-b151-660343198057_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_596931</edm:isShownAt>
+</mdRecord>

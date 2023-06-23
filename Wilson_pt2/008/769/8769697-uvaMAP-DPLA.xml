@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:49 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8769697</dcterms:identifier>
+   <dcterms:title>Berry Hill Plantation, exterior</dcterms:title>
+   <dcterms:creator>Dabbs, Josiah (American contractor, 1803-1862) [work]</dcterms:creator>
+   <dcterms:creator>Johnson, John E. (American architect, mid-19th century) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1991</dcterms:created>
+   <dcterms:description>Facade and driveway</dcterms:description>
+   <dcterms:description>"The plantation was originally owned by Isaac Coles, and began using black slaves in 1803. In 1814 and 1841, the plantation changed owners, finally ending up under the control of James Coles Bruce in 1832. Bruce built several additional structures on the land, including a temple-like Greek revival mansion, and stone slave quarters, which remain today. The plantation also holds one of the largest slave cemeteries in Virginia, holding the graves of more than two hundred slaves. It was one of the largest plantations to ever exist in Virginia." -- http://en.wikipedia.org/wiki/Berry_Hill_Plantation [work]</dcterms:description>
+   <dcterms:description>Currently [2015] functioning as The Berry Hill Resort &amp; Conference Center. -- http://www.berryhillresort.com/ Currently functioning as The Berry Hill Resort &amp; Conference Center. -- http://www.berryhillresort.com/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Greek Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>historic sites</dcterms:subject>
+   <dcterms:subject>plantation houses</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>resorts</dcterms:subject>
+   <dcterms:subject>convention centers</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>pediments</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:subject>driveways</dcterms:subject>
+   <dcterms:spatial>3105 River Road, Halifax, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>36.698611, -78.944167</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/02/23/10/5f511aa3-f80b-4916-9b19-e102760ef9e3_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8769697</edm:isShownAt>
+</mdRecord>

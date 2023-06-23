@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 2:17 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65866</dcterms:identifier>
+   <dcterms:title>Thesaurus brevium: Or, A collection of approved forms of writs, and pleadings to those writs, and entries of those writs and pleadings: together with their special directions to all cities and boroughs. Also, an exact table of the writs and pleadings therein contained / Collected and published for the publick good, by J. C</dcterms:title>
+   <dcterms:publisher>Printed by W. Rawlins, S. Roycroft and M. Flesher, assigns of Richard and Edward Atkins, esquires, for T. Basset, R. Clavel, T. Dring, J. Robinson, A. Churchill, and S. Leigh</dcterms:publisher>
+   <dcterms:created>1687</dcterms:created>
+   <dcterms:extent>[32], 310, [82] p. 31 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>The 2d ed. corrected and enlarged.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Writs--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2378599/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65866</edm:isShownAt>
+</mdRecord>

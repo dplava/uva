@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-16 at 3:03 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28097708</dcterms:identifier>
+   <dcterms:title>Shack Mountain, general view</dcterms:title>
+   <dcterms:title>Tusculum</dcterms:title>
+   <dcterms:creator>Kimball, Sidney Fiske (American architect and architectural historian, 1888-1955) [architect]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1935..1936]</dcterms:created>
+   <dcterms:medium>brick (clay product); Flemish bond [work]</dcterms:medium>
+   <dcterms:description>Formal garden, winter</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Colonial Revival</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>country houses</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>formal gardens</dcterms:subject>
+   <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.092208, -78.501217</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/09/21/16/01454177-a4ff-4491-8498-b444852f93a7_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28097708</edm:isShownAt>
+</mdRecord>

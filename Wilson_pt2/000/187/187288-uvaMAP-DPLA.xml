@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:28 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>187288</dcterms:identifier>
+   <dcterms:title>Prison Ship Martyrs' Monument, detail view</dcterms:title>
+   <dcterms:creator>McKim, Mead, and White (American architectural firm, 1879-1910) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1980</dcterms:created>
+   <dcterms:extent>H.: 149-foot (45 m) [work]</dcterms:extent>
+   <dcterms:medium>granite (rock) [work]</dcterms:medium>
+   <dcterms:description>Entrance</dcterms:description>
+   <dcterms:description>During the Revolutionary War, the British kept American prisoners on ships in Wallabout Bay under terrible conditions. Around 11,500 prisoners died from disease and malnutrition. Olmsted and Vaux envisioned a crypt to hold their remains, with an appropriate monument. It was built, and the remains of the prisoners were re-interred there in 1873. A small monument was also built. [work]</dcterms:description>
+   <dcterms:description>Eventually, funds were raised for a larger monument. The architectural firm of McKim, Mead, and White won a design competition, and the monument was unveiled in 1908 by President-elect William Howard Taft. -- https://en.wikipedia.org/wiki/Fort_Greene_Park [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>monuments</dcterms:subject>
+   <dcterms:subject>parks (recreation areas)</dcterms:subject>
+   <dcterms:subject>open spaces</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>Doric order</dcterms:subject>
+   <dcterms:subject>graffiti</dcterms:subject>
+   <dcterms:spatial>Brooklyn, New York, United States</dcterms:spatial>
+   <dcterms:spatial>40.6918, -73.9756</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/18/01/c30abaf2-351c-40d5-837f-da119c190bb9_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_187288</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 12:00 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>29966847</dcterms:identifier>
+   <dcterms:title>Betteshanger House, exterior|detail view</dcterms:title>
+   <dcterms:title>Northbourne Park School</dcterms:title>
+   <dcterms:creator>Devey, George (English architect, 1820-1886) [work]</dcterms:creator>
+   <dcterms:creator>Lugar, Robert (British architect and writer, born ca. 1773-1855) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1986</dcterms:created>
+   <dcterms:description>Entrance doors</dcterms:description>
+   <dcterms:description>House first designed in the Gothic style by Richard Lugar, 1845; remodeled 1856-1893 to designs of George Devey. Converted to a private preparatory school, 1933. -- https://www.northbournepark.com/history.aspx [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>preparatory schools</dcterms:subject>
+   <dcterms:subject>double doors</dcterms:subject>
+   <dcterms:subject>surrounds</dcterms:subject>
+   <dcterms:spatial>Northbourne, Kent, England, United Kingdom</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2021/03/15/12/e9b79291-bc3c-4495-b951-ec7591f86d25_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_29966847</edm:isShownAt>
+</mdRecord>

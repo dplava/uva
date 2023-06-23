@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:34 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>748350</dcterms:identifier>
+   <dcterms:title>National and University Library of Slovenia, exterior</dcterms:title>
+   <dcterms:title>NUK</dcterms:title>
+   <dcterms:title>Narodna in univerzitetna knjižnica</dcterms:title>
+   <dcterms:creator>Plečnik, Jože (Slovene architect, 1872-1957) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1983</dcterms:created>
+   <dcterms:medium>brick (clay product); stone (rock) [work]</dcterms:medium>
+   <dcterms:description>North view</dcterms:description>
+   <dcterms:description>The National and University Library (Slovene: Narodna in univerzitetna knjižnica, NUK), established in 1774, is one of the most important national educational and cultural institutions of Slovenia -- http://en.wikipedia.org/wiki/National_and_University_Library_of_Slovenia [work]</dcterms:description>
+   <dcterms:description>Slovene</dcterms:description>
+   <dcterms:description>Sezessionstil</dcterms:description>
+   <dcterms:description>Modern (styles and periods)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>academic libraries</dcterms:subject>
+   <dcterms:subject>national libraries</dcterms:subject>
+   <dcterms:subject>windows</dcterms:subject>
+   <dcterms:subject>dentils</dcterms:subject>
+   <dcterms:subject>crosswalks</dcterms:subject>
+   <dcterms:subject>cornices</dcterms:subject>
+   <dcterms:subject>vehicles (transportation)</dcterms:subject>
+   <dcterms:spatial>Turjaška 1, Ljubljana, miscellaneous/Slovenia, Slovenia</dcterms:spatial>
+   <dcterms:spatial>46.047628, 14.50382</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/09/11/12/4bfaa01f-0183-4900-a436-1ddcaa4f5d89_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_748350</edm:isShownAt>
+</mdRecord>

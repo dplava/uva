@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:729613</dcterms:identifier>
+   <dcterms:title>Le imprese heroiche et morali / ritrouate da m. Gabriello Symeoni Fiorentino, al Gran Conestabile di Francia</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Rouillé, Guillaume, 1518?-1589</dcterms:creator>
+   <dcterms:creator>Simeoni, Gabriele, 1509-1575</dcterms:creator>
+   <dcterms:creator>Thibaron-Joly (Firm)</dcterms:creator>
+   <dcterms:publisher>Appresso Guglielmo Rouillio</dcterms:publisher>
+   <dcterms:created>1559</dcterms:created>
+   <dcterms:extent>51, [1] p.</dcterms:extent>
+   <dcterms:extent>22 cm. (4to)</dcterms:extent>
+   <dcterms:medium>ill.</dcterms:medium>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>Signatures: a-f⁴ g².</dcterms:description>
+   <dcterms:description>According to Brunet, the two works are ordinarily found together.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Second title in volume with: Dialogo dell' imprese militari et amorose di Monsignor Giovio. --In Lione, 1559. Binder: Thibaron-Joly. Unidentified armorial binding, crest, with motto, Victor et fidelis. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 395.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Emblems--Italy--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Italy</dcterms:spatial>
+   <dcterms:spatial>Lyon, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:731221/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:729613</edm:isShownAt>
+</mdRecord>

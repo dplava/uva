@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 10:28 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2015042</dcterms:identifier>
+   <dcterms:title>Parc de la Creueta del Coll, detail view</dcterms:title>
+   <dcterms:creator>MBM, Arquitectos (Spanish architectural firm, contemporary) [work]</dcterms:creator>
+   <dcterms:creator>Meyer, Elizabeth [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2001-01</dcterms:created>
+   <dcterms:description>Quarry remnant in lower plaza</dcterms:description>
+   <dcterms:description>Abandoned quarry turned into swimming park. [work]</dcterms:description>
+   <dcterms:description>Spanish</dcterms:description>
+   <dcterms:isPartOf>Elizabeth Meyer Barcelona Landscapes Collection</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>landscape architecture</dcterms:subject>
+   <dcterms:subject>quarries (extracting complexes)</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>promenades (walkways)</dcterms:subject>
+   <dcterms:subject>plazas</dcterms:subject>
+   <dcterms:spatial>Carrer Mare de Deu del Coll, Barcelona, Catalonia, Spain</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/03/18/13/23841039-a22d-4291-a1a9-067e4c8ef232_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2015042</edm:isShownAt>
+</mdRecord>

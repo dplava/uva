@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 12:02 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>31980758</dcterms:identifier>
+   <dcterms:title>Athenaeum, exterior|detail view</dcterms:title>
+   <dcterms:creator>Kaufmann, Gordon Bernie (English architect, 1888-1949, active in southern California) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2000</dcterms:created>
+   <dcterms:description>Entrance facade, arcade column, spandrel with roundel of an airplane and statue</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Mediterranean Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>clubs (associations)</dcterms:subject>
+   <dcterms:subject>clubhouses</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>arcades (structural assemblies)</dcterms:subject>
+   <dcterms:subject>spandrels (wall components)</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>roundels (circular panels)</dcterms:subject>
+   <dcterms:subject>statues</dcterms:subject>
+   <dcterms:spatial>San Pasqual Street, Pasadena, Los Angeles, California, United States</dcterms:spatial>
+   <dcterms:spatial>34.136838, -118.121679</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/01/18/18/869b9cb6-1f7c-421b-b4cd-80403dc13b01_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_31980758</edm:isShownAt>
+</mdRecord>

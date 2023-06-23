@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:59 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28288449</dcterms:identifier>
+   <dcterms:title>San Antonio Museum of Art, interior|general view</dcterms:title>
+   <dcterms:title>Lone Star Brewery</dcterms:title>
+   <dcterms:creator>Beckmann, Albert F. (American architect, active 1883-1891) [work]</dcterms:creator>
+   <dcterms:creator>E. Jugenfeld and Company (American architectural firm, late 19th century) [work]</dcterms:creator>
+   <dcterms:creator>Wahrenberger, James W. (American architect, 1855-1929) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1986</dcterms:created>
+   <dcterms:description>Skybridge joining east and west wings</dcterms:description>
+   <dcterms:description>from 1921, served various commercial purposes. Purchased for conversion to the San Antonio Musseum of Art 1970; opened to the public 1981. -- https://www.samuseum.org/about/our-history/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>factories (structures)</dcterms:subject>
+   <dcterms:subject>industrial buildings</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>art museums</dcterms:subject>
+   <dcterms:subject>skybridges</dcterms:subject>
+   <dcterms:spatial>200 West Jones Avenue, San Antonio, Bexar, Texas, United States</dcterms:spatial>
+   <dcterms:spatial>29.402166, -98.488294</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/06/12/13/93d42e4d-061d-4f4d-970d-390009647bfb_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28288449</edm:isShownAt>
+</mdRecord>

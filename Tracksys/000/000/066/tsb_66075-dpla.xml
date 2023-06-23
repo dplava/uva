@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 2:22 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66075</dcterms:identifier>
+   <dcterms:title>Les plees del corone, diuisees in plusors titles &amp; common lieux: per queux home pluis redement &amp; plenairement trouera quelq[ue] chose que il quira, touchant les dits plees / composes per le tresreuerend iudge, monsieur Guilliaulme Staunforde chiualer</dcterms:title>
+   <dcterms:creator>Rastell, William, 1508?-1565</dcterms:creator>
+   <dcterms:creator>Staunford, William Sir, 1509-1558</dcterms:creator>
+   <dcterms:publisher>Ex typographia Societatis Stationariorum [by Adam Islip</dcterms:publisher>
+   <dcterms:created>1607</dcterms:created>
+   <dcterms:extent>[12], 198 leaves</dcterms:extent>
+   <dcterms:extent>19 cm. (4to)</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Dernierment corrigee, auecques vn table parfaicte des choses notables contenus en ycelle, nouelment reueu &amp; corrigee, oue ascun nouel additions.</dcterms:description>
+   <dcterms:description>Printer statement from STC.</dcterms:description>
+   <dcterms:description>Law French, Latin and English.</dcterms:description>
+   <dcterms:description>"Cest table ne fuit collect ne fait per monsieur Stanford, mes per vn auter. Viz. William Rastell ..."--verso of 12th prelim. leaf.</dcterms:description>
+   <dcterms:description>Signatures: [par.]⁸ 2[par.]⁴ A-Z⁸ &amp;⁸ [rum]⁶.</dcterms:description>
+   <dcterms:description>Title vignette; initials.</dcterms:description>
+   <dcterms:description>LAW: Bound with: Staunford, William, Sir. An exposition of the king's prerogatiue ... London : Printed for the Company of Stationers, 1607.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:description>LAW: Bound with: Staunford, William, Sir. An exposition of the king's prerogatiue ... London : Printed for the Company of Stationers, 1607.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Pleas of the crown</dcterms:subject>
+   <dcterms:subject>Capital punishment--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2510810/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66075</edm:isShownAt>
+</mdRecord>

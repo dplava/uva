@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 12:02 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>31535642</dcterms:identifier>
+   <dcterms:title>Villa d'Este, exterior|general view</dcterms:title>
+   <dcterms:title>Villa d'Este Hotel</dcterms:title>
+   <dcterms:creator>Tibaldi, Pellegrino (Italian painter, sculptor, and architect, 1527-1596) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1983</dcterms:created>
+   <dcterms:description>Facade from lake</dcterms:description>
+   <dcterms:description>Italian</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>country houses</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>hotels (public accommodations)</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>lakes (bodies of water)</dcterms:subject>
+   <dcterms:spatial>Cernobbio, Como, Lago di, Lombardy, Italy</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2021/09/16/16/98aa6401-fdef-49e7-8777-154278d57f83_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_31535642</edm:isShownAt>
+</mdRecord>

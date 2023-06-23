@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:29 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>198127</dcterms:identifier>
+   <dcterms:title>Orchards, general view</dcterms:title>
+   <dcterms:creator>Lutyens, Edwin (English architect, 1869-1944) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1897..1899]</dcterms:created>
+   <dcterms:medium>sandstone [work]</dcterms:medium>
+   <dcterms:description>Courtyard and entrance</dcterms:description>
+   <dcterms:description>Orchards was the first in a series of successful designs by Lutyens for Arts and Crafts style country houses, larger than Munstead Wood but similarly using local styles of vernacular architecture. These included Goddards and Tigbourne Court in Surrey, Deanery Garden in Berkshire and Little Thakeham in Sussex. This series of designs established Lutyens's reputation. -- http://en.wikipedia.org/wiki/Orchards,_Surrey [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Arts and Crafts (movement)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>housing (concept)</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:spatial>Godalming, Surrey, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>51.180278, -0.581389</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/26/11/2cc13232-722f-4993-806d-45e9092d1b72_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_198127</edm:isShownAt>
+</mdRecord>

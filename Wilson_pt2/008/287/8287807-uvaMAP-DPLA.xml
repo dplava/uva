@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:48 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8287807</dcterms:identifier>
+   <dcterms:title>Llewellyn Park Gatehouse, exterior|general view</dcterms:title>
+   <dcterms:creator>Davis, Alexander Jackson (American architect and printmaker, 1803-1892) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1972</dcterms:created>
+   <dcterms:medium>stone (rock) [work]</dcterms:medium>
+   <dcterms:description>"Established in 1857, Llewellyn Park is listed in the National and State Historic Registers as both the first romantically landscaped and one of the first planned luxury estate communities in America." --http://www.llewellynpark.com/page/13266~93842/Highlights "The Gatehouse...was designed...to resemble Llewellyn Haskell's home, the Eerie, a farmhouse that Davis had transformed into a picturesque rustic wooden dwelling in 1853. The Gatehouse was built of native rock. Named Willow Lodge because it once overlooked Willow Lake and Willow Falls, the Gatehouse was once home to a caretaker and the Park's team of horses and wagon. The Gatehouse is now in the care of the Historical Society and is home to Llewellyn Park's archives, which include photographs, maps, clothing, memorabilia, and the Committee of Managers' records." --http://llewellynpark.com/Page/13266~101499/History-of-Llewellyn-Park [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Picturesque, the</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>lodges (caretakers' houses)</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>housing (concept)</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>archive repositories</dcterms:subject>
+   <dcterms:subject>planned communities</dcterms:subject>
+   <dcterms:subject>neighborhoods</dcterms:subject>
+   <dcterms:subject>urban planning</dcterms:subject>
+   <dcterms:subject>cones (geometric figures)</dcterms:subject>
+   <dcterms:subject>roofs</dcterms:subject>
+   <dcterms:subject>gates</dcterms:subject>
+   <dcterms:subject>driveways</dcterms:subject>
+   <dcterms:spatial>1 Park Way, Llewellyn Park, West Orange, Essex, New Jersey, United States</dcterms:spatial>
+   <dcterms:spatial>40.782172, -74.238351</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/01/26/11/76851bb4-5f54-4b31-a195-bd596aec4e3f_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8287807</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:48 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8287816</dcterms:identifier>
+   <dcterms:title>Glenmont, general view</dcterms:title>
+   <dcterms:creator>Holly, Henry Hudson (American architect, 1834-1892) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1972</dcterms:created>
+   <dcterms:description>East facade</dcterms:description>
+   <dcterms:description>"Thomas Edison resided at Glenmont, his 29 room Victorian mansion, for over half of his lifetime. Its architect, Henry Hudson Holly, is considered to be the father of the Queen-Anne style architectural movement in the United States. Holly's crowning achievement, Glenmont, was part of a working estate which presently contains six outbuildings, including a barn and a greenhouse." -- http://www.nps.gov/edis/learn/historyculture/glenmont-collections.htm [work]</dcterms:description>
+   <dcterms:description>"Established in 1857, Llewellyn Park is listed in the National and State Historic Registers as both the first romantically landscaped and one of the first planned luxury estate communities in America." --http://www.llewellynpark.com/page/13266~93842/Highlights [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Queen Anne Style</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>historic buildings</dcterms:subject>
+   <dcterms:subject>historic house museums</dcterms:subject>
+   <dcterms:subject>houses</dcterms:subject>
+   <dcterms:subject>planned communities</dcterms:subject>
+   <dcterms:subject>neighborhoods</dcterms:subject>
+   <dcterms:subject>urban planning</dcterms:subject>
+   <dcterms:subject>Edison, Thomas Alva (American inventor, 1847-1931)</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:subject>awnings</dcterms:subject>
+   <dcterms:subject>recessed balconies</dcterms:subject>
+   <dcterms:subject>lawns (landscaped grass)</dcterms:subject>
+   <dcterms:spatial>211 Main Street, Llewellyn Park, West Orange, Essex, New Jersey, United States</dcterms:spatial>
+   <dcterms:spatial>40.79857, -74.239083</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/01/26/11/68763ad0-cea0-46c3-bd47-589cd1c63c42_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8287816</edm:isShownAt>
+</mdRecord>

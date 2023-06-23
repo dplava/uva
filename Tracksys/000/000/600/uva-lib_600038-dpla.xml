@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:04 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:600038</dcterms:identifier>
+   <dcterms:title>Verdun A / Groupe des canevas de tir</dcterms:title>
+   <dcterms:title>Ligne avancee des tranchées franc̦aises à la date du 12 Aout 1918</dcterms:title>
+   <dcterms:creator>France. Armée Groupe de canevas de tir.</dcterms:creator>
+   <dcterms:creator>United States. Army. Corps of Engineers. Regiment, 29th.</dcterms:creator>
+   <dcterms:publisher>Groupe de canevas de tir</dcterms:publisher>
+   <dcterms:created>1918</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>100 x 66 cm. on sheet 107 x 76 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>contours</dcterms:medium>
+   <dcterms:medium>Lambert projection.</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>28e edition</dcterms:description>
+   <dcterms:description>Relief shown by contour lines and spot heights.</dcterms:description>
+   <dcterms:description>"Ligne avancee des tranchées franc̦aises à la date du 12 Aout 1918" printed in red over the imprint of the Base Printing Plant 29th Engineers, 1918 in lower right margin.</dcterms:description>
+   <dcterms:description>Trench positions overprinted in red on a topographic base map (Sheet 199) of the area to the northwest of Verdun, which does not actually appear on the map. The trench line runs just south of Boureuilles and Vauquois, north of Avocourt and south of Malancourt.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: From the Joseph P. Ast World War I papers, MSS 13905-a.</dcterms:description>
+   <dcterms:description>Scale 1:20,000;</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Ast, Joseph Phillip, 1882-1975--Library--Personal copy</dcterms:subject>
+   <dcterms:subject>World War, 1914-1918--France--Meuse--Trench warfare--Maps, Topographic</dcterms:subject>
+   <dcterms:subject>Meuse (France)--Maps, Topographic</dcterms:subject>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Meuse</dcterms:spatial>
+   <dcterms:spatial>Meuse (France)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096922/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:600038</edm:isShownAt>
+</mdRecord>

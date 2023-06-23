@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 2:33 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1004259</dcterms:identifier>
+   <dcterms:title>A sketch of the environs of Charlestown in South Carolina</dcterms:title>
+   <dcterms:creator>Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1729-1824</dcterms:creator>
+   <dcterms:creator>Sproule, George, 1741-1817</dcterms:creator>
+   <dcterms:publisher>J.F.W. Des Barres</dcterms:publisher>
+   <dcterms:created>1780</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>40 x 55 cm.</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:medium>bathymetry/soundings</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Version of the map with statement of responsibility "By Captain Geo. Sproule, Assistant Engineer on the Spot" and imprint date removed, and with the table key expanded to A-L and a-k; uncolored; on Bates paper.</dcterms:description>
+   <dcterms:description>For a description of the variants of this map, see National Maritime Museum Collections Online, entry HNS 163.</dcterms:description>
+   <dcterms:description>From: J.F.W. Des Barres. Atlantic Neptune.</dcterms:description>
+   <dcterms:description>Relief shown by hachures; depths by soundings.</dcterms:description>
+   <dcterms:description>Shows positions of British units involved in the 1780 attack on Charleston.</dcterms:description>
+   <dcterms:description>Table of references identifies movements and major positions.</dcterms:description>
+   <dcterms:description>Shows coastal area from Spencers Inlet southwestward to Edisto Island</dcterms:description>
+   <dcterms:description>Scale [ca. 1:132,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Charleston County (S.C.)--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Charleston (S.C.)--Siege, 1780--Maps</dcterms:subject>
+   <dcterms:subject>South Carolina--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>United States--History--Revolution, 1775-1783--Maps</dcterms:subject>
+   <dcterms:temporal>Revolution, 1775-1783</dcterms:temporal>
+   <dcterms:spatial>Charleston (S.C.)</dcterms:spatial>
+   <dcterms:spatial>Charleston County (S.C.)</dcterms:spatial>
+   <dcterms:spatial>South Carolina</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:625475/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004259</edm:isShownAt>
+</mdRecord>

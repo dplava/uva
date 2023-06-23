@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:59 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28155475</dcterms:identifier>
+   <dcterms:title>University City City Hall, exterior|general view</dcterms:title>
+   <dcterms:title>Women's Magazine Building</dcterms:title>
+   <dcterms:creator>Chivers, Herbert C. (American architect, active 20th century) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1985</dcterms:created>
+   <dcterms:medium>brick (clay product); limestone [work]</dcterms:medium>
+   <dcterms:description>Facade</dcterms:description>
+   <dcterms:description>The current University City City Hall building was built by magazine publisher and businessman Edward Gardner Lewis, a native of Connecticut who came to St. Louis, Missouri. in the late 1890s. In 1902, Lewis purchased 85 acres several miles west of downtown St. Louis. The tract would become the nucleus for the streetcar suburb of University City. Between 1902 and 1915 he built the Woman's Magazine Building, an Egyptian temple and an Art Academy. By 1915, he had moved his base of operations to Atascadero, California. The Magazine Building briefly sat vacant, until it was dedicated as the new city hall on November 1, 1930. -- https://en.wikipedia.org/wiki/City_Hall_(University_City,_Missouri) [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Beaux-Arts</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>government office buildings</dcterms:subject>
+   <dcterms:subject>municipal buildings</dcterms:subject>
+   <dcterms:subject>public buildings</dcterms:subject>
+   <dcterms:subject>corporate headquarters</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:spatial>University City, Saint Louis, Missouri, United States</dcterms:spatial>
+   <dcterms:spatial>38.6569, -90.3104</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/05/15/13/99a1119e-c205-4f99-978e-d7b446559b17_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28155475</edm:isShownAt>
+</mdRecord>

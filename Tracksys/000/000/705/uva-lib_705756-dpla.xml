@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:30 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:705756</dcterms:identifier>
+   <dcterms:title>Kingsland Reach</dcterms:title>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1913</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>20 x 41 cm.</dcterms:extent>
+   <dcterms:medium>bathymetry/soundings</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Water depths shown by spot heights.</dcterms:description>
+   <dcterms:description>"NB-Depths refer to low tide and are shown in feet and tenths. Proposed jetty work shown thus..."</dcterms:description>
+   <dcterms:description>"James River, Va.,-Location of jetties proposed to be constructed in James River, Va., under advertisement of ...1913."</dcterms:description>
+   <dcterms:description>Shows the Kingsland Reach area of the James River, south of Richmond.</dcterms:description>
+   <dcterms:description>The Annual report of the U.S. War Dept. for 1913 mentions work at Kingsland Reach under contract with the maryland Dredging and Contracting Co., Feb. 1913.</dcterms:description>
+   <dcterms:description>Scale 1:4,800; 1 inch = 400 ft.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Jetties--Virginia--James River--Maps</dcterms:subject>
+   <dcterms:subject>James River (Va.)--Navigation--Maps</dcterms:subject>
+   <dcterms:subject>James River (Va.)--Maps</dcterms:subject>
+   <dcterms:spatial>James River</dcterms:spatial>
+   <dcterms:spatial>James River (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:711671/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:705756</edm:isShownAt>
+</mdRecord>

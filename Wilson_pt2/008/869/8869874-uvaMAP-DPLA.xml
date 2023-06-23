@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:49 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8869874</dcterms:identifier>
+   <dcterms:title>Bondurant's Pharmacy, general view</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1999</dcterms:created>
+   <dcterms:description>"Bondurant's Pharmacy is a pharmacy that operated from 1974 to 2011, and is notable for being built in the shape of a giant mortar and pestle, a common tool of the pharmacist. The building is located on Village Drive near Versailles Road (US 60) in Lexington, Kentucky. The pharmacy closed in May 2011, with Walgreens acquiring its customer files. The building now houses a liquor store. The pestle projects ten feet above the building which is thirty feet high. It has a diameter of about thirty two feet. There are two drive-thru windows, along with parking spaces for customers who want to walk into the store. The second floor was initially designed as an apartment for the pharmacist. This example of mimetic architecture was designed by Daniel M. Brewer for Mr. Joseph A. Bondurant, and the design of the building was covered by a now-expired patent." -- en.wikipedia.org/wiki/Bondurant's_Pharmacy [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Modern (styles and periods)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>commercial buildings</dcterms:subject>
+   <dcterms:subject>mimetic buildings</dcterms:subject>
+   <dcterms:spatial>Lexington, Fayette, Kentucky, United States</dcterms:spatial>
+   <dcterms:spatial>38.047778, -84.549444</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/03/04/14/e22a8da3-a159-48fb-83df-0d093a8512de_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8869874</edm:isShownAt>
+</mdRecord>

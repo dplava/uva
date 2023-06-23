@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:28 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>187831</dcterms:identifier>
+   <dcterms:title>Leicester Square Cottages, exterior|general view</dcterms:title>
+   <dcterms:creator>Devey, George (English architect, 1820-1886) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1979</dcterms:created>
+   <dcterms:medium>brick (clay product); rag (stone); half-timber construction [work]</dcterms:medium>
+   <dcterms:description>Cottage over the Bridge and the East cottages</dcterms:description>
+   <dcterms:description>Located between the church yard and the road. Consists of three cottages. The bridge that spans between the east and west blocks forms the gateway to the church yard and according to the original scheme was the third cottage. The cottages were a precursor to the Arts and Crafts Movement in England. Devey was interested in several of the principles that would later form some of the core themes of Arts and Crafts. For more information: Allibone, George Devey, Architect 1820-1886 [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Tudor Revival</dcterms:description>
+   <dcterms:description>Arts and Crafts (movement)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>cottages</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:spatial>Between the road and the church yard of St. John the Baptist., Penshurst, Kent, England, United Kingdom</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/18/10/13d23fad-8dce-4106-8731-b095973e321f_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_187831</edm:isShownAt>
+</mdRecord>

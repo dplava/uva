@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:46 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>3802578</dcterms:identifier>
+   <dcterms:title>Mount Hope Bridge, detail view</dcterms:title>
+   <dcterms:creator>Steinman, David Barnard (American architect 1887-1960) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1985</dcterms:created>
+   <dcterms:description>Support members</dcterms:description>
+   <dcterms:description>...a two-lane suspension bridge spanning the Mount Hope Bay in eastern Rhode Island, at one of the narrowest gaps in Narragansett Bay. The bridge connects the Rhode Island towns of Portsmouth and Bristol, and is part of Route 114. Its towers are 285 feet (87 m) tall, the length of the main span is 1,200 feet (366 m) and it offers 135 feet (41 m) of clearance over high water. The total length of the bridge is 6,130 feet (1,868 m). -- http://en.wikipedia.org/wiki/Mount_Hope_Bridge#cite_note-nris-1 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>transportation structures</dcterms:subject>
+   <dcterms:subject>infrastructure</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>braces (supporting elements)</dcterms:subject>
+   <dcterms:spatial>Bristol, Rhode Island, United States</dcterms:spatial>
+   <dcterms:spatial>41.639886, -71.258206</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/10/02/10/91cb2eec-f9c6-4064-9bea-0688395f8931_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_3802578</edm:isShownAt>
+</mdRecord>

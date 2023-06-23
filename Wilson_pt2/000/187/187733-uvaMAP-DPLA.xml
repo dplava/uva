@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:28 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>187733</dcterms:identifier>
+   <dcterms:title>Lichfield Cathedral, exterior|detail view</dcterms:title>
+   <dcterms:creator>Scott, George Gilbert, I (English architect, 1811-1878) [work]</dcterms:creator>
+   <dcterms:creator>Scott, George Gilbert, II (English architect, 1839-1897) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Wyatt, James (English architect, 1746-1813) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1976</dcterms:created>
+   <dcterms:medium>sandstone [work]</dcterms:medium>
+   <dcterms:description>Gallery of Kings</dcterms:description>
+   <dcterms:description>Founded in 669 by St. Chad, Bishop of the Mercians. The present church replaces earlier Saxon and Norman foundations. The present church was begun c. 1190. The later cathedral's dates are as follows: Choir: 1220; Consistory Court and Chapel of St. Chad: 1200-1220; transepts 1230-40; chapter house: 1240; nave: 1260; west front: 1280; crossing tower: 1300; east end: 1310; west spires: 1320-30. Masons associated with the construction: Thomas c.1230-50 and William, his son, 1250-1265; Thomas Wallace 1265-80; William of Eyton c. 1320-36; William Ramsey 1337. The cathedral was greatly damaged during the civil wars. Restoration followed in which the Perpendicular elements were added in the 17th century. Between 1788-1795, James Wyatt began the restoration of the cathedral at which time the four western choir arches were removed, the buttress added to the south transept, and the central spire rebuilt. Further restoration followed. In 1857, George Gilbert Scott took over the restoration and his son continued his work until 1901. Much of the cathedral is Scott's work. -- Pevsner, Staffordshire, 1974 [work]</dcterms:description>
+   <dcterms:description>English</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Early English</dcterms:description>
+   <dcterms:description>Perpendicular Style</dcterms:description>
+   <dcterms:description>Victorian</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>restoration (process)</dcterms:subject>
+   <dcterms:subject>Roman Catholicism</dcterms:subject>
+   <dcterms:subject>Anglican (Church of England)</dcterms:subject>
+   <dcterms:subject>restoration (process)</dcterms:subject>
+   <dcterms:subject>sculpture (visual works)</dcterms:subject>
+   <dcterms:subject>statues</dcterms:subject>
+   <dcterms:spatial>Lichfield, Staffordshire, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>52.6855, -1.8305</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/18/09/c9d480c1-48c6-4032-b7ea-4e2dec9a4717_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_187733</edm:isShownAt>
+</mdRecord>

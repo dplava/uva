@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>571024</dcterms:identifier>
+   <dcterms:title>Rackham Court, exterior|detail view</dcterms:title>
+   <dcterms:creator>Maybeck, Bernard Ralph (American architect and artist, 1862-1957) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2003</dcterms:created>
+   <dcterms:medium>brick (clay product); cedar; Indiana limestone; half-timber construction [work]</dcterms:medium>
+   <dcterms:description>Southwest face and entrance</dcterms:description>
+   <dcterms:description>This men's dormitory has a couple of intimate courtyards and a separate living room. The mixture of brick and half-timber is similar to that of Anderson Hall. The rubblestone surrounds on the living room windows imply repairs to the existing Tudor forms. The main interior staircase has Gothic iron banisters and lavish use of wooden forms. These forms imprint their varied pattern on the concrete walls and ceiling. Maybeck's roofing tile was replaced in 1991 with tiles similar in form, color, and installation technique to those used on the original 1934 roof. Because of the unusual "oozing mortar" technique, Maybeck requested on-site models of the brick and roof sections to be photographed and sent to him in San Francisco for approval before construction. http://www.principia.edu/maybeck/build/rackham.htm [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Arts and Crafts (movement)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>classrooms</dcterms:subject>
+   <dcterms:subject>student housing</dcterms:subject>
+   <dcterms:subject>Tudor arches</dcterms:subject>
+   <dcterms:subject>surrounds</dcterms:subject>
+   <dcterms:subject>brickwork (masonry)</dcterms:subject>
+   <dcterms:subject>casement windows</dcterms:subject>
+   <dcterms:spatial>1 Maybeck Place, Elsah, Jersey, Illinois, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/06/04/18/b9a71798-5084-4205-a6a7-baa947e35655_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_571024</edm:isShownAt>
+</mdRecord>

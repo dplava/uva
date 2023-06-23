@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:59 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28528077</dcterms:identifier>
+   <dcterms:title>Nyborg Castle, exterior|general view</dcterms:title>
+   <dcterms:title>Nyborg Slot</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1981</dcterms:created>
+   <dcterms:medium>stone (rock); brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Gable end and tower</dcterms:description>
+   <dcterms:description>Established around 1170, the moated castle was originally square-shaped with corner towers connected by a curtain wall. A residential building (palatium) was constructed next to the west wall in the mid-13th century and a strong defensive tower was built on the east wall. It was here that King Eric V signed Denmark's first constitution in 1282. Until 1413, the palatium was the main venue for the Danehof or medieval parliament. The castle was seriously damaged during the Dano-Swedish War (1657–58). Thereafter, most of the buildings were torn down, the stone being used from 1722 for the construction of Odense Palace. The castle was restored from 1917 to 1923 by Mogens Clemmensen. It then became a museum. -- https://en.wikipedia.org/wiki/Nyborg_Slot [work]</dcterms:description>
+   <dcterms:description>Danish</dcterms:description>
+   <dcterms:description>Medieval</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>fortifications</dcterms:subject>
+   <dcterms:subject>royal residences</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:subject>corbie gables</dcterms:subject>
+   <dcterms:spatial>Slotsgade 34, Nyborg, Funen, Fyn, Denmark</dcterms:spatial>
+   <dcterms:spatial>55.313889, 10.787778</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/07/30/13/9ff3d533-e173-4649-9722-5296e136159f_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28528077</edm:isShownAt>
+</mdRecord>

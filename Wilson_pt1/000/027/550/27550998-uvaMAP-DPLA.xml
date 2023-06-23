@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:57 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>27550998</dcterms:identifier>
+   <dcterms:title>Flying Yankee, general view</dcterms:title>
+   <dcterms:creator>Budd Company (American manufacturer and metal fabricator, 1912-2014) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1987</dcterms:created>
+   <dcterms:medium>stainless steel [work]</dcterms:medium>
+   <dcterms:description>Front of engine</dcterms:description>
+   <dcterms:description>The Flying Yankee was a diesel-electric streamliner built in 1935 for the Maine Central Railroad and the Boston and Maine Railroad by Budd Company and with mechanical and electrical equipment from Electro-Motive Corporation. It was also the name of a passenger train, the third streamliner train in North America ... It ceased passenger service in 1957. -- https://en.wikipedia.org/wiki/Flying_Yankee [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Streamlined Moderne</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Science, Technology and Industry</dcterms:subject>
+   <dcterms:subject>railroads</dcterms:subject>
+   <dcterms:subject>engines (power producing equipment)</dcterms:subject>
+   <dcterms:subject>railroad cars</dcterms:subject>
+   <dcterms:subject>passenger trains</dcterms:subject>
+   <dcterms:subject>Boston and Maine Railroad</dcterms:subject>
+   <dcterms:subject>Maine Central Railroad Company</dcterms:subject>
+   <edm:preview>https://stor.artstor.org/iiif/2020/02/04/14/eea728ba-d5eb-47d9-a0c0-945c5f17816e_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_27550998</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:48 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8366712</dcterms:identifier>
+   <dcterms:title>Bacon's Castle, exterior|general view</dcterms:title>
+   <dcterms:title>Arthur Allen House</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1993</dcterms:created>
+   <dcterms:description>"...also variously known as "Allen's Brick House" or the "Arthur Allen House" is located in Surry County, Virginia, USA, and is Virginia's oldest documented brick dwelling. Built in 1665, it is noted as an extremely rare example of Jacobean architecture in the New World. The house became known as "Bacon's Castle" because it was occupied as a fort or "castle" by the followers of Nathaniel Bacon during Bacon's Rebellion in 1676. However, contrary to popular folklore, Bacon never lived at Bacon's Castle, nor is he even known to have visited it. Today Bacon's Castle is an historic house museum and historic site open for guest visitation. Bacon's Castle is an official Preservation Virginia historic site and operates under its 501 (c)(3) not-for-profit status." -- http://en.wikipedia.org/wiki/Bacon%27s_Castle [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Jacobean</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>houses</dcterms:subject>
+   <dcterms:subject>housing (concept)</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>Bacon's Rebellion, 1676</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:spatial>Surry, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>37.109027, -76.722384</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/01/30/14/bcc15496-22b5-40e9-b642-734ca42fea35_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8366712</edm:isShownAt>
+</mdRecord>

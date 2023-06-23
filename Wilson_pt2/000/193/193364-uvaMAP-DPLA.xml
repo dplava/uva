@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:29 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>193364</dcterms:identifier>
+   <dcterms:title>United States Treasury Building, interior|general view</dcterms:title>
+   <dcterms:creator>Mills, Robert (American architect, 1781-1855) [work]</dcterms:creator>
+   <dcterms:creator>Mullett, Alfred Bult (American architect, 1834-1890) [work]</dcterms:creator>
+   <dcterms:creator>Taylor, James Knox (American architect, 1857-ca. 1929) [work]</dcterms:creator>
+   <dcterms:creator>Walter, Thomas Ustick (American architect, 1804-1887) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Young, Ammi B. (American architect, 1798-1874) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1836..1870]</dcterms:created>
+   <dcterms:medium>sandstone; granite (rock) [work]</dcterms:medium>
+   <dcterms:description>Andrew Johnson Suite (Offices of the Secretary of the Treasury, 1864-1875), after restoration to 1860s appearance</dcterms:description>
+   <dcterms:description>East and center sections by Mills, 1836-1842. West wing by Walters, 1851. 1853 Ammi B. Young named supervising architect, merged Mills and Walters designs with added south wing. South wing construction 1855-1858. West wing construction 1855-1864. Construction of North wing supervised by Alfred Bult Mullett, 1867-1870. East wing facade renovated 1907-1910 by James Knox Taylor. Renovation, remodeling and restoration projects completed 1950s-2007. — https://home.treasury.gov/system/files/301/web%20version%20Architectural%20History%20Treasury%20Building_0.pdf [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Greek Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>treasuries (buildings)</dcterms:subject>
+   <dcterms:subject>offices (work spaces)</dcterms:subject>
+   <dcterms:subject>conference rooms</dcterms:subject>
+   <dcterms:subject>fireplaces</dcterms:subject>
+   <dcterms:subject>mantels</dcterms:subject>
+   <dcterms:subject>chandeliers (hanging lights)</dcterms:subject>
+   <dcterms:subject>restoration (process)</dcterms:subject>
+   <dcterms:spatial>1500 Pennsylvania Avenue, NW, Washington, District of Columbia, United States</dcterms:spatial>
+   <dcterms:spatial>38.897556, -77.034278</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/20/09/05366893-73fa-4a81-b8d0-0724a5e1d24d_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_193364</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-16 at 3:09 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28119699</dcterms:identifier>
+   <dcterms:title>Sprigg Lane Dormitories, exterior|general view</dcterms:title>
+   <dcterms:creator>Marcellus, Wright, Cox and Smith (American architectural firm, contemporary) [architectural firm]</dcterms:creator>
+   <dcterms:creator>Palazzo, Clay S. [photographer]</dcterms:creator>
+   <dcterms:creator>Stern, Robert A. M. (American architect and art historian, born 1939) [architect]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1989-03</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Facade showing three entrance doors, chimenys, and central engaged portico</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Georgian Revival</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>group dwellings</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>porticoes</dcterms:subject>
+   <dcterms:subject>double-hung windows</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:subject>brickwork (masonry)</dcterms:subject>
+   <dcterms:spatial>Sprigg Lane, Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/05/06/14/8d5e5306-668a-40af-8f1d-09e94a554c4d_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28119699</edm:isShownAt>
+</mdRecord>

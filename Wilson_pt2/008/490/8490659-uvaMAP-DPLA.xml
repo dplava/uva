@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:48 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8490659</dcterms:identifier>
+   <dcterms:title>Seven Oaks, exterior|general view</dcterms:title>
+   <dcterms:creator>Renwick, James, Jr (American architect, 1818-1895) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2004</dcterms:created>
+   <dcterms:description>Side and back view</dcterms:description>
+   <dcterms:description>"... Seven Oaks was built for Augustus O. Bourn, the founder of the National Rubber Company (and from 1883 to 1885 governor of Rhode Island), who lived here until his death in 1925..." -- http://sah-archipedia.org/detail%2Fcontent%2Fentries%2FRI-01-BR26.xml?q=type%3Amansions [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>houses</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>Bourn, Augustus Osborn, 1834-</dcterms:subject>
+   <dcterms:subject>spires</dcterms:subject>
+   <dcterms:subject>gables (architectural elements)</dcterms:subject>
+   <dcterms:subject>windows</dcterms:subject>
+   <dcterms:subject>screened porches</dcterms:subject>
+   <dcterms:subject>finials</dcterms:subject>
+   <dcterms:subject>pavilions (building divisions)</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:subject>turrets (towers)</dcterms:subject>
+   <dcterms:spatial>136 Hope Street, Bristol, Rhode Island, United States</dcterms:spatial>
+   <dcterms:spatial>41.662335, -71.27167</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/02/10/16/b1258b66-5430-4d11-9f7d-df3704fc5931_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8490659</edm:isShownAt>
+</mdRecord>

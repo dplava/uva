@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 12:00 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>29522121</dcterms:identifier>
+   <dcterms:title>Little Town Club, exterior|general view</dcterms:title>
+   <dcterms:creator>Smith, George Washington (American architect, 1876-1930) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1975</dcterms:created>
+   <dcterms:description>Facade, entrance porch</dcterms:description>
+   <dcterms:description>One of the oldest women's organizations in Santa Barbara ... in 1923, the club engaged George Washington Smith, the area’s best-known architect, to completely redo the building. -- https://www.independent.com/2011/01/10/little-town-club/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Spanish Colonial Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>recreation buildings</dcterms:subject>
+   <dcterms:subject>clubs (associations)</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>porches</dcterms:subject>
+   <dcterms:spatial>27 East Carrillo Street, Santa Barbara, California, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/12/18/18/94f3a439-9069-4ea6-991e-1bcab1abaa22_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_29522121</edm:isShownAt>
+</mdRecord>

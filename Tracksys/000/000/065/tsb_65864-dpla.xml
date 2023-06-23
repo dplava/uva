@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 2:17 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65864</dcterms:identifier>
+   <dcterms:title>Privilegia Londini: or, the rights, liberties, privileges, laws, and customs, of the City of London. Wherein are contained; I. The several charters granted to the said city, from K. William I. to the present times. II. The magistrates and officers thereof, with their respective creations, elections, rights, duties, and authorities. III. The laws and customs of the city, as the same relate either to the persons or estates of the citizens .. IV. The nature, jurisdiction, practice, and proceedings of the several courts thereof, with tables of fees relating thereto. V. The several statutes concerning the said city, and citizens, alphabetically digested</dcterms:title>
+   <dcterms:creator>Bohun, William.</dcterms:creator>
+   <dcterms:publisher>Printed for John Walthoe and James Crokatt</dcterms:publisher>
+   <dcterms:created>1723</dcterms:created>
+   <dcterms:extent>xvi, 498, [22], 16 p. 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>The 3d ed., with large additions.</dcterms:description>
+   <dcterms:description>Edition statement precedes author statement on t.p.</dcterms:description>
+   <dcterms:description>Advertisements: p. 1-16 (second group).</dcterms:description>
+   <dcterms:description>Includes indexes.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Customary law--England--London</dcterms:subject>
+   <dcterms:subject>Courts--England--London</dcterms:subject>
+   <dcterms:subject>London (England)--Charters, grants, privileges</dcterms:subject>
+   <dcterms:subject>London (England)--Politics and government</dcterms:subject>
+   <dcterms:spatial>England</dcterms:spatial>
+   <dcterms:spatial>London</dcterms:spatial>
+   <dcterms:spatial>London (England)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2377603/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65864</edm:isShownAt>
+</mdRecord>

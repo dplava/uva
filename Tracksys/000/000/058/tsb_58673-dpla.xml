@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 12:56 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>tsb:58673</dcterms:identifier>
+   <dcterms:title>Antiseptic pastilles bottle</dcterms:title>
+   <dcterms:creator>William R. Warner &amp; Co. [manufacturer]</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1876~/1940~</dcterms:created>
+   <dcterms:extent>10.3 x 4.2 x 4.2 cm [original]</dcterms:extent>
+   <dcterms:medium>glass (material); paper (fiber product); corks (stoppers) [original]</dcterms:medium>
+   <dcterms:description>The yellow label on bottle and box are marked: "G228 50, Antiseptic pastilles, Warner, As suggested by Dr. Carl Seiler." The contents of each tablet is given. Label also reads "William R. Warner &amp; Co., Inc. Manufacturing Pharmaceutists Laboratories New York St. Louis." Company name is embossed on the side of the bottle.</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:description>Donated by Ann Chopivsky [original]</dcterms:description>
+   <dcterms:description>Owned by Dr. Chopivsky [original]</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:subject>Medicine bottles--Drugs-Packaging</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1526770/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58673</edm:isShownAt>
+</mdRecord>

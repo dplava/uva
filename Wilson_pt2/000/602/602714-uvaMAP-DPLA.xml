@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>602714</dcterms:identifier>
+   <dcterms:title>Boston University Law Tower, exterior</dcterms:title>
+   <dcterms:title>Boston University Law School</dcterms:title>
+   <dcterms:creator>Sert, Josep Lluís (American architect, 1902-1983) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1975</dcterms:created>
+   <dcterms:medium>concrete [work]</dcterms:medium>
+   <dcterms:description>View from across the street</dcterms:description>
+   <dcterms:description>In 1964 BU Law occupied the bottom half of the current building, 765 Commonwealth Avenue on the Charles River Campus, colloquially known as the "Tower." BU Law shared the Tower with the School of Education for some years but now occupies the entire building. -- http://en.wikipedia.org/wiki/Boston_University_School_of_Law [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Spanish</dcterms:description>
+   <dcterms:description>Brutalist</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>high-rise buildings</dcterms:subject>
+   <dcterms:subject>windows</dcterms:subject>
+   <dcterms:subject>streetscapes</dcterms:subject>
+   <dcterms:spatial>765 Commonwealth Avenue, Boston, Suffolk, Massachusetts, United States</dcterms:spatial>
+   <dcterms:spatial>42.350499, -71.109607</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/07/10/10/afa9725e-3e06-4469-9395-21245995eae4_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_602714</edm:isShownAt>
+</mdRecord>

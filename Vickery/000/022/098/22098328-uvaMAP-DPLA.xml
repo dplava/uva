@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-16 at 2:06 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>22098328</dcterms:identifier>
+   <dcterms:title>Carmo Lift, general view</dcterms:title>
+   <dcterms:title>Elevador de Santa Justa</dcterms:title>
+   <dcterms:title>Elevador do Carmo</dcterms:title>
+   <dcterms:title>Santa Justa Lift</dcterms:title>
+   <dcterms:creator>Mesnier de Ponsard, Raoul (Portuguese mechanical engineer, 1849-1914) [work]</dcterms:creator>
+   <dcterms:creator>Vickery, Robert L. (American architect and university professor) [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1971</dcterms:created>
+   <dcterms:description>From below</dcterms:description>
+   <dcterms:isPartOf>Robert Vickery: Marks Upon the Land</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Photographs</dcterms:subject>
+   <dcterms:subject>vertical conveying systems</dcterms:subject>
+   <dcterms:subject>Gothic Revival</dcterms:subject>
+   <dcterms:subject>iron (metal)</dcterms:subject>
+   <dcterms:subject>Lisbon, Lisboa, Distrito de, Portugal</dcterms:subject>
+   <edm:preview>https://stor.artstor.org/iiif/2017/12/21/13/2871de70-9717-43a2-98b5-98e2c38d86bf_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_22098328</edm:isShownAt>
+</mdRecord>

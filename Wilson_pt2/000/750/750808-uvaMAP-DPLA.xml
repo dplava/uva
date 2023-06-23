@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:34 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>750808</dcterms:identifier>
+   <dcterms:title>The Brethren's Shop, exterior</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1824</dcterms:created>
+   <dcterms:description>General view</dcterms:description>
+   <dcterms:description>The Shakers erected the Brethren's Shop in 1824; it measures 48x36 feet, and it has two stories with an attic. It was built on the site of an earlier (1795) wheel shop and was constructed to provide work areas for the Shaker Brothers. [work]</dcterms:description>
+   <dcterms:description>The building was originally used by farmers, spinning wheel makers, shoemakers and physicians. The cellar was used for storing apples, cider, and wine. From 1869 to 1877, the northeast room on the first floor was used as a printing office. In 1921, the Shakers purchased a large, three-ton, walk-in safe in Concord, New Hampshire, and installed it on the first floor. [work]</dcterms:description>
+   <dcterms:description>The Brethren's Shop now houses the Shaker Village's administrative offices. -- http://www.shakers.org/brethrens-shop.html [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>historic buildings</dcterms:subject>
+   <dcterms:subject>Shaker (Christian sect)</dcterms:subject>
+   <dcterms:subject>religious communities (built complexes)</dcterms:subject>
+   <dcterms:subject>gable roofs</dcterms:subject>
+   <dcterms:subject>brackets (finish hardware)</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:spatial>288 Shaker Road, Canterbury, Merrimack, New Hampshire, United States</dcterms:spatial>
+   <dcterms:spatial>43.358889, -71.49</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/09/13/14/b0a0656c-b2c5-41a1-bd4f-517f6fa8acf1_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_750808</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 7:02 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1125962</dcterms:identifier>
+   <dcterms:title>Gallopade</dcterms:title>
+   <dcterms:publisher>J. Cole &amp; Son</dcterms:publisher>
+   <dcterms:created>[1834..1836]</dcterms:created>
+   <dcterms:extent>3 p. of music</dcterms:extent>
+   <dcterms:extent>33 cm.</dcterms:extent>
+   <dcterms:medium>ill.</dcterms:medium>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>For piano (4 hands).</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Title page illustration: two girls playing an ornately carved grand piano.</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v. 156, no. 5]</dcterms:isPartOf>
+   <dcterms:isPartOf>Sisters : a selection of popular &amp; esteemed airs arranged as duetts for two performers on the piano forte, by various authors ; no. 3</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music (4 hands)</dcterms:subject>
+   <dcterms:subject>Galops</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1125963/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125962</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:51 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28451936</dcterms:identifier>
+   <dcterms:title>The Pantheon, exterior|general view</dcterms:title>
+   <dcterms:creator>Soufflot, Jacques Germain (French architect, 1713-1780) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1757..1790]</dcterms:created>
+   <dcterms:description>Portico</dcterms:description>
+   <dcterms:description>Built at the behest of King Louis XV of France; the king intended it as a church dedicated to Saint Genevieve, Paris' patron saint, whose relics were to be housed in the church. [work]</dcterms:description>
+   <dcterms:description>By the time the construction was finished, the French Revolution had started, and the National Constituent Assembly voted in 1791 to transform the Church of Saint Genevieve into a mausoleum for the remains of distinguished French citizens, modelled on the Pantheon in Rome which had been used in this way since the 16th century. -- https://en.wikipedia.org/wiki/Panth%C3%A9on [work]</dcterms:description>
+   <dcterms:description>French</dcterms:description>
+   <dcterms:description>Rococo</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Roman Catholicism</dcterms:subject>
+   <dcterms:subject>mausoleums</dcterms:subject>
+   <dcterms:subject>porticoes</dcterms:subject>
+   <dcterms:spatial>Paris, Ville de Paris, Département de, Île-de-France, France</dcterms:spatial>
+   <dcterms:spatial>48.846111, 2.345833</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/07/10/18/b00d1d99-8911-42ff-9c98-27d181977f42_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28451936</edm:isShownAt>
+</mdRecord>

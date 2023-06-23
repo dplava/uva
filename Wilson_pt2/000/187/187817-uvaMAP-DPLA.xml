@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:28 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>187817</dcterms:identifier>
+   <dcterms:title>Arlington Memorial Bridge, general view</dcterms:title>
+   <dcterms:creator>Kendall, William Mitchell (American architect, 1856-1941) [work]</dcterms:creator>
+   <dcterms:creator>McKim, Mead, and White (American architectural firm, 1879-1910) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1973</dcterms:created>
+   <dcterms:extent>L: 2,163 feet (659 m) [work]</dcterms:extent>
+   <dcterms:medium>masonry; steel; stone (rock) [work]</dcterms:medium>
+   <dcterms:description>Looking toward the Lincoln Memorial</dcterms:description>
+   <dcterms:description>The Arlington Memorial Bridge crosses the Potomac River between the National Mall near the Lincoln Memorial and Columbia Island at Memorial Drive on the southern side. Project first proposed in the McMillan Plan for the monumental core and park system of Washington, D. C. in 1902. The bridge was constructed with a central bascule (drawbridge), which was permanently closed in 1961 and replaced in 2018 by one that does not open. — https://en.wikipedia.org/wiki/Arlington_Memorial_Bridge [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>bridges (built works)</dcterms:subject>
+   <dcterms:subject>drawbridges</dcterms:subject>
+   <dcterms:subject>urban planning</dcterms:subject>
+   <dcterms:subject>City Beautiful Movement</dcterms:subject>
+   <dcterms:subject>Potomac River, United States</dcterms:subject>
+   <dcterms:subject>Lincoln Memorial (Washington, D.C.)</dcterms:subject>
+   <dcterms:subject>sculpture (visual works)</dcterms:subject>
+   <dcterms:spatial>Potomac river near Arlington, Virginia, Washington, District of Columbia, United States</dcterms:spatial>
+   <dcterms:spatial>38.887222, -77.055556</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/18/10/3c82bb8d-4339-43f5-8b0b-7c94496ba440_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_187817</edm:isShownAt>
+</mdRecord>

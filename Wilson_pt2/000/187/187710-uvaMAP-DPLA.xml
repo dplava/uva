@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:28 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>187710</dcterms:identifier>
+   <dcterms:title>Great Maytham Hall, interior|general view</dcterms:title>
+   <dcterms:creator>Jekyll, Gertrude (English landscape architect and gardener, 1843-1932) [work]</dcterms:creator>
+   <dcterms:creator>Lutyens, Edwin (English architect, 1869-1944) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1981</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Hall from staircase landing</dcterms:description>
+   <dcterms:description>Original house constructed 1721-1760; partly destroyed by fire, 1893. In 1909, Lutyens constructed an addition around the original house, added a third a story and extended the length with both additional wings and pavilions. Gardens designed by Lutyens and Gertrude Jekyll. The house was allowed to decline after WWII; converted into flats in 1965. In 2003 the house was scheduled for sale. The house was briefly home to Frances Hodgson Burnett, the author of the Secret Garden, between 1898-1907. Burnett found the original 1721 walled garden and restored it, planting roses. She wrote several books in the garden. Lutyens and Jekyll kept Burnett's garden; destroyed in WWII with a victory garden; later restored. -- Wikipedia/ The Buildings of England: West Kent and the Weald [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Georgian Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>gardens</dcterms:subject>
+   <dcterms:subject>landscape architecture</dcterms:subject>
+   <dcterms:subject>Burnett, Frances Hodgson, 1849-1924</dcterms:subject>
+   <dcterms:subject>halls (interior spaces)</dcterms:subject>
+   <dcterms:subject>fireplaces</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>beams (structural elements)</dcterms:subject>
+   <dcterms:subject>chandeliers (hanging lights)</dcterms:subject>
+   <dcterms:subject>tall case clocks</dcterms:subject>
+   <dcterms:spatial>Rolvenden, Kent, England, United Kingdom</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/18/09/ef29fa73-3aca-4b20-a79a-82e4a78d02f6_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_187710</edm:isShownAt>
+</mdRecord>

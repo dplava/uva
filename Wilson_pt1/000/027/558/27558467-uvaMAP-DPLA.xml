@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:57 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>27558467</dcterms:identifier>
+   <dcterms:title>Basilica of Sainte Madeleine, interior|detail view</dcterms:title>
+   <dcterms:title>Basilica of Sainte-Marie-Madeleine</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1984</dcterms:created>
+   <dcterms:medium>stone (rock) [work]</dcterms:medium>
+   <dcterms:description>Choir and crossing, looking to west end</dcterms:description>
+   <dcterms:description>French</dcterms:description>
+   <dcterms:description>Romanesque</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Roman Catholicism</dcterms:subject>
+   <dcterms:subject>Benedictine</dcterms:subject>
+   <dcterms:spatial>Vézelay, Yonne, Burgundy, France</dcterms:spatial>
+   <dcterms:spatial>47.466389, 3.748611</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/02/05/18/46f132ce-8260-4c38-b04b-a8e4b57d4fa4_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_27558467</edm:isShownAt>
+</mdRecord>

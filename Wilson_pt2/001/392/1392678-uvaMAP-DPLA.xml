@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:37 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1392678</dcterms:identifier>
+   <dcterms:title>Indian Attack on the Village of Saint Louis 1780, general view</dcterms:title>
+   <dcterms:title>Battle of the the Village of St. Louis</dcterms:title>
+   <dcterms:creator>Berninghaus, Oscar Edward (American painter and illustrator, 1874-1952) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1989</dcterms:created>
+   <dcterms:medium>oil on canvas [work]</dcterms:medium>
+   <dcterms:description>This lunette is one of eight along the east end mezzanine that illustrate battle scenes. The view here shows a group of Sac and Fox Indians under the direction of the British firing rifles and aiming bows and arrows at settlers plowing fields outside St. Louis. In the background there is the fort at St. Louis, built near what is now Sixth Street and Franklin Avenue. Smoke from the settlers' cannon is visible coming from the fort, indicating the force with which the settlers defended the fort and won the battle. -- http://collections.si.edu/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Humanities and Social Sciences</dcterms:subject>
+   <dcterms:subject>Paintings</dcterms:subject>
+   <dcterms:subject>government office buildings</dcterms:subject>
+   <dcterms:subject>chambers (assembly spaces)</dcterms:subject>
+   <dcterms:subject>capitols</dcterms:subject>
+   <dcterms:subject>battles</dcterms:subject>
+   <dcterms:subject>lunettes</dcterms:subject>
+   <dcterms:spatial>201 West Capitol Avenue, Jefferson City, Cole, Missouri, United States</dcterms:spatial>
+   <dcterms:spatial>38.57912, -92.172991</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/03/26/11/6926da81-64f7-486a-88ed-1bbba7b42f8c_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1392678</edm:isShownAt>
+</mdRecord>

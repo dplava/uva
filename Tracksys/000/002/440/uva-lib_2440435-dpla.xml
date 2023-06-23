@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 10:04 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2440435</dcterms:identifier>
+   <dcterms:title>Pocket surgical instrument set</dcterms:title>
+   <dcterms:creator>Charles Willms Surgical Instrument Company [manufacturer]</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1871~/1892~</dcterms:created>
+   <dcterms:medium>metal; tortoise shell [original]</dcterms:medium>
+   <dcterms:description>Contained in leather and fabric case; C. Willms &amp; Co., Manufacturers of surgical instruments, Baltimore MD; set includes: male catheter - metal; female catheter tube - metal; aneurism needle - metal; aneurism needle with grooved director - metal; arterial serrefin forceps - metal; curved probe point scalpel and bistoury - shell and metal, Willms 8; trocar and canula - metal sterling; porte meche - sterling; finger knife and aneurism needle - shell and metal, Willms 2; gum lancet - shell and metal; fenestrated artery with needles forceps - metal; curved sharp tenotome and bistoury - shell and metal, Willms 15; curved probe tenaculum and bistoury - shell and metal, Willms; arterila serrefin forceps - metal; suture needle full curve - metal, 5 cm; half curve suture needle - metal, 3.25 cm; half curve suture needle, 2.75 cm; wire suture needle - metal, 3.75 cm; surgical silk fabric.</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2440435/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440435</edm:isShownAt>
+</mdRecord>

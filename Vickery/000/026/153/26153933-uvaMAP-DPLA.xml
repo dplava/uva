@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-16 at 2:12 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>26153933</dcterms:identifier>
+   <dcterms:title>Postparkasse, exterior</dcterms:title>
+   <dcterms:title>Austrian Postal Savings Bank</dcterms:title>
+   <dcterms:creator>Vickery, Robert L. (American architect and university professor) [photographer]</dcterms:creator>
+   <dcterms:creator>Wagner, Otto (Austrian architect, designer, theorist, 1841-1918) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1987</dcterms:created>
+   <dcterms:description>Façade</dcterms:description>
+   <dcterms:isPartOf>Robert Vickery: Marks Upon the Land</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Photographs</dcterms:subject>
+   <dcterms:subject>banks (financial institutions)</dcterms:subject>
+   <dcterms:subject>Vienna, Vienna state, Austria, exterior general view</dcterms:subject>
+   <edm:preview>https://stor.artstor.org/iiif/2019/08/29/20/c73ead73-13fc-4548-abbd-4ed0936dac45_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_26153933</edm:isShownAt>
+</mdRecord>

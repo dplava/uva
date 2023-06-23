@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:28 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>187403</dcterms:identifier>
+   <dcterms:title>Hever Castle, exterior|general view</dcterms:title>
+   <dcterms:creator>Pearson, Frank Loughborough (British architect, 1864-1947) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1996-07</dcterms:created>
+   <dcterms:medium>stone (rock) [work]</dcterms:medium>
+   <dcterms:description>Facade and entrance</dcterms:description>
+   <dcterms:description>Childhood home of Anne Boleyn, second wife of Henry VIII. There have been three main periods in the construction of this historic castle. The castle's oldest part dates to 1270 and consisted of the gatehouse and a walled bailey. The second period was when the castle, then in need of repair, was converted into a manor in 1462 by Geoffrey Boleyn, who added a Tudor dwelling within the walls. The third period of repair and renovation was 1903-1908, when it was acquired by William Waldorf Astor and restored by Frank Loughborough Pearson. —https://en.wikipedia.org/wiki/Hever_Castle; https://www.hevercastle.co.uk/ [work]</dcterms:description>
+   <dcterms:description>English</dcterms:description>
+   <dcterms:description>Medieval</dcterms:description>
+   <dcterms:description>Edwardian</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>manor houses</dcterms:subject>
+   <dcterms:subject>Anne Boleyn, Queen, consort of Henry VIII, King of England, 1507-1536</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:subject>moats</dcterms:subject>
+   <dcterms:subject>footbridges</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:spatial>near Edenbridge, Hever, Kent, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>51.187222, 0.114167</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/18/01/91837aa8-9d85-4235-9eb3-791561c6b014_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_187403</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 10:58 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>24832342</dcterms:identifier>
+   <dcterms:title>Carrel 4-15, northwest wall</dcterms:title>
+   <dcterms:creator>Lee, Jenny [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2019-04-22</dcterms:created>
+   <dcterms:medium>ball-point pens; graphite pencils [work]</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Reference to film Snakes on a Plane. Quotes attributed to Mark Twain and Oscar Wilde. Comparison of philosophers/mathematicians Kurt Friedrich Gödel and Bertrand Russell. One graffiti, half erased, expresses how tiresome it is living in uncertainty; another responds that life is tiring. Expression of pain and despair. [work]</dcterms:description>
+   <dcterms:description>Student graffiti art and messages inscribed on carrel walls in the new stacks, Alderman Library, University of Virginia, prior to the renovation of the building, 2020-2023. [host]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Series 1, image number 5 (left to right)</dcterms:description>
+   <dcterms:description>Snakes + Plane = Snakes on a Plane | Gödel &gt; Russell | "there is no essential incongruity between crime and culture" - Oscar Wilde | "Never put off til tomorrow what you can do the day after tomorrow." - Mark Twain | Not knowing things can be very tiresome. | life is tiring | What will make the pain go away?</dcterms:description>
+   <dcterms:isPartOf>Alderman Library Carrel Graffiti Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:subject>Mathematics</dcterms:subject>
+   <dcterms:subject>Quotations</dcterms:subject>
+   <dcterms:subject>Wilde, Oscar, 1854-1900</dcterms:subject>
+   <dcterms:subject>Twain, Mark, 1835-1910</dcterms:subject>
+   <dcterms:subject>Life</dcterms:subject>
+   <dcterms:subject>Despair</dcterms:subject>
+   <dcterms:subject>Procrastination</dcterms:subject>
+   <dcterms:subject>Crime</dcterms:subject>
+   <dcterms:subject>Motion pictures</dcterms:subject>
+   <dcterms:spatial>University of Virginia. Library. New Stacks. Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/04/23/14/c75af953-86fa-4f98-bd4c-bdac879a55d9_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_24832342</edm:isShownAt>
+</mdRecord>

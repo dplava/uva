@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:28 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>187190</dcterms:identifier>
+   <dcterms:title>Fuller Building, exterior|general view</dcterms:title>
+   <dcterms:creator>Walker and Gillette (American architectural partnership, contemporary) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1978</dcterms:created>
+   <dcterms:extent>H.: 492.13 feet (150.00 m) [work]</dcterms:extent>
+   <dcterms:medium>granite (rock); limestone; steel [work]</dcterms:medium>
+   <dcterms:description>Facade and entire tower block</dcterms:description>
+   <dcterms:description>The lower 12 floors of the building were designed specifically for art galleries, with high ceilings. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Art Deco</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>high-rise buildings</dcterms:subject>
+   <dcterms:subject>commercial buildings</dcterms:subject>
+   <dcterms:subject>office buildings</dcterms:subject>
+   <dcterms:subject>art galleries (buildings)</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>setbacks (formal concept)</dcterms:subject>
+   <dcterms:spatial>East 57th Street and Madison Avenue, New York, United States</dcterms:spatial>
+   <dcterms:spatial>40.7624, -73.9719</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/18/00/b74bf937-c1d4-49ab-b00b-a2476c9c9a3a_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_187190</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:36 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1307551</dcterms:identifier>
+   <dcterms:title>Sealy Monument, general view</dcterms:title>
+   <dcterms:creator>McKim, Mead, and White (American architectural firm, 1879-1910) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1979</dcterms:created>
+   <dcterms:description>View of monument and surroundings</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Decorative Arts, Utilitarian Objects and Interior Design</dcterms:subject>
+   <dcterms:subject>tombstones (sepulchral monuments)</dcterms:subject>
+   <dcterms:subject>memorials</dcterms:subject>
+   <dcterms:subject>cemeteries</dcterms:subject>
+   <dcterms:spatial>Trinity Episcopal Cemetery, Galveston, Galveston Island, Texas, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/02/01/12/63ee4900-2b64-463e-9598-a7246f3312f5_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1307551</edm:isShownAt>
+</mdRecord>

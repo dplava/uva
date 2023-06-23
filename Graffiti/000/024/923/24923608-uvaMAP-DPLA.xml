@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 10:59 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>24923608</dcterms:identifier>
+   <dcterms:title>Carrel 1M-5, lower shelf|front edge</dcterms:title>
+   <dcterms:creator>Lee, Jenny [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2019-06-05</dcterms:created>
+   <dcterms:medium>ball-point pens; markers (drawing instruments) [work]</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Quotation for "The Love Song of J. Alfred Prufrock," responses and tag line from "The X Files," statement against white supremacy [work]</dcterms:description>
+   <dcterms:description>Student graffiti art and messages inscribed on carrel walls in the new stacks, Alderman Library, University of Virginia, prior to the renovation of the building, 2020-2023. [host]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>The text within this image may be offensive to some.</dcterms:description>
+   <dcterms:description>Series 1, image number 3 (left to right)</dcterms:description>
+   <dcterms:description>Do I dare disturb the universe? | FUCK YEAH | Yes. | The truth is out there. | YAS | FUCK WHITE SUPREMACY</dcterms:description>
+   <dcterms:isPartOf>Alderman Library Carrel Graffiti Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:subject>Poetry</dcterms:subject>
+   <dcterms:subject>Eliot, T. S. (Thomas Stearns), 1888-1965</dcterms:subject>
+   <dcterms:subject>Television programs</dcterms:subject>
+   <dcterms:subject>Science fiction</dcterms:subject>
+   <dcterms:spatial>University of Virginia. Library. New Stacks. Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/05/08/12/12e2a470-7e66-482b-a72e-2baca064f3cc_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_24923608</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:50 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9125791</dcterms:identifier>
+   <dcterms:title>National Farmers' Bank, exterior|general view</dcterms:title>
+   <dcterms:title>Owatonna Bank</dcterms:title>
+   <dcterms:title>Security Bank</dcterms:title>
+   <dcterms:creator>Sullivan, Louis H. (American architect, 1856-1924) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1974</dcterms:created>
+   <dcterms:medium>brick (clay product); architectural terracotta [work]</dcterms:medium>
+   <dcterms:description>Window arcade</dcterms:description>
+   <dcterms:description>"a bank building designed by Louis Sullivan with decorative elements by George Elmslie. It was built in 1908, and was the first of Sullivan's "jewel boxes". The building is clad in red brick with green terra cotta bands, and features two large arches. Internal elements include two stained-glass windows designed by Louis J. Millet, a mural by Oskar Gross, and four immense cast iron electroliers designed by George Grant Elmslie and cast by Winslow Brothers Company (owned by William Winslow, for whom Frank Lloyd Wright designed an iconic house). The bank was remodeled in 1940, and many of the interior architectural elements were destroyed. Subsequent work in 1958 and from 1976 to 1981 restored it to its original grandeur. On January 7, 1976 it was recognized as a National Historic Landmark for its architectural significance. It is located at the northeast corner of Broadway Street and Cedar Street in Owatonna and is now a Wells Fargo banking store." -- http://en.wikipedia.org/wiki/National_Farmer%27s_Bank_of_Owatonna [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>commercial buildings</dcterms:subject>
+   <dcterms:subject>windows</dcterms:subject>
+   <dcterms:subject>arcades (structural assemblies)</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>applied decoration</dcterms:subject>
+   <dcterms:subject>signage</dcterms:subject>
+   <dcterms:spatial>West Broadway and North Cedar Streets, Owatonna, Steele, Minnesota, United States</dcterms:spatial>
+   <dcterms:spatial>44.0851, -93.22575</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/04/10/13/d73e20ff-782f-412f-8f01-aac853ccef84_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9125791</edm:isShownAt>
+</mdRecord>

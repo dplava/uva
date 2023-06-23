@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:50 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9148453</dcterms:identifier>
+   <dcterms:title>York Minster, interior|general view</dcterms:title>
+   <dcterms:title>Cathedral and Metropolitical Church of St Peter in York</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1979</dcterms:created>
+   <dcterms:description>Nave and pulpitum</dcterms:description>
+   <dcterms:description>York Minster is the cathedral of York, England, and is one of the largest of its kind in Northern Europe. The minster is the seat of the Archbishop of York, the second-highest office of the Church of England, and is the cathedral for the Diocese of York. It is run by a dean and chapter, under the Dean of York. The formal title of York Minster is "The Cathedral and Metropolitical Church of St Peter in York". The title "minster" is attributed to churches established in the Anglo-Saxon period as missionary teaching churches, and serves now as an honorific title. Services in the minster are sometimes regarded as on the High Church or Anglo-Catholic end of the Anglican continuum. The minster has a very wide Decorated Gothic nave and chapter house, a Perpendicular Gothic Quire and east end and Early English North and South transepts. The nave contains the West Window, constructed in 1338, and over the Lady Chapel in the east end is the Great East Window, (finished in 1408), the largest expanse of medieval stained glass in the world. In the north transept is the Five Sisters Window, each lancet being over 52 feet (16 m) high.[citation needed] The south transept contains a rose window, while the West Window contains a heart-shaped design colloquially known as 'The Heart of Yorkshire' . . . The Gothic style in cathedrals had arrived in the mid 12th century. Walter de Gray was made archbishop in 1215 and ordered the construction of a Gothic structure to compare to Canterbury; building began in 1220. The north and south transepts were the first new structures; completed in the 1250s, both were built in the Early English Gothic style but had markedly different wall elevations. A substantial central tower was also completed, with a wooden spire. Building continued into the 15th century. The Chapter House was begun in the 1260s and was completed before 1296. The wide nave was constructed from the 1280s on the Norman foundations. The outer roof was completed in the 1330s, but the vaulting was not finished until 1360. Construction then moved on to the eastern arm and chapels, with the last Norman structure, the choir, being demolished in the 1390s. Work here finished around 1405. In 1407 the central tower collapsed; the piers were then reinforced, and a new tower was built from 1420. The western towers were added between 1433 and 1472. The cathedral was declared complete and consecrated in 1472. -- http://en.wikipedia.org/wiki/York_Minster [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Gothic (Medieval)</dcterms:description>
+   <dcterms:description>Decorated Style</dcterms:description>
+   <dcterms:description>Perpendicular Style</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Church of England. Diocese of York</dcterms:subject>
+   <dcterms:subject>Church of England. Province of York. Archbishop</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>churches (buildings)</dcterms:subject>
+   <dcterms:subject>naves</dcterms:subject>
+   <dcterms:subject>chancel screens</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>ribbed vaults</dcterms:subject>
+   <dcterms:spatial>York Minster, Church House, Ogleforth, York, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>53.961944, -1.081944</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/09/08/17/388610e7-4113-4243-a914-b411c142fd88_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9148453</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:06 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:616920</dcterms:identifier>
+   <dcterms:title>Harvey's Scenes of the primitive forest of America, at the four periods of the year: spring, summer, autumn &amp; winter / engraved from his original paintings ; accompanied with descriptive letter-press</dcterms:title>
+   <dcterms:title>Scenes of the primitive forest of America</dcterms:title>
+   <dcterms:creator>Harvey, George, approximately 1800-1878</dcterms:creator>
+   <dcterms:creator>Irving, Washington, 1783-1859</dcterms:creator>
+   <dcterms:publisher>Published by George Harvey, 16 Foley Place, Great Portland Street, &amp; Messrs. Ackermann &amp; Co., Strand ; Printed by Johnson &amp; Co., 10, Brooke Street, Holborn</dcterms:publisher>
+   <dcterms:created>1841</dcterms:created>
+   <dcterms:extent>[7] leaves, [4] leaves of plates</dcterms:extent>
+   <dcterms:extent>50 x 42 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>ill.</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Edited by Washington Irving.</dcterms:description>
+   <dcterms:description>Cover imprint same as title page imprint.</dcterms:description>
+   <dcterms:description>Dedication to Queen Victoria is dated January 1842.</dcterms:description>
+   <dcterms:description>Plates are numbered 2-5; Plate 2 has imprint "Engraved by W.J. Bennett N.A. from the original painting by G. Harvey A.N.A."; Plate 3 has the same wording but with "W.I. Bennet"; engraver's name is not present on plates 4-5.</dcterms:description>
+   <dcterms:description>Also published with New York imprint. Cf. BAL 10160.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Original black paper boards with leather backstrip; cover title within an elaborate gilt border. Paul Mellon bequest, May 12, 2000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Mellon, Paul--Library--Personal copy</dcterms:subject>
+   <dcterms:subject>United States--Description and travel--Pictorial works</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:621473/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616920</edm:isShownAt>
+</mdRecord>

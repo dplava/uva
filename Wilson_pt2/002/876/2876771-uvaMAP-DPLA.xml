@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:44 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2876771</dcterms:identifier>
+   <dcterms:title>Arcade Building, exterior</dcterms:title>
+   <dcterms:title>Cottage Grove</dcterms:title>
+   <dcterms:creator>Beman, Solon Spencer (American architect, 1853-1914) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1988</dcterms:created>
+   <dcterms:description>Facade</dcterms:description>
+   <dcterms:description>The Arcade was completed in June of 1882, and was envisioned as one of the main social complexes of Pullman. The largest non-factory building in the town, the Arcade was a block long, covered about an acre, and contained shops, a library, a theater, other general-use rooms, and offices on its first and second floors. A third story held meeting rooms for various lodges, including the Masons and Odd Fellows. A precursor of the modern shopping center, the Arcade was designed with dry-goods shops on the main and second floors rented to various proprietors; a subscription library on the second floor; and an ornate 1,000-seat theater, also on the second floor. In May of 1883, the Pullman Loan and Savings Bank moved into the northeast corner of the Arcade, with a post office (northwest corner) also joining the list of tenants. The Arcade fell into disrepair in the early 20th century, and was demolished in 1926. -- http://www.pullman-museum.org/theTown/theArcade.html [work]</dcterms:description>
+   <dcterms:description>Nathan Franklin Barret (November 19, 1845 - October 16, 1919) was an American landscape architect. He was best known for his designs for company town of Pullman, Illinois. -- http://en.wikipedia.org/wiki/Nathan_Franklin_Barrett [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Dutch Colonial</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>historic buildings</dcterms:subject>
+   <dcterms:subject>National Historic Landmarks</dcterms:subject>
+   <dcterms:subject>Barrett, Nathan Franklin (American landscape architect, 1845-1919)</dcterms:subject>
+   <dcterms:subject>Pullman, George Mortimer (American industrial designer and philanthropist, 1831-1897)</dcterms:subject>
+   <dcterms:subject>sill courses</dcterms:subject>
+   <dcterms:subject>arcades (structural assemblies)</dcterms:subject>
+   <dcterms:subject>springers</dcterms:subject>
+   <dcterms:subject>posts (structural elements)</dcterms:subject>
+   <dcterms:subject>building brick (clay products)</dcterms:subject>
+   <dcterms:spatial>112th Street and Cottage Grove Avenue, Pullman, Chicago, Cook, Illinois, United States (neighborhood)</dcterms:spatial>
+   <dcterms:spatial>41.690959, -87.610263</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/05/14/16/bc1b2ba1-c716-4cb4-a3a4-cb208ffadce8_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2876771</edm:isShownAt>
+</mdRecord>

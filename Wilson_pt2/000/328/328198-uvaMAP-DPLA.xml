@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>328198</dcterms:identifier>
+   <dcterms:title>New Castle Presbyterian Church, exterior</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1975</dcterms:created>
+   <dcterms:medium>brick [work]</dcterms:medium>
+   <dcterms:description>Facade, general view</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Georgian (British Renaissance-Baroque style)</dcterms:description>
+   <dcterms:description>American Colonial</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>meeting houses</dcterms:subject>
+   <dcterms:subject>double doors</dcterms:subject>
+   <dcterms:subject>jerkinhead roofs</dcterms:subject>
+   <dcterms:subject>cupolas (roof appendages)</dcterms:subject>
+   <dcterms:subject>double-hung windows</dcterms:subject>
+   <dcterms:spatial>New Castle, Delaware, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/02/14/09/f0529eb9-841e-4919-a0b3-2e309c5c6efc_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_328198</edm:isShownAt>
+</mdRecord>

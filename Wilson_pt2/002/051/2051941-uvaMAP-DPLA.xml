@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:39 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2051941</dcterms:identifier>
+   <dcterms:title>Eames House, exterior|detail view</dcterms:title>
+   <dcterms:title>Case Study House Number 8</dcterms:title>
+   <dcterms:creator>Eames, Charles (American architect, designer, and filmmaker, 1907-1978) [work]</dcterms:creator>
+   <dcterms:creator>Eames, Ray (American designer, architect, and filmmaker, 1916-1988) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1949</dcterms:created>
+   <dcterms:medium>steel frame construction; plate glass [work]</dcterms:medium>
+   <dcterms:description>Steel truss</dcterms:description>
+   <dcterms:description>The Eames House (also known as Case Study House No. 8) is a landmark of mid-20th century modern architecture constructed in 1949 by husband-and-wife design pioneers Charles and Ray Eames, to serve as their home and studio. The design of the house was proposed by Charles and Ray as part of the famous Case Study House program for John Entenza's Arts &amp; Architecture magazine. The idea of a Case Study house was to hypothesize a modern household, elaborate its functional requirements, have an esteemed architect develop a design that met those requirements using modern materials and construction processes, and then to actually build the home. The houses were documented before, during and after construction for publication in Arts &amp; Architecture. The Eames' proposal for the Case Study House No. 8 reflected their own household and their own needs; a young married couple wanting a place to live, work and entertain in one undemanding setting in harmony with the site. -- http://en.wikipedia.org/wiki/Eames_House [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>California Modernism</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>Case Study houses</dcterms:subject>
+   <dcterms:subject>Warren trusses</dcterms:subject>
+   <dcterms:spatial>203 North Chautauqua Boulevard, Pacific Palisades, Los Angeles, California, United States</dcterms:spatial>
+   <dcterms:spatial>34.029722, -118.519444</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/03/08/15/8674567a-6414-4027-a79c-6170557321a9_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2051941</edm:isShownAt>
+</mdRecord>

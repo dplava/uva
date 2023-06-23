@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:41 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2058432</dcterms:identifier>
+   <dcterms:title>Captain John Turner House, exterior|general view</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1668</dcterms:created>
+   <dcterms:medium>wood (plant material) [work]</dcterms:medium>
+   <dcterms:description>Street view</dcterms:description>
+   <dcterms:description>1668; 1677 parlor wing; c. 1693 rear addition; c. 1720 remodel; 1794 remodel; 1860–1908 renovations; c. 1909 restoration and enlargement. -- https://sah-archipedia.org/buildings/MA-02-009-0036 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>American Colonial</dcterms:description>
+   <dcterms:description>Jacobean</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>historic house museums</dcterms:subject>
+   <dcterms:subject>Hawthorne, Nathaniel, 1804-1864. House of the seven gables</dcterms:subject>
+   <dcterms:subject>gables (architectural elements)</dcterms:subject>
+   <dcterms:spatial>54 Turner Street, Salem, Essex, Massachusetts, United States</dcterms:spatial>
+   <dcterms:spatial>42.521944, -70.884722</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/01/21/13/50ee3aa0-23e6-4528-abc8-57d8551a316f_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2058432</edm:isShownAt>
+</mdRecord>

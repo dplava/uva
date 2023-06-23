@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:53 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>19068485</dcterms:identifier>
+   <dcterms:title>Sissinghurst Castle Garden, general view</dcterms:title>
+   <dcterms:creator>Nicolson, Harold George (English writer, 1886-1968) [landscape designer]</dcterms:creator>
+   <dcterms:creator>Sackville-West, Vita (British author and gardener, 1892-1962) [landscape designer]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1979</dcterms:created>
+   <dcterms:description>The tower from the orchard</dcterms:description>
+   <dcterms:description>Original manor house and moat built in the Middle Ages. Sackville-West and Nicholson purchased the property 1930 and created the gardens through the decade. Garden first opened to the public, 1938. Property taken over by the National Trust, 1967. [work]</dcterms:description>
+   <dcterms:description>English</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>landscape architecture</dcterms:subject>
+   <dcterms:subject>country houses</dcterms:subject>
+   <dcterms:subject>orchards</dcterms:subject>
+   <dcterms:subject>towers (single built works)</dcterms:subject>
+   <dcterms:spatial>Sissinghurst, Kent, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>51.115833, 0.581667</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2017/03/03/16/8a74c6e0-2de1-4557-b2d4-039050a006ab_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_19068485</edm:isShownAt>
+</mdRecord>

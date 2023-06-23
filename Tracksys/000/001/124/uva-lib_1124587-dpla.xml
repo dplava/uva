@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 6:59 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1124587</dcterms:identifier>
+   <dcterms:title>A hundred years ago: a hymn : sung by the Baltimore Light Street Choir / written for the centenary of Wesleyan Methodism by James Montgomery ; music by Thomas Clark ;</dcterms:title>
+   <dcterms:title>One song of praise</dcterms:title>
+   <dcterms:creator>Baltimore Light Street Choir</dcterms:creator>
+   <dcterms:creator>Clark, Thomas.</dcterms:creator>
+   <dcterms:creator>Gillingham, Edwin</dcterms:creator>
+   <dcterms:creator>Montgomery, James, 1771-1854</dcterms:creator>
+   <dcterms:creator>Webb, L. W.</dcterms:creator>
+   <dcterms:publisher>F. D. Benteen</dcterms:publisher>
+   <dcterms:created>1839</dcterms:created>
+   <dcterms:extent>1 score (3 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>organ, mixed chorus (4)</dcterms:description>
+   <dcterms:description>organ, voice</dcterms:description>
+   <dcterms:description>piano, mixed chorus (4)</dcterms:description>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano or organ; includes harmonization for four voices on p. 3.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>"L.W. Webb"--Colophon.</dcterms:description>
+   <dcterms:description>At foot of caption: "E. Gillingham."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sacred songs with piano</dcterms:subject>
+   <dcterms:subject>Sacred songs with organ</dcterms:subject>
+   <dcterms:subject>Choruses, Sacred (Mixed voices, 4 parts) with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Sacred (Mixed voices, 4 parts) with organ</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1124588/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124587</edm:isShownAt>
+</mdRecord>

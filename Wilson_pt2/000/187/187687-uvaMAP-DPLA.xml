@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:28 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>187687</dcterms:identifier>
+   <dcterms:title>All Saint's Church, Brockhampton, interior|detail view</dcterms:title>
+   <dcterms:creator>Lethaby, William Richard (British architect and historian, 1857-1931) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1986</dcterms:created>
+   <dcterms:medium>ferruginous sandstone; rubble [work]</dcterms:medium>
+   <dcterms:description>Pulpit, decorative panels</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Arts and Crafts (movement)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Anglican (Church of England)</dcterms:subject>
+   <dcterms:subject>parish churches</dcterms:subject>
+   <dcterms:subject>pulpits</dcterms:subject>
+   <dcterms:subject>panels (wood)</dcterms:subject>
+   <dcterms:subject>woodcarving</dcterms:subject>
+   <dcterms:subject>floral patterns</dcterms:subject>
+   <dcterms:spatial>near Ross-on-Wye, Herefordshire, Brockhampton, Herefordshire, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>51.9863, -2.5924</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/18/09/2c42fde9-7a39-4513-a8ef-5334689932da_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_187687</edm:isShownAt>
+</mdRecord>

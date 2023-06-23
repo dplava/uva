@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:44 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2966820</dcterms:identifier>
+   <dcterms:title>Hoover Factory, general view</dcterms:title>
+   <dcterms:creator>Wallis, Gilbert &amp; Partners (British architectural firm, active 1916-1939) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1981</dcterms:created>
+   <dcterms:description>Building facade</dcterms:description>
+   <dcterms:description>It was built for The Hoover Company in 1932, and was designed by Wallis, Gilbert and Partners. During the Second World War the Hoover Factory manufactured electrical equipment for aircraft and tanks. After the Second World War an additional five-storey building (No.8) was built and stood to the north of the site alongside building No.5. Hoover continued manufacturing upright cleaners at the Hoover Building until the early 1980s when production was moved to the Cambuslang facility. The office remained open at the site for a few more years until it too was eventually closed and Hoover left the site. -- http://en.wikipedia.org/wiki/Hoover_factory [work]</dcterms:description>
+   <dcterms:description>English</dcterms:description>
+   <dcterms:description>Art Deco</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>factories</dcterms:subject>
+   <dcterms:subject>corporations</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>emblems (allegorical pictures)</dcterms:subject>
+   <dcterms:spatial>Western Avenue, London, Greater London, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>51.533611, -0.318889</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/06/05/14/b7893bf0-d6e1-4a5c-9bcc-be98d6cd7e8b_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2966820</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 9:49 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2168543</dcterms:identifier>
+   <dcterms:title>Fourth Year Class, 1930-1931</dcterms:title>
+   <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1930/1931</dcterms:created>
+   <dcterms:description>SOM, Class of 1931 Identified (from left to right): First row: John Jacquelin Ambler, Howard Hicks Ashbury, Harloe Bailey, Philip Bress, William Ambrose Brown, Jr., Charles Crawford Canada, George Daniel Capaccio, William Morgan Chew, John Bradley Cousar, Adam Tyree Finch, Jr., Carlyle Gregory Flake Second row: Samuel Howard Garst, Alexander Gordon Gilliam, Robert Earle Glendy, Meyer Goldstein, Samuel Butler Grimes, Peter Allen Haley, II, Winthrop Huntington Hall, Weldon Merritt Harloe, Ruth Schwartz Hart, Clifton K. Himmelsbach, Angus Hinson Third row: Harry Gilman Hudnall, John Thomas James, Ernest Lee Jones, Jr., Harry Raphel Kelly, Charles Fuller Kincheloe, Jr., Thomas Preston McKee, Arthur Mazyck, Jr., Lodwick Sterrett Meriwether, William Maryon Moir, Margaret Elizabeth Moriarty, Timothy John Nash Fourth row: William Henry Parker, John Hamilton Scherer, Alice Elsa Schowalter, Asa Elmore Seeds, Eldridge Cook Simmons, Melville Dwight Smith, Jack Spencer, Ben Steingold, Emilie Caroline Strohman, Albert Chesterfield Stutsman, Walter Lee Thomas, Jr., Fifth row: Dawson Edward Watkins, Jr., Bliss King Weems, William Massie Whitehead</dcterms:description>
+   <dcterms:description>Original Negative Present [original]</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Visual History Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia</dcterms:subject>
+   <dcterms:subject>University of Virginia--Faculty</dcterms:subject>
+   <dcterms:subject>University of Virginia--Students</dcterms:subject>
+   <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168543/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168543</edm:isShownAt>
+</mdRecord>

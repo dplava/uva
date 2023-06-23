@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:58 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28064034</dcterms:identifier>
+   <dcterms:title>Charles S. Dewey House, exterior|general view</dcterms:title>
+   <dcterms:title>Building 29, North Chicago VA Medical Center</dcterms:title>
+   <dcterms:creator>Adler, David A. (American architect, 1882-1949) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2000</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Garden facade</dcterms:description>
+   <dcterms:description>The Dewey family lived in the mansion until 1918, when the house was claimed by the government through eminent domain in an effort to expand Naval Station Great Lakes. In 1921, the Deweys were awarded compensation for the acquisition of the land. In 1924, the property was transferred to the U.S. Department of Veterans Affairs. When the Captain James A. Lovell Federal Health Care Center was established, the Dewey House became known as Building 29 on the campus. The hospital split the former Dewey House into ten apartments for personnel. -- https://en.wikipedia.org/wiki/Dewey_House_(North_Chicago,_Illinois) [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Georgian Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>military buildings</dcterms:subject>
+   <dcterms:subject>apartment houses</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:spatial>North Chicago, Lake, Illinois, United States</dcterms:spatial>
+   <dcterms:spatial>42.303611, -87.859444</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/04/13/20/e91be586-9ff3-4a23-97bf-7561cf903cac_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28064034</edm:isShownAt>
+</mdRecord>

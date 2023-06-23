@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:49 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>8508007</dcterms:identifier>
+   <dcterms:title>Franklin Court, detail view</dcterms:title>
+   <dcterms:creator>Venturi and Rauch (American architectural firm, established 1960, dissolved 1980) [work]</dcterms:creator>
+   <dcterms:creator>Venturi, Robert (American architect, born 1925) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1976</dcterms:created>
+   <dcterms:medium>steel (alloy); stone (rock) [work]</dcterms:medium>
+   <dcterms:description>Sign discussing a floor plan sketch by Franklin</dcterms:description>
+   <dcterms:description>It is located at the site which American Patriot Benjamin Franklin had his Philadelphia residence from 1763 to his death in 1790. The park opened in 1976 as part of the United States Bicentennial celebration. The complex consists of the archaeological remnants of the Benjamin Franklin's house and nearby buildings, "ghost" reconstruction of the form of the house and print shop, an underground museum focused on Franklin, and historic structures facing Market Street, including what are now a working post-office and printing-shop. Most notable are the two "ghost structures" made of square tubular steel, recreating and suggesting the outline of the long-demolished buildings within the courtyard. The design resulted from inadequate historical information to properly reconstruct the structures, couple with emerging philosophical views at the time towards reconstruction of structures. -- http://en.wikipedia.org/wiki/Franklin_Court [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Postmodern</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>national parks</dcterms:subject>
+   <dcterms:subject>courtyards</dcterms:subject>
+   <dcterms:subject>archaeological parks</dcterms:subject>
+   <dcterms:subject>reconstruction (construction)</dcterms:subject>
+   <dcterms:subject>Franklin, Benjamin (American politician, inventor, and diplomat, 1706-1790)</dcterms:subject>
+   <dcterms:subject>archaeological sites</dcterms:subject>
+   <dcterms:subject>information signs</dcterms:subject>
+   <dcterms:spatial>322 Market Street, Philadelphia, Pennsylvania, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/02/11/14/60150882-f361-4a8b-ae1d-79841f3137c9_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_8508007</edm:isShownAt>
+</mdRecord>

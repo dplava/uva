@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:27 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>167831</dcterms:identifier>
+   <dcterms:title>Washington Monument, general view</dcterms:title>
+   <dcterms:title>Washington National Monument</dcterms:title>
+   <dcterms:creator>Casey, T. L. (Thomas Lincoln), 1831-1896 [work]</dcterms:creator>
+   <dcterms:creator>Ives, J. C. [work]</dcterms:creator>
+   <dcterms:creator>Mills, Robert (American architect, 1781-1855) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1977</dcterms:created>
+   <dcterms:medium>marble, granite, bluestone gneiss [work]</dcterms:medium>
+   <dcterms:description>View from northeast</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Federal</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>obelisks (monumental pillars)</dcterms:subject>
+   <dcterms:subject>memorials</dcterms:subject>
+   <dcterms:subject>Washington, George (American president, 1732-1799)</dcterms:subject>
+   <dcterms:spatial>The Mall, Washington, District of Columbia, United States</dcterms:spatial>
+   <dcterms:spatial>38° 53′ 22.09″ N, 77° 2′ 6.86″ W</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/01/12/10/dd7fa42b-0fa5-4d0b-bad0-68d0ba9cccdc_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_167831</edm:isShownAt>
+</mdRecord>

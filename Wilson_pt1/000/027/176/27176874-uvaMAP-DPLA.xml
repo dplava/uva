@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:56 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>27176874</dcterms:identifier>
+   <dcterms:title>Mission Inn, exterior|general view</dcterms:title>
+   <dcterms:title>Mission Inn Hotel and Spa</dcterms:title>
+   <dcterms:creator>Benton, Arthur Burnett (American architect, 1858-1927) [work]</dcterms:creator>
+   <dcterms:creator>Hunt, Myron (American architect, 1868-1952) [work]</dcterms:creator>
+   <dcterms:creator>Underwood, Gilbert Stanley (American architect, 1890-1960) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1971</dcterms:created>
+   <dcterms:description>Side</dcterms:description>
+   <dcterms:description>Although a composite of many architectural styles, it is generally considered the largest Mission Revival Style building in the United States. ... The property began as a small cottage hotel called the "Glenwood Hotel," built by civil engineer Christopher Columbus Miller in 1876. In 1902, Miller's son Frank Augustus Miller changed the name to the "Mission Inn" and started building, in a variety of styles, until he died in 1935. Miller's vision for the eclectic structure was drawn from many historical design periods, revivals, influences, and styles. Some are Spanish Gothic architecture, Mission Revival Style architecture, Moorish Revival architecture, Spanish Colonial style architecture, Spanish Colonial Revival Style architecture, Renaissance Revival architecture, and Mediterranean Revival Style architecture.... With its widely varying styles, the Mission Inn was designed by multiple architects. Frank Miller selected Arthur B. Benton to design the original building. Miller chose Myron Hunt to design the Spanish Wing added to the rear of the main building. He later hired G. Stanley Wilson to design the St. Francis Chapel. Wilson also added a rotunda featuring circular staircases and a dome. ... -- http://en.wikipedia.org/wiki/The_Mission_Inn_Hotel_%26_Spa [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Mission Style (Spanish Colonial Revival style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>resorts</dcterms:subject>
+   <dcterms:subject>spas</dcterms:subject>
+   <dcterms:subject>restoration (process)</dcterms:subject>
+   <dcterms:subject>renovation</dcterms:subject>
+   <dcterms:subject>flying buttresses</dcterms:subject>
+   <dcterms:spatial>3649 Mission Inn Avenue, Riverside, California, United States</dcterms:spatial>
+   <dcterms:spatial>33.983333, -117.372778</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/11/26/18/3e833937-e836-4d6f-88f6-3759b7e7ba6f_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_27176874</edm:isShownAt>
+</mdRecord>

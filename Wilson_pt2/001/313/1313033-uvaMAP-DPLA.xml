@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:36 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1313033</dcterms:identifier>
+   <dcterms:title>Howard B. Gates House, exterior</dcterms:title>
+   <dcterms:title>Gates House</dcterms:title>
+   <dcterms:title>Gates-Maybeck House</dcterms:title>
+   <dcterms:creator>Maybeck, Bernard Ralph (American architect and artist, 1862-1957) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1985</dcterms:created>
+   <dcterms:description>Entrance detail</dcterms:description>
+   <dcterms:description>The Gates House in San Jose, California is designed by architect Bernard Maybeck for physicians Howard and Amelia Gates in 1904. The chalet form of the house with historical details is inspired by the large stand of trees on the site. Though Maybeck's 3-story design is larger than other residences in the area, he crafts the exterior of the home to appear smaller and fit with the character of the upper middle-class neighborhood. The architect's open living design for the interior includes an oversized fireplace and dramatic staircase—radical for turn-of-the-century San Jose, but popular in many mid-century California homes. http://www.paulrwilliamsproject.org/education/timeline/1904/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Arts and Crafts (movement)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>historic houses</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>housing (concept)</dcterms:subject>
+   <dcterms:subject>balconies</dcterms:subject>
+   <dcterms:subject>balustrades</dcterms:subject>
+   <dcterms:subject>balusters (railing components)</dcterms:subject>
+   <dcterms:subject>consoles (brackets)</dcterms:subject>
+   <dcterms:subject>doorframes</dcterms:subject>
+   <dcterms:subject>doors</dcterms:subject>
+   <dcterms:spatial>62 South Thirteenth Street, San Jose, Santa Clara, California, United States</dcterms:spatial>
+   <dcterms:spatial>37.341178, -121.877035</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/02/06/15/8d254043-00fa-4f5a-a0de-b97beb723569_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1313033</edm:isShownAt>
+</mdRecord>

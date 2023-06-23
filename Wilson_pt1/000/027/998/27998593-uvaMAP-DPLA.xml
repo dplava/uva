@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:57 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>27998593</dcterms:identifier>
+   <dcterms:title>Box Hill Estate, exterior|general view</dcterms:title>
+   <dcterms:creator>McKim, Mead, and White (American architectural firm, 1879-1910) [work]</dcterms:creator>
+   <dcterms:creator>White, Stanford (American architect, 1853-1906) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1988</dcterms:created>
+   <dcterms:description>North (garden) facade</dcterms:description>
+   <dcterms:description>Box Hill Estate is a national historic district located at St. James in Suffolk County, New York. The district encompasses an estate that includes five contributing buildings and one contributing structure. The estate house was the summer home of Stanford White. It was built in 1885 and is a rambling, multi-gabled structure surfaced in pebblestone dashed stucco. It features a one story verandah defined by a range of fluted columns. Also on the property are a contributing cottage, barn, carriage house, stable, and water tower. It was added to the National Register of Historic Places in 1973 -- http://en.wikipedia.org/wiki/Box_Hill_Estate [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Colonial Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>country houses</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>remodeling</dcterms:subject>
+   <dcterms:spatial>St. James, Long Island, New York, United States</dcterms:spatial>
+   <dcterms:spatial>40.8899444, -73.176667</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/03/25/14/413a32f6-833c-4e65-95ae-561f04654b61_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_27998593</edm:isShownAt>
+</mdRecord>

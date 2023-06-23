@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 7:30 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1141877</dcterms:identifier>
+   <dcterms:title>Oh, promise me!: song with piano accompaniment, op. 50 / by Reginald de Koven ; [words by Clement Scott]</dcterms:title>
+   <dcterms:title>Oh promise me that someday you and I</dcterms:title>
+   <dcterms:title>De Koven, Reginald, 1859-1920. Robin Hood. Oh, promise me</dcterms:title>
+   <dcterms:creator>De Koven, Reginald, 1859-1920</dcterms:creator>
+   <dcterms:creator>Knorr, Charles E.</dcterms:creator>
+   <dcterms:creator>Scott, Clement, 1841-1904</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1889</dcterms:created>
+   <dcterms:extent>1 vocal score (5 p.)</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, baritone voice</dcterms:description>
+   <dcterms:description>piano, mezzo-soprano voice</dcterms:description>
+   <dcterms:description>M. sop. or bar. in F.</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>At head of title: "As sung by Mr. Charles E. Knorr."</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: G. Schirmer's edition of song-albums.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
+   <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1141878/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1141877</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:55 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>25052445</dcterms:identifier>
+   <dcterms:title>Converse Memorial Library, exterior|detail view</dcterms:title>
+   <dcterms:title>Converse Memorial Building</dcterms:title>
+   <dcterms:creator>Richardson, Henry Hobson (American architect, 1838-1886) [architect]</dcterms:creator>
+   <dcterms:creator>Shepley, Rutan, and Coolidge (American architectural firm, contemporary) [architectural firm, additions]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1990</dcterms:created>
+   <dcterms:medium>sandstone [work]</dcterms:medium>
+   <dcterms:description>Decorated impost and arch</dcterms:description>
+   <dcterms:description>Malden’s first mayor, Elisha S. Converse and his wife, Mary, donated money to build the Converse Memorial Building. [work]</dcterms:description>
+   <dcterms:description>Opened in October of 1885, the Converse Memorial Building was designed by renowned architect H.H. Richardson. The building housed the library as well as an art gallery. Today the majority of the library’s collection is housed in the new addition which opened in June of 1996. -- http://maldenpubliclibrary.org/about/ [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Richardsonian Romanesque</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Malden Public Library (Mass.) (American library, 1885 CE-)</dcterms:subject>
+   <dcterms:subject>public libraries (institutions)</dcterms:subject>
+   <dcterms:spatial>36 Salem Street, Malden, Middlesex, Massachusetts, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/06/10/18/1ed4245b-0afc-4537-9974-19a99ba9d01b_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_25052445</edm:isShownAt>
+</mdRecord>

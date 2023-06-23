@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 7:56 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2144154</dcterms:identifier>
+   <dcterms:title>At the Town-House in Boston: April 18th. 1689: Sir, Our selves as well as many others the inhabitants of this town and places adjacent .. judge it necessary that you forthwith surrender, and deliver up the government .. promising all security from violence to your self .. To Sr. Edmond Andross Knight. / William Stoughton. Thomas Danforth. Simon Bradstreet [and 12 others]</dcterms:title>
+   <dcterms:creator>Green, Samuel, 1615-1702</dcterms:creator>
+   <dcterms:creator>Green, Samuel, 1648-1690</dcterms:creator>
+   <dcterms:creator>Massachusetts. Citizens, 1689.</dcterms:creator>
+   <dcterms:creator>Stoughton, William, 1632-1701</dcterms:creator>
+   <dcterms:creator>Winthrop, Wait Still, 1643-1717</dcterms:creator>
+   <dcterms:publisher>Printed by Samuel Green</dcterms:publisher>
+   <dcterms:created>1689</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>32 x 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>The body of the address is in Black Letter type, and the names of the 15 signers are printed in three columns; two names, William Stoughton and Thomas Danforth, in 1st column; Simon Bradstreet and 8 others in 2nd column; Walt Winthrop and 3 others in 3rd column.</dcterms:description>
+   <dcterms:description>For authority for main entry, cf. Osgood, H.L., The American colonies in the seventeenth century. New York, 1904-07. v.3, p. 417-419.</dcterms:description>
+   <dcterms:description>See: Evans 458; Bristol 105; Wing A4104.</dcterms:description>
+   <dcterms:description>Accompanied by a TLS from Worthington C. Ford to Thomas J. Holmes, William G. Mather Library, Cleveland Ohio, dated March 20, 1922, questioning the authenticity of the broadside based on the use of Black Letter type. A pencilled note, signed "F.H.B. 9/6/28," gives evidence to support the claim that the "WGM copy of the Notice to Andros is not a 'manufactured' broadside as Mr. Ford seems to infer, but that the WGM copy may have been the 1st issue and that the MHS 'roman type' broadside with the two columns of signatures may have been a second issue."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library, William G. Mather Collection. A photocopy of the additional notes written on inside of previous housing is laid in.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Andros, Edmund, Sir, 1637-1714</dcterms:subject>
+   <dcterms:subject>New England--Politics and government--To 1775</dcterms:subject>
+   <dcterms:subject>New England--History--Colonial period, ca. 1600-1775</dcterms:subject>
+   <dcterms:subject>Massachusetts--Politics and government--To 1775</dcterms:subject>
+   <dcterms:temporal>Colonial period, ca. 1600-1775</dcterms:temporal>
+   <dcterms:temporal>To 1775</dcterms:temporal>
+   <dcterms:spatial>Massachusetts</dcterms:spatial>
+   <dcterms:spatial>New England</dcterms:spatial>
+   <dcterms:spatial>Boston, Massachusetts, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2174971/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2144154</edm:isShownAt>
+</mdRecord>

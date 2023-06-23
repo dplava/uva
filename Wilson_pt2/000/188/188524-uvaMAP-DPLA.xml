@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:29 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>188524</dcterms:identifier>
+   <dcterms:title>Wren Library, interior|general view</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Wren, Christopher (English architect, 1632-1723) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1976</dcterms:created>
+   <dcterms:description>Reading room</dcterms:description>
+   <dcterms:description>The college was founded by Henry VIII in 1546, from the merger of two existing colleges: Michaelhouse (founded by Hervey de Stanton in 1324), and King's Hall (established by Edward II in 1317 and refounded by Edward III in 1337). At the time, Henry had been seizing church lands from abbeys and monasteries. The universities of Oxford and Cambridge, being both religious institutions and quite rich, expected to be next in line. The king duly passed an Act of Parliament that allowed him to suppress (and confiscate the property of) any college he wished. The universities used their contacts to plead with his sixth wife, Catherine Parr. The queen persuaded her husband not to close them down, but to create a new college. The king did not want to use royal funds, so he instead combined two colleges (King's Hall and Michaelhouse) and seven hostels to form Trinity. Nevile's Court (built 1614) is located between Great Court and the river, this court was created by a bequest by the college's master, Thomas Nevile, originally two-thirds of its current length and without the Wren Library. The appearance of the upper floor was remodelled slightly two centuries later. Cloisters run around the court, providing sheltered walkways from the rear of Great Hall to the college library and reading room as well as the Wren Library and New Court. Wren Library (built 1676–1695, Christopher Wren) is located at the west end of Nevile's Court, the Wren is one of Cambridge's most famous and well-endowed libraries. Among its notable possessions are two of Shakespeare's First Folios, a 14th-century manuscript of The Vision of Piers Plowman, and letters written by Sir Isaac Newton. The Eadwine Psalter belongs to Trinity but is kept by Cambridge University Library. Below the building are the pleasant Wren Library Cloisters, where students may enjoy a fine view of the Great Hall in front of them, and the river and Backs directly behind. -- https://en.wikipedia.org/wiki/Trinity_College,_Cambridge [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Baroque</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>University of Cambridge</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>schools (buildings)</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>reading rooms</dcterms:subject>
+   <dcterms:subject>bookcases</dcterms:subject>
+   <dcterms:spatial>Trinity Street, Cambridge, Cambridgeshire, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>52.206958, 0.113082</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/18/22/d88a093d-76c5-498c-93cc-fd8ad34aa5c3_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_188524</edm:isShownAt>
+</mdRecord>

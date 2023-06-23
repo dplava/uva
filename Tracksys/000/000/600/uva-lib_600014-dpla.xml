@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:04 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:600014</dcterms:identifier>
+   <dcterms:title>The Rand McNally Map of new Europe</dcterms:title>
+   <dcterms:title>Map of new Europe</dcterms:title>
+   <dcterms:creator>National Exchange Bank (Roanoke, Va.)</dcterms:creator>
+   <dcterms:creator>Rand McNally and Company.</dcterms:creator>
+   <dcterms:publisher>Rand McNally &amp; Co.</dcterms:publisher>
+   <dcterms:created>1919</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>48 x 66 cm. on sheet 76 x 70 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>Title appears in very small print at lower right.</dcterms:description>
+   <dcterms:description>"Summary of treaty terms given Austria" and "Explanatory key" printed in red on the map.</dcterms:description>
+   <dcterms:description>"Summary of Treaty of Peace" and "Compliments of The National Exchange Bank Roanoke, Va. ... " printed outside the neatline at top of sheet.</dcterms:description>
+   <dcterms:description>Shows old and new boundaries.</dcterms:description>
+   <dcterms:description>Prime meridians: Paris and Greenwich.</dcterms:description>
+   <dcterms:description>"124D" printed inside the border at lower right.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: "Versailles Treaty Map" handwritten on verso.</dcterms:description>
+   <dcterms:description>Scale 1:8,870,400; 140 statute miles =1 inch.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Treaty of Versailles (1919 June 28)</dcterms:subject>
+   <dcterms:subject>Territory, National--Europe--Maps</dcterms:subject>
+   <dcterms:subject>World War, 1914-1918--Territorial questions--Maps</dcterms:subject>
+   <dcterms:subject>Europe--Boundaries--Maps</dcterms:subject>
+   <dcterms:spatial>Europe</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096776/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:600014</edm:isShownAt>
+</mdRecord>

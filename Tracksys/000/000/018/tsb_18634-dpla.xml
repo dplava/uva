@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 12:34 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18634</dcterms:identifier>
+   <dcterms:title>Utilitarian, by Eclipse: This horse of full size, uncommon bone, and fine color, being a brown bay, is now in fine health and the prime of life, having this Spring attained just half the age of his celebrated sire, American Eclipse, who died witin the last two years at the age of 32 .. will stand the ensuing season at Hopewell plantation, 4 miles from Greensboro', on the Withers' Landing road, the season to commence forthwith, and will terminate with the month of July / A. Perkins, for J.H. Cocke. .. March 10th, 1849</dcterms:title>
+   <dcterms:creator>Cocke, John Hartwell, 1780-1866</dcterms:creator>
+   <dcterms:creator>Perkins, A. (Adrian)</dcterms:creator>
+   <dcterms:publisher>A. Perkins?</dcterms:publisher>
+   <dcterms:created>1849</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>46 x 31 cm.</dcterms:extent>
+   <dcterms:medium>ill.</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Illustration (signed Anderson) shows a groom holding a bridled, rearing, horse. Text and ill. enclosed within an ornamental border.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 1-2: Transferred from Papers of the Cocke family, MSS 640, Folder 6. (Purchased) Copy 1 has small hole in center of illustration. Image and text of Copy 2 faded. Photographic negative, 35-197-D.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 1-2: Transferred from Papers of the Cocke family, MSS 640, Folder 6. (Purchased) Copy 1 has small hole in center of illustration. Image and text of Copy 2 faded. Photographic negative, 35-197-D.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Utilitarian (Horse)</dcterms:subject>
+   <dcterms:subject>Horses--Breeding</dcterms:subject>
+   <dcterms:subject>Eclipse (Horse : American)</dcterms:subject>
+   <dcterms:subject>Stallions--Virginia--Fluvanna County</dcterms:subject>
+   <dcterms:spatial>Fluvanna County</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1510065/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18634</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:04 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>25601159</dcterms:identifier>
+   <dcterms:title>Carrel 4-12, upper shelf|front edge</dcterms:title>
+   <dcterms:creator>Castillo, Kennedy Antony [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2019-07-19</dcterms:created>
+   <dcterms:medium>ball-point pens; markers (drawing instruments) [work]</dcterms:medium>
+   <dcterms:description>Initials and Greek society initials [work]</dcterms:description>
+   <dcterms:description>Student graffiti art and messages inscribed on carrel walls in the new stacks, Alderman Library, University of Virginia, prior to the renovation of the building, 2020-2023. [host]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Series 1, image number 3 (left to right)</dcterms:description>
+   <dcterms:isPartOf>Alderman Library Carrel Graffiti Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:subject>Initials</dcterms:subject>
+   <dcterms:subject>Greek letter societies</dcterms:subject>
+   <dcterms:spatial>University of Virginia. Library. New Stacks. Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/07/21/02/d1fbd984-263d-418a-a4b2-25741d67f193_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_25601159</edm:isShownAt>
+</mdRecord>

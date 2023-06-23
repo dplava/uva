@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:34 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>748431</dcterms:identifier>
+   <dcterms:title>Church of Saint Francis of Assisi, Ljubljana, exterior</dcterms:title>
+   <dcterms:creator>Plečnik, Jože (Slovene architect, 1872-1957) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1983</dcterms:created>
+   <dcterms:description>Facade</dcterms:description>
+   <dcterms:description>The Church of St. Francis of Assisi in Šiška, Ljubljana was commissioned by the Franciscan Brothers, and completed in 1928, the bell tower in 1931 -- http://www.thezaurus.com/gallery/130. [work]</dcterms:description>
+   <dcterms:description>Slovene</dcterms:description>
+   <dcterms:description>Classical Revival (European revival style)</dcterms:description>
+   <dcterms:description>Modern (styles and periods)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>organizations</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>churches (buildings)</dcterms:subject>
+   <dcterms:subject>stained glass (visual works)</dcterms:subject>
+   <dcterms:subject>ornaments</dcterms:subject>
+   <dcterms:subject>statuettes</dcterms:subject>
+   <dcterms:subject>windows</dcterms:subject>
+   <dcterms:subject>steps</dcterms:subject>
+   <dcterms:subject>doors</dcterms:subject>
+   <dcterms:subject>engaged columns</dcterms:subject>
+   <dcterms:subject>cornices</dcterms:subject>
+   <dcterms:subject>broken pediments</dcterms:subject>
+   <dcterms:spatial>Černetova Street 20, Ljubljana, miscellaneous/Slovenia, Slovenia</dcterms:spatial>
+   <dcterms:spatial>46.067966, 14.49671</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/09/11/13/3c9ef14e-fdd3-43bb-a157-11e5e35468b8_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_748431</edm:isShownAt>
+</mdRecord>

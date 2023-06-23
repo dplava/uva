@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:34 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:829435</dcterms:identifier>
+   <dcterms:title>[Civil War scenes] / sketched fr. nature &amp; drawn on stone by J. Nep Roesler, Corpl. of Color Guard, Comp G, 47th Regt. OV-U.A.</dcterms:title>
+   <dcterms:title>Album of the Campaign of 1861 in Western Virginia</dcterms:title>
+   <dcterms:title>War scenes</dcterms:title>
+   <dcterms:creator>Ehrgott, Forbriger &amp; Company.</dcterms:creator>
+   <dcterms:creator>Roesler, J. Nep.</dcterms:creator>
+   <dcterms:publisher>Printed by Ehrgott, Forbriger &amp; Co.</dcterms:publisher>
+   <dcterms:created>1862</dcterms:created>
+   <dcterms:extent>20 plates</dcterms:extent>
+   <dcterms:extent>33 x 44 cm.</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>lithographs</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Picket on New River, Camp Anderson, W.V. -- Picket on Lover's Leap (Road to the Log House), Camp Anderson -- Fall near the Log House, Camp Anderson -- Pickets in the woods after the engagement, near the Drill Ground, C Andrsn -- Advance in the woods, C Andrsn -- Skirmishing, New River -- Log House on Miller's Ferry, Camp Anderson -- Crossing to Fayetteville -- Hawk's Nest, 800 feet high, on New River W.V. -- View from Hawk's Nest, towards the East -- View from Hawk's Nest, towards the West -- Pickets on the road fr Cp Andrsn to Tompkin's Farm -- Tompkin's Farm (Camp Gauley Mount.) -- Fall on the road between Tompkin's Farm and Gauley Bridge W.V. -- Camp, Gauley Bridge -- View near Gauley Ferry -- March to the landing -- Crossing Little Birch River to Bulltown -- Thunder-storm (Big Sewell Mountain) (Reconnoissance) -- Battle at Carnifax Ferry.</dcterms:description>
+   <dcterms:description>In bound volume, without collective title. Title supplied by cataloger; statement of responsibility and imprint information appear on each lithograph.</dcterms:description>
+   <dcterms:description>Sometimes found with title: Album of the Campaign of 1861 in Western Virginia.</dcterms:description>
+   <dcterms:description>Lithographs described in "America on stone" (p. 170) as "War scenes sketched and drawn on stone by J. Nep Roester [sic]." Two of the lithographs are listed by name, along with "five small views of Camp Anderson." Peters concludes "many other interesting war prints were produced by these combinations."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Bound in purple cloth, with black cloth backstrip. Paul Mellon bequest, May 12, 2000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Mellon, Paul--Library--Personal copy</dcterms:subject>
+   <dcterms:subject>United States. Army. Ohio Infantry Regiment, 47th (1861-1865)--Pictorial works</dcterms:subject>
+   <dcterms:subject>United States. Army--Military life--History--Civil War, 1861-1865--Pictorial works</dcterms:subject>
+   <dcterms:subject>Lithography, American--Specimens</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Pictorial works</dcterms:subject>
+   <dcterms:subject>West Virginia--History--Civil War, 1861-1865--Pictorial works</dcterms:subject>
+   <dcterms:subject>West Virginia--Description and travel--Pictorial works</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>West Virginia</dcterms:spatial>
+   <dcterms:spatial>Cincinnati, Ohio, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2474304/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:829435</edm:isShownAt>
+</mdRecord>

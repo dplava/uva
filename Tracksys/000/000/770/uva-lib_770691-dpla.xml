@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:33 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:770691</dcterms:identifier>
+   <dcterms:title>Le quart liure des faicts et dicts heroiques du bon Pantagruel / Composé par M. François Rabelais docteur en Medicine</dcterms:title>
+   <dcterms:title>Quart livre des faicts et dicts heroiques du bon Pantagruel</dcterms:title>
+   <dcterms:title>Qvart livre des faicts et dicts heroiques du bon Pantagruel</dcterms:title>
+   <dcterms:title>Rabelais, François, approximately 1490-1553?. Gargantua et Pantagruel. 4e livre</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Fezandat, Michel, active 1538-1566</dcterms:creator>
+   <dcterms:creator>Rabelais, François, approximately 1490-1553?</dcterms:creator>
+   <dcterms:creator>Trautz, Georges, 1808-1879</dcterms:creator>
+   <dcterms:publisher>De l'imprimerie de Michel Fezandat ...</dcterms:publisher>
+   <dcterms:created>1552</dcterms:created>
+   <dcterms:extent>[19], [1]-144, [15] leaves</dcterms:extent>
+   <dcterms:extent>17 cm. (8vo)</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: A-Y⁸ Z² (leaves X8 and Z2 are blank)</dcterms:description>
+   <dcterms:description>Imperfect? "Briefve declaration" (leaves Y1-Z) is not present in ViU copy. Collation and pagination based on Rawles and Screech. Leaf Liiij is so signed.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Trautz-Bauzonnet. From the libraries of Comte de Lurde (with his bookplate, and cyphers on spine), Ruble and Louis Berkigt. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 500.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Trautz-Bauzonnet. From the libraries of Comte de Lurde (with his bookplate, and cyphers on spine), Ruble and Louis Berkigt. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 500.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1020884/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770691</edm:isShownAt>
+</mdRecord>

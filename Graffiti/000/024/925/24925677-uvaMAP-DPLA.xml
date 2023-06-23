@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:01 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>24925677</dcterms:identifier>
+   <dcterms:title>Carrel 4-3, east wall</dcterms:title>
+   <dcterms:creator>Donohue, Liam Patrick [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2019-04-26</dcterms:created>
+   <dcterms:medium>ball-point pens; markers (drawing instruments) [work]</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Various weather diary entries; some transcribed here; includes reference to Foxfield, a yearly mega party frequented by many UVA students [work]</dcterms:description>
+   <dcterms:description>Student graffiti art and messages inscribed on carrel walls in the new stacks, Alderman Library, University of Virginia, prior to the renovation of the building, 2020-2023. [host]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Series 1, image number 3 (top to bottom)</dcterms:description>
+   <dcterms:description>Time 2:08 PM | Tuesday June 26th 2012 | Beautiful &amp; breezy! 79° too bad I'm stuck at work | Time: 5:16 am | 4/23/17 | It's cloudy outside &amp; I am waiting for my friend to finish so we can leave this hellfire. | Time: 11:47 AM | April 28, 2014 | Cold &amp; Rainy | Monday After Foxfield -__-</dcterms:description>
+   <dcterms:isPartOf>Alderman Library Carrel Graffiti Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:subject>Diaries</dcterms:subject>
+   <dcterms:subject>Weather</dcterms:subject>
+   <dcterms:subject>Work</dcterms:subject>
+   <dcterms:subject>Friendship</dcterms:subject>
+   <dcterms:subject>Despair</dcterms:subject>
+   <dcterms:spatial>University of Virginia. Library. New Stacks. Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/05/08/21/2d1dc7c4-f345-4f68-b9c3-ba06f2848df2_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_24925677</edm:isShownAt>
+</mdRecord>

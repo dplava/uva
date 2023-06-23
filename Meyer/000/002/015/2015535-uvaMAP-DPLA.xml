@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 10:29 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2015535</dcterms:identifier>
+   <dcterms:title>Fossar de la Pedrera, detail view</dcterms:title>
+   <dcterms:creator>Galí, Beth (Spanish architect and author, born 1950) [work]</dcterms:creator>
+   <dcterms:creator>Meyer, Elizabeth [photographer]</dcterms:creator>
+   <dcterms:creator>Quintana, Marius (Spanish architect, landscape architect, Barcelona, 1954-) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2001-01</dcterms:created>
+   <dcterms:description>Stone pavers</dcterms:description>
+   <dcterms:description>Beth Gali and Marius Quintana, architects. Old stone quarry and civil war communal grave (1936-39). Transformed into a memorial to those killed by the Franco regime, and a mausoleum to Lluis Companys, president of Catalunya, shot here 1940. [work]</dcterms:description>
+   <dcterms:description>Spanish</dcterms:description>
+   <dcterms:description>Catalan</dcterms:description>
+   <dcterms:isPartOf>Elizabeth Meyer Barcelona Landscapes Collection</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>memorials</dcterms:subject>
+   <dcterms:subject>landscape architecture</dcterms:subject>
+   <dcterms:subject>mausoleums</dcterms:subject>
+   <dcterms:subject>public art</dcterms:subject>
+   <dcterms:subject>outdoor sculpture</dcterms:subject>
+   <dcterms:subject>quarries (extracting complexes)</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>paving stone</dcterms:subject>
+   <dcterms:spatial>Carrer de la mare de Deu del Port, Montjuic, Barcelona, Catalonia, Spain</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/06/02/12/c77547a7-cec6-4761-8e45-3c701bfcb94e_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2015535</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>217902</dcterms:identifier>
+   <dcterms:title>La Grande Vitesse, general view</dcterms:title>
+   <dcterms:creator>Calder, Alexander (American sculptor, painter, and designer, 1898-1976) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1969</dcterms:created>
+   <dcterms:medium>painted steel plate [work]</dcterms:medium>
+   <dcterms:description>Overall, in context, showing identification plaque and Grand Rapids City Hall</dcterms:description>
+   <dcterms:description>public plaza between City Hall, (Skidmore Owings &amp; Merrill, 1968) and the Union Bank Building (1966) [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Modernist</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Sculpture and Installations</dcterms:subject>
+   <dcterms:subject>public sculpture</dcterms:subject>
+   <dcterms:subject>stabile</dcterms:subject>
+   <dcterms:subject>squares (open spaces)</dcterms:subject>
+   <dcterms:spatial>Grand Rapids, Kent, Michigan, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/10/10/10/99c5b2a0-1f00-4574-9d3e-fcb5c4186f9e_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_217902</edm:isShownAt>
+</mdRecord>

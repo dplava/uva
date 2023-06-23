@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:52 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>16368645</dcterms:identifier>
+   <dcterms:title>Church of St Saviour and St Peter, interior</dcterms:title>
+   <dcterms:title>St Saviour’s Eastbourne</dcterms:title>
+   <dcterms:creator>Street, George Edmund (English architect, 1824-1881) [architect]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1992</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Mosaics by Clayton and Bell: Saint Andrew (left), Saint Paul imprisoned: "only Luke is with me" (right)</dcterms:description>
+   <dcterms:description>By the middle of the nineteenth century, Eastbourne was a growing town noted for its healthy climate. ... The Duke of Devonshire, who owned much of the land, was laying out a new town with wide streets, Italianate terraces and fashionable villas. The old parish church of St Mary the Virgin was at some distance from the new town so the Duke gave land for the building of a new church which was completed in 1867. ... In 1971 the nearby daughter church of St Peter’s was demolished and the two parishes were combined as Saint Saviour’s and Saint Peter’s Eastbourne. -- http://www.stsaviourseastbourne.org.uk/#!history/c11fh [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>parish churches</dcterms:subject>
+   <dcterms:subject>Anglican (Church of England)</dcterms:subject>
+   <dcterms:subject>mosaics (visual works)</dcterms:subject>
+   <dcterms:subject>Clayton &amp; Bell (English stained glass manufacturers, active from 1857)</dcterms:subject>
+   <dcterms:subject>Andrew, Apostle, Saint</dcterms:subject>
+   <dcterms:subject>Paul, the Apostle, Saint (Roman Jewish author, preacher, ca. 5 CE- ca. 67 CE)</dcterms:subject>
+   <dcterms:spatial>South St, Eastbourne BN21 4UT, UK, South St, Eastbourne, East Sussex, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>50.7663902, 0.2807897000000139</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2016/08/09/11/5501dfff-c0ac-46e8-8b30-f91c0cee496f_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_16368645</edm:isShownAt>
+</mdRecord>

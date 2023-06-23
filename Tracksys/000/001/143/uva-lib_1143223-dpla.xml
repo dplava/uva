@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 7:33 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1143223</dcterms:identifier>
+   <dcterms:title>Barcarolle: duet for mezzo-soprano and baritone (or alto), [op. 62] / poem by Éd. Guinand ; English version by Eugène Oudin ; music by C. Chaminade</dcterms:title>
+   <dcterms:title>Come for a sweet delight thrills the balmy night</dcterms:title>
+   <dcterms:title>Oui mon âme est charmée</dcterms:title>
+   <dcterms:title>Chaminade, Cécile, 1857-1944. Barcarolles, voices, piano. op. 62</dcterms:title>
+   <dcterms:creator>Chaminade, Cécile, 1857-1944</dcterms:creator>
+   <dcterms:creator>Guinand, Edouard</dcterms:creator>
+   <dcterms:creator>Oudin, Eugène</dcterms:creator>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1898</dcterms:created>
+   <dcterms:extent>1 score (11 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>mezzo-soprano voice, alto voice, piano</dcterms:description>
+   <dcterms:description>mezzo-soprano voice, baritone voice, piano</dcterms:description>
+   <dcterms:description>For mezzo-soprano and baritone or alto with piano.</dcterms:description>
+   <dcterms:description>French words with English translation.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's plate number.</dcterms:description>
+   <dcterms:description>Advertisement on p. [12]: New songs and duets selected from the catalogue of G. Schirmer.</dcterms:description>
+   <dcterms:isPartOf>Selected vocal-duets</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Vocal duets with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1143224/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1143223</edm:isShownAt>
+</mdRecord>

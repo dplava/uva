@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:729546</dcterms:identifier>
+   <dcterms:title>Carte d'Amérique / dressée pour l'usage du Roy en 1722 par Guillaume Delisle, premier Géographe de Sa Majesté de l'Académie Royale des Sciences ; et augmentée des nouvlles. découvertes en 1763 par Phil. Buache son gendre</dcterms:title>
+   <dcterms:creator>Buache, Philippe, 1700-1773</dcterms:creator>
+   <dcterms:creator>L'Isle, Guillaume de, 1675-1726</dcterms:creator>
+   <dcterms:publisher>Chez l'auteur sur le Quay de l'Horloge avec privilége</dcterms:publisher>
+   <dcterms:created>1763</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>49 x 62 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Appeared in various untitled collections of L'Isle maps, many updated by his son-in-law, Phil. Buache. See Phillips, Atlases, no. 636, v. 1, p. 370-371 and no. 3456, v. 3, p. 240-243.</dcterms:description>
+   <dcterms:description>In margin at lower right corner: "Ph. Buache P.G.d.R:d.l'A.d.S. Gendre del'Auteur Avec Privilége du 30. Av. 1745"</dcterms:description>
+   <dcterms:description>Untitled inset upper left shows region of the Bering Strait and "Presqu'isle du nord-ouest de l'Americque."</dcterms:description>
+   <dcterms:description>In lower right corner: Advertissement. La projection employeé cette carte...</dcterms:description>
+   <dcterms:description>Prime meridian: Ferro Island.</dcterms:description>
+   <dcterms:description>Shows California as a peninsula, directly south of the Mer de L'Ouest.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Linen-backed.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:32,500,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Western Hemisphere--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>South America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>North America</dcterms:spatial>
+   <dcterms:spatial>South America</dcterms:spatial>
+   <dcterms:spatial>Western Hemisphere</dcterms:spatial>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:731461/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:729546</edm:isShownAt>
+</mdRecord>

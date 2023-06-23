@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:40 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2054838</dcterms:identifier>
+   <dcterms:title>Theme Building, exterior|general view</dcterms:title>
+   <dcterms:creator>Pereira and Luckman (American architectural firm, active mid-20th century) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1961</dcterms:created>
+   <dcterms:medium>reinforced concrete; steel; stucco [work]</dcterms:medium>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Googie</dcterms:description>
+   <dcterms:description>Mid-Century Modernist</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>airports</dcterms:subject>
+   <dcterms:subject>observation towers</dcterms:subject>
+   <dcterms:spatial>201 World Way, Los Angeles, California, United States</dcterms:spatial>
+   <dcterms:spatial>33.9441, -118.4024</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/03/01/19/762097b3-5df1-494f-bd46-1d4be148682c_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2054838</edm:isShownAt>
+</mdRecord>

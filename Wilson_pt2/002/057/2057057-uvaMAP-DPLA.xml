@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:40 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2057057</dcterms:identifier>
+   <dcterms:title>Monroe Hall, interior</dcterms:title>
+   <dcterms:creator>Hartman-Cox Architects (American architectural firm, contemporary) [work]</dcterms:creator>
+   <dcterms:creator>University of Virginia. Architectural Commission (American commission, Charlottesville, contemporary) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1989-05</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>East cross hallway and ramp</dcterms:description>
+   <dcterms:description>Commerce and Economics building, 1929-1955; Graduate School of Business Administration, 1955-1975. Commerce School, 1975-2008. Now houses Arts and Sciences offices and classrooms. -- Wilson/Neuman/Butler, The University of Virginia Campus Guide, 2nd, ed., 2012 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Georgian Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>classrooms</dcterms:subject>
+   <dcterms:subject>corridors</dcterms:subject>
+   <dcterms:subject>wheelchair ramps</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:spatial>McCormick Road, Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/03/02/15/4d917a60-7eca-4d53-82fc-06c72bd82329_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2057057</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:50 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9151392</dcterms:identifier>
+   <dcterms:title>The Rockery, exterior|general view</dcterms:title>
+   <dcterms:title>Memorial Cairn</dcterms:title>
+   <dcterms:creator>Olmsted, Frederick Law, Sr. (American landscape architect, 1822-1903) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2004</dcterms:created>
+   <dcterms:description>View from Main Street</dcterms:description>
+   <dcterms:description>"... a memorial for North Easton's citizens lost in the American Civil War, a public area, and a carriage promenade with views of North Easton. It consists of boulders heaped into a long, asymmetric mound across a rustic archway that echoes those of H. H. Richardson's nearby Oakes Ames Memorial Hall..." -- http://en.wikipedia.org/wiki/The_Rockery [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>cairns</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>walkways</dcterms:subject>
+   <dcterms:subject>landscaping</dcterms:subject>
+   <dcterms:spatial>North Easton, Bristol, Massachusetts, United States</dcterms:spatial>
+   <dcterms:spatial>42.066333, -71.104237</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/04/16/17/3137dceb-dc64-40fb-8146-bed4101246cc_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9151392</edm:isShownAt>
+</mdRecord>

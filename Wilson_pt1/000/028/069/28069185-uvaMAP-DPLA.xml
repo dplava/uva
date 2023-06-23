@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:58 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28069185</dcterms:identifier>
+   <dcterms:title>Broad Leys, exterior|general view</dcterms:title>
+   <dcterms:title>Broadleys</dcterms:title>
+   <dcterms:creator>Voysey, Charles Francis Annesley (English architect and designer, 1857-1941) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2002</dcterms:created>
+   <dcterms:description>Entrance facade</dcterms:description>
+   <dcterms:description>In 1951, it was acquired by the Windermere Motor Boat Racing Club and became the home of powerboat racing on Windermere.... Despite it being a private club, members of the public can book to stay in the house at certain times during the year. -- https://en.wikipedia.org/wiki/Broad_Leys [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>English</dcterms:description>
+   <dcterms:description>Arts and Crafts (movement)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>country houses</dcterms:subject>
+   <dcterms:subject>clubhouses</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>hotels (public accommodations)</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:spatial>Newby Bridge Road, Bowness-on-Windermere, Cumbria, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>54.33185, -2.93464</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/04/15/19/4130fbaf-0247-4974-abc9-fe5297fe7f59_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28069185</edm:isShownAt>
+</mdRecord>

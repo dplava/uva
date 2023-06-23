@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:04 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:600024</dcterms:identifier>
+   <dcterms:title>Nouvelle France politique, 1919 / dressée et publiée par Ed. Blondel La Rougery, Éditeur-Géographe</dcterms:title>
+   <dcterms:creator>La Rougery, Blondel.</dcterms:creator>
+   <dcterms:publisher>Dressée et gravée par Ed. Blondel La Rougery, Éditeur Géographe ,. Rue St. Lazare</dcterms:publisher>
+   <dcterms:created>1919</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>67 x 66 cm. on sheet 69 x 71 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Relief not shown.</dcterms:description>
+   <dcterms:description>Insets (separate scales): Algérie et Tunisie -- Corse.</dcterms:description>
+   <dcterms:description>"Reproduction même partielle formellement interdite" printed in lower margin.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Handwritten note in bottom margin "Map used by C.C. Chowning on voyage to Europe beginning Feb. 20, 1921." Signature of Carroll C. Chowning on verso.</dcterms:description>
+   <dcterms:description>Scale 1:1,500,000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>France--Maps</dcterms:subject>
+   <dcterms:spatial>France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096791/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:600024</edm:isShownAt>
+</mdRecord>

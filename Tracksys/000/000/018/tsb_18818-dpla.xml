@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 12:37 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>tsb:18818</dcterms:identifier>
+   <dcterms:title>Topography, Maryland--District of Columbia--Virginia, Washington quadrangle / H.M. Wilson, geographer in charge ; triangulation by U.S. Coast and Geodetic Survey ; topography by J.D. Hoffman .. and U.S. Coast and Geodetic Survey</dcterms:title>
+   <dcterms:title>Maryland District of Columbia Virginia Washington quadrangle</dcterms:title>
+   <dcterms:title>Washington D C</dcterms:title>
+   <dcterms:title>Washington quadrangle</dcterms:title>
+   <dcterms:creator>Geological Survey (U.S.)</dcterms:creator>
+   <dcterms:creator>Hoffman, J. D.</dcterms:creator>
+   <dcterms:creator>U.S. Coast and Geodetic Survey.</dcterms:creator>
+   <dcterms:creator>Virginia-District of Columbia Boundary Commission.</dcterms:creator>
+   <dcterms:creator>Wilson, Herbert M. (Herbert Michael), 1860-1920</dcterms:creator>
+   <dcterms:publisher>U.S. Geological Survey</dcterms:publisher>
+   <dcterms:created>1914</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>45 x 71 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>contours</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Edition of July 1900, reprinted June 1914.</dcterms:description>
+   <dcterms:description>Relief shown by contours and spot heights.</dcterms:description>
+   <dcterms:description>"Surveyed in 1885-86 and 95-97."</dcterms:description>
+   <dcterms:description>Alternate title in right lower margin: Washington, D.C.</dcterms:description>
+   <dcterms:description>From the papers of the Virginia-District of Columbia Boundary Commission.</dcterms:description>
+   <dcterms:description>Includes notes.</dcterms:description>
+   <dcterms:description>Text dated "January 1913," legend, explanatory physiographic diagram and topographic map, and blank areas on verso.</dcterms:description>
+   <dcterms:description>Scale 1:62,500</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Washington Metropolitan Area--Maps, Topographic</dcterms:subject>
+   <dcterms:subject>Washington (D.C.)--Maps, Topographic</dcterms:subject>
+   <dcterms:spatial>Washington (D.C.)</dcterms:spatial>
+   <dcterms:spatial>Washington Metropolitan Area</dcterms:spatial>
+   <dcterms:spatial>Washington (State)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1517889/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18818</edm:isShownAt>
+</mdRecord>

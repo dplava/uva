@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:34 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:777124</dcterms:identifier>
+   <dcterms:title>Boccace Des dames de renom / nouuellement traduict d'Italien en langage Françoys</dcterms:title>
+   <dcterms:title>Des dames de renom</dcterms:title>
+   <dcterms:title>Boccaccio, Giovanni, 1313-1375. De mulieribus claris. French (Middle French)</dcterms:title>
+   <dcterms:creator>Boccaccio, Giovanni, 1313-1375</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Pagnant, Edouard, 1852-1926</dcterms:creator>
+   <dcterms:creator>Rouillé, Guillaume, 1518?-1589</dcterms:creator>
+   <dcterms:publisher>chez Guil. Rouille à l'Escu de Venise</dcterms:publisher>
+   <dcterms:created>1551</dcterms:created>
+   <dcterms:extent>384, [8] p.</dcterms:extent>
+   <dcterms:extent>18cm. (8vo)</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Signatures: a-z⁸ A⁸ B⁴ (leaf B4, blank(?), wanting)</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Pagnant. Bookplate, "In libris Curvatus Consciens In libris." Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 646.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Pagnant. Bookplate, "In libris Curvatus Consciens In libris." Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 646.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:spatial>Lyon, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:779785/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:777124</edm:isShownAt>
+</mdRecord>

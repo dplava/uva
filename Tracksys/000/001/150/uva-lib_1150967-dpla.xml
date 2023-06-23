@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 7:50 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1150967</dcterms:identifier>
+   <dcterms:title>George Peabody's funeral march: op. 1890 / composed by Charles Grobe</dcterms:title>
+   <dcterms:creator>Grobe, Charles.</dcterms:creator>
+   <dcterms:creator>T. Sinclair's Lith.</dcterms:creator>
+   <dcterms:publisher>Lee &amp; Walker</dcterms:publisher>
+   <dcterms:created>1869</dcterms:created>
+   <dcterms:extent>5 p. of music</dcterms:extent>
+   <dcterms:medium>ill</dcterms:medium>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>Cover illustration: Portrait of George Peabody / T. Sinclair's Lith., Phila.</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: List of Lee &amp; Walker publications.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Peabody, George, 1795-1869--Portraits</dcterms:subject>
+   <dcterms:subject>Peabody, George, 1795-1869--Songs and music</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Marches (Piano)</dcterms:subject>
+   <dcterms:subject>Funeral music</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1150968/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1150967</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 7:48 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1150298</dcterms:identifier>
+   <dcterms:title>In the starlight / music by Stephen Glover ; words by J.E. Carpenter</dcterms:title>
+   <dcterms:title>In the starlight in the starlight</dcterms:title>
+   <dcterms:creator>Carpenter, J. E. (Joseph Edwards), 1813-1885</dcterms:creator>
+   <dcterms:creator>Glover, Stephen, 1813-1870</dcterms:creator>
+   <dcterms:publisher>J.L. Peters</dcterms:publisher>
+   <dcterms:created>[1868..1869]</dcterms:created>
+   <dcterms:extent>1 score (6 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>soprano voice, alto voice, piano</dcterms:description>
+   <dcterms:description>tenor voice, bass voice, piano</dcterms:description>
+   <dcterms:description>For soprano and alto (or tenor and bass) and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>Title page illustration: Decorated border / John A. Gray &amp; Green, printers, New York.</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: New and valuable music books.</dcterms:description>
+   <dcterms:isPartOf>Vocal duets : for two male or two female voices</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Vocal duets with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1150299/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1150298</edm:isShownAt>
+</mdRecord>

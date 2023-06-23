@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 2:42 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1039473</dcterms:identifier>
+   <dcterms:title>Gathering of Different Colleges in front of Madison Hall</dcterms:title>
+   <dcterms:creator>Rufus W. Holsinger, 1866-1930</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1889~/1930</dcterms:created>
+   <dcterms:extent>14 x 17 in. [original]</dcterms:extent>
+   <dcterms:description>Colleges identified by banners.</dcterms:description>
+   <dcterms:isPartOf>The Holsinger Studio Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:subject>Portraits, Group</dcterms:subject>
+   <dcterms:subject>Emory and Henry College</dcterms:subject>
+   <dcterms:subject>Randolph-Macon College</dcterms:subject>
+   <dcterms:subject>Virginia School for the Deaf and the Blind (Staunton, Va.)</dcterms:subject>
+   <dcterms:subject>Bridgewater College</dcterms:subject>
+   <dcterms:subject>Hampden-Sydney College</dcterms:subject>
+   <dcterms:subject>College of William and Mary</dcterms:subject>
+   <dcterms:subject>Shenandoah University</dcterms:subject>
+   <dcterms:subject>Washington and Lee University</dcterms:subject>
+   <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
+   <dcterms:subject>University of Virginia</dcterms:subject>
+   <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1039473/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1039473</edm:isShownAt>
+</mdRecord>

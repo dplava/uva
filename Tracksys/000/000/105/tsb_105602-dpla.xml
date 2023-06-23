@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 12:33 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:105602</dcterms:identifier>
+   <dcterms:title>Discours veritable de la deffence de messieurs les habitans de Paris, conduits auec leurs garnisons par Monseigneur le Duc de Nemours: Contre le Roy de Nauarre, qui vouloit loger son armee aux faulxbourgs S. Martin, pour battre la ville ou fut blessé a mort le sieur de la Nouë. : Ledict discours faict mention de la deffaitte du Prince de Dombes, par Monseigneur le Duc de Mercrure</dcterms:title>
+   <dcterms:creator>Chambolle-Duru (Firm)</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Velu, Hubert, active 1587-1615</dcterms:creator>
+   <dcterms:publisher>Pour Hubert velu, deuant Boncourt</dcterms:publisher>
+   <dcterms:created>1590</dcterms:created>
+   <dcterms:extent>15 p.</dcterms:extent>
+   <dcterms:extent>15 cm. (8vo)</dcterms:extent>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Signatures: A-B⁴.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Chambolle-Duru. Unidentified monogram "RB" or "BR" with motto "In via nulla in via" inside both covers. Illegible ownership stamp on title page. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 232.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sainte Ligue (1576-1593)</dcterms:subject>
+   <dcterms:subject>France--History--Wars of the Huguenots, 1562-1598--Campaigns</dcterms:subject>
+   <dcterms:subject>Paris (France)--History--16th century</dcterms:subject>
+   <dcterms:subject>France--History--Henry IV, 1589-1610</dcterms:subject>
+   <dcterms:temporal>16th century</dcterms:temporal>
+   <dcterms:temporal>Henry IV, 1589-1610</dcterms:temporal>
+   <dcterms:temporal>Wars of the Huguenots, 1562-1598</dcterms:temporal>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Paris (France)</dcterms:spatial>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:3099480/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:105602</edm:isShownAt>
+</mdRecord>

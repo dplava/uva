@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:42 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2066525</dcterms:identifier>
+   <dcterms:title>Covered Bridge at Wawona, general view</dcterms:title>
+   <dcterms:creator>Clark, Galen (Canadian outdoorsman and author, 1814-1910, active in the United States) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2000-09</dcterms:created>
+   <dcterms:medium>wood (plant material); iron (metal); stone (rock) [work]</dcterms:medium>
+   <dcterms:description>From side</dcterms:description>
+   <dcterms:description>The open bridge (without the covering) was built by Galen Clark, the steward of what was then called the Yosemite Grant, in 1868, without its cladding. The modified queen post truss was covered with Douglas fir cladding in 1878, enclosing the Ponderosa pine structure and its iron tie rods. The bridge served automobile traffic until 1937, when a new bridge was built about 200 metres (660 ft) to the southwest. The bridge was repaired by Civilian Conservation Corps labor the same year. Since 1957 the bridge has had a number of repairs and replacements as materials have deteriorated. -- https://en.wikipedia.org/wiki/Wawona_Covered_Bridge [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>national parks</dcterms:subject>
+   <dcterms:subject>Yosemite National Park (Calif.)</dcterms:subject>
+   <dcterms:subject>bridges (built works)</dcterms:subject>
+   <dcterms:spatial>Yosemite History Center, Wawona, Yosemite National Park, Mariposa, California, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2023/04/17/14/ce2dfc82-c8ef-4fd7-81f9-4624a9b33b7e_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2066525</edm:isShownAt>
+</mdRecord>

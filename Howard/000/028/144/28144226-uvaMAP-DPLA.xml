@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-16 at 3:11 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28144226</dcterms:identifier>
+   <dcterms:title>Aviator, The, general view</dcterms:title>
+   <dcterms:creator>Borglum, Gutzon (American sculptor, 1867-1941) [sculptor]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1996-05-17</dcterms:created>
+   <dcterms:extent>height 12 feet; width 8.5 feet [work]</dcterms:extent>
+   <dcterms:medium>casting (process) ; bronze (metal) (figure); marble (rock) (pedestal) [work]</dcterms:medium>
+   <dcterms:description>Looking northwest, with Clemons Library terrace behind</dcterms:description>
+   <dcterms:description>The sculpture is a bronze statue commissioned in honor of University alumnus James Rogers McConnell’s heroism and courage in World War I, as a member of the Lafayette Escadrille. -- https://en.wikipedia.org/wiki/The_Aviator_(Charlottesville,_Virginia) [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Sculpture and Installations</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>sculpture (visual work)</dcterms:subject>
+   <dcterms:subject>McConnell, James Rogers (American aviator, 1887-1917)</dcterms:subject>
+   <dcterms:subject>World War, 1914-1918</dcterms:subject>
+   <dcterms:subject>Icarus</dcterms:subject>
+   <dcterms:subject>France. Armée. Escadrille Lafayette</dcterms:subject>
+   <dcterms:subject>outdoor sculpture</dcterms:subject>
+   <dcterms:subject>terraces (landscaped-site elements)</dcterms:subject>
+   <dcterms:spatial>installation: between Clemons and Alderman Libraries, Charlottesville, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.038333, -78.505833</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/05/14/13/3be0c9c1-8a00-440a-9279-63d21d9959c0_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28144226</edm:isShownAt>
+</mdRecord>

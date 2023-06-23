@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 6:45 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1081761</dcterms:identifier>
+   <dcterms:title>Map of Knoxville Tennessee / by Chas. Waring ; copy by Wright, 1917 ; copy by W. Smith, 1924</dcterms:title>
+   <dcterms:creator>Smith, W.</dcterms:creator>
+   <dcterms:creator>Waring, Chas.</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1924</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>90 x 95 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"Original city of Knoxville-1792" outlined in red.</dcterms:description>
+   <dcterms:description>Oriented with north to the upper right.</dcterms:description>
+   <dcterms:description>Map shows street names and major property holders.</dcterms:description>
+   <dcterms:description>"B-3071" in lower right margin.</dcterms:description>
+   <dcterms:description>Scale not given.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Real property--Tennessee--Knoxville--Maps</dcterms:subject>
+   <dcterms:subject>Knoxville (Tenn.)--Maps</dcterms:subject>
+   <dcterms:spatial>Knoxville</dcterms:spatial>
+   <dcterms:spatial>Knoxville (Tenn.)</dcterms:spatial>
+   <dcterms:spatial>Tennessee</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1086301/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1081761</edm:isShownAt>
+</mdRecord>

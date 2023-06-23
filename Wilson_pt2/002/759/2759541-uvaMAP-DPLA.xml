@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:43 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2759541</dcterms:identifier>
+   <dcterms:title>Charles S. Greene House, exterior</dcterms:title>
+   <dcterms:title>Charles Sumner Greene House</dcterms:title>
+   <dcterms:title>Oakholm</dcterms:title>
+   <dcterms:creator>Greene &amp; Greene (American architectural firm, active 1894-1922) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1973</dcterms:created>
+   <dcterms:description>Hillside stone garage</dcterms:description>
+   <dcterms:description>After their marriage and European honeymoon in 1901, Charles Greene and his wife, Alice, purchased a lot overlooking the picturesque Arroyo Seco and began planning their new home, to be built in the shade of a mature native oak tree. Beginning as a one-story, two-bedroom structure set on a knoll above the street behind a stone and clinker-brick retaining wall, the house was later expanded to accommodate the growing family and staff, eventually comprising a total of seven bedrooms in a two- and one-half-story structure. Most striking were the partial octagonal shape of the living room, with its four window-walls projecting out toward the Arroyo and the view, and Charles' double-height tower studio, with its octagonal form in the upper portion. The tower studio was subsumed by the later additions. A brick garage, dug into the hillside in 1914, marked the final addition by the Greene family before their move to Carmel in 1916. The house and its wall set the tone for the street, where the Greenes built several other houses, extending the stone and brick wall and brick sidewalk paving. Known as "Little Switzerland," the neighborhood comprised a number of Greene &amp; Greene designs, ranging from the early half-timbered English Arts and Crafts brick house for James Culbertson to the fully developed California Craftsman style as expressed in the sprawling Irwin house or the modest Ranney house. -- http://www.usc.edu/dept/architecture/greeneandgreene/166.html [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Arts and Crafts (movement)</dcterms:description>
+   <dcterms:description>Craftsman (style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>garages</dcterms:subject>
+   <dcterms:subject>retaining walls</dcterms:subject>
+   <dcterms:subject>driveways</dcterms:subject>
+   <dcterms:spatial>368 Arroyo View Terrace, Pasadena, Los Angeles, California, United States</dcterms:spatial>
+   <dcterms:spatial>34.150534, -118.162397</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/06/03/14/75d19939-721c-43ae-9f99-e8b133448cec_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2759541</edm:isShownAt>
+</mdRecord>

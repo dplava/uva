@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 12:56 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>tsb:58678</dcterms:identifier>
+   <dcterms:title>Hemoglobinometer</dcterms:title>
+   <dcterms:creator>Rieker Instrument Company [manufacturer]</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1920~</dcterms:created>
+   <dcterms:extent>4.5 x 16.7 x 10.6 cm [original]</dcterms:extent>
+   <dcterms:medium>metal; glass (material); plastic (organic material); leather [original]</dcterms:medium>
+   <dcterms:description>Contained in a leather care; set includes: hemoglobinometer device, plastic attachment, lens, wax and string, candle holder. Inside sticker reads: "This certifies that Dare Hemoglobinometer No. 5199 has been examined and approved." Sticker is signed by Arthur Dare and dated February 19, 1920. Imprint in faded gold reads: "The Dare Hemoglobinometer, Made by Rieker Instrument Co., 1919-1921 Fairmont Ave. Philadelphia, Pa. U.S.A." Graded 90-100.</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:description>Donated by J. T. Thorton, Jr. [original]</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1526775/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58678</edm:isShownAt>
+</mdRecord>

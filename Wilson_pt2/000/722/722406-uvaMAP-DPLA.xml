@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:34 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>722406</dcterms:identifier>
+   <dcterms:title>Evolution of Civilization, detail view</dcterms:title>
+   <dcterms:creator>Blashfield, Edwin Howland (American painter, 1848-1936) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1988</dcterms:created>
+   <dcterms:description>Dome collar showing Blashfield mural: middle ages, Italy, Germany</dcterms:description>
+   <dcterms:description>The decoration on the base or collar of the lantern [in the dome above the reading room] consists of a ring of twelve seated figures, male and female, ranged against a wall of mosaic patterning. They represent the twelve countries, or epochs, which in 1897, when the building was constructed, were thought to have contributed the most to modern civilization. • Egypt represents Written Records. • Judea represents Religion. • Greece represents Philosophy. • Rome represents Administration. • Islam represents Physics. • The Middle Ages represent Modern Languages. • Italy represents the Fine Arts. • Germany represents the Art of Printing. • Spain represents Discovery. • England represents Literature. • France represents Emancipation. • America represents Science. -- http://myloc.gov/ExhibitSpaces/MainReadingRoom/TheDome/Pages/default.aspx [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Beaux-Arts</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Paintings</dcterms:subject>
+   <dcterms:subject>Library of Congress Thomas Jefferson Building (Washington, D.C.)</dcterms:subject>
+   <dcterms:subject>libraries (institutions)</dcterms:subject>
+   <dcterms:subject>national libraries</dcterms:subject>
+   <dcterms:subject>allegory (artistic device)</dcterms:subject>
+   <dcterms:spatial>First Street S.E., Washington, District of Columbia, United States</dcterms:spatial>
+   <dcterms:spatial>38.8887, -77.0046</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/08/22/15/df487b24-ab7f-438c-a7c1-bd46a88521b9_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_722406</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:37 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1392643</dcterms:identifier>
+   <dcterms:title>Fountain of the Centaurs, general view</dcterms:title>
+   <dcterms:creator>Bitter, Karl Theodore Francis (American sculptor, 1867-1915) [work]</dcterms:creator>
+   <dcterms:creator>Weinman, Adolph Alexander (American sculptor, 1870-1952) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1926</dcterms:created>
+   <dcterms:medium>bronze [work]</dcterms:medium>
+   <dcterms:description>Fountain of the Centaurs and cast of Karl Bitter’s bronze relief, “The Signing of the Louisiana Purchase Treaty."</dcterms:description>
+   <dcterms:description>The fountain depicts centaurs struggling with fish and sea serpents -- http://www.waymarking.com/waymarks/WM87D9_The_Fountain_of_the_Centaurs_Jefferson_City_Missouri. Perhaps the most interesting choice of the grouping by Weinman was the inclusion of a cast of Karl Bitter’s bronze relief, “The Signing of the Louisiana Purchase Treaty.” While the piece, surrounded in granite, provides the upward mobility needed for the area, it does mix historical sculpture with mythology, making the grouping somewhat abrupt for observers -- http://daytrippin.us/tag/karl-bitter/. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>France. Treaties, etc. United States, 1803 April 30</dcterms:subject>
+   <dcterms:subject>fountains</dcterms:subject>
+   <dcterms:subject>monuments</dcterms:subject>
+   <dcterms:subject>sculpture (visual works)</dcterms:subject>
+   <dcterms:subject>France. Treaties, etc. United States, 1803 Apr. 30</dcterms:subject>
+   <dcterms:subject>reliefs (sculptures)</dcterms:subject>
+   <dcterms:spatial>201 West Capitol Avenue, Jefferson City, Cole, Missouri, United States</dcterms:spatial>
+   <dcterms:spatial>34.744265, -92.272419</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/03/26/10/cd7e2130-3397-4539-bfc9-afdc99c5ccef_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1392643</edm:isShownAt>
+</mdRecord>

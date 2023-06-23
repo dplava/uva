@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:28 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>187200</dcterms:identifier>
+   <dcterms:title>Florham, exterior|general view</dcterms:title>
+   <dcterms:title>Hennessy Hall</dcterms:title>
+   <dcterms:creator>McKim, Mead, and White (American architectural firm, 1879-1910) [work]</dcterms:creator>
+   <dcterms:creator>Olmsted, Frederick Law, Sr. (American landscape architect, 1822-1903) [work]</dcterms:creator>
+   <dcterms:creator>White, Stanford (American architect, 1853-1906) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1992</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Estate entrance gates</dcterms:description>
+   <dcterms:description>built for Hamilton McKown Twombly and his wife, Florence Adele Vanderbilt, a member of the Vanderbilt family. Italianate gardens designed by Frederick law Olmted Sr. Now part of the Florham Campus of Fairleigh Dickinson University, the mansion is one of the ten largest houses in the United States. -- https://en.wikipedia.org/wiki/Florham [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Baroque Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>classrooms</dcterms:subject>
+   <dcterms:subject>administration buildings</dcterms:subject>
+   <dcterms:subject>gateways</dcterms:subject>
+   <dcterms:subject>driveways</dcterms:subject>
+   <dcterms:spatial>285 Madison Avenue, Madison, Morris, New Jersey, United States</dcterms:spatial>
+   <dcterms:spatial>40.775726, -74.431028</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/18/00/37c20316-a964-4822-a6d0-74111e157c69_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_187200</edm:isShownAt>
+</mdRecord>

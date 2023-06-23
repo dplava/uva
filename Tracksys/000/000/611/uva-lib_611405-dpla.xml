@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:05 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:611405</dcterms:identifier>
+   <dcterms:title>Hecatomphile / de vulgaire Italien tourné en langaige Francoys. Les fleurs de pöesie Francoyse</dcterms:title>
+   <dcterms:title>Alberti, Leon Battista, 1404-1472. Hecatomphila. French (Middle French)</dcterms:title>
+   <dcterms:creator>Alberti, Leon Battista, 1404-1472</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Juste, Françoys, active 16th century</dcterms:creator>
+   <dcterms:creator>Thibaron, -1885</dcterms:creator>
+   <dcterms:publisher>On les vend a Lyon en la maison de Frācoys Iuste demourant deuant nostre Dame de Confort</dcterms:publisher>
+   <dcterms:created>1534</dcterms:created>
+   <dcterms:extent>43, [1] leaves</dcterms:extent>
+   <dcterms:extent>16 x 8 cm. (8vo)</dcterms:extent>
+   <dcterms:medium>ill.</dcterms:medium>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>Signatures: A-B⁸ C⁴ D-F⁸.</dcterms:description>
+   <dcterms:description>Les fleurs de pöesie Francoyse: leaves [21]-43.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Thibaron. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 769. A handwritten and printed bookseller's descriptions, which were laid in, have been placed in collection INSERT FILE.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>French poetry--16th century</dcterms:subject>
+   <dcterms:temporal>16th century</dcterms:temporal>
+   <dcterms:spatial>Lyon, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:611419/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:611405</edm:isShownAt>
+</mdRecord>

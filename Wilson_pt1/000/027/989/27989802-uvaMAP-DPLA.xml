@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:57 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>27989802</dcterms:identifier>
+   <dcterms:title>Memorial Presbyterian Church, exterior|general view</dcterms:title>
+   <dcterms:creator>Carrère &amp; Hastings (American architectural firm, 1885-1926) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1996</dcterms:created>
+   <dcterms:medium>cast-in-place concrete [work]</dcterms:medium>
+   <dcterms:description>Tower and mausoleum</dcterms:description>
+   <dcterms:description>land and church donated to the people of St. Augustine, Florida by American industrialist Henry Morrison Flagler as memorial to his daughter, Jennie Louise Benedict, who died following complications from childbirth at sea in March 1889. When Flagler died in 1913, he was interred in a marble mausoleum connected to the church alongside his daughter Jennie, his infant granddaughter Margery, and first wife Mary Harkness Flagler. -- https://en.wikipedia.org/wiki/Memorial_Presbyterian_Church [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Renaissance Revival</dcterms:description>
+   <dcterms:description>Venetian</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>religious buildings</dcterms:subject>
+   <dcterms:subject>Presbyterianism</dcterms:subject>
+   <dcterms:subject>Flagler, Henry Morrison (American financier, 1830-1913)</dcterms:subject>
+   <dcterms:subject>crossing towers</dcterms:subject>
+   <dcterms:subject>mausoleums</dcterms:subject>
+   <dcterms:spatial>32 Sevilla Street, Saint Augustine, Saint Johns, Florida, United States</dcterms:spatial>
+   <dcterms:spatial>29.89379, -81.31688</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/03/23/17/9db1bc41-0ef8-44cd-9343-89d359227f76_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_27989802</edm:isShownAt>
+</mdRecord>

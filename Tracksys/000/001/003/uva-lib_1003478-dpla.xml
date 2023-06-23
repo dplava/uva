@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 2:29 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003478</dcterms:identifier>
+   <dcterms:title>Map of the properties of the Stuanton Development Company, Staunton, Virginia, October, 1890 / by Dunlap &amp; Barnett, Civil Engineers, Roanoke, Va</dcterms:title>
+   <dcterms:creator>Dunlap &amp; Barnett.</dcterms:creator>
+   <dcterms:creator>Norris Peters Co.</dcterms:creator>
+   <dcterms:creator>Staunton Development Company (Staunton, Va.)</dcterms:creator>
+   <dcterms:publisher>Staunton Development Company</dcterms:publisher>
+   <dcterms:publisher>The Norris Peters Co., Photo-Litho.)</dcterms:publisher>
+   <dcterms:created>1890</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>52 x 96 cm. on sheet 61 x 101 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>contours</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown by contours.</dcterms:description>
+   <dcterms:description>Includes street names and block numbers.</dcterms:description>
+   <dcterms:description>Insets: Hashour Tract -- Locater map.</dcterms:description>
+   <dcterms:description>Contains a b&amp;w view of Staunton, another of John K. Roder's Brass Goods and Curtain Pole Factories, and a colored image of the proposed Hotel Altemonte.</dcterms:description>
+   <dcterms:description>Two advertising stamps in upper and lower margins (crossing neatlines): Lot drawing June 4th, and Great sale June 2 &amp; 3, 1891, Staunton Development Co., Staunton, Va.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Signature of "The Rev. James E. Bear" on verso. Stamped as Gift, 1934.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Signature of "The Rev. James E. Bear" on verso. Stamped as Gift, 1934.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:7,200].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Staunton Development Company (Staunton, Va.)--Maps</dcterms:subject>
+   <dcterms:subject>Real estate development--Virginia--Staunton--Maps</dcterms:subject>
+   <dcterms:subject>Real property--Virginia--Staunton--Maps</dcterms:subject>
+   <dcterms:subject>Staunton (Va.)--Maps</dcterms:subject>
+   <dcterms:spatial>Staunton</dcterms:spatial>
+   <dcterms:spatial>Staunton (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:894400/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003478</edm:isShownAt>
+</mdRecord>

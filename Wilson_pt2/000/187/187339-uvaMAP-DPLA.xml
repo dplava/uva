@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:28 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>187339</dcterms:identifier>
+   <dcterms:title>McKelvy House, exterior|detail view</dcterms:title>
+   <dcterms:title>College Scholars Society</dcterms:title>
+   <dcterms:title>John C. Eyerman Residence</dcterms:title>
+   <dcterms:creator>McKim, Mead, and White (American architectural firm, 1879-1910) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1888</dcterms:created>
+   <dcterms:medium>stone (rock); shingle [work]</dcterms:medium>
+   <dcterms:description>Porch columns from underneath porch roof, south facade</dcterms:description>
+   <dcterms:description>Built for John Eyerman, a faculty lecturer in mineralogy from 1888-91. It was bought by Lafayette [College] Trustee Francis G. McKelvy and donated to College by his heirs in 1960. -- http://en.wikipedia.org/wiki/Lafayette_College [work]</dcterms:description>
+   <dcterms:description>McKelvy House is home to the prestigious College Scholars Society, a group of students nominated by the faculty to participate in a common social and intellectual experience. The students live at McKelvy House and, with the aid of a faculty advisor, organize weekly discussions on topics of common interest. -- https://sites.lafayette.edu/buildings/lafayette-college-architecture-essay/mckelvy-house/#:~:text=McKelvy%20House%2C%20originally%20the%20John,college's%20finest%20pieces%20of%20architecture. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Shingle Style</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>dormitories (buildings)</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>porches</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:spatial>High Street, Easton, Northampton, Pennsylvania, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/18/01/eb840589-e031-44e6-8f74-b4d0b8660018_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_187339</edm:isShownAt>
+</mdRecord>

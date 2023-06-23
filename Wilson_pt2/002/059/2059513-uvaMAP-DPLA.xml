@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:41 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2059513</dcterms:identifier>
+   <dcterms:title>Western State Hospital, interior</dcterms:title>
+   <dcterms:title>Western Lunatic Asylum</dcterms:title>
+   <dcterms:creator>Long, Robert Cary, Jr. (American architect, ca. 1810-1849) [work]</dcterms:creator>
+   <dcterms:creator>Phillips, William B. (American builder and bricklayer, born ca. 1790) [work]</dcterms:creator>
+   <dcterms:creator>Small, William F. (American architect, 1798-1832) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1828</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Hallway</dcterms:description>
+   <dcterms:description>Main building designed by Small, 1828; flanking wings designed by Robert Cary Long, Jr. and completed by William B. Phillips, early 1840s. -- Virginia Landmarks Register, 4th ed., 1999. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>hospitals (health facilities)</dcterms:subject>
+   <dcterms:subject>mental health facilities</dcterms:subject>
+   <dcterms:subject>corridors</dcterms:subject>
+   <dcterms:spatial>Greenville Avenue, Staunton, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.145278, -79.068056</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/10/08/16/dcd97aed-2711-460a-aef9-fb0e22669d22_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2059513</edm:isShownAt>
+</mdRecord>

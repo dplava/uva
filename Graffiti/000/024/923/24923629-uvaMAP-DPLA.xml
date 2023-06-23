@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 10:59 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>24923629</dcterms:identifier>
+   <dcterms:title>Carrel 1M-8, frame</dcterms:title>
+   <dcterms:creator>Lee, Jenny [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2019-06-05</dcterms:created>
+   <dcterms:medium>ball-point pens; markers (drawing instruments) [work]</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Statement of admiration for John Marshall, and responses. Reference to Ralph Sampson. [work]</dcterms:description>
+   <dcterms:description>Student graffiti art and messages inscribed on carrel walls in the new stacks, Alderman Library, University of Virginia, prior to the renovation of the building, 2020-2023. [host]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Series 2, image number 1 (top to bottom)</dcterms:description>
+   <dcterms:description>I LOVE John Marshall | Yep, a great chief justice | I LOVE YOUR MOTHER | John's a pussy. | He was too chicken to [illegible] | I you love him so much go to JMU | RALPH! | Who?</dcterms:description>
+   <dcterms:isPartOf>Alderman Library Carrel Graffiti Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:subject>Marshall, John, 1755-1835</dcterms:subject>
+   <dcterms:subject>Sampson, Ralph, 1960-</dcterms:subject>
+   <dcterms:spatial>University of Virginia. Library. New Stacks. Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/05/08/12/a8d73c05-081b-4427-b071-86f49a215963_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_24923629</edm:isShownAt>
+</mdRecord>

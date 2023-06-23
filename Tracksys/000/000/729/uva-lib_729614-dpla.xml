@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:729614</dcterms:identifier>
+   <dcterms:title>Les affections de diuers amans / faictes &amp; rassemblées par Parthenius de Nicée ancien auteur Grec, &amp; nouuellement mises en Francoys</dcterms:title>
+   <dcterms:title>Affections de divers amans</dcterms:title>
+   <dcterms:title>Narrations d amour de Plutarche</dcterms:title>
+   <dcterms:title>Parthenius, of Nicaea, active 1st century B.C. De amatoriis affectionibus. French (Middle French)</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Fornier, Jean, 1530-1583?</dcterms:creator>
+   <dcterms:creator>Parthenius of Nicaea, active 1st century B.C</dcterms:creator>
+   <dcterms:creator>Robinot, Gilles, active 1554-1584</dcterms:creator>
+   <dcterms:creator>Trautz, Georges, 1808-1879</dcterms:creator>
+   <dcterms:publisher>Par Gilles Robinot ..., 1555.</dcterms:publisher>
+   <dcterms:created>1555</dcterms:created>
+   <dcterms:extent>46 (i.e. 51), [1] leaves</dcterms:extent>
+   <dcterms:extent>16 cm. (8vo)</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:language>Greek, Ancient (to 1453)</dcterms:language>
+   <dcterms:description>Signatures: A-F⁸ G⁴.</dcterms:description>
+   <dcterms:description>Errors in foliation: leaves of Signature G incorrectly numbered 42, 44, 46, [1], instead of 49-51, [1].</dcterms:description>
+   <dcterms:description>Translation, by Jean Fornier, of: Erōtika pathēmata.</dcterms:description>
+   <dcterms:description>Les narrations d'amour de Plutarche: leaves 41v-46 (i.e. 51)</dcterms:description>
+   <dcterms:description>Errata: leaf G4, recto.</dcterms:description>
+   <dcterms:description>Privilege issued to Vincent Sertenas.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Trautz-Bauzonnet. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 761.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Romance fiction, Greek--Translations into French</dcterms:subject>
+   <dcterms:subject>Mythology, Greek--Fiction</dcterms:subject>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:733739/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:729614</edm:isShownAt>
+</mdRecord>

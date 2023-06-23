@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>596992</dcterms:identifier>
+   <dcterms:title>Grindstone Neck: Cottage, exterior</dcterms:title>
+   <dcterms:creator>Eyre, Wilson (American architect, 1858-1944) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1986</dcterms:created>
+   <dcterms:description>General view</dcterms:description>
+   <dcterms:description>The summer colony of Grindstone Neck lies on a peninsula southwest of the village of Winter Harbor, Maine. In 1889 a group formed “The Gouldsboro Land Improvement Company” with the idea of creating a summer colony much like that of Bar Harbor. Residents of this community share in an association which includes a yacht club, nine hole golf course, tennis courts and footpaths. The first few homes on the neck were designed by Wilson Eyre. The homes on Grindstone Neck are called "cottages" though many of them have upwards of 7–12 bedrooms. http://en.wikipedia.org/wiki/Winter_Harbor,_Maine [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Queen Anne Style</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>houses</dcterms:subject>
+   <dcterms:subject>recreation areas</dcterms:subject>
+   <dcterms:subject>decks (uncovered spaces)</dcterms:subject>
+   <dcterms:subject>chimneys (architectural elements)</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:spatial>Grindstone Neck, Hancock, Maine, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/07/03/14/1f463a6d-270f-481a-8e05-bfcf08b66a58_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_596992</edm:isShownAt>
+</mdRecord>

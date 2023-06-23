@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:37 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1714033</dcterms:identifier>
+   <dcterms:title>Alvin Miller House, general view</dcterms:title>
+   <dcterms:title>Dietrich House</dcterms:title>
+   <dcterms:title>Miller House</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:creator>Wright, Frank Lloyd (American architect, 1867-1959) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1974</dcterms:created>
+   <dcterms:description>View from Miller House</dcterms:description>
+   <dcterms:description>Built in 1946, the Alvin Miller Residence is a single-story, L-shaped house, made of stone and cypress. Its terraces and outdoor fireplace extend the house downward to the Cedar River's banks, according to William Allin Storrer's authoritative survey of Wright's work, "The Frank Lloyd Wright Companion." -- http://featuresblogs.chicagotribune.com/theskyline/2008/06/wright-house-in.html 'Usonian' is a term usually referring to a group of approximately sixty middle-income family homes designed by Frank Lloyd Wright beginning in 1936 with the Jacobs House. The "Usonian Homes" were typically small, single-story dwellings without a garage or much storage, L-shaped to fit around a garden terrace on odd (and cheap) lots, with native materials, flat roofs and large cantilevered overhangs for passive solar heating and natural cooling, natural lighting with clerestory windows, and radiant-floor heating. A strong visual connection between the interior and exterior spaces is an important characteristic of all Usonian homes. The word carport was coined by Wright to describe an overhang for sheltering a parked vehicle. -- http://en.wikipedia.org/wiki/Usonian The Alvin Miller Usonian Home was constructed with limestone, concrete, glass and red tidewater cypress in both the interior and exterior. The addition, designed by Frank Lloyd Wright, was added in 1995 creating a 2939 sq. ft. home with four bedrooms, three bathrooms, a carport, an outdoor gazebo and fountain. The home is located on approximately one wooded acre with breath-taking views of the Cedar River and the Main Street Bridge in downtown Charles City. The Alvin Miller Home and the Main Street Bridge are both listed on the National Register of Historic Places. Wright brought the "outside in" by designing 175 floor-to-ceiling window, clerestory windows and extraordinary patios protected by ten foot cantilevers. The living room, guest room and master bedroom overlook the river. Cypress wood and natural, local limestone were used in the exterior and interior construction of the original home and the 1995 addition. The home received flood water in 2008 but has been completely cleaned, sanitized and structurally inspected . . . . http://www.savewright.org/index.php?page=33&amp;id=101 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Usonian houses</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>housing (concept)</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>Cedar River (Minn. and Iowa)</dcterms:subject>
+   <dcterms:spatial>1107 Court Street, Charles City, Floyd, Iowa, United States</dcterms:spatial>
+   <dcterms:spatial>43.066875, -92.683792</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/06/19/14/abca595b-7254-4a31-8876-b1e568719c0b_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1714033</edm:isShownAt>
+</mdRecord>

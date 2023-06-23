@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 12:02 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>31968851</dcterms:identifier>
+   <dcterms:title>Museum of Public Works, exterior|detail view</dcterms:title>
+   <dcterms:title>Conseil économique, social et environnemental</dcterms:title>
+   <dcterms:title>French Economic, Social and Environmental Council</dcterms:title>
+   <dcterms:creator>Perret, Auguste (French architect, 1874-1954) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1983</dcterms:created>
+   <dcterms:medium>cast-in-place concrete [work]</dcterms:medium>
+   <dcterms:description>Facade</dcterms:description>
+   <dcterms:description>building now the headquarters of the French Economic, Social and Environmental Council, a consultative assembly which advises lawmaking bodies on questions of social and economic policies. -- https://en.wikipedia.org/wiki/French_Economic,_Social_and_Environmental_Council [work]</dcterms:description>
+   <dcterms:description>French</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>industrial expositions</dcterms:subject>
+   <dcterms:subject>world's fairs</dcterms:subject>
+   <dcterms:subject>museums</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>international organizations</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>rotundas (buildings)</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:spatial>9, place d’Iena, Paris, Ville de Paris, Département de, Île-de-France, France</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/01/13/14/3ead3143-4e79-4d98-82c8-240733b9752c_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_31968851</edm:isShownAt>
+</mdRecord>

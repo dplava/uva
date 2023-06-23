@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:34 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>722472</dcterms:identifier>
+   <dcterms:title>Carillon Tower, exterior</dcterms:title>
+   <dcterms:title>Virginia War Memorial</dcterms:title>
+   <dcterms:creator>Carneal, Johnston and Wright (American architectural firm, 20th century) [work]</dcterms:creator>
+   <dcterms:creator>Cram, Goodhue and Ferguson (American architectural firm, 1898-1913) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1990</dcterms:created>
+   <dcterms:description>General view</dcterms:description>
+   <dcterms:description>The Carillon is both a tower and a large scale musical instrument, one of a class of instruments which are the largest on earth. This 240-foot Georgian 56-bell tower is a memorial to Virginians who died fighting in World War I. -- http://www.richmondcitybook.com/carillon-bell-tower-richmond.php Added to National Register of Historic Places, October 4, 1984. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Georgian Revival</dcterms:description>
+   <dcterms:description>Colonial Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>carillons</dcterms:subject>
+   <dcterms:subject>World War, 1914-1918--Monuments</dcterms:subject>
+   <dcterms:subject>war memorials</dcterms:subject>
+   <dcterms:subject>cupolas (roof appendages)</dcterms:subject>
+   <dcterms:subject>balustrades</dcterms:subject>
+   <dcterms:subject>balconies</dcterms:subject>
+   <dcterms:spatial>1300 Blanton Avenue, Byrd Park, Richmond, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>37.540833, -77.483889</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/08/22/15/c35ad14a-9e49-4001-b8e7-0d43fa523be8_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_722472</edm:isShownAt>
+</mdRecord>

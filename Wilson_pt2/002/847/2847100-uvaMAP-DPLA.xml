@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:44 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2847100</dcterms:identifier>
+   <dcterms:title>Robert Lepper Mural, detail view</dcterms:title>
+   <dcterms:creator>Lepper, Robert (artist and professor , 1906 - 1991) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1987</dcterms:created>
+   <dcterms:medium>mural painting (activity) [work]</dcterms:medium>
+   <dcterms:description>Coal Machinery and coal container</dcterms:description>
+   <dcterms:description>Robert Lepper made the "highly acclaimed" mural of area industries for the Mining Industries Building (also known as the new Mineral Industries Building) at West Virginia University between 1940 and 1942. -- http://en.wikipedia.org/wiki/Robert_Lepper [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Paintings</dcterms:subject>
+   <dcterms:subject>paintings (visual works)</dcterms:subject>
+   <dcterms:subject>industrial design</dcterms:subject>
+   <dcterms:subject>conveyors</dcterms:subject>
+   <dcterms:spatial>One Waterfront Place, Morgantown, Monongalia, West Virginia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/04/25/12/5f1b24d0-2369-4237-a591-3b33a93dc03d_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2847100</edm:isShownAt>
+</mdRecord>

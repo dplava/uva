@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 10:28 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2015190</dcterms:identifier>
+   <dcterms:title>Villa Cecilia Gardens, general view</dcterms:title>
+   <dcterms:creator>López Hernández, Francisco (Spanish painter and sculptor, born 1932) [work]</dcterms:creator>
+   <dcterms:creator>Martinez Lapeña, José Antonio (Spanish architect, born 1941) [work]</dcterms:creator>
+   <dcterms:creator>Meyer, Elizabeth [photographer]</dcterms:creator>
+   <dcterms:creator>Torres Tur, Elías (Spanish architect, born 1944) [work]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2001-01</dcterms:created>
+   <dcterms:description>Weir within canal</dcterms:description>
+   <dcterms:description>Park designed by José Antonio Martinez Lapeña and Elías Torres Tur; sculpture by Francisco López Hernández [work]</dcterms:description>
+   <dcterms:description>Spanish</dcterms:description>
+   <dcterms:isPartOf>Elizabeth Meyer Barcelona Landscapes Collection</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>parks (recreation areas)</dcterms:subject>
+   <dcterms:subject>landscape architecture</dcterms:subject>
+   <dcterms:subject>weirs</dcterms:subject>
+   <dcterms:subject>canals</dcterms:subject>
+   <dcterms:spatial>Carrer Santa Amèlia, Barcelona, Catalonia, Spain</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2022/03/24/18/1ae65b35-0977-4090-ab0d-53d3a0857967_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2015190</edm:isShownAt>
+</mdRecord>

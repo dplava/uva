@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:58 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28064036</dcterms:identifier>
+   <dcterms:title>Arts and Crafts Farmhouse, exterior|general view</dcterms:title>
+   <dcterms:creator>Ellis, Harvey (American architect, painter, designer, 1852-1904) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2000</dcterms:created>
+   <dcterms:description>Porch</dcterms:description>
+   <dcterms:description>The Ellis House was built by the current owners of Crab Tree Farm in 1993, based on plans published in the December 1903 issue of The Craftsman magazine—one of those drawn up by the architect Harvey Ellis during his brief tenure with Stickley. All of the interiors are based on suggestions in Stickley’s magazine. The details and finishes were taken from renderings, drawings, and detailed descriptions offered in the magazine. -- https://artsandcraftshomes.com/interiors/mind-gustav-stickley [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Arts and Crafts (movement)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>bungalows</dcterms:subject>
+   <dcterms:subject>museums</dcterms:subject>
+   <dcterms:subject>porches</dcterms:subject>
+   <dcterms:spatial>Crab Tree Farm, Lake Bluff, Lake, Illinois, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/04/13/20/192269ef-651f-46cf-ae39-997ea375e64e_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28064036</edm:isShownAt>
+</mdRecord>

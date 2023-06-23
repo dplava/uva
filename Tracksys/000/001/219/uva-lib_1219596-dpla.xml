@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 7:53 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1219596</dcterms:identifier>
+   <dcterms:title>Traitor, spare that flag / by the Rev. J.P. Lundy. ; Air--"Woodman spare that tree."</dcterms:title>
+   <dcterms:creator>Lundy, John P. (John Patterson), 1823-1892</dcterms:creator>
+   <dcterms:creator>Magnus, Charles.</dcterms:creator>
+   <dcterms:publisher>Chas. Magnus, 12 Frankfort St.</dcterms:publisher>
+   <dcterms:created>[1861..1865]</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>21 x 13 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>ill. (hand-col.)</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Civil war song sheet in four verses; without music. Printed in blue on illustrated letter paper, with verso of sheet ruled in blue.</dcterms:description>
+   <dcterms:description>First line: Traitor, spare that flag.</dcterms:description>
+   <dcterms:description>With advertisement "Ten illustrated Songs on Notepaper, mailed to any Address on receipt of 50 cts. Published by Chas. Magnus, 12 Frankfort St. N.Y." at bottom of sheet.</dcterms:description>
+   <dcterms:description>Charles Magnus published as an individual at 12 Frankfort St., new York, between 1860 1nd 1867. Works which also include Washington, D.C. imprint were published about 1863 and 1864.</dcterms:description>
+   <dcterms:description>Hand-colored headpiece features, on the left, a vignette of 2 women, one of whom is holding a flag with motto "The Union now and forever" and, on the right, a circular vignette of a farm scene with motto "Freedom and unity." Magnus 46. Song not listed with this headpiece in the Library Company of Philadelphia's American song sheets, cf. no. 2361ff.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Third of 25 song sheets which were mounted in an unidentified scrapbook. Rehoused, 2009.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>War songs--United States--SOngs and music--Texts</dcterms:subject>
+   <dcterms:subject>Traitors--Songs and music--Texts</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Songs and music--Texts</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>New York (City), New York (State), United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1219729/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219596</edm:isShownAt>
+</mdRecord>

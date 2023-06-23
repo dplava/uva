@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:28 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>187853</dcterms:identifier>
+   <dcterms:title>Ashdown House, exterior|general view</dcterms:title>
+   <dcterms:creator>Latrobe, Benjamin Henry (British architect and engineer, 1764-1820, active in the United States) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1986</dcterms:created>
+   <dcterms:medium>ashlar [work]</dcterms:medium>
+   <dcterms:description>Entrance facade and portico</dcterms:description>
+   <dcterms:description>Served as a prep school from 1886-2020. Sold for development 2021. [work]</dcterms:description>
+   <dcterms:description>British</dcterms:description>
+   <dcterms:description>Greek Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>country houses</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>preparatory schools</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>porticoes</dcterms:subject>
+   <dcterms:subject>Ionic order</dcterms:subject>
+   <dcterms:subject>balconies</dcterms:subject>
+   <dcterms:subject>blind arches</dcterms:subject>
+   <dcterms:spatial>Forest Row, East Sussex, England, United Kingdom</dcterms:spatial>
+   <dcterms:spatial>51.1025, 0.0629</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/18/10/3149e0af-77b6-4b9b-9ba7-d27b3f4c917c_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_187853</edm:isShownAt>
+</mdRecord>

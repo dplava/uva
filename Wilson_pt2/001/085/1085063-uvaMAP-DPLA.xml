@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:35 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1085063</dcterms:identifier>
+   <dcterms:title>World Trade Center Towers, detail view</dcterms:title>
+   <dcterms:title>One and Two World Trade Center</dcterms:title>
+   <dcterms:title>Twin Towers</dcterms:title>
+   <dcterms:title>World Trade Center North and South Towers</dcterms:title>
+   <dcterms:creator>Emery Roth and Sons (American architectural firm, contemporary) [work]</dcterms:creator>
+   <dcterms:creator>Minoru Yamasaki and Associates (American architectural firm, contemporary) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1977</dcterms:created>
+   <dcterms:description>Windows</dcterms:description>
+   <dcterms:description>The World Trade Center is a site for various buildings in Lower Manhattan, New York City, United States. The original World Trade Center was a complex of seven buildings. It featured landmark twin towers, which opened on April 4, 1973 and were until 1974 the world's tallest buildings. These were destroyed in the September 11 attacks of 2001. The other buildings in the complex were damaged in the attacks and eventually demolished. The site is being rebuilt with five new skyscrapers and a memorial to the casualties of the attacks. -- http://en.wikipedia.org/wiki/World_trade_center [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Modernist</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Port Authority of New York and New Jersey</dcterms:subject>
+   <dcterms:subject>office buildings</dcterms:subject>
+   <dcterms:subject>office complexes</dcterms:subject>
+   <dcterms:subject>financial institutions (buildings)</dcterms:subject>
+   <dcterms:subject>office towers</dcterms:subject>
+   <dcterms:spatial>World Trade Center, Lower Manhattan, New York, United States</dcterms:spatial>
+   <dcterms:spatial>40.711667, -74.0125</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2012/12/06/15/5894b54c-b85c-47c8-86c7-0d9f44b966df_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1085063</edm:isShownAt>
+</mdRecord>

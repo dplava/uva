@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 7:41 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1146477</dcterms:identifier>
+   <dcterms:title>The snow flake polka / composed by Francis H. Brown</dcterms:title>
+   <dcterms:creator>Brown, Francis H. (Francis Henry), 1818-1891</dcterms:creator>
+   <dcterms:creator>Bush, Annie</dcterms:creator>
+   <dcterms:creator>Weller &amp; Greene Co.</dcterms:creator>
+   <dcterms:publisher>S. Brainard's Sons</dcterms:publisher>
+   <dcterms:created>[1866..1883]</dcterms:created>
+   <dcterms:extent>5 p. of music</dcterms:extent>
+   <dcterms:medium>ill</dcterms:medium>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>At head of title: "To Miss Annie Bush."</dcterms:description>
+   <dcterms:description>Illustration: Snow scene with a horse pulling two people in a sleigh and a bearded figure above, laying on a cloud / Weller &amp; Greene Co.</dcterms:description>
+   <dcterms:description>Publication date derived from form of publisher's name. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Polkas</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1146478/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1146477</edm:isShownAt>
+</mdRecord>

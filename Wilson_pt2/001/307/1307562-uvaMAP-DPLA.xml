@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:36 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1307562</dcterms:identifier>
+   <dcterms:title>United States Courthouse, detail view</dcterms:title>
+   <dcterms:creator>Franzheim, Kenneth (American architect, ca. 1891-1959) [work]</dcterms:creator>
+   <dcterms:creator>Page, Charles H. (American architect, died 1988) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1979</dcterms:created>
+   <dcterms:medium>concrete; reinforced concrete; limestone [work]</dcterms:medium>
+   <dcterms:description>View of entrance</dcterms:description>
+   <dcterms:description>The Austin U.S. Courthouse is a four-story, rectangular plan, steel and concrete building with a basement and service penthouse. The walls, which are clad in cream-colored limestone, rise above the Texas gray granite base. A fluted band visually divides the first and second floors. Fluted pilasters vertically extend from the second to the fourth floors between the recessed window bays. The windows are double-hung, with anodized aluminum frames and sashes. Second-, third- and fourth-floor windows are separated by cast-iron spandrels that depict either stylized eagles or a geometric pattern. A carved stone panel with a geometric pattern is also visible above each fourth-floor window. A cornice-consisting of an incised horizontal band-circumscribes the building near the roofline. A carved stone parapet extends from this cornice. The features characterize both the primary and secondary façades. -- http://www.gsa.gov/portal/ext/html/site/hb/category/25431/actionParameter/exploreByBuilding/buildingId/361 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Art Deco</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>judicial buildings</dcterms:subject>
+   <dcterms:subject>aluminum (metal)</dcterms:subject>
+   <dcterms:subject>bas-reliefs (sculpture)</dcterms:subject>
+   <dcterms:spatial>200 West 8th Street, Austin, Travis, Texas, United States</dcterms:spatial>
+   <dcterms:spatial>30.270627, -97.743941</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/02/01/12/0e63ab0c-3b48-4818-8688-d7e61cd647b0_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1307562</edm:isShownAt>
+</mdRecord>

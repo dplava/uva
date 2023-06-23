@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:58 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28047877</dcterms:identifier>
+   <dcterms:title>Episcopal Divinity School, exterior|detail view</dcterms:title>
+   <dcterms:creator>Ware and Van Brunt (American architectural partnership, contemporary) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1872..1880]</dcterms:created>
+   <dcterms:medium>brick (clay product); stone (rock) [work]</dcterms:medium>
+   <dcterms:description>Reed Hall (1877), facade arcade</dcterms:description>
+   <dcterms:description>The Episcopal Divinity School (EDS) was founded in 1974 by combining the Episcopal Theological School (ETS) and the Philadelphia Divinity School (PDS). In 2016, the school's board of trustees decided that the school would cease granting degrees after the end of the 2016–2017 academic year. After several months of evaluating how it could continue to support the school's mission of theological education, the board of trustees decided to affiliate EDS with Union Theological Seminary in New York City and sell its Cambridge campus. In 2018, Lesley purchased the rest of EDS's former Cambridge campus. -- https://en.wikipedia.org/wiki/Episcopal_Divinity_School [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Gothic Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>universities</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>arcades (structural assemblies)</dcterms:subject>
+   <dcterms:spatial>Brattle Street, Cambridge, Middlesex, Massachusetts, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/04/06/19/ccada736-bd51-4f14-9f0e-d54bb546735a_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28047877</edm:isShownAt>
+</mdRecord>

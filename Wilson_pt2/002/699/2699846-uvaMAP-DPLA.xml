@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:43 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2699846</dcterms:identifier>
+   <dcterms:title>The Ahwahnee Bridge, general view</dcterms:title>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2000-09</dcterms:created>
+   <dcterms:description>The Yosemite Valley Bridges are eight bridges in the Yosemite Valley of Yosemite National Park, most of them spanning the Merced River. Five of them were built in 1928, with the remainder built between 1921 and 1933. The bridges feature a concrete structure faced with local stone, in an elliptical or three-centered arch configuration. They are notable for their uniform character and for their conformance to tenets of the National Park Service rustic style. Design work for the seven newer bridges was by George D. Whittle of the San Francisco District Office of the U.S. Bureau of Public Roads for the National Park Service. Concrete bridges were chosen at the urging of Thomas Chalmers Vint of the Park Service, in lieu of alternative designs for steel truss bridges, or suspension bridges suggested by the park superintendent. The Ahwahnee Bridge was built in 1928 across the Merced with three arches, one spanning 42 feet (13 m) and the others spanning 39 feet (12 m), for a total length of 122 feet (37 m). The bridge is 39 feet (12 m) wide with a 27 feet (8.2 m) roadway, a 5 feet (1.5 m) sidewalk and a 7 feet (2.1 m) bridle path. It carries the Mirror Lake Road, framing a view of Half Dome for eastbound traffic. The bridges were listed as a historic district on the National Register of Historic Places on November 25, 1977. -- http://en.wikipedia.org/wiki/Yosemite_Valley_Bridges [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Rustic (European style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>National Historic Landmarks</dcterms:subject>
+   <dcterms:subject>historic sites</dcterms:subject>
+   <dcterms:subject>historic preservation</dcterms:subject>
+   <dcterms:subject>stonework</dcterms:subject>
+   <dcterms:subject>arches</dcterms:subject>
+   <dcterms:subject>voussoirs</dcterms:subject>
+   <dcterms:subject>masonry</dcterms:subject>
+   <dcterms:subject>rubblework</dcterms:subject>
+   <dcterms:subject>piers (supporting elements)</dcterms:subject>
+   <dcterms:spatial>Yosemite Valley, Mariposa, California, United States</dcterms:spatial>
+   <dcterms:spatial>37.721667, -119.646389</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/04/09/10/fdbcd1a5-016e-49c4-8af8-51779e191a37_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2699846</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 10:59 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>24833024</dcterms:identifier>
+   <dcterms:title>Carrel 4-19, southwest wall</dcterms:title>
+   <dcterms:creator>Lee, Jenny [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2019-04-22</dcterms:created>
+   <dcterms:medium>ball-point pens [work]</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>What looks like a quote about belief or atheism, to which others respond. One graffiti questions suicide, to which others respond trying to convince the author of the suicide graffiti not to. [work]</dcterms:description>
+   <dcterms:description>Student graffiti art and messages inscribed on carrel walls in the new stacks, Alderman Library, University of Virginia, prior to the renovation of the building, 2020-2023. [host]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Series 3, image number 1 (left to right)</dcterms:description>
+   <dcterms:description>So it goes. | - Vonnegut - SammyAilz | C'est la vie. | Only when you believe in nothing may you embrace everything | Deez Nuts | that's ridiculous | Katy Perry? | Actually, only when you believe in something can you embrace everything. | should I off myself? | NO! your life has value!! | Don't worry you're still the best</dcterms:description>
+   <dcterms:isPartOf>Alderman Library Carrel Graffiti Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:subject>Religion</dcterms:subject>
+   <dcterms:subject>Life</dcterms:subject>
+   <dcterms:subject>Despair</dcterms:subject>
+   <dcterms:subject>Encouragement</dcterms:subject>
+   <dcterms:subject>Suicide</dcterms:subject>
+   <dcterms:spatial>University of Virginia. Library. New Stacks. Charlottesville, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2019/04/23/15/2b835da8-4714-42f1-bc49-60d7b236e31d_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_24833024</edm:isShownAt>
+</mdRecord>

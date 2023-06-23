@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 11:58 a.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28017535</dcterms:identifier>
+   <dcterms:title>Silversmith Building, exterior|general view</dcterms:title>
+   <dcterms:title>Silversmith Hotel</dcterms:title>
+   <dcterms:creator>D. H. Burnham and Company (American architectural firm, active 1891-1912) [work]</dcterms:creator>
+   <dcterms:creator>Weber, Peter J. (American architect, 1864-1923) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2001</dcterms:created>
+   <dcterms:medium>steel frame construction; masonry [work]</dcterms:medium>
+   <dcterms:description>Facade</dcterms:description>
+   <dcterms:description>Erected in what is still known today as the Jewelers Row District, running along Wabash Avenue in the Loop, the structure was originally constructed to house jewelers and silver craftsmen. -- https://www.historichotels.org/hotels-resorts/the-silversmith-hotel/history.php [work]</dcterms:description>
+   <dcterms:description>Converted to a boutique hotel, early 21st century. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Chicago School</dcterms:description>
+   <dcterms:description>Romanesque Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>office buildings</dcterms:subject>
+   <dcterms:subject>hotels (public accommodations)</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:spatial>10 S Wabash Avenue, Chicago, Cook, Illinois, United States</dcterms:spatial>
+   <dcterms:spatial>41.881111, -87.626389</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/03/31/17/6fa6b0cc-8aba-473f-a8f6-b1257ccc9d71_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28017535</edm:isShownAt>
+</mdRecord>

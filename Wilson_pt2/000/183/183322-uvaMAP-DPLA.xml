@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:27 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>183322</dcterms:identifier>
+   <dcterms:title>Knickerbocker Boulevard, general view</dcterms:title>
+   <dcterms:title>Knickerbocker Parkway</dcterms:title>
+   <dcterms:creator>Jensen, Jens (American and Danish landscape architect, 1860-1951) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1920..1929]</dcterms:created>
+   <dcterms:description>Open grassy area</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Prairie School</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>landscape architecture</dcterms:subject>
+   <dcterms:subject>boulevards</dcterms:subject>
+   <dcterms:subject>open spaces</dcterms:subject>
+   <dcterms:subject>parks (recreation areas)</dcterms:subject>
+   <dcterms:spatial>Woodmar neighborhood, Hammond, Lake, Indiana, United States</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/09/15/19/f0a39dc4-199d-4acd-8967-4fcbf5b8318c_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_183322</edm:isShownAt>
+</mdRecord>

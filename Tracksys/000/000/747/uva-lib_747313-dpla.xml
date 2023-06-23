@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:32 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:747313</dcterms:identifier>
+   <dcterms:title>Soil map, Virginia Campbell County sheet / soils surveyed by R.A. Winston, 1909</dcterms:title>
+   <dcterms:title>Soil map Campbell County Virginia sheet</dcterms:title>
+   <dcterms:creator>A. Hoen &amp; Co.</dcterms:creator>
+   <dcterms:creator>United States. Bureau of Soils.</dcterms:creator>
+   <dcterms:creator>Winston, R. A. (Robert Alonzo), 1878-</dcterms:creator>
+   <dcterms:publisher>Field Operations, Bureau of Soils</dcterms:publisher>
+   <dcterms:created>1909</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>79 x 88 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>In upper margin: U.S. Dept. of Agriculture, Bureau of Soils, Milton Whitney, Chief.</dcterms:description>
+   <dcterms:description>At lower right corner: Field Operations, BUreau of Soils, 1909.</dcterms:description>
+   <dcterms:description>Color coded legend in right margin; soil profiles in left margin.</dcterms:description>
+   <dcterms:description>"A. Hoen &amp; Co. Lith. Baltimore, Md."</dcterms:description>
+   <dcterms:description>Appeared in: Soil survey of Campbell County / by R.A. Winston.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Number "8" on verso.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:63,360] 1 in.=1 mi.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Soils--Virginia--Campbell County--Maps</dcterms:subject>
+   <dcterms:subject>Campbell County (Va.)--Maps</dcterms:subject>
+   <dcterms:spatial>Campbell County</dcterms:spatial>
+   <dcterms:spatial>Campbell County (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:753254/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:747313</edm:isShownAt>
+</mdRecord>

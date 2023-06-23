@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:45 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>3724356</dcterms:identifier>
+   <dcterms:title>Lummis House, exterior|general view</dcterms:title>
+   <dcterms:title>El Alisal</dcterms:title>
+   <dcterms:creator>Lummis, Charles Fletcher (American author, photographer, 1859-1928) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1991</dcterms:created>
+   <dcterms:description>Courtyard view</dcterms:description>
+   <dcterms:description>Lummis House, also known as El Alisal, is a Rustic American Craftsman stone house built by Charles Fletcher Lummis in the late 19th century. Located on the edge of Arroyo Seco in northeast Los Angeles, California, the house's name means "alder grove" in Spanish. Lummis purchased the three-acre lot (1.2 ha) sometime between 1895 and 1897 and named it "El Alisal" in tribute to the thicket of alder and sycamore trees that grew in the arroyo. The 4,000-square-foot home (370 m2) took 13 years to build. The exhibition hall has a concrete floor so that after a party that might include artists, writers and musicians, it could easily be cleaned with a bucket of water. Notable people who stayed in his guest houses included Clarence Darrow, Will Rogers, John Philip Sousa and John Muir. The property was on the edge of the scenic Arroyo Seco and Lummis founded the Arroyo Seco Foundation in 1905 to promote recreational use and preserving habitat . . . The exterior of the house is built of river rock and originally contained a stone tower, but that was later demolished. . . . The drought-tolerant and native plant gardens encompass the gardens and natural landscape around the residence, including namesake El Alisal California Sycamore trees . . . -- http://en.wikipedia.org/wiki/Lummis_House [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Rustic (European style)</dcterms:description>
+   <dcterms:description>Craftsman (style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Garden and Landscape</dcterms:subject>
+   <dcterms:subject>historic house museums</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>housing (concept)</dcterms:subject>
+   <dcterms:subject>gardens</dcterms:subject>
+   <dcterms:subject>landscape architecture</dcterms:subject>
+   <dcterms:subject>courtyards</dcterms:subject>
+   <dcterms:subject>water gardens</dcterms:subject>
+   <dcterms:spatial>200 East Avenue 43, Los Angeles, California, United States</dcterms:spatial>
+   <dcterms:spatial>34.093056, -118.206944</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2014/09/26/14/45a951db-fc25-4843-a49e-395fa93cc6b1_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_3724356</edm:isShownAt>
+</mdRecord>

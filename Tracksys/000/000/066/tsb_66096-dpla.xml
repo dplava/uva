@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 2:23 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66096</dcterms:identifier>
+   <dcterms:title>Maximes of reason: or, The reason of the common law of England / By Edmond Wingate</dcterms:title>
+   <dcterms:creator>Wingate, Edmund, 1596-1656</dcterms:creator>
+   <dcterms:publisher>Printed by R. &amp; W. L. for W. Lee, A. Crook, D. Pakeman, H. Twiford, G. Bedell, T. Dring, J. Place</dcterms:publisher>
+   <dcterms:created>1658</dcterms:created>
+   <dcterms:extent>7 p. l., 772, (i. e. 720), [12] p. 29 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Irregularities in paging; p. 183-192 repeated in numbering, p. 271-280, 509-544, 649-664, omitted in numbering.</dcterms:description>
+   <dcterms:description>Signatures: Title, not signed, A₃-[₄], a⁴, B-Z⁴, Aa-Zz⁴, Aaa-Ooo⁴, Ppp-Zzz², Aaaa-Nnnn⁴, Aaaaa-Zzzzz², Aaaaaa-Gggggg².</dcterms:description>
+   <dcterms:description>Initials; head-pieces.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Legal maxims</dcterms:subject>
+   <dcterms:subject>Common law</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2524313/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66096</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 7:26 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1139911</dcterms:identifier>
+   <dcterms:title>While shepherds watched their flocks by night: anthem for four voices with solos and duet for soprano and contralto and accompaniment for the organ or piano forte / by W.H.W. Darley</dcterms:title>
+   <dcterms:title>While shepherds watched their flocks by night</dcterms:title>
+   <dcterms:creator>Darley, W. H. W. (William Henry Westray), 1810-1872</dcterms:creator>
+   <dcterms:creator>Swain, George F.</dcterms:creator>
+   <dcterms:publisher>J. Starr Holloway</dcterms:publisher>
+   <dcterms:created>1868</dcterms:created>
+   <dcterms:extent>1 score (9 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>soprano voice (4), alto voice, tenor voice, bass voice, organ</dcterms:description>
+   <dcterms:description>soprano voice, alto voice, tenor voice, bass voice, piano</dcterms:description>
+   <dcterms:description>For 4 voices (SATB) and piano or organ.</dcterms:description>
+   <dcterms:description>At foot of title page: "Swain, Phila."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Anthems</dcterms:subject>
+   <dcterms:subject>Sacred vocal quartets with piano</dcterms:subject>
+   <dcterms:subject>Sacred vocal quartets with organ</dcterms:subject>
+   <dcterms:subject>Christmas music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1139912/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1139911</edm:isShownAt>
+</mdRecord>

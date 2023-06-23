@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>271224</dcterms:identifier>
+   <dcterms:title>High Voltage Factory, detail view</dcterms:title>
+   <dcterms:title>Hochspannungsfabrik</dcterms:title>
+   <dcterms:creator>Behrens, Peter (German architect, painter, and designer, 1868-1940) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1983</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>Side</dcterms:description>
+   <dcterms:description>…the High Voltage Factory, an assembly plant for transformers and other equipment for high voltage transmission, presents an irregular silhouette. It consists of interlocking blocks with asymmetrical concessions to the site… The entire surface is clad in brick and tile. The central part of the complex consists of two large, ferro-vitreous, skylit halls 35 meters in width, 17 meters high, and just over 100 meters in length. This double hall is flanked by basement services with locker rooms and multistory working areas that comprise, in ascending order, a 6-meter-high storage and assembly floor at the main level, four 4-meter-high work floors, and two more work floors under the roof. At the eastern end, two regular stories plus a mansard story literally bridge the wide-span halls below. -- Peter Behrens and a New Architecture for the Twentieth Century, Stanford Anderson [work]</dcterms:description>
+   <dcterms:description>German</dcterms:description>
+   <dcterms:description>International Style (modern European architecture style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>electric utilities</dcterms:subject>
+   <dcterms:subject>industrial complexes</dcterms:subject>
+   <dcterms:subject>curtain walls (nonbearing walls)</dcterms:subject>
+   <dcterms:spatial>Hohenzollerndamm 152, Berlin, Germany</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2011/11/16/15/614342da-791f-49c7-861b-87d1504dc8fd_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_271224</edm:isShownAt>
+</mdRecord>

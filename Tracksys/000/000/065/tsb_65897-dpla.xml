@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 2:18 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65897</dcterms:identifier>
+   <dcterms:title>Officium vicecomitum: The office and authority of sheriffs: gathered out of the statutes, and books of the common laws of this kingdom / By Michael Dalton .. To which is added an Appendix or supplement, containing a collection of the statutes touching sheriffs made since Mr. Dalton's writing, which are in force and use at this day; also several special returns of writs, and the expositions, judgments, and resolutions of the reverend and learned judges, in the several courts at Westminster; upon divers statutes, cases and questions in law relating to sheriffs; and several other new matters .. with a new and copious table, wherein the defects and imperfections of the old table are supplied and amended. The new matter is inserted likewise in the table, under their proper heads, and have this mark * set before them. Purged from the errors of all former impressions</dcterms:title>
+   <dcterms:creator>Dalton, Michael, -1648?</dcterms:creator>
+   <dcterms:publisher>Printed by the assigns of R. Atkins, and E. Atkins</dcterms:publisher>
+   <dcterms:created>1700</dcterms:created>
+   <dcterms:extent>2 p. l., 500 p., 2 l., 501-564, [28] p. 31 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Appendix has special t.-p.</dcterms:description>
+   <dcterms:description>Initials; printers' ornaments at head of "To the reader" and on p. 1.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sheriffs--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2398569/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65897</edm:isShownAt>
+</mdRecord>

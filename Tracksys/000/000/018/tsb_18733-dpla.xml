@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 12:36 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18733</dcterms:identifier>
+   <dcterms:title>Nelly was a lady</dcterms:title>
+   <dcterms:creator>Foster, Stephen Collins, 1826-1864</dcterms:creator>
+   <dcterms:publisher>Thomas M. Scroggy, Publisher ... No. 443 Vine Street, above Twelfth, Phila. ...</dcterms:publisher>
+   <dcterms:created>[1850..1859]</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>23 x 15 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Printed text, within an ornamental border; without the music.</dcterms:description>
+   <dcterms:description>First published 1849.</dcterms:description>
+   <dcterms:description>First line: Down on de Mississippi floating.</dcterms:description>
+   <dcterms:description>Nelly is described as "my dark Virginnys bride."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Coles Fund, 1999/2000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>African Americans--Music</dcterms:subject>
+   <dcterms:subject>Virginia--Songs and music</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1512703/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18733</edm:isShownAt>
+</mdRecord>

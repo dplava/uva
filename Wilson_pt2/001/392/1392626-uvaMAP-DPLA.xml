@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:37 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>1392626</dcterms:identifier>
+   <dcterms:title>Missouri State Capitol, exterior</dcterms:title>
+   <dcterms:creator>Tracy and Swartwout (American architectural firm, 1913-1922) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1989</dcterms:created>
+   <dcterms:description>North side of Capitol</dcterms:description>
+   <dcterms:description>The Missouri State Capitol is located in the U.S. state of Missouri. Housing the Missouri General Assembly, it is located in the state capital of Jefferson City at 201 West Capitol Avenue. The domed building was designed by the New York architectural firm of Tracy and Swartwout and completed in 1917. It is the third capitol building in Jefferson City -- http://en.wikipedia.org/wiki/Missouri_State_Capitol. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Classical Revival (European revival style)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>Missouri State Capitol (Jefferson City, Mo.)</dcterms:subject>
+   <dcterms:subject>government office buildings</dcterms:subject>
+   <dcterms:subject>chambers (assembly spaces)</dcterms:subject>
+   <dcterms:subject>capitols</dcterms:subject>
+   <dcterms:subject>capitols</dcterms:subject>
+   <dcterms:subject>domes (architectural elements)</dcterms:subject>
+   <dcterms:subject>columns (architectural elements)</dcterms:subject>
+   <dcterms:subject>porticoes</dcterms:subject>
+   <dcterms:spatial>201 West Capitol Avenue, Jefferson City, Cole, Missouri, United States</dcterms:spatial>
+   <dcterms:spatial>38.57912, -92.172991</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2013/03/26/10/25b63b53-0019-4433-be0d-1d0e1073e64b_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_1392626</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 3:11 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1040787</dcterms:identifier>
+   <dcterms:title>Dr. Martin</dcterms:title>
+   <dcterms:creator>Rufus W. Holsinger, 1866-1930</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1912-12-26</dcterms:created>
+   <dcterms:extent>5 x 7 in. [original]</dcterms:extent>
+   <dcterms:description>(Children)</dcterms:description>
+   <dcterms:description>Dressed in Native American and cowboy costumes</dcterms:description>
+   <dcterms:description>Subjects also pictured in negative X00950A2; younger boy pictured in negatives X00949A1, X00949A2, and 949A3; older boy pictured in negative X00951A</dcterms:description>
+   <dcterms:description>Plate is in good condition. [original]</dcterms:description>
+   <dcterms:isPartOf>The Holsinger Studio Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:subject>Portraits</dcterms:subject>
+   <dcterms:subject>Toys</dcterms:subject>
+   <dcterms:subject>Toy guns</dcterms:subject>
+   <dcterms:subject>Costumes and clothes</dcterms:subject>
+   <dcterms:subject>Children</dcterms:subject>
+   <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1040787/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1040787</edm:isShownAt>
+</mdRecord>

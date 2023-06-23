@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 12:01 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>30496599</dcterms:identifier>
+   <dcterms:title>Tomochichi Federal Building and United States Courthouse, exterior|detail view</dcterms:title>
+   <dcterms:creator>Edbrooke, Willoughby J. (American architect, 1843-1896) [work]</dcterms:creator>
+   <dcterms:creator>O'Rourke, Jeremiah (American architect, 1833-1915) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1979</dcterms:created>
+   <dcterms:medium>Georgia marble [work]</dcterms:medium>
+   <dcterms:description>Corner at Whitaker Street, upper level, showing cornice</dcterms:description>
+   <dcterms:description>Originally designated as the U.S. Post Office and Courthouse, the structure was later renamed the Federal Building and U.S. Courthouse. By July 30, 1899, all departments of the post office were in the new government building. It also housed the U.S. Courts, the U.S. Engineers, and the U.S. Weather Bureau. The U. S. Post Office no longer (1999) occupies the building. The building occupies an entire city block on the western side of Wright Square, bounded by Bull, York, Whitaker, and State streets.The building was enlarged between 1930 and 1932, and was renamed in honor of the Creek Indian leader Tomochichi in 2005. -- https://en.wikipedia.org/wiki/Tomochichi_Federal_Building_and_United_States_Courthouse [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Renaissance Revival</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>government office buildings</dcterms:subject>
+   <dcterms:subject>public buildings</dcterms:subject>
+   <dcterms:subject>judicial buildings</dcterms:subject>
+   <dcterms:subject>cornices</dcterms:subject>
+   <dcterms:subject>tympana</dcterms:subject>
+   <dcterms:subject>balconies</dcterms:subject>
+   <dcterms:spatial>125 Bull Street, Wright Square, Savannah, Chatham, Georgia, United States</dcterms:spatial>
+   <dcterms:spatial>32.078056, -81.093056</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2021/06/04/15/6cfadec9-c133-4313-8e5f-36126269fd24_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_30496599</edm:isShownAt>
+</mdRecord>

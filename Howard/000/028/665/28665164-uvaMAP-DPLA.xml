@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-16 at 3:27 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>28665164</dcterms:identifier>
+   <dcterms:title>Hotel B, exterior|detail view</dcterms:title>
+   <dcterms:title>Washington Hall</dcterms:title>
+   <dcterms:creator>Jefferson, Thomas (American statesman, architect, and draftsman, 1743-1826) [architect]</dcterms:creator>
+   <dcterms:creator>Neilson, John (American master builder, before 1775-1827) [master builder]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>2000-04</dcterms:created>
+   <dcterms:medium>frame construction ; brick (clay product); masonry [work]</dcterms:medium>
+   <dcterms:description>Entrance door, north elevation, showing plaque: "Washington Literary Society -- 1869" above doorway</dcterms:description>
+   <dcterms:description>Addition to north end of Hotel constructed ca. 1870. From 1869 to 1929, headquarters of the Washington Literary and Debating Society. Now houses offices of the Office of Equal Opportunity Programs. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Neoclassical</dcterms:description>
+   <dcterms:description>Federal</dcterms:description>
+   <dcterms:description>Palladian</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>offices (work spaces)</dcterms:subject>
+   <dcterms:subject>adaptive reuse</dcterms:subject>
+   <dcterms:subject>restoration (process)</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:subject>double doors</dcterms:subject>
+   <dcterms:subject>plaques (flat objects)</dcterms:subject>
+   <dcterms:spatial>East Range; Hospital Drive, Charlottesville, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.035052, -78.502249</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/08/24/15/c6fa1d61-f53a-439e-8dc6-16f1b804cde0_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_28665164</edm:isShownAt>
+</mdRecord>

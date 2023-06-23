@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 12:00 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>29114448</dcterms:identifier>
+   <dcterms:title>Old Town Hall, exterior|general view</dcterms:title>
+   <dcterms:title>Altes Rathaus</dcterms:title>
+   <dcterms:creator>Hauberisser, Georg von (Austrian architect, 1841-1922) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1983</dcterms:created>
+   <dcterms:description>Facade</dcterms:description>
+   <dcterms:description>The building, ... had its Grand Hall (Großer Saal) constructed in 1392/1394. The former Talburg Gate (Talburgtor) of the first city wall serves as spire. The Old Town Hall was re-designed in late-gothic style by Jörg von Halsbach 1470–1480. After alterations of the facade during the Renaissance and again in the Baroque the building was restored in neo-gothic style 1861–1864. -- https://en.wikipedia.org/wiki/Old_Town_Hall,_Munich [work]</dcterms:description>
+   <dcterms:description>German</dcterms:description>
+   <dcterms:description>Gothic (Medieval)</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>public buildings</dcterms:subject>
+   <dcterms:subject>government office buildings</dcterms:subject>
+   <dcterms:subject>façades</dcterms:subject>
+   <dcterms:subject>towers (building divisions)</dcterms:subject>
+   <dcterms:spatial>Marienplatz, Munich, Oberbayern, Bavaria, Germany</dcterms:spatial>
+   <dcterms:spatial>48.136667, 11.576944</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/10/02/14/9af64343-1e65-414f-97af-bdcd8098cee1_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_29114448</edm:isShownAt>
+</mdRecord>

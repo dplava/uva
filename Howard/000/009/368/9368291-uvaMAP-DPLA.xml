@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-16 at 2:35 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>9368291</dcterms:identifier>
+   <dcterms:title>Carr's Hill, interior|general view</dcterms:title>
+   <dcterms:title>University of Virginia President's House</dcterms:title>
+   <dcterms:creator>Kendall, William Mitchell (American architect, 1856-1941) [architect]</dcterms:creator>
+   <dcterms:creator>McKim, Mead, and White (American architectural firm, 1879-1910) [architectural firm]</dcterms:creator>
+   <dcterms:creator>White, Stanford (American architect, 1853-1906) [architect]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>1994-06</dcterms:created>
+   <dcterms:medium>carpentry ; brick (clay product); masonry [work]</dcterms:medium>
+   <dcterms:description>Library (117) facing southwest with furniture arrangement, showing built-in cabinets and bookshelves and fireplace with Doric frieze and Tuscan engaged columns</dcterms:description>
+   <dcterms:description>Drawings prepared by White; construction completed after White's death. Renovations carried out periodically; full-building renovation and restoration conducted 2018-2019. [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Beaux-Arts</dcterms:description>
+   <dcterms:isPartOf>James Murray Howard University of Virginia Historic Buildings and Grounds Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>houses</dcterms:subject>
+   <dcterms:subject>mansions</dcterms:subject>
+   <dcterms:subject>dwellings</dcterms:subject>
+   <dcterms:subject>libraries (rooms)</dcterms:subject>
+   <dcterms:subject>fireplaces</dcterms:subject>
+   <dcterms:subject>built-in furniture</dcterms:subject>
+   <dcterms:subject>bookshelves</dcterms:subject>
+   <dcterms:subject>cabinets (case furniture)</dcterms:subject>
+   <dcterms:subject>love seats</dcterms:subject>
+   <dcterms:spatial>1717 University Avenue, Charlottesville, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.037830, -78.504008</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2015/05/20/10/b1c6ed01-6e43-406e-9ae3-84f07a72d11a_jpeg.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_9368291</edm:isShownAt>
+</mdRecord>

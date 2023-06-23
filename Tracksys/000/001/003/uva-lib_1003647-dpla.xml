@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 2:32 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1003647</dcterms:identifier>
+   <dcterms:title>Annual report of the President and Directors to the stockholders of the Virginia and Tennessee Rail Road Company</dcterms:title>
+   <dcterms:creator>Home Library of the Garnetts of Elmwood (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Virginia and Tennessee Railroad Company.</dcterms:creator>
+   <dcterms:publisher>Virginian Job Printing Office.</dcterms:publisher>
+   <dcterms:created>1848/..</dcterms:created>
+   <dcterms:extent>v. ill. 24 cm.</dcterms:extent>
+   <dcterms:medium>ill</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>1st- 1847/48-</dcterms:description>
+   <dcterms:description>Imprint varies.</dcterms:description>
+   <dcterms:description>Folding map issued with 9th report, 1856, has title: Map &amp; profile of the Virginia &amp; Tennessee Rail Road / prepared by W.W. Blackford, 1856, Lith. of Ritchie &amp; Dunnavant, Richmond.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Folding map from 9th annual report, 1856, has been unfolded and filed in Map Cabinet. Thomas Streeter Railroad Collection. Gift of Thomas W. Streeter.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: TA24 .V83 C7 1848b no.3-5, 8-9: Third-fifth &amp; eighth-ninth of twenty-eight titles in volume with spine title "Pamphlets: Va. R.R. guage questions, Wheeling bridge &amp;c." From the Garnett Family Library of Elmwood. Gift of Mrs. J. Clayton Mitchell. Search by call number or keyword to retrieve all titles in the volume.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Virginia and Tennessee Railroad Company.</dcterms:subject>
+   <dcterms:subject>Virginia and Tennessee Railroad Company--Maps</dcterms:subject>
+   <dcterms:subject>Railroads--Virginia</dcterms:subject>
+   <dcterms:subject>Railroads--Tennessee</dcterms:subject>
+   <dcterms:subject>Railroads--Virginia--Maps</dcterms:subject>
+   <dcterms:subject>Railroads--Tennessee--Maps</dcterms:subject>
+   <dcterms:spatial>Tennessee</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Lynchburg, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>Richmond, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:914751/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003647</edm:isShownAt>
+</mdRecord>

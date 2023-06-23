@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-06-13 at 2:41 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>2059457</dcterms:identifier>
+   <dcterms:title>Lewis Brooks Museum of Natural Science, exterior</dcterms:title>
+   <dcterms:title>Brooks Hall</dcterms:title>
+   <dcterms:creator>Thomas, John Rochester (American architect, 1848-1901) [work]</dcterms:creator>
+   <dcterms:creator>Wilson, Richard Guy [photographer]</dcterms:creator>
+   <dcterms:publisher>Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:created>[1876..1878]</dcterms:created>
+   <dcterms:medium>brick (clay product) [work]</dcterms:medium>
+   <dcterms:description>East facade</dcterms:description>
+   <dcterms:description>the University's first museum, dedicated to natural science, and the first University building donated by an individual (Lewis Brooks of Rochester, N.Y.). The museum closed in the 1940s and the building converted to classroom space; now houses the Anthropology Department and exhibit space. -- Wilson/Neuman/Butler, The University of Virginia Campus Guide, 2nd, ed., 2012 [work]</dcterms:description>
+   <dcterms:description>American</dcterms:description>
+   <dcterms:description>Second Empire</dcterms:description>
+   <dcterms:description>Victorian</dcterms:description>
+   <dcterms:isPartOf>Richard Guy Wilson Archive</dcterms:isPartOf>
+   <dcterms:rights>https://creativecommons.org/licenses/by/4.0/</dcterms:rights>
+   <dcterms:subject>Architecture and City Planning</dcterms:subject>
+   <dcterms:subject>colleges</dcterms:subject>
+   <dcterms:subject>universities (buildings)</dcterms:subject>
+   <dcterms:subject>schools (organizations)</dcterms:subject>
+   <dcterms:subject>classrooms</dcterms:subject>
+   <dcterms:subject>anthropology</dcterms:subject>
+   <dcterms:subject>entrances</dcterms:subject>
+   <dcterms:subject>mansard roofs</dcterms:subject>
+   <dcterms:spatial>University Avenue, Charlottesville, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>38.035795, -78.50214</dcterms:spatial>
+   <edm:preview>https://stor.artstor.org/iiif/2020/04/22/19/4067ae09-d982-49f7-9368-856dc99398a5_deflate.tif/full/!250,250/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/items/i_2059457</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 2:33 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1017857</dcterms:identifier>
+   <dcterms:title>Discours merueilleux de la vie, actions &amp; deportemens de Catherine de Medicis Royne mere: auquel sont recitez les moyens qu'elle a tenu pour vsurper le gouuernement du Royaume de France, &amp; ruiner l'estat d'iceluy</dcterms:title>
+   <dcterms:title>Discours merveilleux de la vie actions deportemens de Catherine de Medicis Royne mere</dcterms:title>
+   <dcterms:creator>Bèze, Théodore de, 1519-1605</dcterms:creator>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:creator>
+   <dcterms:creator>Estienne, Henri, 1531-1598</dcterms:creator>
+   <dcterms:creator>Gentillet, Innocent, approximately 1535-approximately 1595</dcterms:creator>
+   <dcterms:creator>Lortic, Marcelin, 1822-1892</dcterms:creator>
+   <dcterms:creator>Serres, Jean de, 1540?-1598</dcterms:creator>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1575</dcterms:created>
+   <dcterms:extent>164 p.</dcterms:extent>
+   <dcterms:extent>18 cm. (8vo)</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: a-k⁸ l².</dcterms:description>
+   <dcterms:description>First ed., according to Brunet, who questions the attribution to Estienne. Work has also been attributed to Théodore de Bèze or Jean de Serres. I. Gentillet sometimes cited as co-author with Estienne.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Lortic. Bookplates of Margarita Cattanea and of Petri Ginori Conti. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 477.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Catherine de Médicis, Queen, consort of Henry II, King of France, 1519-1589</dcterms:subject>
+   <dcterms:subject>France--History--Charles IX, 1560-1574</dcterms:subject>
+   <dcterms:temporal>Charles IX, 1560-1574</dcterms:temporal>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1024163/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1017857</edm:isShownAt>
+</mdRecord>
