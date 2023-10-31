@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:39 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2030992</dcterms:identifier>
+   <dcterms:title>The Committee, to whom was referred the message of the President of the United States, of the 17th instant, respecting the disposition of Indian lands, by the legislature of the state of Georgia, report</dcterms:title>
+   <dcterms:title>Report of the Committee, to whom was referred the message of the President of the United States, of the 17th instant, respecting the disposition of Indian lands by the legislature of the state of Georgia [23 February 1795]</dcterms:title>
+   <dcterms:contributor>Childs, Francis, 1763-1830</dcterms:contributor>
+   <dcterms:contributor>Georgia. General Assembly.</dcterms:contributor>
+   <dcterms:contributor>United States. Congress. House. Committee on Indian Affairs.</dcterms:contributor>
+   <dcterms:contributor>United States. President (1789-1797 : Washington)</dcterms:contributor>
+   <dcterms:publisher>Printed by Francis Childs</dcterms:publisher>
+   <dcterms:created>1795</dcterms:created>
+   <dcterms:extent>1 broadside. 32 x 20 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Manuscript note "made 23rd. February 1795."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Indians of North America--Georgia</dcterms:subject>
+   <dcterms:subject>Indigenous peoples--Georgia</dcterms:subject>
+   <dcterms:subject>Indians of North America--Land tenure</dcterms:subject>
+   <dcterms:subject>Indigenous peoples--United States--Land tenure</dcterms:subject>
+   <dcterms:subject>Indians of North America--Government relations</dcterms:subject>
+   <dcterms:subject>Indigenous peoples--United States--Government relations</dcterms:subject>
+   <dcterms:subject>Georgia--History--1775-1865</dcterms:subject>
+   <dcterms:temporal>1775-1865</dcterms:temporal>
+   <dcterms:spatial>Georgia</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Philadelphia, Pennsylvania, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2174433/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2030992</edm:isShownAt>
+</mdRecord>

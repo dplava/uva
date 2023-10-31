@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:35 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5314074</dcterms:identifier>
+   <dcterms:title>Rocked in the cradle of the deep / music by J.R. Knight ; words by Mrs. Willard</dcterms:title>
+   <dcterms:title>Rocked in the cradle of the deep</dcterms:title>
+   <dcterms:creator>Knight, Joseph Philip, 1812-1887</dcterms:creator>
+   <dcterms:contributor>Philip P. Armstrong &amp; Co.</dcterms:contributor>
+   <dcterms:contributor>Willard, Emma Mrs, 1787-1870</dcterms:contributor>
+   <dcterms:publisher>R.A. Saalfield</dcterms:publisher>
+   <dcterms:created>188X</dcterms:created>
+   <dcterms:extent>1 score (4 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>"Philip P. Armstrong &amp; Co., Music Typographer, Philadelphia"--Colophon.</dcterms:description>
+   <dcterms:isPartOf>Vocal gems</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1132601/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314074</edm:isShownAt>
+</mdRecord>

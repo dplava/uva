@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4854431</dcterms:identifier>
+   <dcterms:title>Kargopol and Ustyug / compiled at the Royal Geographical Society under the direction of the Geographical Section General Staff ; drawn and printed by the Ordnance Survey in 1917</dcterms:title>
+   <dcterms:contributor>Great Britain. Ordnance Survey.</dcterms:contributor>
+   <dcterms:contributor>Ordnance Society (Great Britain)</dcterms:contributor>
+   <dcterms:contributor>Royal Geographical Society (Great Britain)</dcterms:contributor>
+   <dcterms:publisher>Ordnance Survey</dcterms:publisher>
+   <dcterms:created>1917</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>47 x 69 cm. on sheet 64 x 76 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Provisional edition.</dcterms:description>
+   <dcterms:description>"Europe Scale 1:1,000,000" in margin at upper left corner.</dcterms:description>
+   <dcterms:description>Covers portions of the Arkhangelsk and Vologoda Oblast regions of northwestern Russia.</dcterms:description>
+   <dcterms:description>Relief shown pictorially.</dcterms:description>
+   <dcterms:description>Includes, at bottom of sheet: References (legend); Index to adjoining sheets; Bar scale; Authorities; List of "Agents for the sale of maps ..."; Index to boundaries.</dcterms:description>
+   <dcterms:description>"(North P. 37 &amp; 38)" printed in upper right margin and "G.S. G.S. No. 2758" in lower left margin.</dcterms:description>
+   <dcterms:description>"Plus--50 per cent" stamped in bottom margin.</dcterms:description>
+   <dcterms:description>Scale 1:1,000,000</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>World War, 1914-1918--Russia--Maps</dcterms:subject>
+   <dcterms:subject>Kargopolʹ (Russia)--Maps</dcterms:subject>
+   <dcterms:subject>Velikiĭ Usti͡ug (Russia)--Maps</dcterms:subject>
+   <dcterms:subject>Arkhangelʹskai͡a oblastʹ (Russia)--Maps</dcterms:subject>
+   <dcterms:subject>Vologodskai͡a oblastʹ (Russia)--Maps</dcterms:subject>
+   <dcterms:spatial>Arkhangelʹskai͡a oblastʹ (Russia)</dcterms:spatial>
+   <dcterms:spatial>Kargopolʹ (Russia)</dcterms:spatial>
+   <dcterms:spatial>Russia</dcterms:spatial>
+   <dcterms:spatial>Velikiĭ Usti͡ug (Russia)</dcterms:spatial>
+   <dcterms:spatial>Vologodskai͡a oblastʹ (Russia)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096780/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4854431</edm:isShownAt>
+</mdRecord>

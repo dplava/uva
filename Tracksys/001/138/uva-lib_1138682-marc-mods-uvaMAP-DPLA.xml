@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:36 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5314565</dcterms:identifier>
+   <dcterms:title>If I but knew: a love-song / by Amy E. Leigh ; set to music by Wilson G. Smith</dcterms:title>
+   <dcterms:title>If I but knew what the treetops say</dcterms:title>
+   <dcterms:creator>Smith, Wilson, 1855-1929</dcterms:creator>
+   <dcterms:contributor>C.G. Röder (Firm)</dcterms:contributor>
+   <dcterms:contributor>Everest, Eleanor W.</dcterms:contributor>
+   <dcterms:contributor>Foster, Caroline H. W. (Caroline Holcombe Wright), 1864-1929</dcterms:contributor>
+   <dcterms:publisher>J. H. Rogers</dcterms:publisher>
+   <dcterms:created>1890</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>"Printed by C G. Röder Leipzig."</dcterms:description>
+   <dcterms:description>At head of title: "To Miss Eleanor W. Everest."</dcterms:description>
+   <dcterms:description>Illustration: Cherub playing a violin, surrounded by birds and flowers.</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: Vocal- and instrumental-music published by J.H. Rogers, Cleveland.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Foster, Caroline H. W. (Caroline Holcombe Wright), 1864-1929--Musical settings</dcterms:subject>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1138683/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314565</edm:isShownAt>
+</mdRecord>

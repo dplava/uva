@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:39 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u4456747</dcterms:identifier>
+   <dcterms:title>Freedom's footsteps</dcterms:title>
+   <dcterms:contributor>Albert H. Small Declaration of Independence Collection (University of Virginia)</dcterms:contributor>
+   <dcterms:contributor>Fletcher, E.</dcterms:contributor>
+   <dcterms:contributor>Fuller, John A.</dcterms:contributor>
+   <dcterms:contributor>Gray, W. Vallance.</dcterms:contributor>
+   <dcterms:publisher>Executed and published by John A. Fuller</dcterms:publisher>
+   <dcterms:created>1866</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>66 x 51 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>A very elaborately decorated lithograph. The title is surmounted by an eagle holding two American flags. The seal of the United States appears in the center of the sheet, with the text of the Declaration of Independence, forming an oval around it; "Declaration of Independence" is printed around the top half of the oval. The Declaration is encircled by 16 small ovals, each containing information about one of the 16 presidents, with Washington at top and Lincoln at bottom. The presidential ovals are flanked on each side by a column with an eagle perched on top. The two eagles are holding a chain from which is suspended 13 shields, each bearing information about one of the 13 original colonies. A secondary title "The Thirteen United Colonies in order as they adopted the Constitution" is printed above the chain. The names of other states, with dates of admission to the union, are printed around the lower half of the central oval, and names and dates of major Revolutionary War battles are printed on ribbons wrapped around the columns, with names of other battles printed along the bottom of the sheet.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: FRAMED. Albert H. Small Declaration of Independence Collection. Deposit of Albert Small, January, 2007.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>United States--History--Chronology</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Nevada County, California, United States</dcterms:spatial>
+   <dcterms:spatial>San Francisco, California, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1225141/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4456747</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4595345</dcterms:identifier>
+   <dcterms:title>Mineral territory tributary to Norfolk and Western Railroad</dcterms:title>
+   <dcterms:contributor>Century Lith. Co.</dcterms:contributor>
+   <dcterms:contributor>Norfolk and Western RailroadCompany.</dcterms:contributor>
+   <dcterms:publisher>Norfolk and Western Railroad Co.</dcterms:publisher>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>68 x 84 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown by spot heights, hachures and shading.</dcterms:description>
+   <dcterms:description>Before 1896 when the Norfolk and Western Railroad Company became the Norfolk and Western Railway Company.</dcterms:description>
+   <dcterms:description>"Explanations" color coded for types of mineral deposits. Also coded for state, county and railroad lines.</dcterms:description>
+   <dcterms:description>Geographical area extends from Floyd County, W.Va. to Madison, Va. in the northeast corner and south to central North Carolina and Tennessee</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: From the Anderson Papers, MSS 39-96-i; gift of Mrs. John R. Weske.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: From the Anderson Papers, MSS 39-96-i; gift of Mrs. John R. Weske.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:520,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Norfolk and Western Railroad Company--Maps</dcterms:subject>
+   <dcterms:subject>Mines and mineral resources--Virginia--Maps</dcterms:subject>
+   <dcterms:subject>Mines and mineral resources--West Virginia--Maps</dcterms:subject>
+   <dcterms:subject>Mines and mineral resources--Tennessee--Maps</dcterms:subject>
+   <dcterms:subject>Mines and mineral resources--North Carolina--Maps</dcterms:subject>
+   <dcterms:subject>Railroads--Southern States--Maps</dcterms:subject>
+   <dcterms:subject>Mines and mineral resources--Maps</dcterms:subject>
+   <dcterms:spatial>North Carolina</dcterms:spatial>
+   <dcterms:spatial>Southern States</dcterms:spatial>
+   <dcterms:spatial>Tennessee</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>West Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:891457/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4595345</edm:isShownAt>
+</mdRecord>

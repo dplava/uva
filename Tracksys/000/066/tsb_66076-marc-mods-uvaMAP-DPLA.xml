@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u3341155</dcterms:identifier>
+   <dcterms:title>Reports of adjudged cases in the courts of Chancery, King's Bench, Common Pleas, and Exchequer: from Trinity term in the second year of King George I. to Trinity term in the twenty-first year of King George II. [1716-1747] / Taken and collected by the Right Honourable Sir John Strange, knt. .. Pub. by his son, John Strange</dcterms:title>
+   <dcterms:creator>Strange, John, 1696-1754</dcterms:creator>
+   <dcterms:contributor>Strange, John, 1732-1799</dcterms:contributor>
+   <dcterms:publisher>Printed by the King's law-printers for Messrs. Payne, J. Rivington and Sons [etc.</dcterms:publisher>
+   <dcterms:created>1782</dcterms:created>
+   <dcterms:extent>2 v. 25 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>2d ed.</dcterms:description>
+   <dcterms:description>Paged continuously.</dcterms:description>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2511414/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3341155</edm:isShownAt>
+</mdRecord>

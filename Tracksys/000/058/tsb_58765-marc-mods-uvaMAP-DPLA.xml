@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u6163001</dcterms:identifier>
+   <dcterms:title>The Bowery news</dcterms:title>
+   <dcterms:creator>Hobo and Tramp Collection (University of Virginia)</dcterms:creator>
+   <dcterms:publisher>Bowery News Company</dcterms:publisher>
+   <dcterms:created>19XX/19XX</dcterms:created>
+   <dcterms:extent>no.</dcterms:extent>
+   <dcterms:extent>44 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"The voice of society's basement."</dcterms:description>
+   <dcterms:description>Issues No. 62 and 68 are undated.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: No.62, 68: On fragile newsprint. Associates Endowment Fund, 2013/2014. No. 63 (July, 1959): Robert and Virginia Tunstall Trust Fund, 2018/2019.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: No.62, 68: On fragile newsprint. Associates Endowment Fund, 2013/2014. No. 63 (July, 1959): Robert and Virginia Tunstall Trust Fund, 2018/2019.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Tramps--United States--Newspapers</dcterms:subject>
+   <dcterms:subject>Wayfaring life--Newspapers</dcterms:subject>
+   <dcterms:subject>New York (N.Y.)--Newspapers</dcterms:subject>
+   <dcterms:spatial>New York (N.Y.)</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>New York</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1550489/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u6163001</edm:isShownAt>
+</mdRecord>

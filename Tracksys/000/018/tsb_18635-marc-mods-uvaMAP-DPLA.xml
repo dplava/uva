@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2036087</dcterms:identifier>
+   <dcterms:title>The celebrated concert polka / performed with great applause by Miss Adele Hohnstock</dcterms:title>
+   <dcterms:title>Concert polka</dcterms:title>
+   <dcterms:title>Miss Adele Hohnstock's favorite polka</dcterms:title>
+   <dcterms:contributor>Hohnstock, Adele, -1856</dcterms:contributor>
+   <dcterms:contributor>Webb, L. W.</dcterms:contributor>
+   <dcterms:publisher>F.D. Benteen</dcterms:publisher>
+   <dcterms:publisher>W.T. Mayo</dcterms:publisher>
+   <dcterms:created>1850</dcterms:created>
+   <dcterms:extent>5 p. of music</dcterms:extent>
+   <dcterms:extent>33 cm.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>"Webb"--Colophon.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S444 v.161 no.23: Stamped: J.W. Randolph, Richmond, Va.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S444 v.46 no.21: Broken stamp of Nash &amp; Woodhouse, Richmond, Va., on title page.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.2 no.18: Eighteenth title in a bound volume of sheet music from the library of Mrs. Abby A. Waterhouse, with her name on the cover.</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v. 161, no. 23]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Polkas</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1117075/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2036087</edm:isShownAt>
+</mdRecord>

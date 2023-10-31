@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:36 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5314347</dcterms:identifier>
+   <dcterms:title>Lost for ever = (Aÿ chiquita) : Spanish melody / by Yradier ; [arranged and adapted by F.R.R.]</dcterms:title>
+   <dcterms:title>Aÿ chiquita</dcterms:title>
+   <dcterms:title>Mehan dicho de que te casas</dcterms:title>
+   <dcterms:title>They tell me that ties most holy</dcterms:title>
+   <dcterms:title>Yradier, Sebastián, 1809-1865. Aÿ chiquita. English &amp; Spanish</dcterms:title>
+   <dcterms:creator>Yradier, Sebastián, 1809-1865</dcterms:creator>
+   <dcterms:contributor>Oakes, William H., -1890</dcterms:contributor>
+   <dcterms:contributor>Parepa-Rosa, Euphrosyne, 1836-1874</dcterms:contributor>
+   <dcterms:contributor>R., F. R.</dcterms:contributor>
+   <dcterms:contributor>Stackpole, Patrick M.</dcterms:contributor>
+   <dcterms:publisher>Beer &amp; Schirmer</dcterms:publisher>
+   <dcterms:created>1866</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Spanish</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>"Oakes, Eng'r."--Colophon.</dcterms:description>
+   <dcterms:description>At foot of title page: "Stackpole."</dcterms:description>
+   <dcterms:description>At head of title: "Mlle. Parepa."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1135952/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314347</edm:isShownAt>
+</mdRecord>

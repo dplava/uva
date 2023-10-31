@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:36 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5314514</dcterms:identifier>
+   <dcterms:title>Could I = Vorrei = (Mario dei Fiori) / music by F. Paolo Tosti ; English version by Theo. Marzials</dcterms:title>
+   <dcterms:title>Could I but come to thee once</dcterms:title>
+   <dcterms:title>Vorrei</dcterms:title>
+   <dcterms:title>Vorrei, allor che tu pallido</dcterms:title>
+   <dcterms:title>Tosti, F. Paolo (Francesco Paolo), 1846-1916. Vorrei. English &amp; Italian</dcterms:title>
+   <dcterms:creator>Tosti, F. Paolo (Francesco Paolo), 1846-1916</dcterms:creator>
+   <dcterms:contributor>Chierici, Aldo, 1869-</dcterms:contributor>
+   <dcterms:contributor>Marzials, Theophilus, 1850-1920</dcterms:contributor>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>18XX</dcterms:created>
+   <dcterms:extent>1 score ([7?] p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy imperfect; lacking title page, all pages after p. 6.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1138060/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314514</edm:isShownAt>
+</mdRecord>

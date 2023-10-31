@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2247028</dcterms:identifier>
+   <dcterms:title>Le tombeau de Marguerite de Valois, royne de Nauarre / Faict premierement en disticques Latins par les trois sœeurs princesses en Angleterre. ; Depuis traduictz en Grec, Italié &amp; François par plusieurs des excellentz poetes de la Frāce. ; Auecques plusieurs odes, hymnes, cantiques, epitaphes, sur le mesme subiect</dcterms:title>
+   <dcterms:contributor>Baïf, Jean-Antoine de, 1532-1589</dcterms:contributor>
+   <dcterms:contributor>Denisot, Nicolas, 1515-1559</dcterms:contributor>
+   <dcterms:contributor>Dorat, Jean, 1508-1588</dcterms:contributor>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:contributor>
+   <dcterms:contributor>Du Bellay, Joachim, approximately 1522-1560</dcterms:contributor>
+   <dcterms:contributor>Fezandat, Michel, active 1538-1566</dcterms:contributor>
+   <dcterms:contributor>Granjon, Robert, active 1523-1588</dcterms:contributor>
+   <dcterms:contributor>Herberay, Nicolas de sieur des Essars, active 16th century</dcterms:contributor>
+   <dcterms:contributor>Lortic, Marcelin, 1822-1892</dcterms:contributor>
+   <dcterms:contributor>Ronsard, Pierre de, 1524-1585</dcterms:contributor>
+   <dcterms:contributor>Seymour, Jane Lady</dcterms:contributor>
+   <dcterms:contributor>Seymour, Margaret Lady</dcterms:contributor>
+   <dcterms:contributor>Warwick, Anne Dudley Countess of, 1538-1587</dcterms:contributor>
+   <dcterms:publisher>De l'imprimerie de Michel Fezandat, &amp; Robert Granion, au mont S. Hilaire à l'enseigne des Grans Ions, &amp; au Palais en la boutique de Vincent Sartenas</dcterms:publisher>
+   <dcterms:created>1551</dcterms:created>
+   <dcterms:extent>[104] leaves ; ill.</dcterms:extent>
+   <dcterms:extent>18 cm. (8vo)</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:language>Greek, Modern (1453- )</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Signatures: A-N⁸.</dcterms:description>
+   <dcterms:description>The three sisters were Anne, Margaret and Jane Seymour, the daughters of Edward Seymour, Duke of Somerset.</dcterms:description>
+   <dcterms:description>"Disticques Latins" originally published with title: Annae, Margaritae, Ianae, sororum virginum, heroidum anglarum, in mortem divae Margaritae Valesiae Navarrorum Reginæ, hecatodistichon. -- Paris, 1550.</dcterms:description>
+   <dcterms:description>Edited by Nicolas Denisot; address to the 3 sisters by Nicolas de Herberay; translations by Jean Dorat, Joachim Du Bellay, Antoine de Baïf, Nicolas Denisot, and others. Includes 4 odes by Pierre Ronsard and a collection of poems in Latin and French by other authors.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Lortic. Unidentified armorial bookplate, 2 crests side-by-side. Pencilled note, "Baron de Ruble, Vente 5/28/99, no. 165." Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 146.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Marguerite, Queen, consort of Henry II, King of Navarre, 1492-1549</dcterms:subject>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1116645/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2247028</edm:isShownAt>
+</mdRecord>

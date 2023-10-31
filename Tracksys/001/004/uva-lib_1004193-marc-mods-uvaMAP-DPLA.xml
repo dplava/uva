@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4813478</dcterms:identifier>
+   <dcterms:title>Sweden, Denmark, Norway and Finland: from the best authorities / engrav'd by S. Hill, Boston</dcterms:title>
+   <dcterms:creator>Carey, Mathew, 1760-1839</dcterms:creator>
+   <dcterms:contributor>Hill, Samuel, approximately 1766-1804</dcterms:contributor>
+   <dcterms:publisher>Matthew Carey</dcterms:publisher>
+   <dcterms:created>1814</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>33 x 36 cm. on sheet 43 x 54 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown pictorially.</dcterms:description>
+   <dcterms:description>Inset: untitled map of Iceland and West Greenland.</dcterms:description>
+   <dcterms:description>Prime meridians: Philadelphia and London.</dcterms:description>
+   <dcterms:description>Plate number "38" appears at upper right corner.</dcterms:description>
+   <dcterms:description>Appeared in: Carey's General Atlas ..., Philadelphia, M. Carey, 1814.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:6,600,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Scandinavia--Maps</dcterms:subject>
+   <dcterms:spatial>Scandinavia</dcterms:spatial>
+   <dcterms:spatial>Philadelphia, Pennsylvania, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096699/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4813478</edm:isShownAt>
+</mdRecord>

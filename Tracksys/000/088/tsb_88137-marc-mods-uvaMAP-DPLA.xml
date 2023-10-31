@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4512335</dcterms:identifier>
+   <dcterms:title>Map of the field of operations of Gregg's (Union) &amp; Stuart's (Confederate) Cavalry at the Battle of Gettysburg, July 3, 1863 / surveyed by Frank O. Maxson, C.E. under the direction of John B. Bachelder ; authorized by Act of Congress, approved June 9th, 1880</dcterms:title>
+   <dcterms:creator>Bachelder, John B. (John Badger), 1825-1894</dcterms:creator>
+   <dcterms:contributor>Julius Bien &amp; Co.</dcterms:contributor>
+   <dcterms:publisher>Julius Bien &amp; Co. Lith.</dcterms:publisher>
+   <dcterms:created>1880</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>73 x 30 cm. on sheet 91 x 46 cm.</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:medium>contours</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown by contours.</dcterms:description>
+   <dcterms:description>This issue does not include troop locations and does not have date and time printed in the lower margin.</dcterms:description>
+   <dcterms:description>Detailed topographic map with spot elevations and contours "given for every change of four feet in elevation ... Every object is represented, as nearly as possible, as it was at the time of the battle..."</dcterms:description>
+   <dcterms:description>Shows drainage, vegetation, roads, railroads, fences, and houses with names of residents.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Imperfect: discolored, mounted on linen. Signed in lower right margin: Lieut. Colonel H.C. Hasbrouck, U.S.A.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:12,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Gregg, David McMurtrie, 1833-1916</dcterms:subject>
+   <dcterms:subject>Stuart, Jeb, 1833-1864</dcterms:subject>
+   <dcterms:subject>Gettysburg, Battle of, Gettysburg, Pa., 1863--Maps</dcterms:subject>
+   <dcterms:subject>Pennsylvania--History--Civil War, 1861-1865--Maps</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Maps</dcterms:subject>
+   <dcterms:subject>Gettysburg (Pa.)--Maps</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>Gettysburg (Pa.)</dcterms:spatial>
+   <dcterms:spatial>Pennsylvania</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>New York (City), New York (State), United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2679299/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4512335</edm:isShownAt>
+</mdRecord>

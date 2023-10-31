@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <edm:hasType valueURI="http://vocab.getty.edu/aat/300046300">photographs</edm:hasType>
+   <dcterms:identifier>u4038484</dcterms:identifier>
+   <dcterms:title>University of Virginia Printing Services photograph file and index 1965-1973</dcterms:title>
+   <dcterms:title>Skinner file and index</dcterms:title>
+   <dcterms:contributor>Skinner, David M., 1921-2009</dcterms:contributor>
+   <dcterms:contributor>University of Virginia. Printing Services.</dcterms:contributor>
+   <dcterms:contributor>University of Virginia. University Photographer.</dcterms:contributor>
+   <dcterms:created>1965/1973</dcterms:created>
+   <dcterms:extent>ca. 20,000 items</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>The collection consists of photographs and negatives from the non-portrait file of Dave Skinner, the photographer for the University of Virginia Graphic Communications Services.</dcterms:description>
+   <dcterms:description>The photographs and negatives are in sequence by their file numbers, not the original job order numbers stamped on them.</dcterms:description>
+   <dcterms:description>A card index to the collection is available</dcterms:description>
+   <dcterms:description>A listing of scenes containing women is available</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia. Founder's Day--Photographs</dcterms:subject>
+   <dcterms:subject>University of Virginia. University Photographer.</dcterms:subject>
+   <dcterms:subject>University of Virginia--Photographs</dcterms:subject>
+   <dcterms:subject>University of Virginia--Employees--Photographs</dcterms:subject>
+   <dcterms:subject>Coeducation--Virginia--Charlottesville--Photographs</dcterms:subject>
+   <dcterms:subject>Commencement ceremonies--Virginia--Charlottesville--Photographs</dcterms:subject>
+   <dcterms:subject>Women--Education (Higher)--Virginia--Charlottesville--Photographs</dcterms:subject>
+   <dcterms:spatial>Charlottesville</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2514606/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4038484</edm:isShownAt>
+</mdRecord>

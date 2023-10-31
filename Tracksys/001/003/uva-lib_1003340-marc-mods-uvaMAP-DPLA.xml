@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4742173</dcterms:identifier>
+   <dcterms:title>South Carolina / Published by J.H. Colton &amp; Co., No. 172 William St., New York ; entered according to Act of Congress in the Year 1855 by J.H. Colton in the Clerks Office of the District Court of the United States for the Southern District of New York</dcterms:title>
+   <dcterms:contributor>Ashmead, Henry Buckley.</dcterms:contributor>
+   <dcterms:contributor>J.H. Colton &amp; Co.</dcterms:contributor>
+   <dcterms:contributor>Perkins, Arthur J. (Arthur James), 1871-1944</dcterms:contributor>
+   <dcterms:publisher>Published by A.J. Perkins</dcterms:publisher>
+   <dcterms:created>1855</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>29 x 36 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Inset (separate scale): Plan of Charleston, vicinity &amp; harbor.</dcterms:description>
+   <dcterms:description>Margins trimmed to decorative border.</dcterms:description>
+   <dcterms:description>Prime meridians: Greenwich; Washington, D.C.</dcterms:description>
+   <dcterms:description>Relief shown by hachures and pictorially.</dcterms:description>
+   <dcterms:description>Explanations: Rail roads; Common [roads]; Canals; State capital; County towns; Vill. P.O. &amp; R.R. depots.</dcterms:description>
+   <dcterms:description>Imprint from advertisements on verso: Stull's patent stereoscope and self-angling camera for producing statuary and life-like pictures, patented February 27, 1855 / John Stull, Patentee, S.W. Cor. Sixth &amp; Chestnut Sts., Philadelphia, Pa. ; Stull's circular saw mill, patented by John Stull, August 1, 1854 ... -- Published by A.J. Perkins. (32 1/2) Printed by Henry B. Ashmead)</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,260,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Stereoscope</dcterms:subject>
+   <dcterms:subject>Cameras</dcterms:subject>
+   <dcterms:subject>Sawmills</dcterms:subject>
+   <dcterms:subject>South Carolina--Maps</dcterms:subject>
+   <dcterms:spatial>South Carolina</dcterms:spatial>
+   <dcterms:spatial>Philadelphia, Pennsylvania, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:891395/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4742173</edm:isShownAt>
+</mdRecord>

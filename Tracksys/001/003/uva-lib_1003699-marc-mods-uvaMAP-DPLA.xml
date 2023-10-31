@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4509281</dcterms:identifier>
+   <dcterms:title>Index map for sheets: extract of Military map of n.e. Virginia showing forts and roads</dcterms:title>
+   <dcterms:title>Defenses of Washington Plate 1</dcterms:title>
+   <dcterms:contributor>Barnard, J. G. (John Gross), 1815-1882</dcterms:contributor>
+   <dcterms:contributor>United States. War Department. Engineer Bureau</dcterms:contributor>
+   <dcterms:publisher>Govt. Print. Off.</dcterms:publisher>
+   <dcterms:created>1865</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>32 x 26 cm.</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>Issued in J.G. Barnard's A report on the defenses of Washington to the Chief of Engineers, U.S. Army, 1871.</dcterms:description>
+   <dcterms:description>Sections 2-12 are identified on the map.</dcterms:description>
+   <dcterms:description>Washington, D.C. central to map, with Alexandria to south.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: "1 mile to .9 inch. 1865" penciled on map, with latitude and longitude figures added in pencil. With this is housed an otherwise untitled map centering around Richmond, Defenses of Washington Plate 28. Penciled scale "1/2 inch to one mile." Both maps are linen-backed.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: "1 mile to .9 inch. 1865" penciled on map, with latitude and longitude figures added in pencil. With this is housed an otherwise untitled map centering around Richmond, Defenses of Washington Plate 28. Penciled scale "1/2 inch to one mile." Both maps are linen-backed.</dcterms:description>
+   <dcterms:description>Scale not given.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Fortification--Washington (D.C.)--Maps</dcterms:subject>
+   <dcterms:subject>Fortification--Washington Metropolitan Area--Maps</dcterms:subject>
+   <dcterms:subject>Roads--Washington Metropolitan Area--Maps</dcterms:subject>
+   <dcterms:subject>Washington (D.C.)--Index maps</dcterms:subject>
+   <dcterms:subject>Washington Metropolitan Area--Index maps</dcterms:subject>
+   <dcterms:subject>Virginia--Maps</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Maps</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Washington (D.C.)</dcterms:spatial>
+   <dcterms:spatial>Washington Metropolitan Area</dcterms:spatial>
+   <dcterms:spatial>Washington, District of Columbia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:915280/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4509281</edm:isShownAt>
+</mdRecord>

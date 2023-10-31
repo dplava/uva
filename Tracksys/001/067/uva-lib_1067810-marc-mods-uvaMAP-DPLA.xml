@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u1790817</dcterms:identifier>
+   <dcterms:title>Riley's Historic map of Annapolis</dcterms:title>
+   <dcterms:title>Historic map of Annapolis</dcterms:title>
+   <dcterms:creator>Riley, Elihu S. (Elihu Samuel), 1845-1922</dcterms:creator>
+   <dcterms:publisher>Arundel Press</dcterms:publisher>
+   <dcterms:created>1909</dcterms:created>
+   <dcterms:extent>map. 38 x 55 cm. fold. to 19 x 12 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Text on verso captioned "Description of Riley's Historic map of Annapolis</dcterms:description>
+   <dcterms:description>Scale not given</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: With original printed beige paper covers. From the estate of M.G. Kimball.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Annapolis (Md.)--History</dcterms:subject>
+   <dcterms:subject>Annapolis (Md.)--Maps</dcterms:subject>
+   <dcterms:subject>Maryland--Maps</dcterms:subject>
+   <dcterms:spatial>Annapolis (Md.)</dcterms:spatial>
+   <dcterms:spatial>Maryland</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1071139/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u1790817</edm:isShownAt>
+</mdRecord>

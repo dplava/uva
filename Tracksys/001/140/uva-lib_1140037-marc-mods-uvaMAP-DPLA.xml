@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:36 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u1948718</dcterms:identifier>
+   <dcterms:title>Emmet's Cuckoo song / J.K. Emmet</dcterms:title>
+   <dcterms:title>Cuckoo song</dcterms:title>
+   <dcterms:title>Oh, hear the cuckoo call</dcterms:title>
+   <dcterms:title>Emmet, J. K. (Joseph Kline), 1841-1891. Fritz in Ireland. Cuckoo song</dcterms:title>
+   <dcterms:creator>Emmet, J. K. (Joseph Kline), 1841-1891</dcterms:creator>
+   <dcterms:publisher>John Church &amp; Co.</dcterms:publisher>
+   <dcterms:created>1879</dcterms:created>
+   <dcterms:extent>1 score (6 p.)</dcterms:extent>
+   <dcterms:extent>35 cm.</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, piano</dcterms:description>
+   <dcterms:description>Only corrected and authorized edition.</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v.24, no.44]</dcterms:isPartOf>
+   <dcterms:isPartOf>Emmet's Fritz in Ireland ; Fritz among the Gypsies / words and music composed by J.K. Emmet</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Cuckoos--Songs and music</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1140038/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u1948718</edm:isShownAt>
+</mdRecord>

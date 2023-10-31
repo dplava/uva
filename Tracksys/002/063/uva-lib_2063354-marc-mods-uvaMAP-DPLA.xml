@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:39 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4822726</dcterms:identifier>
+   <dcterms:title>Montfaucon</dcterms:title>
+   <dcterms:title>1:50.000e Montfaucon</dcterms:title>
+   <dcterms:creator>United States. Army. Corps of Engineers. Regiment, 29th.</dcterms:creator>
+   <dcterms:publisher>Printed at Base Printing Plant, 29th. Engineers, U.S. Army</dcterms:publisher>
+   <dcterms:created>1918</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>70 x 51 cm. on sheet 76 x 54 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>contours</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Relief shown by contours and spot heights.</dcterms:description>
+   <dcterms:description>The title, which appears in the upper margin, is preceded by the scale. In this copy, the map is torn so that "50,000e Montfaucon" is all that is visible. Assumed to have been "1:50,000e Montfaucon".</dcterms:description>
+   <dcterms:description>In upper left margin: Groupe des canevas de tir.</dcterms:description>
+   <dcterms:description>Detailed topographical map of environs of Montfaucon, France, extending from Clermont east to Dugny in the south, and north to Rémonville and Lissey. Shows the Meuse River from Dugny, through Verdun and north to Dun</dcterms:description>
+   <dcterms:description>Scale 1:50,000</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>World War, 1914-1918--France--Maps, Topographic</dcterms:subject>
+   <dcterms:subject>Meuse (France)--Maps, Topographic</dcterms:subject>
+   <dcterms:subject>Meuse River Valley--Maps, Topographic</dcterms:subject>
+   <dcterms:subject>Montfaucon (Meuse, France)--Maps</dcterms:subject>
+   <dcterms:subject>France--Maps, Topographic</dcterms:subject>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Meuse (France)</dcterms:spatial>
+   <dcterms:spatial>Meuse River Valley</dcterms:spatial>
+   <dcterms:spatial>Montfaucon (Meuse, France)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2147363/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4822726</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4470080</dcterms:identifier>
+   <dcterms:title>New England: the most remarqueable parts thus named by the high and mighty Prince Charles, nowe King of great Britaine / observed and described by Captayn John Smith</dcterms:title>
+   <dcterms:creator>Smith, John, 1580-1631</dcterms:creator>
+   <dcterms:contributor>Pass, Simon van de, 1595?-1647</dcterms:contributor>
+   <dcterms:contributor>Reeve, James.</dcterms:contributor>
+   <dcterms:publisher>Printed by Iames Reeue</dcterms:publisher>
+   <dcterms:created>1635</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>30 x 36 cm.</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Bust of John Smith left upper corner, with inscription underneath: "These are the Lines that shew thy Face; but those that shew thy Grace and Glory, brighter bee:..."</dcterms:description>
+   <dcterms:description>According to Burden, this variant is state 9, issued 1635 or later, as part of Historia Mundi.</dcterms:description>
+   <dcterms:description>Simon Passaeus Sculpsit.</dcterms:description>
+   <dcterms:description>Council of New England arms in center of map.</dcterms:description>
+   <dcterms:description>School of fish off Cape Cod, River Charles extended to west edge of map.</dcterms:description>
+   <dcterms:description>Text below compass rose: "He that desyres to know more of the Estate of new England lett him read a new Book of the prospecte of new England...</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Imperfect: Map is torn below the cartouch, with some loss of text. Tracy W. McGregor Library, American History Collection.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,110,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>New England--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>New England</dcterms:spatial>
+   <dcterms:spatial>North America</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:620348/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4470080</edm:isShownAt>
+</mdRecord>

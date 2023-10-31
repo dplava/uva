@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:35 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5314176</dcterms:identifier>
+   <dcterms:title>Wanderer = Der Wand'rer / A. Fesca</dcterms:title>
+   <dcterms:title>Doch es umschwebt mich überall mild</dcterms:title>
+   <dcterms:title>Forth in the wide world</dcterms:title>
+   <dcterms:title>Still thy form so far so dear</dcterms:title>
+   <dcterms:title>Wand'rer</dcterms:title>
+   <dcterms:title>Weit in die Ferne</dcterms:title>
+   <dcterms:title>Fesca, Alexander, 1820-1849. Lieder. op. 13. Wanderer</dcterms:title>
+   <dcterms:creator>Fesca, Alexander, 1820-1849</dcterms:creator>
+   <dcterms:contributor>Gillingham, Edwin</dcterms:contributor>
+   <dcterms:publisher>George Willig</dcterms:publisher>
+   <dcterms:created>[1852..1857]</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>At foot of title page: "Gillingham."</dcterms:description>
+   <dcterms:description>German and English words.</dcterms:description>
+   <dcterms:isPartOf>Songs of Europe : selected from the works of eminent composers with English translation ; no. 2</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1133720/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314176</edm:isShownAt>
+</mdRecord>

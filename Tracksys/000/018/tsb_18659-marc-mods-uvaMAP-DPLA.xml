@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5541552</dcterms:identifier>
+   <dcterms:title>Thou hast learned to love another: a ballad / by William J. Wetmore</dcterms:title>
+   <dcterms:creator>Wetmore, William Jarvis, 1809-</dcterms:creator>
+   <dcterms:contributor>Bishop, T. Brigham (Thomas Brigham), 1835-1905</dcterms:contributor>
+   <dcterms:publisher>Millets Music Saloon</dcterms:publisher>
+   <dcterms:created>1838</dcterms:created>
+   <dcterms:extent>1 score (4 p.)</dcterms:extent>
+   <dcterms:extent>33 cm.</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, piano</dcterms:description>
+   <dcterms:description>The 2nd-3rd verses printed as text following score.</dcterms:description>
+   <dcterms:description>"As sung by Mr. T. Bishop. The music composed and respectfully dedicated to L. Tracy Bill Esq."--Title page.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Forty-second title in a bound volume of sheet music from the library of Mrs. Abby A. Waterhouse, with her name on the cover.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1542185/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5541552</edm:isShownAt>
+</mdRecord>

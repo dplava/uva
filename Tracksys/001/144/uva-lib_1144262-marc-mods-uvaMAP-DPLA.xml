@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:37 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2260016</dcterms:identifier>
+   <dcterms:title>A vision = (Apparizione) : romanza / di G. Palloni ; [English words by Arthur H. Vivian]</dcterms:title>
+   <dcterms:title>Apparizioine</dcterms:title>
+   <dcterms:title>I saw thee, and thy fair presence was like</dcterms:title>
+   <dcterms:title>Ti vidi, e il tuo bel bolto</dcterms:title>
+   <dcterms:title>Palloni, Gaetano, 1831-. Apparizione. English &amp; Italian</dcterms:title>
+   <dcterms:creator>Palloni, Gaetano, 1831-</dcterms:creator>
+   <dcterms:contributor>Vivian, Arthur H.</dcterms:contributor>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1885</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:extent>35 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>alto voice, piano</dcterms:description>
+   <dcterms:description>bass voice, piano</dcterms:description>
+   <dcterms:description>Contralto or bass in A♭.</dcterms:description>
+   <dcterms:description>For low voice and piano.</dcterms:description>
+   <dcterms:description>Composer's name given in caption as "J. Palloni."</dcterms:description>
+   <dcterms:description>Illustrated cover.</dcterms:description>
+   <dcterms:description>English and Italian words.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1144263/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2260016</edm:isShownAt>
+</mdRecord>

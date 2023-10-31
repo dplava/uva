@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:36 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5314477</dcterms:identifier>
+   <dcterms:title>The daisy = Fior di Margherita : polka cantabile / by L. Arditi</dcterms:title>
+   <dcterms:title>Fior di Margherita</dcterms:title>
+   <dcterms:title>O vezzosa pratellina</dcterms:title>
+   <dcterms:title>Pretty daisy, wilt thou tell me</dcterms:title>
+   <dcterms:title>Arditi, Luigi, 1822-1903. Fior di Margherita. English &amp; Italian</dcterms:title>
+   <dcterms:creator>Arditi, Luigi, 1822-1903</dcterms:creator>
+   <dcterms:contributor>Parker, Amie</dcterms:contributor>
+   <dcterms:contributor>Witcher, M.</dcterms:contributor>
+   <dcterms:publisher>S.T. Gordon &amp; Son.</dcterms:publisher>
+   <dcterms:created>1882</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>piano, soprano voice</dcterms:description>
+   <dcterms:description>Soprano in G.</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>At head of title: "To Miss M. Witcher."</dcterms:description>
+   <dcterms:description>Italian words with English translation by Amie Parker.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
+   <dcterms:subject>Polkas</dcterms:subject>
+   <dcterms:subject>Daisies--Songs and music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1137558/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314477</edm:isShownAt>
+</mdRecord>

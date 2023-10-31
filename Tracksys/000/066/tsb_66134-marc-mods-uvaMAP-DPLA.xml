@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u3356379</dcterms:identifier>
+   <dcterms:title>The civil law in its natural order: together with the publick law / written in French by Monsieur Domat, the late French king's advocate in the Presidial Court of Clermont in France: and translated into English by William Strahan, LL. D. advocate in Doctors Commons ; with additional remarks on some material differences between the civil law and the law of England ; in two volumes</dcterms:title>
+   <dcterms:title>Domat, Jean, 1625-1696. Lois civiles dans leur ordre naturel. English</dcterms:title>
+   <dcterms:creator>Domat, Jean, 1625-1696</dcterms:creator>
+   <dcterms:contributor>A. Bettesworth and C. Hitch (Firm)</dcterms:contributor>
+   <dcterms:contributor>Clay, Francis, -1738</dcterms:contributor>
+   <dcterms:contributor>Hett, Richard, -1766</dcterms:contributor>
+   <dcterms:contributor>J. Batley and J. Wood</dcterms:contributor>
+   <dcterms:contributor>J. and J. Pemberton</dcterms:contributor>
+   <dcterms:contributor>John and Paul Knapton (Firm)</dcterms:contributor>
+   <dcterms:contributor>Longman, Thomas, 1699-1755</dcterms:contributor>
+   <dcterms:contributor>Midwinter, Daniel, active 1698-1725</dcterms:contributor>
+   <dcterms:contributor>Rivington, Charles, 1688-1742</dcterms:contributor>
+   <dcterms:contributor>Strahan, George, -1752</dcterms:contributor>
+   <dcterms:contributor>Strahan, William (Lawyer)</dcterms:contributor>
+   <dcterms:contributor>Ward, Aaron, -1747</dcterms:contributor>
+   <dcterms:contributor>Ware, Richard (Bookseller)</dcterms:contributor>
+   <dcterms:publisher>Printed for D. Midwinter, A. Bettesworth and C. Hitch, G. Strahan, J. and J. Pemberton, R. Ware, C. Rivington, F. Clay, J. Batley and J. Wood, A. Ward, J. and P. Knapton, T. Longman, and R. Hett</dcterms:publisher>
+   <dcterms:created>1737</dcterms:created>
+   <dcterms:extent>2 volumes</dcterms:extent>
+   <dcterms:extent>36 cm (fol.)</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>The second edition, with additions.</dcterms:description>
+   <dcterms:description>Includes index.</dcterms:description>
+   <dcterms:description>In this second edition, v. 1 ends on p.670 and the last numbered page in v. 2 is p.676 [i.e. 706], p. 700-706 being misnumbered 670-676; after p. 676 comes the unpaginated index.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Civil law--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Civil law</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2546007/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3356379</edm:isShownAt>
+</mdRecord>

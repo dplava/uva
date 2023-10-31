@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:40 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2113134</dcterms:identifier>
+   <dcterms:title>The University magazine</dcterms:title>
+   <dcterms:title>University magazine (University of Virginia)</dcterms:title>
+   <dcterms:creator>University of Virginia.</dcterms:creator>
+   <dcterms:publisher>The University of Virginia</dcterms:publisher>
+   <dcterms:created>1849/1849</dcterms:created>
+   <dcterms:extent>1 v.</dcterms:extent>
+   <dcterms:extent>21 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Vol. 1, no. 1 (Jan. 1849)-v. 1, no. 5 (May/Jun. 1849).</dcterms:description>
+   <dcterms:description>Conducted by the students of the University of Virginia.</dcterms:description>
+   <dcterms:description>No. 5 includes a prospectus for the Jefferson Monument Magazine.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: ARCHIVES Copy 1 from the library bequeathed by Governor Holliday.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Holliday, Fred W. M. (Frederick William Mackey), 1828-1899--Library--Personal copy</dcterms:subject>
+   <dcterms:subject>University of Virginia--Periodicals</dcterms:subject>
+   <dcterms:subject>University of Virginia--Students--Periodicals</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2432176/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2113134</edm:isShownAt>
+</mdRecord>

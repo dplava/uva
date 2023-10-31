@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:35 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5314272</dcterms:identifier>
+   <dcterms:title>Silently blending night's shadows fall: Twilight = Voi che sapete : page's song, Marriage of Figaro / composed by Mozart</dcterms:title>
+   <dcterms:title>Ihr, die ihr Triebe des Herzens kennt</dcterms:title>
+   <dcterms:title>Page's song</dcterms:title>
+   <dcterms:title>Silently blending night's shadows fall</dcterms:title>
+   <dcterms:title>Twilight</dcterms:title>
+   <dcterms:title>Vio che sapete che cose amor</dcterms:title>
+   <dcterms:title>Voi che sapete</dcterms:title>
+   <dcterms:title>Mozart, Wolfgang Amadeus, 1756-1791. Nozze di Figaro. Voi che sapete</dcterms:title>
+   <dcterms:creator>Mozart, Wolfgang Amadeus, 1756-1791</dcterms:creator>
+   <dcterms:publisher>S.T. Gordon &amp; Son</dcterms:publisher>
+   <dcterms:created>[1873..1890]</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:isPartOf>Lira d'Italia : a collection of favorite songs, duetts, &amp;c. from standard operas, 2d. series</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1135124/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314272</edm:isShownAt>
+</mdRecord>

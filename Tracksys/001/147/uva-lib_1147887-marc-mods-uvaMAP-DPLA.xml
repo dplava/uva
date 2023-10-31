@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:38 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5315273</dcterms:identifier>
+   <dcterms:title>Lullaby: from Jocelyn : alto or baritone / B. Godard ; English version by Nathan Haskell Dole</dcterms:title>
+   <dcterms:title>Berceuse</dcterms:title>
+   <dcterms:title>Cachés dans cet asile</dcterms:title>
+   <dcterms:title>Concealed in this retreat</dcterms:title>
+   <dcterms:title>Godard, Benjamin, 1849-1895. Jocelyn. Berceuse</dcterms:title>
+   <dcterms:creator>Godard, Benjamin, 1849-1895</dcterms:creator>
+   <dcterms:contributor>Dole, Nathan Haskell, 1852-1935</dcterms:contributor>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1891</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>piano, alto voice</dcterms:description>
+   <dcterms:description>piano, baritone voice</dcterms:description>
+   <dcterms:description>Alto or bar. in D♭.</dcterms:description>
+   <dcterms:description>For alto or baritone with piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: G. Schirmer's edition of song-albums.</dcterms:description>
+   <dcterms:description>English and French words.</dcterms:description>
+   <dcterms:isPartOf>French songs, 2d. series</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1147888/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315273</edm:isShownAt>
+</mdRecord>

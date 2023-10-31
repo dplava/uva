@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4706230</dcterms:identifier>
+   <dcterms:title>Geologic map of western Virginia, 1922 / compiled by G.W. Stose from published and manuscript maps of the U.S. Geological Survey and from the geologic map of Virginia by Thomas L. Watson, supplemented by personal knowledge ; Virginia Geological Survey, Thomas Leonard Watson, Director</dcterms:title>
+   <dcterms:creator>Stose, George Willis, 1869-1960</dcterms:creator>
+   <dcterms:contributor>Virginia Geological Survey.</dcterms:contributor>
+   <dcterms:publisher>Virginia Geological Survey</dcterms:publisher>
+   <dcterms:created>1922</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>68 x 108 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"Virginia Geological Survey, Bulletin XXIII, Plate IV" -- Printed on verso.</dcterms:description>
+   <dcterms:description>Shows the Blue Ridge Mountains and points west.</dcterms:description>
+   <dcterms:description>Includes a "List of manganese mines and prospects in western Virginia."</dcterms:description>
+   <dcterms:description>Scale 1:500,000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Geology--Virginia--Maps</dcterms:subject>
+   <dcterms:subject>Manganese mines and mining--Virginia--Maps</dcterms:subject>
+   <dcterms:subject>Virginia--Maps</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:893003/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4706230</edm:isShownAt>
+</mdRecord>

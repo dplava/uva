@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:39 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5315418</dcterms:identifier>
+   <dcterms:title>Dirge: our deeply lamented martyred president! / words written by O. Wheelock ; music composed by E. Mack</dcterms:title>
+   <dcterms:title>Man may die, still joined our hands</dcterms:title>
+   <dcterms:title>Our deeply lamented martyred president</dcterms:title>
+   <dcterms:creator>Mack, Edward, 1826-1882</dcterms:creator>
+   <dcterms:contributor>Lincoln, Mary Todd, 1818-1882</dcterms:contributor>
+   <dcterms:contributor>Swain, George F.</dcterms:contributor>
+   <dcterms:contributor>Wheelock, O.</dcterms:contributor>
+   <dcterms:publisher>Lee &amp; Walker</dcterms:publisher>
+   <dcterms:created>1865</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>mixed chorus (4), piano</dcterms:description>
+   <dcterms:description>For vocal quartet and piano.</dcterms:description>
+   <dcterms:description>"George F. Swain."</dcterms:description>
+   <dcterms:description>"Very respectfully inscribed to Mrs. Lincoln, widow of the late President of the United States, by the author-- with the assurance that he shares the nation's condolence."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Lincoln, Abraham, 1809-1865--Assassination--Songs and music</dcterms:subject>
+   <dcterms:subject>Vocal quartets with piano</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1149888/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315418</edm:isShownAt>
+</mdRecord>

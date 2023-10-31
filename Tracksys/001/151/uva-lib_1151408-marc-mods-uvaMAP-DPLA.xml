@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:39 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5315525</dcterms:identifier>
+   <dcterms:title>Susette and beau Joe: as sung by Geo. Kunkel of the Nightingales / music arranged from Glover ; words by T. Martin</dcterms:title>
+   <dcterms:title>Oh dry thy pearly tears Susette</dcterms:title>
+   <dcterms:title>Susette &amp; beau Joe</dcterms:title>
+   <dcterms:title>You are going far away</dcterms:title>
+   <dcterms:title>Glover, Charles William, 1806-1863. Susette and beau Joe; arr</dcterms:title>
+   <dcterms:creator>Glover, Charles William, 1806-1863</dcterms:creator>
+   <dcterms:contributor>Kunkel, G. (George), 1822 or 1823-1885</dcterms:contributor>
+   <dcterms:contributor>Martin, T.</dcterms:contributor>
+   <dcterms:contributor>Williams &amp; Andrews</dcterms:contributor>
+   <dcterms:publisher>W.C. Peters</dcterms:publisher>
+   <dcterms:created>1850</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, mixed chorus (4), piano</dcterms:description>
+   <dcterms:description>12th ed.</dcterms:description>
+   <dcterms:description>For piano and voice, with chorus refrain (SATB).</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>"Williams &amp; Andrews, Prs."--Colophon.</dcterms:description>
+   <dcterms:isPartOf>Songs of the Sable Harmonists and Kunkel's Nightingales</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices) with piano</dcterms:subject>
+   <dcterms:subject>Minstrel music</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1151409/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315525</edm:isShownAt>
+</mdRecord>

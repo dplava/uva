@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4776272</dcterms:identifier>
+   <dcterms:title>A new &amp; exact map of the electorate of Brunswick-Lunenburg and ye rest of ye Kings dominions in Germany / Very much improved by ye kind assistance of severall curious gentlemen, natives of those countries</dcterms:title>
+   <dcterms:title>New and exact map of the electorate of Brunswick-Lunenburg</dcterms:title>
+   <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+   <dcterms:contributor>George I, King of Great Britain, 1660-1727</dcterms:contributor>
+   <dcterms:contributor>Overton, Philip, -1751</dcterms:contributor>
+   <dcterms:contributor>Ripking, Berendt R.</dcterms:contributor>
+   <dcterms:publisher>Sold by Herman Moll over against Devereux Court, between Temple Bar and St. Clements Church in ye Strand, Philip Overton Map and Printseller near St. Dunstans Church Fleetstreet</dcterms:publisher>
+   <dcterms:created>1730</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>61 x 101 cm. on sheet 64 x 107 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown pictorially.</dcterms:description>
+   <dcterms:description>Dedication: To his most sacred majesty George King of Great Britain, France and Ireland, Elector of Burnswick-Lunenburg &amp;c. This map is most Humbly Dedicated by your Majesty's most Humble most Obedient Subject &amp; Servant Herman Moll Geographer.</dcterms:description>
+   <dcterms:description>Insets (Separate scale): The Dutche of Saxon Lauwenburg -- A map of part of England, the United Provinces, Westphalia, and all the dominions of the King of Great Britain in Germany, shewing the rout of the Kings journey from Hannover to Greenwich &amp;c.</dcterms:description>
+   <dcterms:description>Title and dedication within an elaborate cartouche honoring King George I, with additional images of his coat of arms before his accession to the throne and his crown as Arch-Treasurer of the Empire.</dcterms:description>
+   <dcterms:description>Note: His Majesty was so pleased with this map, that he presented the author with a gold medal &amp;c. as a mark of his royal favour, and approbation of performance.</dcterms:description>
+   <dcterms:description>Note: This map has the improvements of ye new survey of B. Ripking.</dcterms:description>
+   <dcterms:description>Table: A catalogue of divers woods and forrests in this map distinguished by figures.</dcterms:description>
+   <dcterms:description>Note: The mines of WIldeman, Clausthal, Cellerfelt, Lautenthal &amp; C. in Hartz-Wald ...</dcterms:description>
+   <dcterms:description>Previously issued ca. 1714, after the accession of George I, with Moll's imprint only.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: "Brunswick &amp;c" handwritten in brown ink on verso.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:500,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Lower Saxony (Germany)--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Braunschweig (Germany : State)--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Lüneburg (Principality)--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Braunschweig (Germany : State)</dcterms:spatial>
+   <dcterms:spatial>Lower Saxony (Germany)</dcterms:spatial>
+   <dcterms:spatial>Lüneburg (Principality)</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:906126/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4776272</edm:isShownAt>
+</mdRecord>

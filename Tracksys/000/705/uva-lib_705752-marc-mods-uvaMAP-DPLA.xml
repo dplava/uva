@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4977286</dcterms:identifier>
+   <dcterms:title>Map of Roanoke Virginia / January 29th 1914, F.L. Gibboney, City Engineer</dcterms:title>
+   <dcterms:creator>Gibboney, F. L.</dcterms:creator>
+   <dcterms:contributor>Duke, C. W.</dcterms:contributor>
+   <dcterms:contributor>Hill Directory Company.</dcterms:contributor>
+   <dcterms:publisher>Hill Directory Co., Inc.</dcterms:publisher>
+   <dcterms:created>1914</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>46 x 53 cm.</dcterms:extent>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"C.W. Duke" printed in lower right corner.</dcterms:description>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>Map shows blocks, street names, and radial distances every 0.5 miles.</dcterms:description>
+   <dcterms:description>"Area within corporation limits=5.410 sq. miles."</dcterms:description>
+   <dcterms:description>Scale ca. 1:12,672.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Roanoke (Va.)--Maps</dcterms:subject>
+   <dcterms:spatial>Roanoke (Va.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:711666/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4977286</edm:isShownAt>
+</mdRecord>

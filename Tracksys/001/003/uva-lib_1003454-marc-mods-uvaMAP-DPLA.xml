@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4751067</dcterms:identifier>
+   <dcterms:title>Map of Grace Church Cemetery, Walkers Parish, Albemarle Co. Virginia / surveyed Feby 1883 by Geo. C. Dickinson. Civil Engineer</dcterms:title>
+   <dcterms:creator>Dickinson, Geo. C.</dcterms:creator>
+   <dcterms:contributor>Grace Church (Cismont, Va.)</dcterms:contributor>
+   <dcterms:publisher>Grace Church</dcterms:publisher>
+   <dcterms:created>1883</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>58 x 88 cm. on sheet 62 x 100 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Note upper left: Total area, to centre of public road...</dcterms:description>
+   <dcterms:description>Shows individual plot numbers and dimensions, with access roads; the whole bordered by lands owned by F.W. Page.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:300]; 1 in. = 25 ft.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Grace Church Cemetery (Cismont, Va.)</dcterms:subject>
+   <dcterms:subject>Grace Church (Cismont, Va.)</dcterms:subject>
+   <dcterms:subject>Cemeteries--Virginia--Albemarle County--Maps</dcterms:subject>
+   <dcterms:spatial>Albemarle County</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:894182/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4751067</edm:isShownAt>
+</mdRecord>

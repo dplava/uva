@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2092110</dcterms:identifier>
+   <dcterms:title>Letters from Gen. William Gibbs MacNeill and Mr. Alexander, engineers: on the subject of the Valley and Alexandria Railroad, and from George F. Hupp, esq. on the subject of the quantity of produce that will pass the road</dcterms:title>
+   <dcterms:creator>McNeill, William Gibbs, 1801-1853</dcterms:creator>
+   <dcterms:contributor>Alexander, J.</dcterms:contributor>
+   <dcterms:contributor>Hupp, George F.</dcterms:contributor>
+   <dcterms:created>1849</dcterms:created>
+   <dcterms:extent>4 p. 24 x 15 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Valley and Alexandria Railroad.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1512060/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2092110</edm:isShownAt>
+</mdRecord>

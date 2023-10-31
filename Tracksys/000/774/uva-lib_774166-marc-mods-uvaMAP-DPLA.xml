@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2245727</dcterms:identifier>
+   <dcterms:title>Le tretté de la gramme̜re francoe̜ze / fe̜t par Louis Meigret, Lionoe̜s</dcterms:title>
+   <dcterms:creator>Meigret, Louis, active 16th century</dcterms:creator>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:contributor>
+   <dcterms:contributor>Trautz, Georges, 1808-1879</dcterms:contributor>
+   <dcterms:contributor>Wechel, Chrestien, 1495-1554</dcterms:contributor>
+   <dcterms:publisher>Chés Chrestien Wechel, à la rue sainct Iean de Beauuais, à l'enseigne du Cheual volant</dcterms:publisher>
+   <dcterms:created>1550</dcterms:created>
+   <dcterms:extent>144 leaves</dcterms:extent>
+   <dcterms:extent>23 cm. (4to)</dcterms:extent>
+   <dcterms:medium>music</dcterms:medium>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: A-Z⁴ AA-NN⁴.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: First title in volume with: La reponse de Louis Meigret a l'apolojie de Iáqes Pelletier. --A Paris : Chés Chrestien Wechel, 1550 -- Reponse de Louis Meigret a la dezesperée repliqe de Glaomalis de Vezelet, transformé de Gyllaome des Aotels. --A Paris : Chés Chrestien Wechel, 1551. Binder: Trautz-Bauzonnet. Bookplates of Hector de Backer and J.B. de S. Port. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 121.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: First title in volume with: La reponse de Louis Meigret a l'apolojie de Iáqes Pelletier. --A Paris : Chés Chrestien Wechel, 1550 -- Reponse de Louis Meigret a la dezesperée repliqe de Glaomalis de Vezelet, transformé de Gyllaome des Aotels. --A Paris : Chés Chrestien Wechel, 1551. Binder: Trautz-Bauzonnet. Bookplates of Hector de Backer and J.B. de S. Port. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 121.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>French language--Middle French, 1300-1600</dcterms:subject>
+   <dcterms:subject>French language--Orthography and spelling</dcterms:subject>
+   <dcterms:subject>French language--Grammar</dcterms:subject>
+   <dcterms:temporal>Middle French, 1300-1600</dcterms:temporal>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:778865/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2245727</edm:isShownAt>
+</mdRecord>

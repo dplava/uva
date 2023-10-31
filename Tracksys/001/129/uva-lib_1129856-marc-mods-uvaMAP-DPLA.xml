@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:34 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5313859</dcterms:identifier>
+   <dcterms:title>The conquered banner / words by Moina ; music by La Hache</dcterms:title>
+   <dcterms:title>Furl that banner</dcterms:title>
+   <dcterms:creator>La Hache, Théod. von, (Théodor), 1823-1867</dcterms:creator>
+   <dcterms:contributor>Boehler, J. E</dcterms:contributor>
+   <dcterms:contributor>Moina</dcterms:contributor>
+   <dcterms:contributor>Wehrmann, Henry, 1871-1956</dcterms:contributor>
+   <dcterms:publisher>A.E. Blackmar</dcterms:publisher>
+   <dcterms:created>1866</dcterms:created>
+   <dcterms:extent>1 score (9 p.)</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>"Grand solo for mezzo soprano or barytone, op. 643"--Caption.</dcterms:description>
+   <dcterms:description>Title page illustration: Patriotic woman holding flag and standing on sphere.</dcterms:description>
+   <dcterms:description>At foot of illustration: "J. E. Boehler, Lith."</dcterms:description>
+   <dcterms:description>"Wehrmann, Eng."--Colophon.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
+   <dcterms:subject>War songs--Confederate States of America</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Songs and music</dcterms:subject>
+   <dcterms:subject>Confederate States of America--Songs and music</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>Confederate States of America</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1129857/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313859</edm:isShownAt>
+</mdRecord>

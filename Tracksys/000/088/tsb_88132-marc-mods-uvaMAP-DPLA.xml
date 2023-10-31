@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4512325</dcterms:identifier>
+   <dcterms:title>Johnson's Virginia, Delaware, Maryland &amp; West Virginia</dcterms:title>
+   <dcterms:title>Virginia, Delaware, Maryland and West Virginia</dcterms:title>
+   <dcterms:creator>Johnson, A. J. (Alvin Jewett), 1827-1884</dcterms:creator>
+   <dcterms:publisher>Published by A.J. Johnson</dcterms:publisher>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>40 x 55 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>one color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Shows counties, railroads, and includes some counties of West Virginia, created in 1863.</dcterms:description>
+   <dcterms:description>Relief shown by hachures. Depths shown by isolines.</dcterms:description>
+   <dcterms:description>"Entered according to Act of Congress in the year 1864, by A.J. Johnson, in the Clerk's Office of the District Court of the United States for the Southern District of New York."</dcterms:description>
+   <dcterms:description>Includes illustrations of "Fortress Monroe," "General post office, " "Treasury buildings, " "Patent Office, " and "University of Virginia."</dcterms:description>
+   <dcterms:description>Plate numbers 35 &amp; 36 printed in upper left and right corners, respectively. Text on verso: Geographical index, or Ready reference, p. 47-48.</dcterms:description>
+   <dcterms:description>Probably from the 1867 edition of: Johnson's new illustrated (steel plate) family atlas. new York, A.J. Johnson, 1867. Plate numbers do not match other editions of this atlas described in Philips.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Imperfect: has several tears and chipped edges. Purchase, 1938. Byrd Fund.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,500,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia--Pictorial works</dcterms:subject>
+   <dcterms:subject>Middle Atlantic States--Civil War, 1861-1865--Maps</dcterms:subject>
+   <dcterms:subject>Virginia--Maps--19th century</dcterms:subject>
+   <dcterms:subject>Delaware--Maps--19th century</dcterms:subject>
+   <dcterms:subject>Maryland--Maps--19th century</dcterms:subject>
+   <dcterms:subject>West Virginia--Maps--19th century</dcterms:subject>
+   <dcterms:temporal>19th century</dcterms:temporal>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>Delaware</dcterms:spatial>
+   <dcterms:spatial>Maryland</dcterms:spatial>
+   <dcterms:spatial>Middle Atlantic States</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>West Virginia</dcterms:spatial>
+   <dcterms:spatial>New York (City), New York (State), United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2679309/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4512325</edm:isShownAt>
+</mdRecord>

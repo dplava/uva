@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:36 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5187082</dcterms:identifier>
+   <dcterms:title>The grave on the heath = Das Grab auf der Haide : song [op. 30] / by W. Heiser</dcterms:title>
+   <dcterms:title>Grab auf der Haide</dcterms:title>
+   <dcterms:title>Was stell'n sich die Soldaten auf</dcterms:title>
+   <dcterms:title>What brings the soldiers out today</dcterms:title>
+   <dcterms:title>Heiser, Wilhelm, 1816-1897. Grab auf der Haide. English &amp; German</dcterms:title>
+   <dcterms:creator>Heiser, Wilhelm, 1816-1897</dcterms:creator>
+   <dcterms:contributor>Stackpole, Patrick M.</dcterms:contributor>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:extent>34 cm.</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>soprano voice, piano</dcterms:description>
+   <dcterms:description>tenor voice, piano</dcterms:description>
+   <dcterms:description>Soprano or ten. in D minor.</dcterms:description>
+   <dcterms:description>For high voice and piano.</dcterms:description>
+   <dcterms:description>At foot of title page: "Stackpole."</dcterms:description>
+   <dcterms:description>English and German words.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1138380/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5187082</edm:isShownAt>
+</mdRecord>

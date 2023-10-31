@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:38 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5315156</dcterms:identifier>
+   <dcterms:title>Festival Te Deum: in F / by William O. Brewster</dcterms:title>
+   <dcterms:title>We praise thee, o God</dcterms:title>
+   <dcterms:title>Brewster, William O. Festival Te Deum</dcterms:title>
+   <dcterms:creator>Brewster, William O.</dcterms:creator>
+   <dcterms:contributor>St. Paul's Cathedral (Buffalo, N.Y.). Choir</dcterms:contributor>
+   <dcterms:publisher>Wm. A. Pond &amp; Co.</dcterms:publisher>
+   <dcterms:created>1873</dcterms:created>
+   <dcterms:extent>1 score (13 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>mixed chorus (4), organ</dcterms:description>
+   <dcterms:description>For chorus (SATB) and organ.</dcterms:description>
+   <dcterms:description>On title page: "Respectfully dedicated to the Choir of St. Paul's Cathedral, Buffalo, N.Y."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Anthems</dcterms:subject>
+   <dcterms:subject>Choruses, Sacred (Mixed voices, 4 parts) with organ</dcterms:subject>
+   <dcterms:subject>Te Deum laudamus (Music)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1146444/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315156</edm:isShownAt>
+</mdRecord>

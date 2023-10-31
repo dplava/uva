@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u1929444</dcterms:identifier>
+   <dcterms:title>O promise of a joy divine: from the opera "The King of Lahore" / J. Massenet ; English version by Dudley Buck</dcterms:title>
+   <dcterms:title>King of Lahore</dcterms:title>
+   <dcterms:title>O castro flor del mio sospir</dcterms:title>
+   <dcterms:title>The troops of the sultan, who gladly would have riven</dcterms:title>
+   <dcterms:title>Massenet, Jules, 1842-1912. Roi de Lahore. Selections. Vocal score. Polyglot</dcterms:title>
+   <dcterms:creator>Massenet, Jules, 1842-1912</dcterms:creator>
+   <dcterms:contributor>Buck, Dudley, 1839-1909</dcterms:contributor>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1882</dcterms:created>
+   <dcterms:extent>1 vocal score (5 p.)</dcterms:extent>
+   <dcterms:extent>35 cm.</dcterms:extent>
+   <dcterms:medium>piano score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>baritone voice, piano</dcterms:description>
+   <dcterms:description>Bar.</dcterms:description>
+   <dcterms:description>For baritone voice and piano.</dcterms:description>
+   <dcterms:description>English, French and Italian words.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: [Sheet music collection, v.21, no.15]</dcterms:description>
+   <dcterms:isPartOf>Lyric gems (2d collection) ; no. 62</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1119090/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u1929444</edm:isShownAt>
+</mdRecord>

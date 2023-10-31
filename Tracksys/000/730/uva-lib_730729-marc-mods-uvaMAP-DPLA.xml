@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2290506</dcterms:identifier>
+   <dcterms:title>Lettre d'vn Catholique François au Roy de Nauarre, pour l'induire à se retourner à l'Eglise Apostolique &amp; Romaine</dcterms:title>
+   <dcterms:title>Lettre d'un Catholique François au Roy de Navarre</dcterms:title>
+   <dcterms:creator>Maillard, André, active 1585-1591</dcterms:creator>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:contributor>
+   <dcterms:contributor>Hardy, C., active 1850-1880</dcterms:contributor>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1586</dcterms:created>
+   <dcterms:extent>[16] p.</dcterms:extent>
+   <dcterms:extent>17 cm. (8vo)</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: A-B⁴.</dcterms:description>
+   <dcterms:description>Signed, in print, on p. [16], "A.D.M. Le Catholique François." Attributed to André Maillard by Bibliotheque nationale.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Hardy. Bookplate, Mente Libera, GES. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 682.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Henry, IV, King of France, 1553-1610</dcterms:subject>
+   <dcterms:subject>Catholic Church--France--16th century</dcterms:subject>
+   <dcterms:subject>Church and state--France</dcterms:subject>
+   <dcterms:subject>France--History--Henry III, 1574-1589--Sources</dcterms:subject>
+   <dcterms:subject>France--History--Wars of the Huguenots, 1562-1598</dcterms:subject>
+   <dcterms:temporal>16th century</dcterms:temporal>
+   <dcterms:temporal>Henry III, 1574-1589</dcterms:temporal>
+   <dcterms:temporal>Wars of the Huguenots, 1562-1598</dcterms:temporal>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:736726/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2290506</edm:isShownAt>
+</mdRecord>

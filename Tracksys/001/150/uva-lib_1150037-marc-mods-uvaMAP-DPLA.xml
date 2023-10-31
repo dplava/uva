@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:39 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5315427</dcterms:identifier>
+   <dcterms:title>Two little girls in blue: waltz song : as sung with immense success by the eminent Howard Powers of Barlow Bros.' Minstrels / words and music by Chas. Graham</dcterms:title>
+   <dcterms:title>An old man gazed on a photograph</dcterms:title>
+   <dcterms:creator>Graham, Charles (Composer)</dcterms:creator>
+   <dcterms:contributor>Hoffmann, George</dcterms:contributor>
+   <dcterms:contributor>Powers, Howard</dcterms:contributor>
+   <dcterms:publisher>Spaulding &amp; Kornder</dcterms:publisher>
+   <dcterms:created>1893</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>At head of title: "The rage of the hour."</dcterms:description>
+   <dcterms:description>"To Mr. George Hoffmann, New York City."</dcterms:description>
+   <dcterms:description>Advertisement on p. [2]: Musical incipits for Clancy's trotter, Eliza Jane McCue, Polly O'Neil, and Coon's delight. On p. [6]: Children's games lancers.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1150038/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315427</edm:isShownAt>
+</mdRecord>

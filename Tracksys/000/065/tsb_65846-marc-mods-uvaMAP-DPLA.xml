@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u3296056</dcterms:identifier>
+   <dcterms:title>A treatise of the law relative to merchant ships and seamen / by Charles Abbott</dcterms:title>
+   <dcterms:creator>Abbott, Charles Baron Tenterden, 1762-1832</dcterms:creator>
+   <dcterms:publisher>Printed for Brooke and Clarke, and J. Butterworth</dcterms:publisher>
+   <dcterms:created>1804</dcterms:created>
+   <dcterms:extent>xxxi, 461, [1] p.</dcterms:extent>
+   <dcterms:extent>22 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>2nd ed., with additions.</dcterms:description>
+   <dcterms:description>I. Of the owners of merchant ships.--II. Of the persons employed in the navigation thereof.--III. Of the carriage of goods therein.--IV. Of the wages of merchant seamen.</dcterms:description>
+   <dcterms:description>"In four parts."</dcterms:description>
+   <dcterms:description>Includes bibliographical references and index.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Maritime law</dcterms:subject>
+   <dcterms:subject>Maritime law--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2370880/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3296056</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:39 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2276334</dcterms:identifier>
+   <dcterms:title>Les diuerses leçons de Pierre Messie gentil-homme de Seuile: Contenans variables &amp; memorables histoires / mises en François par Claude Gruget Parisien</dcterms:title>
+   <dcterms:title>Diverses leçons de Pierre Messie</dcterms:title>
+   <dcterms:title>Trois dialogues de Pierre Messie, touchant la nature du soleil</dcterms:title>
+   <dcterms:title>Mexía, Pedro, 1496?-1552?. Silva de varia lección. French (Middle French)</dcterms:title>
+   <dcterms:creator>Mexía, Pedro, 1496?-1552?</dcterms:creator>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:contributor>
+   <dcterms:contributor>Gruget, Claude</dcterms:contributor>
+   <dcterms:contributor>Micard, Claude, active 1555-1597</dcterms:contributor>
+   <dcterms:contributor>Trautz, Georges, 1808-1879</dcterms:contributor>
+   <dcterms:publisher>Chez Claude Micard ...</dcterms:publisher>
+   <dcterms:created>1572</dcterms:created>
+   <dcterms:extent>472, [8] leaves</dcterms:extent>
+   <dcterms:extent>13 cm. (12mo)</dcterms:extent>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:language>Spanish</dcterms:language>
+   <dcterms:description>De nouueau reueües, corrigées, &amp; augmentées de la cinquiesme partie, &amp; de trois Dialogues, touchāt la nature du soleil, de la terre, &amp; des meteores.</dcterms:description>
+   <dcterms:description>Signatures: a-z⁸ A-Oo⁸.</dcterms:description>
+   <dcterms:description>Special t.p. (leaf [238]) for: La troisiesme partie des diuerses leçons. / De Pierre Messie ... -- A Paris : Chez Claude Micard, 1571.</dcterms:description>
+   <dcterms:description>Special t.p. (leaf [445]) for: Trois dialogues de Pierre Messie, touchant la nature du soleil ... -- A Paris : Par Claude Micard, 1572.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Trautz-Bauzonnet. Bookplate of Robert Hoe. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 463.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1814247/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2276334</edm:isShownAt>
+</mdRecord>

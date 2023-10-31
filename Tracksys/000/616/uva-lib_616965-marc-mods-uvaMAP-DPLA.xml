@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4456669</dcterms:identifier>
+   <dcterms:title>To the right honourable John Lord Sommers Baron of Evesham in ye county of Worcester President of Her Majety's most honourable Privy Council &amp;c / This map of North America, according to ye newest and most exact observations, is most humbly dedicated by your Lordship's most humble servant Herman Moll Geographer</dcterms:title>
+   <dcterms:title>Map of North America</dcterms:title>
+   <dcterms:title>This map of North America</dcterms:title>
+   <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+   <dcterms:contributor>Bowles, Thomas, -1767</dcterms:contributor>
+   <dcterms:contributor>Lens, Bernard, 1659-1725</dcterms:contributor>
+   <dcterms:contributor>Overton, Philip, -1751</dcterms:contributor>
+   <dcterms:contributor>Vertue, George, 1684-1756</dcterms:contributor>
+   <dcterms:publisher>Printed for H. Moll, D. Midwinter at ye 3 Crowns in St. Pauls Church yard and T. Bowles Print and Mapselle next to the chapter house in St. Pauls Church yard, and over against Devereux Court, without Temple Bar. And by P. Overton Map and Printseller near S. Dunstans Church Fleetstreet</dcterms:publisher>
+   <dcterms:created>1712</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>58 x 96 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown pictorially.</dcterms:description>
+   <dcterms:description>Insets: 10 maps, with varying scales, at lower left: St. John's Harbour -- Boston Harbour -- Stats (Staten) Island -- Ashley &amp; Cooper River -- Port Royal Harbour -- Bay &amp; City of ye Havana -- Bay of Pto. Bella -- La Vera Cruz -- Cartagena Harbour and Forts -- Port of Acapulco.</dcterms:description>
+   <dcterms:description>Inset: A view of a stage &amp; also ye manner of fishing for, curing &amp; drying cod at New Found Land...</dcterms:description>
+   <dcterms:description>Text: Explanation: A. Here one of the flota droops anchor to give notice to R. de la Hacha, that the Galeons are come... B. At Cartagena ye Galeons usually stay 60 days...</dcterms:description>
+   <dcterms:description>B. Lens delin., G. Vertue Sculp.</dcterms:description>
+   <dcterms:description>Shows prevailing winds.</dcterms:description>
+   <dcterms:description>Shows California as an island.</dcterms:description>
+   <dcterms:description>Scale [ca. 12,000,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Cod fisheries--Newfoundland and Labrador--Illustrations--Early works to 1800</dcterms:subject>
+   <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Canada--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Canada</dcterms:spatial>
+   <dcterms:spatial>Newfoundland and Labrador</dcterms:spatial>
+   <dcterms:spatial>North America</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:621792/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4456669</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2376853</dcterms:identifier>
+   <dcterms:title>The Yankee</dcterms:title>
+   <dcterms:title>Yankee (Lewisburg, Va.)</dcterms:title>
+   <dcterms:publisher>Watt, Frye, Oldham, Sykes, Raymond</dcterms:publisher>
+   <dcterms:created>1862/18XX</dcterms:created>
+   <dcterms:extent>v.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>May 29, 1862-</dcterms:description>
+   <dcterms:description>No more published?</dcterms:description>
+   <dcterms:description>Printed on the abandoned press of the Greenbrier Weekly Era, by members of the 44th Regiment Ohio Vol. Inf. See related article in the Springfield News-Son, Sunday, May 14, 1961.</dcterms:description>
+   <dcterms:description>"The Yankee is published every time the proprietors get a chance at a printing office." -- p. [1], col. [1]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Coles Fund, 1970. Accompanied by a copy of the related article from the Springfield News-Son.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Coles Fund, 1970. Accompanied by a copy of the related article from the Springfield News-Son.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Ohio--History--Civil War, 1861-1865</dcterms:subject>
+   <dcterms:subject>Lewisburg (W. Va.)--History</dcterms:subject>
+   <dcterms:subject>Lewisburg (W. Va.)--Newspapers</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>Lewisburg (W. Va.)</dcterms:spatial>
+   <dcterms:spatial>Ohio</dcterms:spatial>
+   <dcterms:spatial>Lewisburg, Greenbrier, West Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2623895/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2376853</edm:isShownAt>
+</mdRecord>

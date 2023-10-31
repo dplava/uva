@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:40 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u1968212</dcterms:identifier>
+   <dcterms:title>University literary magazine</dcterms:title>
+   <dcterms:title>University of Virginia magazine</dcterms:title>
+   <dcterms:title>Virginia University magazine</dcterms:title>
+   <dcterms:creator>University of Virginia.</dcterms:creator>
+   <dcterms:publisher>University of Virginia</dcterms:publisher>
+   <dcterms:created>1856/1926</dcterms:created>
+   <dcterms:extent>v.</dcterms:extent>
+   <dcterms:extent>21-30 cm.</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Published by the students of the University of Virginia.</dcterms:description>
+   <dcterms:description>Published during the school year.</dcterms:description>
+   <dcterms:description>Suspended 1861/62-1866/67.</dcterms:description>
+   <dcterms:description>Error in numbering: Volume numbers in the caption titles for Dec. 1877-June 1878 incorrectly appear as Vol. 17 instead of Vol. 16; the error was continued through subsequent years, with the volume for 1878/1879 called Vol. 18, etc. on both the caption and cover titles.</dcterms:description>
+   <dcterms:description>"Published at the University of Virginia."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: LH1 .V6 U8 Copy 1:</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: LH1 .V6 U8: Copy 2: Vol. 85, no.1-5 (1924/1925) transferred from Atcheson Hench letter to John Cook Wyllie, MSS 1577-b. Issues for Dec. 1892 and Apr./May 1893 inscribed by H. S. Cummings.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: LH1 .V6 U8: Copy 4: Vol. 12, no.1-9 (1873/1874): From the library of R.T.W. Duke, Jr. with annotations throughout in his hand.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: LH1 .V6 U8: Copy 5: Bound volumes, with most original covers bound in. Transferred from Alderman, 2020/2021. Most are labeled as Copy 2 on spine; 9 or labeled as Copy 4 on spine.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: F221 v.268 (v. 5 no. 7, April 1861), v.390 &amp; v.526: In bound volumes with miscellaneous Virginia pamphlets.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: F229 .C28 Z92 .U55 V5: From the library of the Carter/Wellford family of Sabine Hall; signatures of A.L. Wellford and of B.R., or B. Rand, Wellford. Gift of Rev. T. Dabney Wellford.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: AB v.172 no.6: Virginia University Magazine, v. 6, no. 1, Dec. 1867, with "My class" written on front cover. In a bound volume of pamphlets given by Jennings C. Wise.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: LH1 .V6 U8: Copy 5: Bound volumes, with most original covers bound in. Transferred from Alderman, 2020/2021. Most are labeled as Copy 2 on spine; 9 or labeled as Copy 4 on spine.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Duke, R. T. W. (Richard Thomas Walker), 1853-1926--Library--Personal copy</dcterms:subject>
+   <dcterms:subject>University of Virginia--Periodicals</dcterms:subject>
+   <dcterms:subject>University of Virginia--Students--Periodicals</dcterms:subject>
+   <dcterms:subject>Sabine Hall (Richmond County, Va.). Library.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2456380/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u1968212</edm:isShownAt>
+</mdRecord>

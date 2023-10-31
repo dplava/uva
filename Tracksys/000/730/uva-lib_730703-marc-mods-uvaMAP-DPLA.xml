@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2262566</dcterms:identifier>
+   <dcterms:title>Traicté des elements, temperaments, humeurs, &amp; facultés naturelles, selon la doctrine d'Hippocrates, &amp; de Galien: vtile tant à ceux qui desirent apprendre la medicine, qu'aux estudiants en chirurgie</dcterms:title>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:contributor>
+   <dcterms:contributor>Galen.</dcterms:contributor>
+   <dcterms:contributor>Hippocrates.</dcterms:contributor>
+   <dcterms:contributor>Rouillé, Guillaume, 1518?-1589</dcterms:contributor>
+   <dcterms:publisher>Par Guillaume Rouille</dcterms:publisher>
+   <dcterms:created>1555</dcterms:created>
+   <dcterms:extent>111 p.</dcterms:extent>
+   <dcterms:extent>13 cm. (16mo)</dcterms:extent>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Signatures: A-G⁸.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 310.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Medicine--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Lyon, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:735256/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2262566</edm:isShownAt>
+</mdRecord>

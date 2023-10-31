@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2253025</dcterms:identifier>
+   <dcterms:title>Les oeuures poetiques de Pontus de Tyard, Seigneur de Bissy: asçauoir, trois liures des Erreurs amoureuses. Vn liure de Vers liriques. Plus vn recueil des nouuelles œuures Poëtiques</dcterms:title>
+   <dcterms:title>De coelestibus asterismis</dcterms:title>
+   <dcterms:title>Oeuvres poetiques de Pontus de Tyard</dcterms:title>
+   <dcterms:title>Ponti Thyardei, Bissiani, ad Petrum Ronsardum, De coelestibus asterismis poëmatium</dcterms:title>
+   <dcterms:title>Tyard, Pontus de, 1521-1605. Works. 1573</dcterms:title>
+   <dcterms:creator>Tyard, Pontus de, 1521-1605</dcterms:creator>
+   <dcterms:contributor>Bauzonnet-Trautz (Firm)</dcterms:contributor>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:contributor>
+   <dcterms:contributor>Du Pré, Galliot, active 1562-1579</dcterms:contributor>
+   <dcterms:contributor>Ronsard, Pierre de, 1524-1585</dcterms:contributor>
+   <dcterms:publisher>Par Galiot du Pré, ruë S. Iaques, à l'enseigne de la Galere d'or</dcterms:publisher>
+   <dcterms:created>1573</dcterms:created>
+   <dcterms:extent>[4], 164, [8], [40] p.</dcterms:extent>
+   <dcterms:extent>22 cm. (4to)</dcterms:extent>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Signatures: a-x⁴ y² [dagger]⁴ a-e⁴.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: First work in volume with (as issued): [8] p. bound after p. 164): Ponti Thyardei, Bissiani, ad Petrum Ronsardum, De coelestibus asterismis poëmatium. -- Parisiis : Apud Galéotum à Prato, via Iacobæa, sub Naui aurea, 1573. Binder: Bauzonnet-Trautz. Unidentified armorial bookplate, two crests, side-by-side. Pencilled notes that the book belonged to Chédeau, Lebeuf de Mongermont, de Ruble and H. de Backer. Gordon Collection. Bookplate of Douglas Gordon. Gordon list 212.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: First work in volume with (as issued): [8] p. bound after p. 164): Ponti Thyardei, Bissiani, ad Petrum Ronsardum, De coelestibus asterismis poëmatium. -- Parisiis : Apud Galéotum à Prato, via Iacobæa, sub Naui aurea, 1573. Binder: Bauzonnet-Trautz. Unidentified armorial bookplate, two crests, side-by-side. Pencilled notes that the book belonged to Chédeau, Lebeuf de Mongermont, de Ruble and H. de Backer. Gordon Collection. Bookplate of Douglas Gordon. Gordon list 212.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:731481/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2253025</edm:isShownAt>
+</mdRecord>

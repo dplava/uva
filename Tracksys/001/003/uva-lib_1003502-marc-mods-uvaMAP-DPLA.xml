@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4753469</dcterms:identifier>
+   <dcterms:title>Norfolk &amp; Western Railroad New River Division and branches west of Bluefield / Office of Chief Engineer, Roanoke Va. Feby. 13th1888</dcterms:title>
+   <dcterms:title>Norfolk and Western Railroand New River Division and branches west of Bluefield</dcterms:title>
+   <dcterms:creator>Norfolk and Western Railroad Company.</dcterms:creator>
+   <dcterms:publisher>Norfolk &amp; Western Railroad Company</dcterms:publisher>
+   <dcterms:created>1888</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>29 x 63 cm. on sheet 34 x 68 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Blueprint map.</dcterms:description>
+   <dcterms:description>Relief not shown.</dcterms:description>
+   <dcterms:description>Covers the area between the forks of the Elkhorn River and Bluefield, W. Va.</dcterms:description>
+   <dcterms:description>Oriented with north towards upper left.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:48,000]; 4000' = 1 ".</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Norfolk and Western Railroad Company--Maps</dcterms:subject>
+   <dcterms:subject>Railroads--West Virginia--Maps</dcterms:subject>
+   <dcterms:subject>West Virginia--Maps</dcterms:subject>
+   <dcterms:subject>Virginia--Maps</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>West Virginia</dcterms:spatial>
+   <dcterms:spatial>Roanoke, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:897917/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4753469</edm:isShownAt>
+</mdRecord>

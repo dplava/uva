@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:35 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5314132</dcterms:identifier>
+   <dcterms:title>The sword of Robert Lee / music arranged by Armand ; words by Rev. A.J. Ryan</dcterms:title>
+   <dcterms:title>Forth from its scabbard</dcterms:title>
+   <dcterms:title>Sword, sword of brave Robert Lee</dcterms:title>
+   <dcterms:creator>Blackmar, A. E. (Armand Edward), 1826-1888</dcterms:creator>
+   <dcterms:contributor>Ryan, Abram Joseph, 1839-1886</dcterms:contributor>
+   <dcterms:contributor>W. Endicott &amp; Co.</dcterms:contributor>
+   <dcterms:contributor>Wehrmann, Henri, 1827-1905</dcterms:contributor>
+   <dcterms:publisher>J.L. Peters</dcterms:publisher>
+   <dcterms:created>1869</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>T.p. illustration: Portrait of General Robert E. Lee flanked by two Confederate flags.</dcterms:description>
+   <dcterms:description>At foot of t.p. illustration: "Endicott &amp; Co., N.Y."</dcterms:description>
+   <dcterms:description>"Wehrmann, Eng."--Colophon.</dcterms:description>
+   <dcterms:isPartOf>Gen. Robert E. Lee</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--Confederate States of America</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Songs and music</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>Confederate States of America</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1133215/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314132</edm:isShownAt>
+</mdRecord>

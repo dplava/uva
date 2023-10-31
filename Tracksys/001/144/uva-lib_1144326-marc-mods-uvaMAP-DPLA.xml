@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:37 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5314983</dcterms:identifier>
+   <dcterms:title>Dawn: op. 2, no. 1 / music by George A. Burdett ; words by Celia Thaxter</dcterms:title>
+   <dcterms:title>A rushing of wings in the dawn</dcterms:title>
+   <dcterms:title>Burdett, George A. (George Albert), 1856-1943. Songs. op. 2. Dawn</dcterms:title>
+   <dcterms:creator>Burdett, George A. (George Albert), 1856-1943</dcterms:creator>
+   <dcterms:contributor>Allen, E. Humphrey Mrs</dcterms:contributor>
+   <dcterms:contributor>Thaxter, Celia, 1835-1894</dcterms:contributor>
+   <dcterms:publisher>Oliver Ditson &amp; Co.</dcterms:publisher>
+   <dcterms:created>1880</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>At head of list title page: "Dedicated to and sung by Mrs. E. Humphrey Allen."</dcterms:description>
+   <dcterms:isPartOf>Two songs, op. 2 / by G.A. Burdett</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Thaxter, Celia, 1835-1894--Musical settings</dcterms:subject>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:subject>Sun--Rising and setting--Songs and music</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>Sun</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1144327/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314983</edm:isShownAt>
+</mdRecord>

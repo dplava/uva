@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:35 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5314324</dcterms:identifier>
+   <dcterms:title>Desire / Beethoven ; arranged by L.K.</dcterms:title>
+   <dcterms:title>Sehsuchtswalzer</dcterms:title>
+   <dcterms:contributor>Amsberg, V.</dcterms:contributor>
+   <dcterms:contributor>Beethoven, Ludwig van, 1770-1827</dcterms:contributor>
+   <dcterms:contributor>Gillingham, Edwin</dcterms:contributor>
+   <dcterms:contributor>L. K.</dcterms:contributor>
+   <dcterms:publisher>Louis Meyer</dcterms:publisher>
+   <dcterms:created>1878</dcterms:created>
+   <dcterms:extent>4 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Erroneously attributed to Beethoven; Cf. Kinsky, Das Werk Beethovens, Anhang 14, no. 1.</dcterms:description>
+   <dcterms:description>"Revised and fingered by V. Amsberg."</dcterms:description>
+   <dcterms:description>At foot of title page: "Gillingham."</dcterms:description>
+   <dcterms:isPartOf>Little gems for the piano : selected from the works of the best masters (forming an introduction to the celebrated) golden treasury of piano lyrics ; no. 30</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Waltzes</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1135700/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314324</edm:isShownAt>
+</mdRecord>

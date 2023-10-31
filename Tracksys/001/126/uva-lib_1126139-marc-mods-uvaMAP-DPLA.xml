@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:34 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2030949</dcterms:identifier>
+   <dcterms:title>Twilight ramble: variations for the piano / by C.W. Thillow</dcterms:title>
+   <dcterms:creator>Thilow, C. W.</dcterms:creator>
+   <dcterms:contributor>McCarthy, E.</dcterms:contributor>
+   <dcterms:contributor>Patton, Eliza W.</dcterms:contributor>
+   <dcterms:contributor>Webb, L. W.</dcterms:contributor>
+   <dcterms:publisher>Miller &amp; Beacham</dcterms:publisher>
+   <dcterms:created>1857</dcterms:created>
+   <dcterms:extent>7 p. of music</dcterms:extent>
+   <dcterms:extent>34 cm.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>"Webb"--Colophon.</dcterms:description>
+   <dcterms:description>"To Miss Eliza W. Patton."</dcterms:description>
+   <dcterms:description>At foot of title page: "E. M'Carthy."</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v. 152, no. 12]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Variations (Piano)</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1126140/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2030949</edm:isShownAt>
+</mdRecord>

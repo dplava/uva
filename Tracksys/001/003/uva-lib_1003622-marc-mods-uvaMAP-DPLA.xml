@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4776269</dcterms:identifier>
+   <dcterms:title>A new and exact map of Spain &amp; Portugal: divided into its kingdoms and principalities &amp;c with ye principal roads and considerable improvements / the whole rectify'd according to ye newest observations, by H. Moll Geographer. 1711</dcterms:title>
+   <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+   <dcterms:contributor>Bowles, John, 1701-1779</dcterms:contributor>
+   <dcterms:contributor>Bowles, Thomas, -1767</dcterms:contributor>
+   <dcterms:contributor>Overton, Philip, -1751</dcterms:contributor>
+   <dcterms:publisher>Printed for I. Bowles Map &amp; print seller at the Black Horse in Cornhill, P. Overton Mapp and print seller near St. Dunstans Church in Fleet street, and T. Bowles Print &amp; Mapp Seller next to the Chapter house in St. Pauls Church Yard, and I. King at ye Globe in the Poultry.</dcterms:publisher>
+   <dcterms:created>1730</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>61 x 97 cm. on sheet 64 x 107 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Without Moll's imprint; possibly issued after his death.</dcterms:description>
+   <dcterms:description>Relief shown pictorially.</dcterms:description>
+   <dcterms:description>Dedication: To His Grace John Duke of Argile &amp;c. General of Her Majesty's Forces in Spain. This map is most Humbly Dedicated by Herman Moll Geographer.</dcterms:description>
+   <dcterms:description>Advertisement: Among all ye cheats that ye world are dayly abus'd with, none have lately been more scandalous than that of maps, some times new ones are put out by ignorant pretenders, some times mean &amp; imperfect foreign maps are copy'd and publish'd by them as their own, and having no judgement or knowledge of what is good or bad, correct or incorrect, they basely impose on the publick with pompous titles, &amp; pretend they are countenanc'd &amp; assisted by those who either never saw, or despise their wretched performances...</dcterms:description>
+   <dcterms:description>Map shows "Places where battles &amp;c. have been fought by the English mentioned in history."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: "Spain &amp; Portugal" handwritten in brown ink on verso.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,600,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Iberian Peninsula--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Spain--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Portugal--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Iberian Peninsula</dcterms:spatial>
+   <dcterms:spatial>Portugal</dcterms:spatial>
+   <dcterms:spatial>Spain</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:906125/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4776269</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u3210999</dcterms:identifier>
+   <dcterms:title>Reports of cases argued and determined in the courts of Common Pleas and Exchequer Chamber: with tables of the names of the cases and the principal matters / By John Bayly Moore .. Containing the cases from Hilary term 57 Geo. III [1817] to [Trinity term, 8 Geo. IV. 1827] .. both inclusive</dcterms:title>
+   <dcterms:contributor>Great Britain. Court of Common Pleas.</dcterms:contributor>
+   <dcterms:contributor>Great Britain. Court of Exchequer Chamber.</dcterms:contributor>
+   <dcterms:contributor>Moore, John Bayly</dcterms:contributor>
+   <dcterms:publisher>C. Hunter</dcterms:publisher>
+   <dcterms:created>1818/1831</dcterms:created>
+   <dcterms:extent>12 v. 23-24 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Vols. 2-12 have imprint: London, S. Sweet; [etc. etc.]</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2539460/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3210999</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u3339850</dcterms:identifier>
+   <dcterms:title>Les reports de Henry Rolle: de divers cases en le Court del' banke le roy. En le temps del' reign de roy Jacques [1614-1625] / Colligees par luy mesme &amp; imprimees par l'original</dcterms:title>
+   <dcterms:contributor>England and Wales. Court of King's Bench.</dcterms:contributor>
+   <dcterms:contributor>Rolle, Henry, 1589?-1656</dcterms:contributor>
+   <dcterms:publisher>Printed for A. Roper, F. Titon, J. Starkey, T. Basset</dcterms:publisher>
+   <dcterms:created>1675/1676</dcterms:created>
+   <dcterms:extent>2 v. front. (port.) 33 cm.</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>portraits</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>The second volume has title: Un continuation des Reports de Henry Rolle ... de divers cases ..</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2463080/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3339850</edm:isShownAt>
+</mdRecord>

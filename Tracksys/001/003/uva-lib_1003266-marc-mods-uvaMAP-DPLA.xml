@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4341523</dcterms:identifier>
+   <dcterms:title>Map of Louisa County, Virginia / by Jed. Hotchkiss, Top.Eng., 1871 ; photo. lith. by N.Y. Lithg.Engr. &amp; Printg. Co</dcterms:title>
+   <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+   <dcterms:contributor>New York Lithographing, Engraving &amp; Printing Co.</dcterms:contributor>
+   <dcterms:publisher>T.W. Ormond</dcterms:publisher>
+   <dcterms:created>1871</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>20 x 26 cm.</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:medium>one color</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Based on the surveys of the C.S. Engineers.</dcterms:description>
+   <dcterms:description>From Southern planter, new ser., v. 5, no. 1, Jan. 1871.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Hotchkiss B; mounted on linen.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:253,440]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Louisa County (Va.)--Maps</dcterms:subject>
+   <dcterms:spatial>Louisa County (Va.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:867259/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4341523</edm:isShownAt>
+</mdRecord>

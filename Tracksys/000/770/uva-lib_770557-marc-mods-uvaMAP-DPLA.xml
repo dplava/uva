@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u3928018</dcterms:identifier>
+   <dcterms:title>Letter of Edgar Allan Poe, Philadelphia, to Frederick William Thomas 1842 Aug. 27</dcterms:title>
+   <dcterms:creator>Poe, Edgar Allan, 1809-1849</dcterms:creator>
+   <dcterms:contributor>Thomas, Frederick William, 1806-1866</dcterms:contributor>
+   <dcterms:created>1842-08-27</dcterms:created>
+   <dcterms:extent>1 item.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Poe writes about a hoped for job in the Philadelphia customs house, the need for an international copyright law, and the illness of his wife Virginia Clemm Poe.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: original tipped in Rare Book PS2605.A1 1901c.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Poe, Edgar Allan, 1809-1849</dcterms:subject>
+   <dcterms:subject>Poe, Virginia, 1822-1847</dcterms:subject>
+   <dcterms:subject>Books--Pirated editions</dcterms:subject>
+   <dcterms:subject>Copyright--United States</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:701099/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3928018</edm:isShownAt>
+</mdRecord>

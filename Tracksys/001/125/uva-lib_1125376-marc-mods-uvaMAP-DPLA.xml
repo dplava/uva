@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:34 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2694613</dcterms:identifier>
+   <dcterms:title>La parisienne: marche nationale : variations caracteristiques : pour le piano, op. 53 / par Henri Herz</dcterms:title>
+   <dcterms:creator>Herz, Henri, 1803-1888</dcterms:creator>
+   <dcterms:publisher>G. Willig, Jr.</dcterms:publisher>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>4 p. of music</dcterms:extent>
+   <dcterms:extent>35 cm.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>New &amp; corrected ed.</dcterms:description>
+   <dcterms:description>For piano.</dcterms:description>
+   <dcterms:description>"L.W. Webb."--Colophon.</dcterms:description>
+   <dcterms:description>Price: figure 15.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.119 no. 11: imperfect; missing all except 4 p.</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v. 164, no. 10]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Variations (Piano)</dcterms:subject>
+   <dcterms:subject>Marches (Piano)</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1125377/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2694613</edm:isShownAt>
+</mdRecord>

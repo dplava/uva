@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4349410</dcterms:identifier>
+   <dcterms:title>Plan of buildings at Rockbridge Alum Springs, Rockbridge Co., Virginia / Topographical Engineer Office of Jed. Hotchkiss, Staunton, Va. from surveys by Donald Allen, Civ. Eng., 1869. Map showing the location and routes of travel to the hot, the healing and the Rockbridge Alum Springs of Virginia / by Jed. Hotchkiss, Top. Eng., Staunton, Va</dcterms:title>
+   <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+   <dcterms:contributor>Allen, Donald.</dcterms:contributor>
+   <dcterms:contributor>Schmidt &amp; Trowe.</dcterms:contributor>
+   <dcterms:publisher>lith. by Schmidt &amp; Trawe</dcterms:publisher>
+   <dcterms:created>1869</dcterms:created>
+   <dcterms:extent>2 maps on one sheet</dcterms:extent>
+   <dcterms:extent>sheet 59 x 21 cm.</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:medium>one color</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>SPECIAL COLLECTIONS: Hotchkiss B; not in Swem, E.G. Maps relating to Virginia; mounted on linen; written in pencil on back of map: Cohen, Staunton, VA, July 21, '76, Gibson Switzer.</dcterms:description>
+   <dcterms:description>Scale [1:360] 30 feet to one inch</dcterms:description>
+   <dcterms:description>Scale not given</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Resorts--Virginia--Rockbridge County--Designs and plans</dcterms:subject>
+   <dcterms:subject>Rockbridge County (Va.)--Maps</dcterms:subject>
+   <dcterms:spatial>Rockbridge County</dcterms:spatial>
+   <dcterms:spatial>Rockbridge County (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:835130/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4349410</edm:isShownAt>
+</mdRecord>

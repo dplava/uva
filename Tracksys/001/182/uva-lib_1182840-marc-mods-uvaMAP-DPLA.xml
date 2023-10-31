@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:39 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4706225</dcterms:identifier>
+   <dcterms:title>Map of the coastal plain of Virginia, 1912: showing flowing wells and limits of flow, at an elevation of twenty feet, from different artesian sands, and probable variation in chlorine content of artesian water 200 to 700 feet below sea level in southeastern part of the Virginia Coastal Plain / by Samuel Sanford ; Virginia Geological Survey, University of Virginia, Thomas Leonard Watson, Director ; prepared in cooperation with the U.S. Geological Survey</dcterms:title>
+   <dcterms:creator>Sanford, Samuel, 1865-1927</dcterms:creator>
+   <dcterms:contributor>A. Hoen &amp; Co.</dcterms:contributor>
+   <dcterms:contributor>Geological Survey (U.S.)</dcterms:contributor>
+   <dcterms:contributor>Virginia Geological Survey.</dcterms:contributor>
+   <dcterms:publisher>Virginia Geological Survey</dcterms:publisher>
+   <dcterms:created>1912</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>66 x 50 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"Virginia Geological Survey, Bulletin No. V. Plate 1"-- In margin at top of map.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 2: Linen-backed.</dcterms:description>
+   <dcterms:description>Scale 1:500,000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Geology--Virginia--Tidewater (Region)--Maps</dcterms:subject>
+   <dcterms:subject>Artesian wells--Virginia--Tidewater (Region)--Maps</dcterms:subject>
+   <dcterms:subject>Tidewater (Va. : Region)--Maps</dcterms:subject>
+   <dcterms:spatial>Tidewater (Region)</dcterms:spatial>
+   <dcterms:spatial>Tidewater (Va. : Region)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:890686/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4706225</edm:isShownAt>
+</mdRecord>

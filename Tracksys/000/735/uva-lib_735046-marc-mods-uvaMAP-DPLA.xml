@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u5069581</dcterms:identifier>
+   <dcterms:title>Map of Sears Hill, Staunton Va., showing location of the Valley Railroad, July 1874</dcterms:title>
+   <dcterms:contributor>Chesapeake and Ohio Railroad Company.</dcterms:contributor>
+   <dcterms:contributor>Valley Railroad (Va.)</dcterms:contributor>
+   <dcterms:created>1874</dcterms:created>
+   <dcterms:extent>1 manuscript map</dcterms:extent>
+   <dcterms:extent>54 x 81 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>contours</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Relief shown by contour lines and spot heights.</dcterms:description>
+   <dcterms:description>Oriented with north to the upper right.</dcterms:description>
+   <dcterms:description>Shows location of Chesapeake and Ohio Railroad.</dcterms:description>
+   <dcterms:description>North to upper right of map.</dcterms:description>
+   <dcterms:description>Area bounded by Greenville Road, Sears Road, and the C&amp;O track, with C&amp;O R.R. Engine House located at upper left.</dcterms:description>
+   <dcterms:description>Names of individual property owners shown.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,200]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Valley Railroad (Va.)--Maps, Manuscript</dcterms:subject>
+   <dcterms:subject>Chesapeake and Ohio Railroad Company--Maps, Manuscript</dcterms:subject>
+   <dcterms:subject>Real property--Virginia--Staunton--Maps, Manuscript</dcterms:subject>
+   <dcterms:subject>Railroads--Virginia--Staunton--Maps, Manuscript</dcterms:subject>
+   <dcterms:subject>Staunton (Va.)--Maps, Manuscript</dcterms:subject>
+   <dcterms:spatial>Staunton</dcterms:spatial>
+   <dcterms:spatial>Staunton (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:743117/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5069581</edm:isShownAt>
+</mdRecord>

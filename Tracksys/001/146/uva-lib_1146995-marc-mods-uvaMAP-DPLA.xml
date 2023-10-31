@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:38 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5315201</dcterms:identifier>
+   <dcterms:title>Katie's secret: as sung by little Martha Davies, with great applause / music by Edward Ambuhl ; words by Mrs. J.W. Hackelton</dcterms:title>
+   <dcterms:title>The sunlight is beautiful mother</dcterms:title>
+   <dcterms:creator>Ambuhl, Edward.</dcterms:creator>
+   <dcterms:contributor>Davies, Martha</dcterms:contributor>
+   <dcterms:contributor>Hackelton, M. W. (Maria Williams), 1833-</dcterms:contributor>
+   <dcterms:contributor>Stackpole, Patrick M.</dcterms:contributor>
+   <dcterms:contributor>Whittlesey, Katie B.</dcterms:contributor>
+   <dcterms:publisher>Charles W. Harris</dcterms:publisher>
+   <dcterms:created>1860</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Credited to Edward Ambuhe on p. 2.</dcterms:description>
+   <dcterms:description>Verses 2-4 printed as text on p. 4.</dcterms:description>
+   <dcterms:description>"Stackpole."</dcterms:description>
+   <dcterms:description>"To Miss Katie B. Whittlesey of Salem Conn."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1146996/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315201</edm:isShownAt>
+</mdRecord>

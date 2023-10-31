@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2224840</dcterms:identifier>
+   <dcterms:title>Les considerations des quatre mondes, à sauoir est: diuin, angelique, celeste, &amp; sensible: comprinses en quatre centuries de quatrains, contenans la cresme de diuine &amp; humaine philosophie / Par Guillaume De La Perriere Tolosan</dcterms:title>
+   <dcterms:title>Considerations des qvatre mondes</dcterms:title>
+   <dcterms:creator>La Perrière, Guillaume de, 1499-1565</dcterms:creator>
+   <dcterms:contributor>Bonhomme, Macé, active 1536-1569</dcterms:contributor>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:contributor>
+   <dcterms:contributor>Trautz, Georges, 1808-1879</dcterms:contributor>
+   <dcterms:publisher>Par Macé Bonhomme</dcterms:publisher>
+   <dcterms:publisher>1552.</dcterms:publisher>
+   <dcterms:created>1552</dcterms:created>
+   <dcterms:extent>[238] p.</dcterms:extent>
+   <dcterms:extent>17 cm.</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: A-P⁸ (leaves P7 and P8 are blank)</dcterms:description>
+   <dcterms:description>Text within ornamental borders, some with initials I.M. or I.P.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Trautz-Bauzonnet. Bookplates of Robert Hoe and Lucius Wilmerding. Gordon Collection. Bookplate of Douglas Gordon. GOrdon list, 16. Last blank leaf wanting in this copy.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:spatial>Lyon, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:847959/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2224840</edm:isShownAt>
+</mdRecord>

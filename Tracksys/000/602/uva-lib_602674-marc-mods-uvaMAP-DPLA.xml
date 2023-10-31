@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u1971915</dcterms:identifier>
+   <dcterms:title>Georgia</dcterms:title>
+   <dcterms:creator>Colton, G. Woolworth (George Woolworth), 1827-1901</dcterms:creator>
+   <dcterms:contributor>J.H. Colton &amp; Co.</dcterms:contributor>
+   <dcterms:publisher>Published by J.H. Colton &amp; Co., No. 172 William St.</dcterms:publisher>
+   <dcterms:created>1855</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>35 x 30 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:medium>hachures</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Plate "No. 29." printed in upper right margin.</dcterms:description>
+   <dcterms:description>Relief shown by hachures.</dcterms:description>
+   <dcterms:description>Prime meridians: Greenwich and Washington.</dcterms:description>
+   <dcterms:description>Explanations: rail roads, common roads, state capital, cities, county towns, villages, P.O. &amp;c.</dcterms:description>
+   <dcterms:description>Appeared as plate No. 29 in G.W. Colton's "Colton's Atlas of the world...," New York, J.H. Colton and Co...1855 and 1856.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library, American History Collection.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,600,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Georgia--Maps</dcterms:subject>
+   <dcterms:spatial>Georgia</dcterms:spatial>
+   <dcterms:spatial>New York (City), New York (State), United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:625503/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u1971915</edm:isShownAt>
+</mdRecord>

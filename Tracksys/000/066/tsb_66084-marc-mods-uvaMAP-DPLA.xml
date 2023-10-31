@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u3311295</dcterms:identifier>
+   <dcterms:title>Les termes de la ley; or, Certain difficult &amp; obscure words &amp; terms of the common and statute laws of this realm now in use, expounded and explained: Corrected and enlarged, with the addition of many other words; particularly of those that have been lately introduced into the statute law of Great Britain, never printed in any other impression</dcterms:title>
+   <dcterms:title>Rastell, John, -1536. Expositiones terminorum legum Anglorum. English &amp; Anglo-Norman</dcterms:title>
+   <dcterms:creator>Rastell, John, -1536</dcterms:creator>
+   <dcterms:contributor>Rastell, William, 1508?-1565</dcterms:contributor>
+   <dcterms:publisher>Printed by Eliz. Nutt and R. Gosling (assigns of E. Sayer) for R. Gosling</dcterms:publisher>
+   <dcterms:created>1721</dcterms:created>
+   <dcterms:extent>592 p. 21 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Translated by his son, William Rastell.</dcterms:description>
+   <dcterms:description>English and Anglo-Norman in parallel columns.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Law--Dictionaries</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2516070/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3311295</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4350725</dcterms:identifier>
+   <dcterms:title>Subdivision of "Oak Hill" estate of Jed. Hotchkiss and B. Sears in Staunton, Va / Engineer Office of Jed. Hotchkiss, Staunton, Va., Jan. 4, 1878. Map of a portion of Staunton, Va., showing location of "Oak Hill" lots</dcterms:title>
+   <dcterms:title>Commissioners' sale of thirty valuable building lots on Oak Hill in Staunton, Virginia, adjacent to the depot and shops of the Chesapeake &amp; Ohio R.R</dcterms:title>
+   <dcterms:title>Map no. 1 : Subdivision of "Oak Hill" estate of Jed. Hotchkiss and B. Sears in Staunton, Va</dcterms:title>
+   <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+   <dcterms:publisher>Commissioners?</dcterms:publisher>
+   <dcterms:created>1878</dcterms:created>
+   <dcterms:extent>2 maps on 1 sheet</dcterms:extent>
+   <dcterms:extent>sheet 61 x 48 cm.</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:medium>one color</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"(No. 2 of 1878.)"--Bottom of sheet.</dcterms:description>
+   <dcterms:description>Sheet also contains text of sale information.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Hotchkiss B; not in Swem, E.G. Maps relating to Virginia; copy 1 torn into 2 pieces and has names written in pencil on some lots and red X's on some lots; on back of copy 1: 4 Sears Hill, lots 63, 64, 66, 58 - map - Chas. Rointy(?).</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Hotchkiss B; copy 2 only top portion of sheet, also torn into 2 pieces.</dcterms:description>
+   <dcterms:description>Scale: [1:1,200] 100 feet to 1 inch.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:6,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Real property--Virginia--Staunton--Maps</dcterms:subject>
+   <dcterms:subject>Oak Hill (Staunton, Va.)--Maps</dcterms:subject>
+   <dcterms:spatial>Oak Hill (Staunton, Va.)</dcterms:spatial>
+   <dcterms:spatial>Staunton</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1687041/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4350725</edm:isShownAt>
+</mdRecord>

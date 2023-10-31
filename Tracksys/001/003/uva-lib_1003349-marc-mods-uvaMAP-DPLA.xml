@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4743735</dcterms:identifier>
+   <dcterms:title>Kentucky</dcterms:title>
+   <dcterms:contributor>Encyclopaedia Britannica, inc.</dcterms:contributor>
+   <dcterms:contributor>Matthews-Northrup Works.</dcterms:contributor>
+   <dcterms:publisher>Encyclopaedia Britannica, inc.</dcterms:publisher>
+   <dcterms:created>1902</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>27 x 38 cm on sheet 30 x 41 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"Copyright, 1897 and 1902, by the Century Co." printed inside the neatline at lower left; "The Matthews-Northrup Works" printed at lower right.</dcterms:description>
+   <dcterms:description>"No. 82." printed just outside right upper neatline, with "Enc, Britann. No. 82 Kentucky"printed on verso, upper right, "No. 82. Kentucky" on verso, upper left.</dcterms:description>
+   <dcterms:description>Inset (same scale) upper left: Western portion of Kentucky.</dcterms:description>
+   <dcterms:description>"Size of type indicates relative importance of places."</dcterms:description>
+   <dcterms:description>Detached copy.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,450,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Kentucky--Maps</dcterms:subject>
+   <dcterms:spatial>Kentucky</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:891406/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4743735</edm:isShownAt>
+</mdRecord>

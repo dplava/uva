@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u6415786</dcterms:identifier>
+   <dcterms:title>The justice of the peace, and parish officer / by Richard Burn</dcterms:title>
+   <dcterms:creator>Burn, Richard, 1709-1785</dcterms:creator>
+   <dcterms:contributor>Chetwynd, George Sir, 1783-1850</dcterms:contributor>
+   <dcterms:publisher>A. Strahan</dcterms:publisher>
+   <dcterms:created>1825</dcterms:created>
+   <dcterms:extent>5 volumes</dcterms:extent>
+   <dcterms:extent>22 cm</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>24th ed. with corrections, additions and improvements</dcterms:description>
+   <dcterms:description>Includes bibliographical references and indexes.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:subject>Justices of the peace--England</dcterms:subject>
+   <dcterms:subject>Justices of the peace</dcterms:subject>
+   <dcterms:spatial>England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2544685/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u6415786</edm:isShownAt>
+</mdRecord>

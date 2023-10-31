@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2244126</dcterms:identifier>
+   <dcterms:title>Discours des premiers troubles aduenus à Lyon: auec l'apologie pour la ville de Lyon, contre le libelle faucement intitulé, La iuste &amp; saincte defence de la ville de Lyon / par m. Gabriel de Saconay, Præcenteur &amp; Conte de l'eglise de Lyon</dcterms:title>
+   <dcterms:title>Apologie pour la ville de Lyon</dcterms:title>
+   <dcterms:creator>Saconay, Gabriel de.</dcterms:creator>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:contributor>
+   <dcterms:contributor>Jouve, Michel, ǂd -1580</dcterms:contributor>
+   <dcterms:contributor>Mouillie</dcterms:contributor>
+   <dcterms:publisher>Par Michel Iove</dcterms:publisher>
+   <dcterms:created>1569</dcterms:created>
+   <dcterms:extent>[16], 269, [1] p.</dcterms:extent>
+   <dcterms:extent>17 cm. (8vo)</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>Signatures: *⁸ A-R⁸.</dcterms:description>
+   <dcterms:description>Running title: Apolog. pour la ville de Lyon.</dcterms:description>
+   <dcterms:description>La iuste &amp; saincte defence de la ville de Lyon was printed at Lyon in 1563.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Mouillie. Error in binding: gathering H (p. 113-128) bound after p. 256. Bookplate of A. Brolemann. Bookstamps: Nazarine [1st letter questionable] Bibliotheque; Change Double. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 92.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Mouillie.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Bookplate of A. Brolemann. Bookstamps: Nazarine [1st letter questionable] Bibliotheque; Change Double.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 92.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Mouillie. Error in binding: gathering H (p. 113-128) bound after p. 256. Bookplate of A. Brolemann. Bookstamps: Nazarine [1st letter questionable] Bibliotheque; Change Double. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 92.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Juste et saincte defence de la ville de Lyon</dcterms:subject>
+   <dcterms:subject>Lyon (France)--History</dcterms:subject>
+   <dcterms:subject>Lyon (France)--Church history</dcterms:subject>
+   <dcterms:subject>France--History--Wars of the Huguenots, 1562-1598</dcterms:subject>
+   <dcterms:temporal>Wars of the Huguenots, 1562-1598</dcterms:temporal>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Lyon (France)</dcterms:spatial>
+   <dcterms:spatial>Lyon, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:848215/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2244126</edm:isShownAt>
+</mdRecord>

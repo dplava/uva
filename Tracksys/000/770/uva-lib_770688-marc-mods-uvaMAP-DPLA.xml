@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2339537</dcterms:identifier>
+   <dcterms:title>Pantagruel, Roy des Dispodes, restitue a son naturel: auec ses faictz &amp; prouesses espouentables / co[m]posez par feu M. Alcofribas abstracteur de quinte essence</dcterms:title>
+   <dcterms:title>Pantagrueline prognostication</dcterms:title>
+   <dcterms:title>Rabelais, François, approximately 1490-1553?. Pantagruel</dcterms:title>
+   <dcterms:creator>Rabelais, François, approximately 1490-1553?</dcterms:creator>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:contributor>
+   <dcterms:contributor>Juste, Françoys, active 16th century</dcterms:contributor>
+   <dcterms:contributor>Trautz, Georges, 1808-1879</dcterms:contributor>
+   <dcterms:publisher>On les vend a Lyon chez Francoys Juste ...</dcterms:publisher>
+   <dcterms:created>1542</dcterms:created>
+   <dcterms:extent>145, [2] leaves</dcterms:extent>
+   <dcterms:extent>11 cm. (16mo)</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:description>Signatures: A-S⁸ T⁴.</dcterms:description>
+   <dcterms:description>Pantagrueline Prognostication, certaine, ueritable &amp; infallible. Pour Lan perpetuel ... : leaves [135]-[147]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: In ViU copy, the "Pantagrueline Prognostication" is separately bound. Binder: Trautz-Bauzonnet. Bookplates of De La Roche Lacarelle and Mortimer L. Schiff; with J. Coppinger, in gilt, top edge, inside front cover. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 701; Gordon list, 702.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:spatial>Lyon, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1022079/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2339537</edm:isShownAt>
+</mdRecord>

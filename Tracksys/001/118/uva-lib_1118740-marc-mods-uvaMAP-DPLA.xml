@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:33 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u4641980</dcterms:identifier>
+   <dcterms:title>Thème de Rode: chanté avec variations dans le Barbier de Seville par Madlle. Sontag / avec accompagnement de piano or harp par L. Moreau</dcterms:title>
+   <dcterms:title>Hear while I breathe now these accents</dcterms:title>
+   <dcterms:title>Il dolce canto del dio d'amore</dcterms:title>
+   <dcterms:creator>Rode, P. (Pierre), 1774-1830</dcterms:creator>
+   <dcterms:contributor>Gökeritz, F.</dcterms:contributor>
+   <dcterms:contributor>Moreau Lislet, Louis, 18th/19th cent</dcterms:contributor>
+   <dcterms:contributor>Sontag, Henriette, 1806-1854</dcterms:contributor>
+   <dcterms:publisher>S. Brainard's Sons Co.</dcterms:publisher>
+   <dcterms:created>1856</dcterms:created>
+   <dcterms:extent>1 score (9 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, piano</dcterms:description>
+   <dcterms:description>For voice and piano or harp.</dcterms:description>
+   <dcterms:description>"F. Gökeritz"--Colophon.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Songs with harp</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1118741/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4641980</edm:isShownAt>
+</mdRecord>

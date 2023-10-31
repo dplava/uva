@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:40 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u3714067</dcterms:identifier>
+   <dcterms:title>Claims of Union Theological Seminary, Va. on the friends of theological education</dcterms:title>
+   <dcterms:creator>Smith, B. M. (Benjamin Mosby), 1811-1893</dcterms:creator>
+   <dcterms:contributor>Union Theological Seminary in Virginia.</dcterms:contributor>
+   <dcterms:publisher>Union Theological Seminary</dcterms:publisher>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>[3] p.</dcterms:extent>
+   <dcterms:extent>21 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>A solicitation for funds, signed, in print on p. [3]: On behalf of the Directors, B.M. Smith. Union Seminary, Hampden Sidney, May 17th, 1866.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: From the Morgan papers, MSS 1275, a gift of Arthur Pforzheimer to the Tracy W. McGregor Library.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Union Theological Seminary in Virginia.</dcterms:subject>
+   <dcterms:subject>Union Theological Seminary in Virginia--Finances</dcterms:subject>
+   <dcterms:subject>Theological seminaries--Virginia</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Prince Edward County, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2186876/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3714067</edm:isShownAt>
+</mdRecord>

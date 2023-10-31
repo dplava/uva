@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:39 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4463571</dcterms:identifier>
+   <dcterms:title>A new map of the British colonies in North America: shewing the seat of the present war, taken from the best surveys, compared with and improved from manuscripts of several noblemen and gentlemen / By John Andrews</dcterms:title>
+   <dcterms:title>British colonies in North America</dcterms:title>
+   <dcterms:title>Seat of the present war</dcterms:title>
+   <dcterms:creator>Andrews, John, 1736-1809</dcterms:creator>
+   <dcterms:contributor>Harris, John, 1756-1846</dcterms:contributor>
+   <dcterms:publisher>Publish'd according to Act of Parliament, Jany. 16th. 1781 by John Andrews, at Mr. Blisset's No. 29 Long Ave. and John Harris, No. 3, Sweetings Alley Cornhill.</dcterms:publisher>
+   <dcterms:created>1781</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>99 x 79 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Prime meridian: London.</dcterms:description>
+   <dcterms:description>Relief shown pictorially.</dcterms:description>
+   <dcterms:description>First issued in 1777.</dcterms:description>
+   <dcterms:description>"Drawn and engraved by John Andrews."</dcterms:description>
+   <dcterms:description>Includes listing of "References to the names of the counties not inserted in this map."</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS. Marked browning from old tape along right vertical fold. Tracy W. McGregor Library, American History Collection.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:3,340,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>New England--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>New England</dcterms:spatial>
+   <dcterms:spatial>North America</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1562818/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4463571</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u821334</dcterms:identifier>
+   <dcterms:title>Thirty years: or, The gambler's fate: Seventeenth night of the Trip to Niagara: or, Travellers in America, Friday evening, Dec. 12 / Bowery Theatre. Ticket night!!!</dcterms:title>
+   <dcterms:creator>Bowery Theatre (New York, N.Y.)</dcterms:creator>
+   <dcterms:publisher>J.W. Bell, Printer, 70 Bowery</dcterms:publisher>
+   <dcterms:created>1828?</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>48 x 13 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Playbill.</dcterms:description>
+   <dcterms:description>Produced Bowery Theatre, ... 1828-- Guide to world drama online. (December 12th fell on Friday in 1828)</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Clifton Waller Barrett Library, William Dunlap Collection. Gift of C.W. Barrett.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Dunlap, William, 1766-1839--Stage history</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:668892/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u821334</edm:isShownAt>
+</mdRecord>

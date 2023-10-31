@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5541622</dcterms:identifier>
+   <dcterms:title>Bonny Eloise polka: for the piano forte : introducing the favorite melody of "Bonny Eloise" by J. R. Thomas, to whom it is respectfully dedicated / by his friend Francis H. Brown</dcterms:title>
+   <dcterms:creator>Brown, Francis H. (Francis Henry), 1818-1891</dcterms:creator>
+   <dcterms:contributor>Clayton</dcterms:contributor>
+   <dcterms:publisher>Wm. Hall &amp; Son</dcterms:publisher>
+   <dcterms:created>1859</dcterms:created>
+   <dcterms:extent>7 p. of music</dcterms:extent>
+   <dcterms:extent>33 cm.</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>"Clayton"--Colophon.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Thomas, J. R. (John Rogers), 1830-1896--Bonny Eloise</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Polkas</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1698246/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5541622</edm:isShownAt>
+</mdRecord>

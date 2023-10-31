@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:35 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5314253</dcterms:identifier>
+   <dcterms:title>Tantum ergo = Sweet the moments, rich in blessing : duet for contralto &amp; tenor / composed by J. Wiegand</dcterms:title>
+   <dcterms:title>Sweet the moments, rich in blessing</dcterms:title>
+   <dcterms:title>Tantum ergo, sacramentum</dcterms:title>
+   <dcterms:title>Wiegand, J. Tantum ergo. English &amp; Latin</dcterms:title>
+   <dcterms:creator>Wiegand, J.</dcterms:creator>
+   <dcterms:contributor>Merry, Arthur H.</dcterms:contributor>
+   <dcterms:contributor>Verdery, Daisy Mayo</dcterms:contributor>
+   <dcterms:publisher>J. Fischer &amp; Bro.</dcterms:publisher>
+   <dcterms:created>1896</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>alto voice, tenor voice, organ</dcterms:description>
+   <dcterms:description>For contralto, tenor and organ.</dcterms:description>
+   <dcterms:description>At head of title: "To Miss Daisy Mayo Verdery, and Mr. Arthur H. Merry."</dcterms:description>
+   <dcterms:description>Latin and English words.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sacred vocal duets with organ</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1134768/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314253</edm:isShownAt>
+</mdRecord>

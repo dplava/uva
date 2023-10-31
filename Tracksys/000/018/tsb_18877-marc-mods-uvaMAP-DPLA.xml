@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u6371693</dcterms:identifier>
+   <dcterms:title>The Richmond Female Institute: Rev. B. Manly, Jr., President. : Tenth and Marshall Sts., Richmond, Va. .. : The design of The Richmond Female Institute, incorporated March 2, 1853, by the Legislature of Virginia, is to offer to young ladies the facilities for instruction which may be found in our best colleges for young men / Applications for admission, or inquiries with regard to other particulars, may be submitted to Rev. B. Manly, Richmond</dcterms:title>
+   <dcterms:contributor>Manly, Basil, 1825-1892</dcterms:contributor>
+   <dcterms:contributor>Richmond Female Institute (Richmond, Va.)</dcterms:contributor>
+   <dcterms:publisher>Richmond Female Institute</dcterms:publisher>
+   <dcterms:created>1854</dcterms:created>
+   <dcterms:extent>[4] unnumbered pages (pages [2]-[4] blank)</dcterms:extent>
+   <dcterms:extent>27 x 22 cm</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Lists the names of the 12 instructors, with their course of instruction, and gives the "Terms per session of nine months," half payable in advance, due October 1, 1854.</dcterms:description>
+   <dcterms:description>Includes a view of the school building.</dcterms:description>
+   <dcterms:description>A letter dated Nov. 11, 54, from Basil Manly to his sister, Mrs. Catharine Watt, in which he reported "The Institute has opened prosperously" is handwritten on page [3] of the sheet. A share of stock in the school, which was enclosed with the letter, is no longer present.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Unbound. Byrd Fund, 2014/2015.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Richmond Female Institute (Richmond, Va.)</dcterms:subject>
+   <dcterms:subject>Richmond Female Institute (Richmond, Va.)--Curricula</dcterms:subject>
+   <dcterms:subject>Women's colleges--Virginia--Richmond</dcterms:subject>
+   <dcterms:subject>Private schools--Virginia--Richmond</dcterms:subject>
+   <dcterms:spatial>Richmond</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Richmond, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1519277/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u6371693</edm:isShownAt>
+</mdRecord>

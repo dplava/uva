@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u6697755</dcterms:identifier>
+   <dcterms:title>Song: Virginia races from Bull's Run</dcterms:title>
+   <dcterms:title>Oh be easy, don't you teaze me</dcterms:title>
+   <dcterms:title>Virginia races from Bull's Run</dcterms:title>
+   <dcterms:publisher>Publisher not identified</dcterms:publisher>
+   <dcterms:created>1861</dcterms:created>
+   <dcterms:extent>1 sheet ([1] unnumbered page)</dcterms:extent>
+   <dcterms:extent>31 x 16 cm</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Poem, containing 8 4-line verses. Text printed within an ornamental border, with cuts of a pistol, a rifle and a man on horseback between "Song" and "Virginia races".</dcterms:description>
+   <dcterms:description>Also published under titles: Advance to Richmond by way of the Junction; Battle at Bull's Run; Old Virginia, never die; Remember Bull's Run.-- Cf. Rudolph.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Robert and Virginia Tunstall Trust Fund, 2015/2016.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Bull Run, 1st Battle of, Va., 1861--Poetry</dcterms:subject>
+   <dcterms:subject>Virginia--History--Civil War, 1861-1865--Poetry</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Poetry</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Virginia, Confederate States of America</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1518772/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u6697755</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:39 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2030964</dcterms:identifier>
+   <dcterms:title>The Committee consisting of Mr. Kearney, Mr. Carrington, Mr. Bingham, Mr. Smith, and Mr. Dane: to whom was referred the report of the Secretary at war, and sundry papers relative to Indian affairs in the Southern department; and also a motion of the delegates from the state of Georgia, report</dcterms:title>
+   <dcterms:contributor>Georgia (Colony). General Assembly. Commons House of Assembly.</dcterms:contributor>
+   <dcterms:contributor>United States. Continental Congress.</dcterms:contributor>
+   <dcterms:created>1787</dcterms:created>
+   <dcterms:extent>1 sheet ([2] p.) 34 x 21 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Creek Indians--Government relations</dcterms:subject>
+   <dcterms:subject>Cherokee Indians--Government relations</dcterms:subject>
+   <dcterms:subject>Indians of North America--Georgia</dcterms:subject>
+   <dcterms:subject>Indians of North America--North Carolina</dcterms:subject>
+   <dcterms:spatial>Georgia</dcterms:spatial>
+   <dcterms:spatial>North Carolina</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2174953/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2030964</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:38 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5315235</dcterms:identifier>
+   <dcterms:title>Ad regem pastorum: Christmas hymn / music by Chas. Gounod ; adaptation by F.X. Hale</dcterms:title>
+   <dcterms:title>Ad regum pastorum</dcterms:title>
+   <dcterms:title>Gounod, Charles, 1818-1893. Jésus de Nazareth. Latin</dcterms:title>
+   <dcterms:creator>Gounod, Charles, 1818-1893</dcterms:creator>
+   <dcterms:contributor>Hale, F. X.</dcterms:contributor>
+   <dcterms:publisher>P.J. Lammers</dcterms:publisher>
+   <dcterms:created>1896</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>piano, voice, mixed chorus</dcterms:description>
+   <dcterms:description>For vocal soloist and unison chorus.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Latin words; originally in French.</dcterms:description>
+   <dcterms:isPartOf>Selected Catholic music</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sacred songs with piano</dcterms:subject>
+   <dcterms:subject>Christmas music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1147380/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315235</edm:isShownAt>
+</mdRecord>

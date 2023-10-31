@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2297622</dcterms:identifier>
+   <dcterms:title>Complainte tres piteuse de Flamette a son amy Pãphile / Translatee Ditalien en vulgaire Francoys</dcterms:title>
+   <dcterms:title>Complainte tres piteuse de Flamette a son amy Pamphile</dcterms:title>
+   <dcterms:title>Boccaccio, Giovanni, 1313-1375. Fiammetta. French (Middle French)</dcterms:title>
+   <dcterms:creator>Boccaccio, Giovanni, 1313-1375</dcterms:creator>
+   <dcterms:contributor>Brunet, Jacques-Charles, 1780-1867</dcterms:contributor>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:contributor>
+   <dcterms:contributor>Juste, Françoys, active 16th century</dcterms:contributor>
+   <dcterms:contributor>Trautz, Georges, 1808-1879</dcterms:contributor>
+   <dcterms:publisher>Francoys Juste</dcterms:publisher>
+   <dcterms:created>1532</dcterms:created>
+   <dcterms:extent>[3], 120), [1] leaves</dcterms:extent>
+   <dcterms:extent>14 cm. (24mo)</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:language>Italian</dcterms:language>
+   <dcterms:description>Signatures: a-p⁸ q⁴.</dcterms:description>
+   <dcterms:description>Translation of: Fiammetta.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Trautz-Bauzonnet. Unidentified armorial bookplate (crest, with tree and crown), probably that of De Fresne; unidentified monogram bookplate "EM" or "ME." Monogram bookplate of SSB, Silvain S. Brunschwig. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 706.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Trautz-Bauzonnet. Unidentified armorial bookplate (crest, with tree and crown), probably that of De Fresne; unidentified monogram bookplate "EM" or "ME." Monogram bookplate of SSB, Silvain S. Brunschwig. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 706.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:spatial>Lyon, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:777547/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2297622</edm:isShownAt>
+</mdRecord>

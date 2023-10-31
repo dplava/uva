@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4357352</dcterms:identifier>
+   <dcterms:title>Thornrose Cemetery, Staunton, Va / from surveys by J.J. Stack, Jr., 1894 ; drawn by F.H. Anschutz in the office of Jed. Hotchkiss, Staunton, Va., June 1894</dcterms:title>
+   <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+   <dcterms:contributor>Anschutz, F. H.</dcterms:contributor>
+   <dcterms:contributor>Norris Peters Co.</dcterms:contributor>
+   <dcterms:contributor>Stack, J. J.</dcterms:contributor>
+   <dcterms:publisher>Norris Peters Co., Photo-Litho</dcterms:publisher>
+   <dcterms:created>1894</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>70 x 78 cm.</dcterms:extent>
+   <dcterms:medium>black and white</dcterms:medium>
+   <dcterms:medium>one color</dcterms:medium>
+   <dcterms:medium>paper</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Includes list of officers, trustees, and executive committee of the cemetery and inset map: Map of part of Staunton, Va., showing location of Thornrose Cemetery (scale ca. 1:8000).</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Hotchkiss C; not in Swem, E.G. Maps relating to Virginia; map torn in the margins.</dcterms:description>
+   <dcterms:description>Scale: [ca. 1:670].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Cemeteries--Virginia--Staunton--Maps</dcterms:subject>
+   <dcterms:subject>Staunton (Va.)--Maps</dcterms:subject>
+   <dcterms:spatial>Staunton</dcterms:spatial>
+   <dcterms:spatial>Staunton (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:903094/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4357352</edm:isShownAt>
+</mdRecord>

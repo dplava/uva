@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:36 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5314364</dcterms:identifier>
+   <dcterms:title>An old world serenade: Liebeslied = Rococo Ständchen = Serenade rococco : (violin obligato ad lib.) / Text und Musik von Erik Meyer-Helmund ; version française par Madame Barnaba</dcterms:title>
+   <dcterms:title>Elves and fairies have thee in their keeping</dcterms:title>
+   <dcterms:title>Gute Nacht, mein holdes, süsses Mädchen</dcterms:title>
+   <dcterms:title>Rococo Ständchen</dcterms:title>
+   <dcterms:title>Serenade rococco</dcterms:title>
+   <dcterms:title>Meyer-Helmund, Erik, 1861-1932. Rococo St&amp;nchen English &amp; German</dcterms:title>
+   <dcterms:creator>Meyer-Helmund, Erik, 1861-1932</dcterms:creator>
+   <dcterms:contributor>C.G. Röder (Firm)</dcterms:contributor>
+   <dcterms:contributor>England, Paul</dcterms:contributor>
+   <dcterms:publisher>B. F. Wood Music Co.</dcterms:publisher>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>1 score (6 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>German</dcterms:language>
+   <dcterms:description>piano, low voice</dcterms:description>
+   <dcterms:description>No. 1.</dcterms:description>
+   <dcterms:description>For piano and low voice.</dcterms:description>
+   <dcterms:description>"English words by Paul England"--Caption.</dcterms:description>
+   <dcterms:description>At foot of engraving on t.p.: "Printed by C.G. Röder, Leipzig."</dcterms:description>
+   <dcterms:description>English and German words.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy has dealer's stamp: "Graves &amp; Co., leading music dealers, 328 Wash."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1136113/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314364</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:34 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5313717</dcterms:identifier>
+   <dcterms:title>What Mollie said: answer to Mollie darling / music by W.F. Wellman Jr. ; words by Grace Carleton</dcterms:title>
+   <dcterms:title>Darling, kindest, fondest, truest</dcterms:title>
+   <dcterms:title>Mollie darling</dcterms:title>
+   <dcterms:title>Yes, I love you, dearest darling</dcterms:title>
+   <dcterms:creator>Wellman, W. F. (William F.)</dcterms:creator>
+   <dcterms:contributor>A.B. Kidder &amp; Son's</dcterms:contributor>
+   <dcterms:contributor>Bevins, Mary</dcterms:contributor>
+   <dcterms:contributor>Carleton, Grace</dcterms:contributor>
+   <dcterms:publisher>Oliver Ditson &amp; Co.</dcterms:publisher>
+   <dcterms:created>1873</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, mixed chorus (4), piano</dcterms:description>
+   <dcterms:description>For voice and piano; with chorus refrain (SATB).</dcterms:description>
+   <dcterms:description>At foot of title page: A. B. Kidder &amp; Son, Boston.</dcterms:description>
+   <dcterms:description>"To Miss Mary Bevins, New York."</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: Choice catalogue of very popular music.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1124525/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313717</edm:isShownAt>
+</mdRecord>

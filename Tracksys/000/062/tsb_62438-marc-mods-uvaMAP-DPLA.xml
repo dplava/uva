@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u760608</dcterms:identifier>
+   <dcterms:title>The Tragedy of Tancred and Gismund: reputed date of earliest known edition, 1591; date of this edition, 1592 (B.M. C34. e. 43 &amp; C34. e. 44 &amp; Dyce copy at S.K.) reproduced in facsimile, 1912</dcterms:title>
+   <dcterms:title>Tancred and Gismund</dcterms:title>
+   <dcterms:creator>R. W. (Robert Wilmot), active 1568-1608</dcterms:creator>
+   <dcterms:contributor>Noel, Henry, -1597</dcterms:contributor>
+   <dcterms:publisher>Issued for subscribers by the editor of the Tudor facsimile texts</dcterms:publisher>
+   <dcterms:created>1912</dcterms:created>
+   <dcterms:extent>[70] p. 27 cm.</dcterms:extent>
+   <dcterms:medium>facsimiles</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>VIVA Repository Copy 2014.</dcterms:description>
+   <dcterms:description>Item X001234191 has bookplate data: Bennett Wood Green.</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019</dcterms:description>
+   <dcterms:isPartOf>Tudor facsimile texts</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Hatton, Christopher, Sir, 1540-1591</dcterms:subject>
+   <dcterms:subject>Tudor facsimile texts</dcterms:subject>
+   <dcterms:subject>Facsimiles</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2607612/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u760608</edm:isShownAt>
+</mdRecord>

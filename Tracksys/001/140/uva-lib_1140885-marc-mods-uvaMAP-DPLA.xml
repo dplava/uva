@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:37 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5314740</dcterms:identifier>
+   <dcterms:title>Don't be sorrowful, darling: song and chorus / music by J.P. Webster ; words by Alice Cary</dcterms:title>
+   <dcterms:title>Ah, don't be sorrowful, darling</dcterms:title>
+   <dcterms:title>Then don't be sorrowful, darling</dcterms:title>
+   <dcterms:creator>Webster, Joseph Philbrick, 1819-1875</dcterms:creator>
+   <dcterms:contributor>Carey, Alice</dcterms:contributor>
+   <dcterms:contributor>Payne</dcterms:contributor>
+   <dcterms:publisher>J. L. Peters</dcterms:publisher>
+   <dcterms:created>1862</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice, mixed chorus (4), piano</dcterms:description>
+   <dcterms:description>For voice and piano, with chorus refrain (SATB).</dcterms:description>
+   <dcterms:description>Advertisement on p. [2]: The latest and best songs of the day. On p. [6]: A choice selection of beautiful ballads.</dcterms:description>
+   <dcterms:description>"Payne"--Colophon.</dcterms:description>
+   <dcterms:description>At head of title: "To alice Cary.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1140886/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314740</edm:isShownAt>
+</mdRecord>

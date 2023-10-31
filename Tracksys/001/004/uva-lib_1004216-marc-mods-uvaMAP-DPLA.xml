@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2394600</dcterms:identifier>
+   <dcterms:title>A Proclamation by the President of the United States: New-Orleans Argus and Louisiana Advertiser supplement, Tuesday morning, December 25, 1832</dcterms:title>
+   <dcterms:title>New Orleans Argus and Louisiana Advertiser supplement, Tuesday morning, December 25, 1832</dcterms:title>
+   <dcterms:contributor>Jackson, Andrew, 1767-1845</dcterms:contributor>
+   <dcterms:contributor>United States. President (1829-1837 : Jackson)</dcterms:contributor>
+   <dcterms:publisher>New-Orleans Argus and Louisiana Advertiser</dcterms:publisher>
+   <dcterms:created>1832</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>58 x 42 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>"Proclamation by Andrew Jackson, President of the United States. Whereas, a Convention assembled in the state of South Carolina, have passed an ordinance by which they declare, 'That the several acts and parts of acts of the Congress of the U. States purporting to be laws for the imposing of duties and imposts on the importation of foreign commodities ... are unauthorized by the Constitution of the United States, and violate the true meaning and intent thereof, and are null and void, and no law'... I, Andrew Jackson ... have thought proper to issue this my proclamation, stating my views of the Constitution and laws applicable to the measures adopted by the Convention of South Carolina ... " -- From paragraphs 1-3 of Column 1.</dcterms:description>
+   <dcterms:description>Signed, in print, at end: "Done at city of Washington this 10th day of December ... one thousand eight hundred and thirty-two ... Andrew Jackson. By the President: Edw. Livingston, Secretary of State."</dcterms:description>
+   <dcterms:description>Text in 5 columns, with 3 short advertisements at end of the fifth column. Printed area measures 55 x 31 cm.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS:Gift of Mary D. &amp; William Neufeld in memory of Ester E. Neufeld.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>South Carolina. Convention, (1832-1833)</dcterms:subject>
+   <dcterms:subject>Nullification (States' rights)</dcterms:subject>
+   <dcterms:subject>Protectionism--United States</dcterms:subject>
+   <dcterms:subject>States' rights (American politics)</dcterms:subject>
+   <dcterms:subject>Tariff--United States</dcterms:subject>
+   <dcterms:subject>South Carolina--Politics and government--1775-1865</dcterms:subject>
+   <dcterms:subject>United States--Politics and government--1829-1837</dcterms:subject>
+   <dcterms:temporal>1775-1865</dcterms:temporal>
+   <dcterms:temporal>1829-1837</dcterms:temporal>
+   <dcterms:spatial>South Carolina</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>New Orleans, Louisiand, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096722/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2394600</edm:isShownAt>
+</mdRecord>

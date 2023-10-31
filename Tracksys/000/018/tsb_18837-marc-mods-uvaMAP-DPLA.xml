@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5721667</dcterms:identifier>
+   <dcterms:title>Office of Egerton &amp; Bro. Baltimore, Md., March 1st 1852: Dear Sir, We take the liberty of sending to your address our circular of the Maryland lotteries for the month of March 1852</dcterms:title>
+   <dcterms:title>Dear Sir, We take the liberty of sending to your address our circular of the Maryland lotteries for the month of March 1852</dcterms:title>
+   <dcterms:title>Magnificent Maryland lotteries for March, 1852. Payment of prizes guaranteed by the state of Maryland</dcterms:title>
+   <dcterms:title>Maryland lotteries for March, 1852</dcterms:title>
+   <dcterms:contributor>Egerton &amp; Bro.</dcterms:contributor>
+   <dcterms:contributor>Egerton, Charles Calvert, 1817-1893</dcterms:contributor>
+   <dcterms:contributor>Egerton, John B.</dcterms:contributor>
+   <dcterms:publisher>No name, unknown, or undetermined</dcterms:publisher>
+   <dcterms:created>1852</dcterms:created>
+   <dcterms:extent>1 sheet ([4] p.)</dcterms:extent>
+   <dcterms:extent>26 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Caption, p. [2]: Maryland lotteries for March, 1852. Caption, p. [3]: Magnificent Maryland lotteries for March, 1852. Payment of prizes guaranteed by the state of Maryland.</dcterms:description>
+   <dcterms:description>P. [4] blank.</dcterms:description>
+   <dcterms:description>Signed, in print, on p. [1]: Egerton &amp; Bro. Box 103 Post Office, Baltimore, Md. John B. Egerton, Chas. C. Egerton, Jr.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: From the Papers of the Walker Family, MSS 1545.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Maryland State Lottery.</dcterms:subject>
+   <dcterms:subject>Lotteries--Maryland</dcterms:subject>
+   <dcterms:subject>Lottery ticket vendors--Maryland--Baltimore</dcterms:subject>
+   <dcterms:subject>Lottery winners--Maryland</dcterms:subject>
+   <dcterms:spatial>Baltimore</dcterms:spatial>
+   <dcterms:spatial>Maryland</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1517621/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5721667</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:36 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5314649</dcterms:identifier>
+   <dcterms:title>Dance of the dragon-flies = La valse des libellules : (alto, or bass) / Guy d'Hardelot ; Paul Bilhaud ; English version by Th. Baker</dcterms:title>
+   <dcterms:title>Le soleil qui parait dissipe à l'horizon</dcterms:title>
+   <dcterms:title>Valse des libellules</dcterms:title>
+   <dcterms:title>When the sun at the dawn sends out an early glow</dcterms:title>
+   <dcterms:title>Hardelot, Guy d', 1858-1936. Valse des libellules. English &amp; French</dcterms:title>
+   <dcterms:creator>Hardelot, Guy d', 1858-1936</dcterms:creator>
+   <dcterms:contributor>Baker, Theodore, 1851-1934</dcterms:contributor>
+   <dcterms:contributor>Bilhaud, Paul, 1854-1933</dcterms:contributor>
+   <dcterms:publisher>G. Schirmer</dcterms:publisher>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:language>French</dcterms:language>
+   <dcterms:description>piano, alto voice</dcterms:description>
+   <dcterms:description>piano, bass voice</dcterms:description>
+   <dcterms:description>Alto in B♭.</dcterms:description>
+   <dcterms:description>For alto and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: New songs : published by G. Schirmer, New York.</dcterms:description>
+   <dcterms:description>French words with English translation.</dcterms:description>
+   <dcterms:isPartOf>Guy d'Hardelot vocal compositions</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <dcterms:subject>Waltzes</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1139781/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314649</edm:isShownAt>
+</mdRecord>

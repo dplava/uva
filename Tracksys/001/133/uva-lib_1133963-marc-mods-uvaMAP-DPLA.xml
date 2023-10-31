@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:35 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5314189</dcterms:identifier>
+   <dcterms:title>O leave me not dear heart: as sung by Marion Manola / words by Brigham ; music by Mattei</dcterms:title>
+   <dcterms:title>So long the day, so dark the way</dcterms:title>
+   <dcterms:creator>Mattei, Tito, 1841-1914</dcterms:creator>
+   <dcterms:contributor>Bingham, Clifton, 1859-1913</dcterms:contributor>
+   <dcterms:contributor>Brandow Printing Company</dcterms:contributor>
+   <dcterms:contributor>Manola, Marion</dcterms:contributor>
+   <dcterms:contributor>s</dcterms:contributor>
+   <dcterms:publisher>Harrison, Baker &amp; Co.</dcterms:publisher>
+   <dcterms:created>18XX</dcterms:created>
+   <dcterms:extent>1 score ([4] p.)</dcterms:extent>
+   <dcterms:medium>illustrations</dcterms:medium>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>T.p. photo: Man and Woman seated facing one another.</dcterms:description>
+   <dcterms:description>"Words by Bingham"--Caption.</dcterms:description>
+   <dcterms:description>At foot of t.p.: "Press of Brandow Printing Company, Albany."</dcterms:description>
+   <dcterms:description>Advertisements for purveyors of various goods and services in Albany, N.Y. on p. [2], [4], [6], and [8].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1133964/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314189</edm:isShownAt>
+</mdRecord>

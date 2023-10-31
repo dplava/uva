@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:38 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5315413</dcterms:identifier>
+   <dcterms:title>O that we two were maying / word by Chas. Kingsley ; music by Charles Gounod</dcterms:title>
+   <dcterms:title>O that we two were maying</dcterms:title>
+   <dcterms:title>Gounod, Charles, 1818-1893. Oh! that we two were maying</dcterms:title>
+   <dcterms:creator>Gounod, Charles, 1818-1893</dcterms:creator>
+   <dcterms:contributor>Kingsley, Charles, 1819-1875</dcterms:contributor>
+   <dcterms:publisher>Spear &amp; Dehnhoff</dcterms:publisher>
+   <dcterms:created>[1876..1887]</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>piano, voice</dcterms:description>
+   <dcterms:description>For voice and piano.</dcterms:description>
+   <dcterms:description>Caption title.</dcterms:description>
+   <dcterms:description>Publisher was active between 1876 and 1887. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: Choicest and most popular dance music for piano.</dcterms:description>
+   <dcterms:isPartOf>Garland of English songs : a collection of the popular English songs of the day</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sacred songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1149774/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315413</edm:isShownAt>
+</mdRecord>

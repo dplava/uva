@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u3320720</dcterms:identifier>
+   <dcterms:title>Reports and cases of law argued, and adjudged in the courts of law, at Westminister: In the time of the late Queen Elizabeth .. [1540-1615] / Collected by a learned professour of the law, William Leonard .. Published by Will. Hughes .. with alphabetical tables of the names of the cases, and of the matters contained in the book</dcterms:title>
+   <dcterms:creator>Leonard, William.</dcterms:creator>
+   <dcterms:contributor>Hughes, William, 1587 or 1588-1663?</dcterms:contributor>
+   <dcterms:publisher>Printed by Tho. Roycroft, for Nath. Ekins</dcterms:publisher>
+   <dcterms:created>1658/1675</dcterms:created>
+   <dcterms:extent>4 v. 29-30 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Title varies: v. 2, The second part of Reports and cases of law ... ; v. 3, The third part of the Reports of several excellent cases of law ... ; v. 4, The fourth part of the Reports of several cases of law ..</dcterms:description>
+   <dcterms:description>"Translated by me out of the original French copy"--"To the reader", v. 1, signed: Will. Hughes.</dcterms:description>
+   <dcterms:description>Imprint varies: v. 3, London, Printed by John Streater; and are to be sold by Henry Twyford, Thomas Dring, John Place, and William Place.-- v. 4, London, Printed for William Lee and Abel Roper.</dcterms:description>
+   <dcterms:description>Includes a few cases of the reigns of Henry VIII, Edward VI, Mary and James I.</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2444247/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3320720</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:32 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2285793</dcterms:identifier>
+   <dcterms:title>Tumulus Henrici Secundi Gallorum Regis Christianiss / per Ioach. Bellaium. ; Idem Gallice totidem uersibus expressum per eumdem. ; Accessit et eiusdem elegia ad illustriss. Principem Carolum Card. Lotharingum</dcterms:title>
+   <dcterms:title>Tumbeau de treschrestien Roy Henry II</dcterms:title>
+   <dcterms:creator>Du Bellay, Joachim, approximately 1522-1560</dcterms:creator>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia)</dcterms:contributor>
+   <dcterms:contributor>Godillot, Marcel, 1904-</dcterms:contributor>
+   <dcterms:contributor>Morel, Fédéric, 1523-1583</dcterms:contributor>
+   <dcterms:publisher>Apud Federicum Morellum, in vico Bellouaco, ad vrbanam Morum</dcterms:publisher>
+   <dcterms:created>1559</dcterms:created>
+   <dcterms:extent>[28] p.</dcterms:extent>
+   <dcterms:extent>24 cm. (4to)</dcterms:extent>
+   <dcterms:language>French, Middle (ca. 1300-1600)</dcterms:language>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Signatures: A-C⁴ D².</dcterms:description>
+   <dcterms:description>"Tumulus" in Latin and French on facing pages; French version has caption title: Le Tumbeau du treschrestien Roy Henry II.</dcterms:description>
+   <dcterms:description>Lettre du mesme autheur à un sien amy sur la mort du feu Roy, &amp; le departement de Madame de Sauoye (in French only): p. [17]-[19]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: M. Godillot. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 635.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Henry, II, King of France, 1519-1559--Death and burial</dcterms:subject>
+   <dcterms:subject>France--History--Henry II, 1547-1559--Sources</dcterms:subject>
+   <dcterms:temporal>Henry II, 1547-1559</dcterms:temporal>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:735496/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2285793</edm:isShownAt>
+</mdRecord>

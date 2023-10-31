@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:36 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5314553</dcterms:identifier>
+   <dcterms:title>Houston Light Guard: march / composed by Mrs. C.A. Bujac and Messrs. F.W. Schmidt and C. Grunewald</dcterms:title>
+   <dcterms:creator>Bujac, C. A. Mrs</dcterms:creator>
+   <dcterms:contributor>Grunewald, C.</dcterms:contributor>
+   <dcterms:contributor>Schmidt, F. W.</dcterms:contributor>
+   <dcterms:publisher>C. Grunewald</dcterms:publisher>
+   <dcterms:created>1892</dcterms:created>
+   <dcterms:extent>3 p. of music.</dcterms:extent>
+   <dcterms:language>No linguistic content</dcterms:language>
+   <dcterms:description>piano</dcterms:description>
+   <dcterms:description>For piano solo.</dcterms:description>
+   <dcterms:description>"The famous Light Guards, organized April 21st, 1873. The World Beaters, organized April 21st, 1873."</dcterms:description>
+   <dcterms:description>"F.W. Schmidt"--Colophon.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Houston Light Guards--Songs and music</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Marches (Piano)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1138561/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314553</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u2006361</dcterms:identifier>
+   <dcterms:title>From our merry Swiss home: the beautiful Tyrolean duett / poetry by E. Mourdant [sic] Spencer ; music by Charles W. Glover</dcterms:title>
+   <dcterms:title>From our merry Swiss home, we come</dcterms:title>
+   <dcterms:creator>Glover, Charles William, 1806-1863</dcterms:creator>
+   <dcterms:contributor>Spencer, E. Mordaunt (Edward Mordaunt)</dcterms:contributor>
+   <dcterms:publisher>Firth, Pond &amp; Co.</dcterms:publisher>
+   <dcterms:publisher>H. Kleber</dcterms:publisher>
+   <dcterms:publisher>Wm. T. Mayo</dcterms:publisher>
+   <dcterms:created>[1846..1853]</dcterms:created>
+   <dcterms:extent>1 score (9 p.)</dcterms:extent>
+   <dcterms:extent>31 cm.</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice (2), piano</dcterms:description>
+   <dcterms:description>For vocal duet and piano.</dcterms:description>
+   <dcterms:description>"Quidor, Engver."--Colophon, p. 9.</dcterms:description>
+   <dcterms:description>Price: figure 3 1/2 in five-pointed star.</dcterms:description>
+   <dcterms:description>Wm. T. Mayo was in the music business from 1846 until 1853. Cf. Early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>English words.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.5 no.3: Third title in a bound volume of sheet music from the library of Mrs. Harriet Irvine.</dcterms:description>
+   <dcterms:isPartOf>[Sheet music collection, v. 68, no. 47]</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Vocal duets with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1563128/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2006361</edm:isShownAt>
+</mdRecord>

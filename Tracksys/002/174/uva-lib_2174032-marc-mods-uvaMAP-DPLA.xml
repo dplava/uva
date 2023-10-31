@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:40 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u3714065</dcterms:identifier>
+   <dcterms:title>Richmond eclectic magazine: Religious and literary. : At the instance of gentlemen residing in different parts of the country, whose judgment and wishes are entitled to the highest consideration, the undersigned have agreed to undertake the publication of a monthly eclectic magazine, in the city of Richmond, the first number of which will be issued on the 15th of next October / Moses Hoge [and] William Brown</dcterms:title>
+   <dcterms:creator>Hoge, Moses D. (Moses Drury), 1818-1899</dcterms:creator>
+   <dcterms:contributor>Brown, William.</dcterms:contributor>
+   <dcterms:publisher>Hoge and Brown</dcterms:publisher>
+   <dcterms:created>1866</dcterms:created>
+   <dcterms:extent>1 sheet ([2] p.)</dcterms:extent>
+   <dcterms:extent>25 x 15 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>SPECIAL COLLECTIONS: Handwritten on p. [2], "Persons wishing to subscribe can leave their names with A.N. Cramer Chrlestown." From the Morgan papers, MSS 1275, a gift of Arthur Pforzheimer to the Tracy W. McGregor Library.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Richmond eclectic</dcterms:subject>
+   <dcterms:subject>Periodicals--Virginia--Richmond</dcterms:subject>
+   <dcterms:spatial>Richmond</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2186874/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3714065</edm:isShownAt>
+</mdRecord>

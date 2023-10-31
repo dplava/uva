@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u1955941</dcterms:identifier>
+   <dcterms:title>Dear____ , It is my constant habit in the closet devotions of each day to pray for you / Very truly your friend, W.A. Baynham</dcterms:title>
+   <dcterms:title>It is my constant habit in the closet devotions of each day to pray for you</dcterms:title>
+   <dcterms:creator>Baynham, W. A.</dcterms:creator>
+   <dcterms:publisher>W.A. Baynham</dcterms:publisher>
+   <dcterms:created>[1850..1899]</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.)</dcterms:extent>
+   <dcterms:extent>26 x 21 cm.</dcterms:extent>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>Circular letter, with blank space for name, citing Biblical texts relating to death and salvation.</dcterms:description>
+   <dcterms:description>This copy has given name "Harry" written in the blank.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Salvation</dcterms:subject>
+   <dcterms:subject>Conversion</dcterms:subject>
+   <dcterms:subject>Evangelistic work</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1514200/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u1955941</edm:isShownAt>
+</mdRecord>

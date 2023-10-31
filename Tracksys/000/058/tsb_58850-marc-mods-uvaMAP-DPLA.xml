@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:30 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>u5541645</dcterms:identifier>
+   <dcterms:title>The lonely bird: vocal duett / written by J.E. Carpenter ; composed by Stephen Glover</dcterms:title>
+   <dcterms:title>Poor bird, thy mate is far away</dcterms:title>
+   <dcterms:creator>Glover, Stephen, 1813-1870</dcterms:creator>
+   <dcterms:contributor>Carpenter, J. E. (Joseph Edwards), 1813-1885</dcterms:contributor>
+   <dcterms:contributor>Pearson, J. C. (J. Charles)</dcterms:contributor>
+   <dcterms:publisher>William Hall &amp; Son</dcterms:publisher>
+   <dcterms:created>1856</dcterms:created>
+   <dcterms:extent>1 score (9 p.)</dcterms:extent>
+   <dcterms:extent>33 cm.</dcterms:extent>
+   <dcterms:medium>score</dcterms:medium>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:description>voice (2), piano</dcterms:description>
+   <dcterms:description>For 2 voices and piano.</dcterms:description>
+   <dcterms:description>"J.C. Pearson N.Y."</dcterms:description>
+   <dcterms:description>Probable publication date inferred from publisher's plate number and address. William Hall &amp; Son operated at this address between 1848 and 1858. Cf. Handbook of early American sheet music / Dichter and Shapiro.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Twelfth title in a bound volume of sheet music from the library of Mrs. Harriet Irvine.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Vocal duets with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1563184/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5541645</edm:isShownAt>
+</mdRecord>

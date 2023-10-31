@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Generated using uvaMAP2DPLA.xsl (v. 1.0) on 2023-10-26 at 12:31 p.m. -->
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>u4466673</dcterms:identifier>
+   <dcterms:title>Nova Anglia Novvm Belgium et Virginia</dcterms:title>
+   <dcterms:title>Nova Anglia, Novum Belgium et Virginia</dcterms:title>
+   <dcterms:creator>Jansson, Jan, 1588-1664</dcterms:creator>
+   <dcterms:contributor>Hondius, Jodocus, 1563-1612</dcterms:contributor>
+   <dcterms:contributor>Laet, Joannes de, 1581-1649</dcterms:contributor>
+   <dcterms:contributor>Mercator, Gerhard, 1512-1594</dcterms:contributor>
+   <dcterms:publisher>Johannes Janssonius Excudit</dcterms:publisher>
+   <dcterms:created>1649</dcterms:created>
+   <dcterms:extent>1 map</dcterms:extent>
+   <dcterms:extent>39 x51 cm.</dcterms:extent>
+   <dcterms:medium>color</dcterms:medium>
+   <dcterms:language>Latin</dcterms:language>
+   <dcterms:description>Relief shown pictorially.</dcterms:description>
+   <dcterms:description>Scale in strapwork box right lower recto.</dcterms:description>
+   <dcterms:description>On verso: German text, captioned "New Belgica und New Anglia" and "New Anglia"; signature mark Ccc; catchword New.</dcterms:description>
+   <dcterms:description>Burden, State 1, from 1649 edition of Newer Atlas (Mercator/Hondius atlas variant).</dcterms:description>
+   <dcterms:description>Derived from 1630 map of Johannes de Laet.</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library, American History Collection.</dcterms:description>
+   <dcterms:description>Scale [ca. 1:5,250,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Virginia--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>New York (N.Y.)--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>New England--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>New England</dcterms:spatial>
+   <dcterms:spatial>New York (N.Y.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Amsterdam, Netherlands</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:620270/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4466673</edm:isShownAt>
+</mdRecord>
