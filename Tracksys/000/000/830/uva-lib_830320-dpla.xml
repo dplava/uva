@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:39 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:830320</dcterms:identifier>
+   <dcterms:title>Le theatre des bons engins: auquel sont contenus cent emblemes</dcterms:title>
+   <dcterms:creator>La Perrière, Guillaume de, 1499-1565 [original]</dcterms:creator>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:contributor>Janot, Denis, -1544 [original]</dcterms:contributor>
+   <dcterms:contributor>Thibaron-Joly (Firm) [binder]</dcterms:contributor>
+   <dcterms:created>1540</dcterms:created>
+   <dcterms:extent>[206] p. : ill. ; 18 cm. (8vo)</dcterms:extent>
+   <dcterms:extent>18 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:medium>ill. [original]</dcterms:medium>
+   <dcterms:description>Signatures: A-N⁸ O⁴. [original]</dcterms:description>
+   <dcterms:description>Colophon: Imprimé à Paris par Denis Ianot libraire &amp; imprimeur ... [original]</dcterms:description>
+   <dcterms:description>Privilege dated: le dernier iour de Ianuier mil cinq cent trente neuf. [original]</dcterms:description>
+   <dcterms:description>With 101 emblems. [original]</dcterms:description>
+   <dcterms:description>Text within ornamental border. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Thibaron-Joly. Bookplates of Robert Hoe and Lucius Wilmerding. Bookplate of Douglas Gordon. Gordon list, 15. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Emblems--Poetry</dcterms:subject>
+   <dcterms:subject>Emblems--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1011769/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2302383</edm:isShownAt>
+</mdRecord>

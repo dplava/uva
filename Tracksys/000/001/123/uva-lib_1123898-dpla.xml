@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:38 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1123898</dcterms:identifier>
+   <dcterms:title>Once again: ballad / Arthur S. Sullivan ; [words by Lionel H. Lewin]</dcterms:title>
+   <dcterms:title>I linger round the very spot</dcterms:title>
+   <dcterms:creator>Sullivan, Arthur Sir, 1842-1900 [original]</dcterms:creator>
+   <dcterms:contributor>Giles, J. Frank [engraver]</dcterms:contributor>
+   <dcterms:contributor>Lewin, Lionel H. [lyricist]</dcterms:contributor>
+   <dcterms:created>[1875..1884]</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, soprano voice [original]</dcterms:description>
+   <dcterms:description>Soprano in F minor. [original]</dcterms:description>
+   <dcterms:description>Publication date range derived from publisher's names in Handbook of early American sheet music / Dichter and Shapiro and from handwritten notation on title page "Louisville, Ky., ... 1884." [original]</dcterms:description>
+   <dcterms:description>For soprano voice and piano. [original]</dcterms:description>
+   <dcterms:description>"J. Frank Giles, music printer, Boston." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1123899/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313663</edm:isShownAt>
+</mdRecord>

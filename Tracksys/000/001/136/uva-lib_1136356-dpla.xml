@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1136356</dcterms:identifier>
+   <dcterms:title>O for the swords of former time: sang at Niblos Garden, N. Y. in the romantic Irish drama The hearts of steel / words by Thomas Moore ; music by Harrison Millard</dcterms:title>
+   <dcterms:title>O for the swords of former time</dcterms:title>
+   <dcterms:creator>Millard, H. (Harrison), 1830-1895 [original]</dcterms:creator>
+   <dcterms:contributor>Clarke, Lillian Cleves [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Clayton, Charles O. [engraver]</dcterms:contributor>
+   <dcterms:contributor>Moore, Thomas, 1779-1852 [lyricist]</dcterms:contributor>
+   <dcterms:created>1880</dcterms:created>
+   <dcterms:extent>1 score (3 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, voice [original]</dcterms:description>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>"(Clayton)"--Colophon. [original]</dcterms:description>
+   <dcterms:description>At head ot title: "To Miss Lillian Cleves Clarke". [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1136357/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314387</edm:isShownAt>
+</mdRecord>

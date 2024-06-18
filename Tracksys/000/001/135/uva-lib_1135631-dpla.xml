@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:54 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1135631</dcterms:identifier>
+   <dcterms:title>Dost thou know that sweet land? = (Connais tu le pays) : [from] opera Mignon / A. Thomas</dcterms:title>
+   <dcterms:title>Connais tu le pays</dcterms:title>
+   <dcterms:title>Thomas, Ambroise, 1811-1896. Mignon. Connais-tu le pays?</dcterms:title>
+   <dcterms:creator>Thomas, Ambroise, 1811-1896 [original]</dcterms:creator>
+   <dcterms:contributor>Spicker, Max, 1858-1912 [editor]</dcterms:contributor>
+   <dcterms:created>1877</dcterms:created>
+   <dcterms:extent>1 vocal score (7 p.).</dcterms:extent>
+   <dcterms:medium>piano score [original]</dcterms:medium>
+   <dcterms:description>piano, alto voice [original]</dcterms:description>
+   <dcterms:description>Alto. [original]</dcterms:description>
+   <dcterms:description>For alto voice with acc. arr. for piano. [original]</dcterms:description>
+   <dcterms:description>"Selected and edited by Max Spicker." [original]</dcterms:description>
+   <dcterms:description>French, Italian and English words. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1135632/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314321</edm:isShownAt>
+</mdRecord>

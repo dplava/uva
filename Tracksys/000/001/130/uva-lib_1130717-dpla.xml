@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:45 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1130717</dcterms:identifier>
+   <dcterms:title>Formosa galop: performed at Niblo's Theatre : op. 137 / by G. Operti</dcterms:title>
+   <dcterms:title>Operti, G. (Giuseppe), -1886. Formosa. Galop</dcterms:title>
+   <dcterms:creator>Operti, G. (Giuseppe), -1886 [original]</dcterms:creator>
+   <dcterms:contributor>Jarrett, William Paul Mr, 1877-1929 [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Palmer Mr [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Teller &amp; Gipner [engraver]</dcterms:contributor>
+   <dcterms:created>1869</dcterms:created>
+   <dcterms:extent>9 p. of music : col. ill.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:description>piano [original]</dcterms:description>
+   <dcterms:description>For piano solo. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>Title page illustration: Two men flanking the title, formed by the image of a train and ruin spelled out with bricks. [original]</dcterms:description>
+   <dcterms:description>At foot of title page: "Teller &amp; Gipner, N.Y." [original]</dcterms:description>
+   <dcterms:description>At head of caption title: "Inscribed to Messrs. Jarrett &amp; Palmer." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Operas--Excerpts--Piano scores</dcterms:subject>
+   <dcterms:subject>Piano music, Arranged</dcterms:subject>
+   <dcterms:subject>Galops</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1130718/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313928</edm:isShownAt>
+</mdRecord>

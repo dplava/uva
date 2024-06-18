@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:53 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1135130</dcterms:identifier>
+   <dcterms:title>Such words no Shakespeare spoke: as originally published in The New York Herald : from Adolph Müllers' The king's fool, as produced with the greatest success by Conried's Opera Company throughout the United States / [adapted by Heinrich Conried and B.F. Roeder]</dcterms:title>
+   <dcterms:title>These words no Shakespeare wrote</dcterms:title>
+   <dcterms:title>To blushing Mary said her sweetheart Hugh</dcterms:title>
+   <dcterms:creator>Conried, Heinrich, 1855-1909 [original]</dcterms:creator>
+   <dcterms:contributor>Conried's Comic Opera Company [performer]</dcterms:contributor>
+   <dcterms:contributor>Roeder, B. F. [original]</dcterms:contributor>
+   <dcterms:created>1889</dcterms:created>
+   <dcterms:extent>1 score (3 p.) : col. ill.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, voice [original]</dcterms:description>
+   <dcterms:description>Opera excerpt; orchestral accompaniment arranged for piano. [original]</dcterms:description>
+   <dcterms:description>This excerpt does not appear in Müller's opera. [original]</dcterms:description>
+   <dcterms:description>Illustration: Two jesters dancing, with a portrait of Conried within the capital "C" of his name. [original]</dcterms:description>
+   <dcterms:description>Caption title varies. [original]</dcterms:description>
+   <dcterms:description>English words. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Operas--Excerpts, Arranged--Vocal scores</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1135131/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314273</edm:isShownAt>
+</mdRecord>

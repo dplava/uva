@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:19 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1149739</dcterms:identifier>
+   <dcterms:title>Without thee = Senza te = Ce que suis sans toi / music by Gounod ; [poetry by Louis C. Elson]</dcterms:title>
+   <dcterms:title>Ce qu'est le lierre sans l'ormeau</dcterms:title>
+   <dcterms:title>Ce que suis sans toi</dcterms:title>
+   <dcterms:title>Com' edera divelta al piè</dcterms:title>
+   <dcterms:title>Like to the ivy's slender vine</dcterms:title>
+   <dcterms:title>Senza te</dcterms:title>
+   <dcterms:title>Gounod, Charles, 1818-1893. Ce que je suis sans toi. Polyglot</dcterms:title>
+   <dcterms:creator>Gounod, Charles, 1818-1893 [original]</dcterms:creator>
+   <dcterms:contributor>De Peyre, L. [lyricist]</dcterms:contributor>
+   <dcterms:contributor>Elson, Louis Charles, 1848-1920 [translator]</dcterms:contributor>
+   <dcterms:created>1871</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, voice [original]</dcterms:description>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>French words by L. de Peyre, with English and Italian translation. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1149740/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315410</edm:isShownAt>
+</mdRecord>

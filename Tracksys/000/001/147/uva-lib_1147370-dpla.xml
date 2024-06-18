@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:15 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1147370</dcterms:identifier>
+   <dcterms:title>When sparrows build: a romance / words by Jean Ingelow ; music by Lizzie Allen Sprint ; [arr. by Emil Isenman]</dcterms:title>
+   <dcterms:title>When sparrows build and the leaves break forth</dcterms:title>
+   <dcterms:creator>Sprint, Lizzie Allen. [original]</dcterms:creator>
+   <dcterms:contributor>Genese, D. [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Ingelow, Jean, 1820-1897 [lyricist]</dcterms:contributor>
+   <dcterms:contributor>Isenman, Emil [arranger]</dcterms:contributor>
+   <dcterms:contributor>Pepper, J. W. [engraver]</dcterms:contributor>
+   <dcterms:created>1897</dcterms:created>
+   <dcterms:extent>1 score (7 p.) : ill.</dcterms:extent>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, voice [original]</dcterms:description>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>"Printed by J. W. Pepper Phila. Pa."--Colophon. [original]</dcterms:description>
+   <dcterms:description>Title page illustration: A body of water ringed by cliffs, with the moon shining on it; with a spray of magnolias at top right border. [original]</dcterms:description>
+   <dcterms:description>"Dedicated to Dr. D. Genese." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Sparrows--Songs and music</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1147371/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315234</edm:isShownAt>
+</mdRecord>

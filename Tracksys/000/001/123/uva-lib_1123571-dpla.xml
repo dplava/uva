@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:38 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1123571</dcterms:identifier>
+   <dcterms:title>Beautiful snowdrops: composed expressly for &amp; sung by Miss Susan Galton / words by Geo. Cooper ; music by J.R. Thomas</dcterms:title>
+   <dcterms:title>Beautiful snowdrops, beautiful snowdrops</dcterms:title>
+   <dcterms:creator>Thomas, J. R. (John Rogers), 1830-1896 [original]</dcterms:creator>
+   <dcterms:contributor>Cooper, George, 1840-1927 [lyricist]</dcterms:contributor>
+   <dcterms:contributor>Galton, Susan, 1849- [performer]</dcterms:contributor>
+   <dcterms:contributor>Loan, J. Van [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Wakelam [engraver]</dcterms:contributor>
+   <dcterms:created>1868</dcterms:created>
+   <dcterms:extent>1 score (6 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, voice [original]</dcterms:description>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>"Wakelam, N.Y." [original]</dcterms:description>
+   <dcterms:description>At head of title: "To J. Van Loan, Esq." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1123572/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313637</edm:isShownAt>
+</mdRecord>

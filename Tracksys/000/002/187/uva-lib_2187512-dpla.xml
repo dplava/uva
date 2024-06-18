@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:30 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2187512</dcterms:identifier>
+   <dcterms:title>A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica: with the natural history of the herbs and trees, four-footed beasts, fishes, birds, insects, reptiles, &amp;c. of the last of those islands; to which is prefix'd an introduction, wherein is an account of the inhabitants, air, waters, diseases, trade, &amp;c. of that place, with some relations concerning the neighbouring continent, and islands of America. Illustrated with the figures of the things describ'd, which have not been heretofore engraved; in large copper-plates as big as the life / By Hans Sloane</dcterms:title>
+   <dcterms:creator>Sloane, Hans Sir, 1660-1753 [original]</dcterms:creator>
+   <dcterms:created>1707/1725</dcterms:created>
+   <dcterms:extent>2 v. IX, 274 fold. plates (incl. map) 34.3 cm.</dcterms:extent>
+   <dcterms:medium>plates (incl. maps) [original]</dcterms:medium>
+   <dcterms:description>Title in red and black. [original]</dcterms:description>
+   <dcterms:description>Vol. 2: London, Printed for the author, 1725. [original]</dcterms:description>
+   <dcterms:description>Errata: v. 1, 30 lines on p. [265]; v. 2, 33 lines on p. 499. [original]</dcterms:description>
+   <dcterms:description>"Additions to the first volume": v. 2, p. 349-381; "Additions to the second volume": v. 2, p. 382-396. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Imperfect: plate I, fold out map of Jamaica, the Western Ocean, and the Caribee Islandes, and plate IX, "The manner of propagating ... ye Grana or Cochineel" are wanting. Text and plates mounted on stubs, sometimes leaf by leaf, sometimes fold by fold. Contemporary calf. Transferred from the Law Library. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Natural history--Jamaica</dcterms:subject>
+   <dcterms:subject>Jamaica--Description and travel</dcterms:subject>
+   <dcterms:spatial>Jamaica</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2400623/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u842877</edm:isShownAt>
+</mdRecord>

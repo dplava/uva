@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:21 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003530</dcterms:identifier>
+   <dcterms:title>Map of the Cripple Creek extension of the New River Division of the Norfolk &amp; Western Railroad, 1886 / Office of the Chief Engineer, Roanoke, Va. Sept. 9th</dcterms:title>
+   <dcterms:creator>Norfolk and Western Railroad Company. [original]</dcterms:creator>
+   <dcterms:created>1886</dcterms:created>
+   <dcterms:extent>1 map ; 40 x 107 cm. on sheet 43 x 116 cm.</dcterms:extent>
+   <dcterms:description>Blueprint map. [original]</dcterms:description>
+   <dcterms:description>Relief not shown. [original]</dcterms:description>
+   <dcterms:description>North to upper right. [original]</dcterms:description>
+   <dcterms:description>Shows area from Pulaski, Virginia, southwest through Pulaski County to Speedwell in Wythe County. Identifies furnaces and corporate as well as private landowners along the route. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:48,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Norfolk and Western Railroad Company--Maps</dcterms:subject>
+   <dcterms:subject>Railroads--Virginia--Pulaski County--Maps</dcterms:subject>
+   <dcterms:subject>Railroads--Virginia--Wythe County--Maps</dcterms:subject>
+   <dcterms:subject>Landowners--Virginia--Pulaski County--Maps</dcterms:subject>
+   <dcterms:subject>Landowners--Virginia--Wythe County--Maps</dcterms:subject>
+   <dcterms:subject>Pulaski County (Va.)--Maps</dcterms:subject>
+   <dcterms:subject>Wythe County (Va.)--Maps</dcterms:subject>
+   <dcterms:spatial>Pulaski County</dcterms:spatial>
+   <dcterms:spatial>Pulaski County (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Wythe County</dcterms:spatial>
+   <dcterms:spatial>Wythe County (Va.)</dcterms:spatial>
+   <dcterms:spatial>Roanoke, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:903080/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4753345</edm:isShownAt>
+</mdRecord>

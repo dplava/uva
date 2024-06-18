@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:33 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:600013</dcterms:identifier>
+   <dcterms:title>Carte générale des routes de poste de l'Europe: dressée d'après les itinéraires les plus nouveaux de chaque état / par A.R. Fremin, Géographe, 1848</dcterms:title>
+   <dcterms:creator>Fremin, A. R., active approximately 1810-approximately 1860 [original]</dcterms:creator>
+   <dcterms:contributor>Logerot, A. (Auguste) [original]</dcterms:contributor>
+   <dcterms:created>1848</dcterms:created>
+   <dcterms:extent>1 map : col. ; 66 x 90 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>Ten separate scales lower right. [original]</dcterms:description>
+   <dcterms:description>Distance table upper right. [original]</dcterms:description>
+   <dcterms:description>In lower margin: Atelier de collage de vernissage de cartes, plans, tableaux, etc. d'Auguste Logerot, Quai des Augistins, 55, (près le Pont-neuf). [original]</dcterms:description>
+   <dcterms:description>Relief shown by hachures. [original]</dcterms:description>
+   <dcterms:description>Prime meridian: Paris. [original]</dcterms:description>
+   <dcterms:description>Publisher's label pasted on verso: Auguste Logerot, Quai des Augustins, Paris. Title "Europe" in script in center of bookplate. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Sectioned, and mounted on linen. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:4,600,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Postal service--Europe--Maps</dcterms:subject>
+   <dcterms:subject>Europe--Maps</dcterms:subject>
+   <dcterms:spatial>Europe</dcterms:spatial>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096775/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4813080</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:15 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66078</dcterms:identifier>
+   <dcterms:title>Lectures on the constitution and laws of England: with a commentary on Magna charta, and illustrations of many of the English statutes / By the late Francis Stoughton Sullivan</dcterms:title>
+   <dcterms:creator>Sullivan, Francis Stoughton, 1719-1776 [original]</dcterms:creator>
+   <dcterms:contributor>Stuart, Gilbert, 1742-1786 [original]</dcterms:contributor>
+   <dcterms:created>1776</dcterms:created>
+   <dcterms:extent>xvi, xxxii, 415 p. 27 cm.</dcterms:extent>
+   <dcterms:description>2d ed. [original]</dcterms:description>
+   <dcterms:description>Appeared first, 1772, under title: An historical treatise on the feudal law, and the constitution and laws of England. [original]</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Magna Carta</dcterms:subject>
+   <dcterms:subject>Feudal law--Great Britain</dcterms:subject>
+   <dcterms:subject>Constitutional history--Great Britain</dcterms:subject>
+   <dcterms:subject>Law--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2512841/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3217807</edm:isShownAt>
+</mdRecord>

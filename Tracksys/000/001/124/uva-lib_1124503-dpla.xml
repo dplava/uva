@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:39 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1124503</dcterms:identifier>
+   <dcterms:title>Beautiful bells: song, duett and chorus : as sung nightly with immense success in the burlesque of Ixion by Miss Lydia Thompson at Wood's Museum, N.Y. / music arranged by W.F. Wellman, Jr. ; words by George Cooper</dcterms:title>
+   <dcterms:title>Beautiful bells, o beautiful bells</dcterms:title>
+   <dcterms:contributor>Cooper, George, 1840-1927 [lyricist]</dcterms:contributor>
+   <dcterms:contributor>Thompson, Lydia, 1836?-1908 [performer, dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Wellman, W. F. (William F.) [arranger]</dcterms:contributor>
+   <dcterms:created>1869</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>voice (2), mixed chorus (4), piano [original]</dcterms:description>
+   <dcterms:description>For 2 voices and piano; with chorus refrain (SATB). [original]</dcterms:description>
+   <dcterms:description>"To Miss Lydia Thompson, New York." [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [2]: New and popular music for the pianoforte. On p. [6]: Choice catalogue of very popular music. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano, Arranged</dcterms:subject>
+   <dcterms:subject>Vocal duets with piano, Arranged</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano, Arranged</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901</dcterms:subject>
+   <dcterms:subject>Bells--Songs and music</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1124504/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313716</edm:isShownAt>
+</mdRecord>

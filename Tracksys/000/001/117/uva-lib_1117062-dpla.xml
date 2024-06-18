@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:29 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1117062</dcterms:identifier>
+   <dcterms:title>I love the merry sunshine: ballad / words by J.W. Lake ; music by S. Glover</dcterms:title>
+   <dcterms:title>I love the merry, merry sunshine</dcterms:title>
+   <dcterms:creator>Glover, Stephen, 1813-1870 [original]</dcterms:creator>
+   <dcterms:contributor>Lake, J. W. [lyricist]</dcterms:contributor>
+   <dcterms:created>[1850..1852]</dcterms:created>
+   <dcterms:extent>1 score (5 p.) ; 33 cm.</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>voice, piano [original]</dcterms:description>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.5 no.6: Sixth title in a bound volume of sheet music from the library of Mrs. Harriet Irvine. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1117063/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4631214</edm:isShownAt>
+</mdRecord>

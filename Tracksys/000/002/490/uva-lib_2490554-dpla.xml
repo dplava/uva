@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2490554</dcterms:identifier>
+   <dcterms:title>Sententiarii de Consolatione Philosophiae ca. 1460</dcterms:title>
+   <dcterms:creator>Boethius, -524 [original]</dcterms:creator>
+   <dcterms:created>1460</dcterms:created>
+   <dcterms:extent>1 v.</dcterms:extent>
+   <dcterms:description>Gothic cursive script; frame ruled; lacks initial letter; outer borders lack rubrics. [original]</dcterms:description>
+   <dcterms:description>A copy of Boethius's treatise made ca. 1460. [original]</dcterms:description>
+   <dcterms:description>Later binding, possibly for Sir Thomas Phillipps [original]</dcterms:description>
+   <dcterms:description>Medieval Manuscript AD [original]</dcterms:description>
+   <dcterms:description>Phillipps #635. [original]</dcterms:description>
+   <dcterms:description>Watermark in gutter of letter "P" with forked tail may indicate German origin. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: SPECIAL COLLECTIONS : Class of 1940 fund. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Boethius, -524</dcterms:subject>
+   <dcterms:subject>Christian life</dcterms:subject>
+   <dcterms:subject>Happiness</dcterms:subject>
+   <dcterms:subject>Philosophy and religion</dcterms:subject>
+   <dcterms:subject>Theology--History--Early church, ca. 30-600</dcterms:subject>
+   <dcterms:subject>Theology--Early works to 1800</dcterms:subject>
+   <dcterms:temporal>Early church, ca. 30-600</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2493742/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3902055</edm:isShownAt>
+</mdRecord>

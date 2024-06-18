@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:54 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1135711</dcterms:identifier>
+   <dcterms:title>Boers march / Joseph Tonello</dcterms:title>
+   <dcterms:creator>Tonello, Joseph. [original]</dcterms:creator>
+   <dcterms:created>[1850..1859]</dcterms:created>
+   <dcterms:extent>3 p. of music.</dcterms:extent>
+   <dcterms:description>organ [original]</dcterms:description>
+   <dcterms:description>trombone [original]</dcterms:description>
+   <dcterms:description>violoncello [original]</dcterms:description>
+   <dcterms:description>For organ, trombone, or cello. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Organ music</dcterms:subject>
+   <dcterms:subject>Cello music</dcterms:subject>
+   <dcterms:subject>Trombone music</dcterms:subject>
+   <dcterms:subject>Marches (Organ)</dcterms:subject>
+   <dcterms:subject>Marches (Trombone)</dcterms:subject>
+   <dcterms:subject>Marches (Violoncello)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1135712/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314326</edm:isShownAt>
+</mdRecord>

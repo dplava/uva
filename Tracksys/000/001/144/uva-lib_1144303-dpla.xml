@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:10 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1144303</dcterms:identifier>
+   <dcterms:title>In Wonne = In rapture lost : op. 56, no. 3 / Erik Meyer-Helmund ; Gedicth von Hermann Erler ; edited and translated by Helen D. Tretbar</dcterms:title>
+   <dcterms:title>In Wonne ganz versunken</dcterms:title>
+   <dcterms:title>In rapture lost</dcterms:title>
+   <dcterms:title>My soul is lost in rapture</dcterms:title>
+   <dcterms:title>Meyer-Helmund, Erik, 1861-1932. Lieder. op. 56. In Wonne</dcterms:title>
+   <dcterms:creator>Meyer-Helmund, Erik, 1861-1932 [original]</dcterms:creator>
+   <dcterms:contributor>C.G. Röder (Firm) [lithographer]</dcterms:contributor>
+   <dcterms:contributor>Erler, Hermann, 1844-1918 [original]</dcterms:contributor>
+   <dcterms:contributor>Tretbar, Helen D. [translator]</dcterms:contributor>
+   <dcterms:created>1888</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, soprano voice [original]</dcterms:description>
+   <dcterms:description>Soprano. [original]</dcterms:description>
+   <dcterms:description>For soprano and piano. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>"Inst. Lith. de C.G. Röder, Leipzig." [original]</dcterms:description>
+   <dcterms:description>German words with English translation. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Erler, Hermann, 1844-1918--Musical settings</dcterms:subject>
+   <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1144304/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314982</edm:isShownAt>
+</mdRecord>

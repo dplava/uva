@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:28 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2170110</dcterms:identifier>
+   <dcterms:title>Kingston, April 15, 1809: Dear Sir, The Federal Committee of the County of Ulster cannot refrain, on the eve of an important election, again to address you on the necessity of union, energy and exertion, at the ensuing contest. .. : To the polls then-- At the day of election hasten to the polls-- and support, and vote for the American Ticket / By order and in behalf of Noah Welles, John Sudam .. [and 5 others], General Committee. Cd. Edm. Elmendorf, Chairman</dcterms:title>
+   <dcterms:title>Dear Sir, The Federal Committee of the County of Ulster cannot refrain</dcterms:title>
+   <dcterms:title>Federal Committee of the County of Ulster cannot refrain</dcterms:title>
+   <dcterms:contributor>Elmendorf, Cd. Edm. [original]</dcterms:contributor>
+   <dcterms:contributor>Federal Party (N.Y.). Federal Committee of the County of Ulster. [original]</dcterms:contributor>
+   <dcterms:created>1809</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.) ; 33 x 20 cm.</dcterms:extent>
+   <dcterms:description>Printed signatures of the General Committee, with autograph signature of Elmendorf before the printed word "Chairman." [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Handwritten on verso, "Ebenezer Foote Esqr. Delhi." Tracy W. McGregor Library. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Foote, Ebenezer, 1756-1829--Library--Personal copy</dcterms:subject>
+   <dcterms:subject>Republican Party (U.S. : 1792-1828)</dcterms:subject>
+   <dcterms:subject>Federal Party (U.S.)</dcterms:subject>
+   <dcterms:subject>Campaign literature--New York (State)--Ulster County</dcterms:subject>
+   <dcterms:subject>Embargo, 1807-1809</dcterms:subject>
+   <dcterms:subject>United States--Foreign relations--Great Britain</dcterms:subject>
+   <dcterms:subject>Great Britain--Foreign relations--United States</dcterms:subject>
+   <dcterms:subject>United States--Commercial policy</dcterms:subject>
+   <dcterms:subject>United States--Politics and government--1801-1809</dcterms:subject>
+   <dcterms:subject>New York (State)--Politics and government--1775-1865</dcterms:subject>
+   <dcterms:temporal>1775-1865</dcterms:temporal>
+   <dcterms:temporal>1801-1809</dcterms:temporal>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <dcterms:spatial>New York (State)</dcterms:spatial>
+   <dcterms:spatial>Ulster County</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Kingston, New York, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2179918/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3699327</edm:isShownAt>
+</mdRecord>

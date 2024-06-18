@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:13 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66000</dcterms:identifier>
+   <dcterms:title>Les reports de Sir Gefrey Palmer, chevalier &amp; baronet .. [1619-1629]: Imprime &amp; publie per l'original. Ovesque deux tables, l'un des nosmes des cases, l'auter des principal matters conteinus en yceux</dcterms:title>
+   <dcterms:contributor>England and Wales. Court of King's Bench. [original]</dcterms:contributor>
+   <dcterms:contributor>Palmer, Gefrey, 1598-1670 [reporter]</dcterms:contributor>
+   <dcterms:created>1678</dcterms:created>
+   <dcterms:extent>2 p. l., 567 (i. e. 559), [43] p. front. (port.) 32 cm.</dcterms:extent>
+   <dcterms:medium>portraits [original]</dcterms:medium>
+   <dcterms:description>Signatures: frontispiece, 2 leaves unsigned, B-Z², Aa-Ll⁴, Aaa-Zzz², Aaaa-Zzzz², 5A-5Z⁴, 6A-6G⁴, 6H². [original]</dcterms:description>
+   <dcterms:description>Pages 177-184 omitted in numbering. [original]</dcterms:description>
+   <dcterms:description>The frontispiece is an engraved protrait of Palmer by R. White. [original]</dcterms:description>
+   <dcterms:description>Impressions 1678, 1688, 172l, identical, except in date. cf. Soule, Lawyer's ref. manual, 1884. [original]</dcterms:description>
+   <dcterms:description>"A catalogue of books printed for, and sold by Robert Pawlet": [1] p. at end. [original]</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2457989/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3362437</edm:isShownAt>
+</mdRecord>

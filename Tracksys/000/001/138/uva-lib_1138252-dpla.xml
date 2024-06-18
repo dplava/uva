@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:59 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1138252</dcterms:identifier>
+   <dcterms:title>Be mine! = Sei mein! : Lied, [op. 170] / by Gustav Hölzel</dcterms:title>
+   <dcterms:title>Maiden could my longings move thee</dcterms:title>
+   <dcterms:title>Sage liebes Mädchen fein</dcterms:title>
+   <dcterms:title>Sei mein!</dcterms:title>
+   <dcterms:title>Hölzel, Gustav. Sei mein! English &amp; German</dcterms:title>
+   <dcterms:creator>Hölzel, Gustav. [original]</dcterms:creator>
+   <dcterms:contributor>Habelmann, Theodore [performer]</dcterms:contributor>
+   <dcterms:contributor>Wakelam [engraver]</dcterms:contributor>
+   <dcterms:created>1871</dcterms:created>
+   <dcterms:extent>1 score ([5?] p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, voice [original]</dcterms:description>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>The work is the composer's op. 164. Cf. Pazdírek. [original]</dcterms:description>
+   <dcterms:description>At foot of title page: "Wakelam, N.Y." [original]</dcterms:description>
+   <dcterms:description>At head of title: "Sung by Theod. Habelmann." [original]</dcterms:description>
+   <dcterms:description>German and English words. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy imperfect; lacking pages after p. 4. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Love songs</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1138253/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314530</edm:isShownAt>
+</mdRecord>

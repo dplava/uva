@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:26 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2063352</dcterms:identifier>
+   <dcterms:title>Virginia and West Virginia</dcterms:title>
+   <dcterms:title>Pocket map of Virginia and West Virginia</dcterms:title>
+   <dcterms:contributor>John F. Waite Publishing Company (Chicago, Ill.) [original]</dcterms:contributor>
+   <dcterms:contributor>Virginia Business College. [original]</dcterms:contributor>
+   <dcterms:created>1897</dcterms:created>
+   <dcterms:extent>1 map : col. ; 33 x 53 cm., folded in cover 14 x 9 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:medium>paper [original]</dcterms:medium>
+   <dcterms:description>Relief shown by hachures. [original]</dcterms:description>
+   <dcterms:description>Prime meridians: Greenwich and Washington. [original]</dcterms:description>
+   <dcterms:description>On cover: Compliments, Virginia Business College, Richmond, Va. B.A. Davis, President. Richmond, Lynchburg. Established Sep. 3rd, 1888. Chartered July 3rd, 1896. [Calendar for 1897] Pocket map of Virginia and West Virginia inside. [original]</dcterms:description>
+   <dcterms:description>Inset: South west part of Virginia. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Coles Fund. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,230,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Virginia Business College.</dcterms:subject>
+   <dcterms:subject>Virginia--Maps</dcterms:subject>
+   <dcterms:subject>West Virginia--Maps</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>West Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2147371/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u1854391</edm:isShownAt>
+</mdRecord>

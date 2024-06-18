@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 6:46 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18665</dcterms:identifier>
+   <dcterms:title>Prospectus of "The Jefferson monument magazine": to be conducted by the students of the University of Virginia</dcterms:title>
+   <dcterms:created>1849</dcterms:created>
+   <dcterms:extent>1 sheet ([2] p.) ; 25 x 39 cm. folded to 25 x 19 cm.</dcterms:extent>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia--Periodicals</dcterms:subject>
+   <dcterms:subject>University of Virginia--Students--Periodicals</dcterms:subject>
+   <dcterms:subject>Jefferson monument magazine</dcterms:subject>
+   <dcterms:subject>College students' writings, American--Virginia--Charlottesville</dcterms:subject>
+   <dcterms:spatial>Charlottesville</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1511546/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2092102</edm:isShownAt>
+</mdRecord>

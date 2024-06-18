@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:22 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003572</dcterms:identifier>
+   <dcterms:title>Map of Louisiana, Texas, and Arkansas</dcterms:title>
+   <dcterms:creator>Mitchell, S. Augustus (Samuel Augustus), 1792-1868 [original]</dcterms:creator>
+   <dcterms:created>[1870..1880]</dcterms:created>
+   <dcterms:extent>1 map : col. ; 21 x27 cm. on sheet 24 x 29 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>Relief show by hachures. [original]</dcterms:description>
+   <dcterms:description>Descriptive text with running title "Louisiana, Texas" on verso (p. 45), features vignettes of the Battle of New Orleans and Scene in Texas. Text includes 1870 vensus population figures for both Louisiana and Texas. [original]</dcterms:description>
+   <dcterms:description>From an edition of S.A. Mitchell's A system of modern geography (His New intermediate geography, Bk, 3), published by Butler in Philadelphia. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:6,200,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Southwest, Old--Maps</dcterms:subject>
+   <dcterms:subject>Texas--Maps</dcterms:subject>
+   <dcterms:subject>Louisiana--Maps</dcterms:subject>
+   <dcterms:subject>Arkansas--Maps</dcterms:subject>
+   <dcterms:spatial>Arkansas</dcterms:spatial>
+   <dcterms:spatial>Louisiana</dcterms:spatial>
+   <dcterms:spatial>Southwest, Old</dcterms:spatial>
+   <dcterms:spatial>Texas</dcterms:spatial>
+   <dcterms:spatial>Philadelphia, Pennyslvania, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904820/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4721186</edm:isShownAt>
+</mdRecord>

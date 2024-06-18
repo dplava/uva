@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:26 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2065929</dcterms:identifier>
+   <dcterms:title>Narrative of travels and discoveries in Northern and Central Africa, in the years 1822, 1823, and 1824 / by Major Denham, F.R.S., Captain Clapperton, and the late Doctor Oudney, extending across the great desert to the tenth degree of northern latitute, and from Kouka in Bornou, to Sackatoo, the capital of the Felatah empire</dcterms:title>
+   <dcterms:creator>Denham, Dixon, 1786-1828 [original]</dcterms:creator>
+   <dcterms:contributor>Clapperton, Hugh, 1788-1827 [joint author]</dcterms:contributor>
+   <dcterms:contributor>Oudney, Walter, 1790-1824 [joint author]</dcterms:contributor>
+   <dcterms:contributor>Salamé, Abraham V. [original]</dcterms:contributor>
+   <dcterms:created>1826</dcterms:created>
+   <dcterms:extent>xlviii, 335, 269 p. plates, fold. maps, facsims. 22 cm.</dcterms:extent>
+   <dcterms:medium>maps [original]</dcterms:medium>
+   <dcterms:medium>plates [original]</dcterms:medium>
+   <dcterms:description>"Appendix. Translations from the Arabic, of various letters and documents, brought from Bornou and Soudan by Major Denham and Captain Clapperton. By A. Salame, esq. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Gift of E.C. Balch. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Clark, Emily, 1893-1953--Library--Personal copy</dcterms:subject>
+   <dcterms:subject>Africa, Central--Description and travel</dcterms:subject>
+   <dcterms:subject>Africa, North--Description and travel</dcterms:subject>
+   <dcterms:spatial>Africa, Central</dcterms:spatial>
+   <dcterms:spatial>Africa, North</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2409468/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u846849</edm:isShownAt>
+</mdRecord>

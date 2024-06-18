@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:26 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2062772</dcterms:identifier>
+   <dcterms:title>Map of Oklahoma and Indian ters</dcterms:title>
+   <dcterms:title>Map of Oklahoma and Indian territories</dcterms:title>
+   <dcterms:contributor>Cram, George Franklin, 1841-1928 [original]</dcterms:contributor>
+   <dcterms:contributor>George F. Cram Company. [original]</dcterms:contributor>
+   <dcterms:created>1900</dcterms:created>
+   <dcterms:extent>1 map : col. ; 34 x 50 cm. on sheet 37 x 57 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>Inset map: Beaver [County western section]. [original]</dcterms:description>
+   <dcterms:description>Appeared in an unidentified Cram atlas, p. 233-236. Map is on p. 234-235; Index for towns in Indian Territory on p. 233; Index for towns in Oklahoma Territory on p. 236. [original]</dcterms:description>
+   <dcterms:description>"George F. Cram, Engraver &amp; Publisher, Chicago, Ill." -- Lower right corner of map. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,267,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Indians of North America--Oklahoma--Maps</dcterms:subject>
+   <dcterms:subject>Oklahoma--Maps</dcterms:subject>
+   <dcterms:subject>Indian Territory--Maps</dcterms:subject>
+   <dcterms:spatial>Indian Territory</dcterms:spatial>
+   <dcterms:spatial>Oklahoma</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2146248/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5722773</edm:isShownAt>
+</mdRecord>

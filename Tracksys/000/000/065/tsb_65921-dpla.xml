@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:11 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65921</dcterms:identifier>
+   <dcterms:title>Johannis Kahl, aliàs Calvini .. Magnum lexicon juridicum juris nimirum caesarei simul, &amp; canonici, feudalis item, civilis, criminalis, theoretici ac practici: &amp; in schola, &amp; in foro usitatarum ac tum ex ipso juris utriusque corpore, tum ex doctoribus &amp; glossis, tam veteribus, qua`m recentioribus collectarum vocum penus : simul &amp; locorum communium, &amp; dictionarii vicem sustinens : feudale lexicon, leges ac magistratus romanos, &amp; caetera huic operi adjecta vide in complemento, post finem operis ipsius. Collectum / auctum deinde, expolitum et emendatum, ex hactenus editis accuratissimis lucubrationibus .. Cum praefationibus Clar. &amp; emin. juris-consultorum Dion. Gothofredi, &amp; Herm. Vulteii</dcterms:title>
+   <dcterms:title>Magnum lexicon juridicum</dcterms:title>
+   <dcterms:title>Calvinus, Johannes, -1614. Lexicon juridicum</dcterms:title>
+   <dcterms:creator>Calvinus, Johannes, -1614 [original]</dcterms:creator>
+   <dcterms:contributor>Godefroy, Denis, 1549-1621 [original]</dcterms:contributor>
+   <dcterms:contributor>Vultejus, Hermann, 1565-1634 [original]</dcterms:contributor>
+   <dcterms:created>1759</dcterms:created>
+   <dcterms:extent>2 v. ; 38 cm.</dcterms:extent>
+   <dcterms:description>Editio postrema, auctior, &amp; ab innumeris mendis ex purgata ... [original]</dcterms:description>
+   <dcterms:description>Text printed in double columns. [original]</dcterms:description>
+   <dcterms:description>Woodcut title vignette, initials, head- and tail-pieces. [original]</dcterms:description>
+   <dcterms:description>LAW: Bound in vellum. [original]</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Law, Medieval--Dictionaries</dcterms:subject>
+   <dcterms:subject>Roman law--Dictionaries</dcterms:subject>
+   <dcterms:subject>Canon law--Dictionaries</dcterms:subject>
+   <dcterms:subject>Feudal law--Dictionaries</dcterms:subject>
+   <dcterms:subject>Ecclesiastical law--Dictionaries</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2410964/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4244353</edm:isShownAt>
+</mdRecord>

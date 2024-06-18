@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:22 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003583</dcterms:identifier>
+   <dcterms:title>A pocket companion of ye roads, of ye south part of Great Britain, called England and Wales: containing all ye cities, market towns, post towns, boroughs: and whatever places have ye election of members of Parliament &amp;c. All the great or post-roads, and principal cross-roads &amp;c. with ye computed miles from town to town / by Herman Moll Geographer</dcterms:title>
+   <dcterms:title>Pocket companion of the roads of the south part of Great Britain, called England and Wales</dcterms:title>
+   <dcterms:creator>Moll, Herman, -1732 [original]</dcterms:creator>
+   <dcterms:contributor>Ogilby, John, 1600-1676 [original]</dcterms:contributor>
+   <dcterms:created>1724</dcterms:created>
+   <dcterms:extent>1 map ; 27 x 30 cm.</dcterms:extent>
+   <dcterms:description>Relief not shown. [original]</dcterms:description>
+   <dcterms:description>Dedication: To His Higness Prince Frederick Duke of Glocester &amp;c. This map is most humbly dedicated by Her: Moll Geogr. [original]</dcterms:description>
+   <dcterms:description>Note. This map may be used with:out scale or compasses: for ye towns that are not touched by the roads lying near them, thier distances may easily be computed by inspection. [original]</dcterms:description>
+   <dcterms:description>Symbols listed for cities, archbishopricks, bishopricks, post towns or stages on the post roads, market and post towns, market towns. [original]</dcterms:description>
+   <dcterms:description>Note: Great or direct roads, principal cross roads &amp;c. many not to be found in Mr. Ogilby's book. [original]</dcterms:description>
+   <dcterms:description>Note: Since ye beginning of this new set of maps, now compleatly finish'd; several ignorant pretenders have started up, and with great shew and noise frequently advertised their trifling performances; calling them cheap, curious, usefull and correct: as to ye first epithed, they are really dear, at any price; in ye second place, everyon body may see they are wild, confused and poorly engraven; as for their usefulness, they tend only to lead people into errors; and so far from being correct; that ye projection of their principal maps is notoriously false. [original]</dcterms:description>
+   <dcterms:description>Detached from an unidentified source. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:2,500,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Great Britain--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>England--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Wales--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>England</dcterms:spatial>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <dcterms:spatial>Wales</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904832/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4776278</edm:isShownAt>
+</mdRecord>

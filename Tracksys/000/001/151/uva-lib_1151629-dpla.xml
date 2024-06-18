@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:23 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1151629</dcterms:identifier>
+   <dcterms:title>Never push a man going down the hill / melody by Eph. Horn Jr. ; arranged by C.T. Dondorf</dcterms:title>
+   <dcterms:title>Help one another, boys</dcterms:title>
+   <dcterms:title>In this sensation century good songs are very few</dcterms:title>
+   <dcterms:creator>Horn, Eph. (Ephraim) Jr [original]</dcterms:creator>
+   <dcterms:contributor>Dondorf, C. T. [arranger]</dcterms:contributor>
+   <dcterms:created>1870</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>voice, mixed chorus (4), piano [original]</dcterms:description>
+   <dcterms:description>For voice and piano, with chorus refrain (SATB). [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: Whitney's musical guest. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy imperfect; title page lacking. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1151630/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314585</edm:isShownAt>
+</mdRecord>

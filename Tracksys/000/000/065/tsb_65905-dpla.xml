@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:10 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65905</dcterms:identifier>
+   <dcterms:title>Loffice et auctoritie de iustices de peace / in part collect per Sir Anthonie Fitzherbert .. et ore le cinque foits inlarge per Richard Crompton .. et imprimee lan du grace 1606. A que est annex Loffice de viconts, bailifes, escheators, constables, coroners, &amp;c. collect per le dit mounsieur Fitzherbert in part. Et auxy certaine presidents de indictments, &amp; auters choses</dcterms:title>
+   <dcterms:creator>Fitzherbert, Anthony, 1470-1538 [original]</dcterms:creator>
+   <dcterms:contributor>Crompton, Richard, active 1573-1599 [original]</dcterms:contributor>
+   <dcterms:created>1617</dcterms:created>
+   <dcterms:extent>11 p. l., 270 (i.e. 274) numb. l. 19 cm.</dcterms:extent>
+   <dcterms:description>Numerous errors in foliation. [original]</dcterms:description>
+   <dcterms:description>STC 10983. [original]</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Justices of the peace--Great Britain</dcterms:subject>
+   <dcterms:subject>Sheriffs--Great Britain</dcterms:subject>
+   <dcterms:subject>Bailiffs--Great Britain</dcterms:subject>
+   <dcterms:subject>Constables--Great Britain</dcterms:subject>
+   <dcterms:subject>Coroners--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2424261/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3354499</edm:isShownAt>
+</mdRecord>

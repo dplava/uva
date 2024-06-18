@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:02 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1139991</dcterms:identifier>
+   <dcterms:title>St. Ann's Te Deum / by E.D.</dcterms:title>
+   <dcterms:title>Te Deum</dcterms:title>
+   <dcterms:title>We praise thee, o God</dcterms:title>
+   <dcterms:creator>D., E. V. [original]</dcterms:creator>
+   <dcterms:created>1871</dcterms:created>
+   <dcterms:extent>1 score (13 p.)</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>mixed chorus (4), organ [original]</dcterms:description>
+   <dcterms:description>For chorus (SATB) and organ. [original]</dcterms:description>
+   <dcterms:description>At head of title: To the members of St. Ann's choir (Amsterdam, N.Y.) this Te Deum is respectfully dedicated by their organist. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy imperfect; lacking p. 7-8. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Choruses, Sacred (Mixed voices, 4 parts) with organ</dcterms:subject>
+   <dcterms:subject>Te Deum laudamus (Music)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1139992/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314669</edm:isShownAt>
+</mdRecord>

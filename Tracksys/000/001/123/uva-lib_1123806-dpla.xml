@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:38 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1123806</dcterms:identifier>
+   <dcterms:title>Dame Nightingale = Frau Nachtigall : song / by Wilh. Taubert ; [English words by Auber Forestier]</dcterms:title>
+   <dcterms:title>Dame nightingale, dame nightingale</dcterms:title>
+   <dcterms:title>Frau Nachtigall</dcterms:title>
+   <dcterms:title>Frau Nachtigall, Frau Nachtigall</dcterms:title>
+   <dcterms:title>Taubert, Wilhelm, 1811-1891. Herzallerliebsten. English &amp; German</dcterms:title>
+   <dcterms:creator>Taubert, Wilhelm, 1811-1891 [original]</dcterms:creator>
+   <dcterms:contributor>Johannsen, Bertha [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Moore, Aubertine Woodward, 1841-1929 [translator]</dcterms:contributor>
+   <dcterms:created>1877</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, mezzo-soprano voice [original]</dcterms:description>
+   <dcterms:description>Mezzo soprano in F. [original]</dcterms:description>
+   <dcterms:description>For mezzo-soprano and piano. [original]</dcterms:description>
+   <dcterms:description>"Op. 76"--Caption. [original]</dcterms:description>
+   <dcterms:description>"To Madame Bertha Johannsen." [original]</dcterms:description>
+   <dcterms:description>"From the boys Wonderhorn"--Caption. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1123807/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313654</edm:isShownAt>
+</mdRecord>

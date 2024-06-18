@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:24 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1017693</dcterms:identifier>
+   <dcterms:title>Le rasoir des rasez: Recueil auquel est traité amplement de la tonsure &amp; rasure du Pape, &amp; de ses Papelards</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia) [original]</dcterms:creator>
+   <dcterms:created>1562</dcterms:created>
+   <dcterms:extent>55, [5] p. ; 18 cm. (8vo)</dcterms:extent>
+   <dcterms:description>Signatures: A-C⁸ D⁶. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Bookplates of Edouard Moura and Jacques Vieillard, with two unidentified armorial bookplates-- crest, divided in 4 pts, with two lions, with crown; eagle, with crown. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 91. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Bookplates of Edouard Moura and Jacques Vieillard, with two unidentified armorial bookplates-- crest, divided in 4 pts, with two lions, with crown; eagle, with crown. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 91. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Catholic Church--Controversial literature</dcterms:subject>
+   <dcterms:subject>Tonsure</dcterms:subject>
+   <dcterms:subject>Beards</dcterms:subject>
+   <dcterms:subject>France--Church history</dcterms:subject>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1021238/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2229524</edm:isShownAt>
+</mdRecord>

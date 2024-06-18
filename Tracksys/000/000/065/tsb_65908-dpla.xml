@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:10 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65908</dcterms:identifier>
+   <dcterms:title>Reports of cases argued and determined in the High Court of Chancery: in the time of Lord Chancellor Hardwicke [1736-1754] / collected and methodised by John Tracy Atkyns .. ; with notes and references, and three tables : one of the several titles with their divisions, another of the names of the cases, and a third of the principal matters</dcterms:title>
+   <dcterms:contributor>Atkyns, John Tracy, approximately 1710-1773 [original]</dcterms:contributor>
+   <dcterms:contributor>Great Britain. Court of Chancery. [original]</dcterms:contributor>
+   <dcterms:contributor>Hardwicke, Philip Yorke Earl of, 1690-1764 [original]</dcterms:contributor>
+   <dcterms:created>1781/1782</dcterms:created>
+   <dcterms:extent>3 v. ; 25 cm.</dcterms:extent>
+   <dcterms:description>2nd ed., rev. and cor. [original]</dcterms:description>
+   <dcterms:description>Cases in v. 1 are arranged alphabetically by subject; those in v. 2-3, chronologically. [original]</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+   <dcterms:subject>Equity--Great Britain--Cases</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2403845/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3268828</edm:isShownAt>
+</mdRecord>

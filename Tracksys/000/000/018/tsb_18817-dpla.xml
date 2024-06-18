@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 6:48 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>tsb:18817</dcterms:identifier>
+   <dcterms:title>Official map of Washington: Fifteenth International Christian Endeavor Convention, July 8-13, 1896 / prepared by the Committee of '96 ; presented with the compliments of the Estey Organ and Piano Co., Brattleboro, Vermont, and New York, N.Y.</dcterms:title>
+   <dcterms:contributor>International Christian Endeavor Convention (15th : 1896 : Washington, D.C.) [original]</dcterms:contributor>
+   <dcterms:contributor>Norris Peters Co. [original]</dcterms:contributor>
+   <dcterms:contributor>Robison, Wm. B. (William B.) [original]</dcterms:contributor>
+   <dcterms:contributor>Taylor, Anson S. [original]</dcterms:contributor>
+   <dcterms:contributor>United Society of Christian Endeavor. Committee of '96. [original]</dcterms:contributor>
+   <dcterms:created>1896</dcterms:created>
+   <dcterms:extent>1 map : col. ; 46 x 58 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>paper [original]</dcterms:medium>
+   <dcterms:description>Shows street railways and radial distances from the Ellipse. [original]</dcterms:description>
+   <dcterms:description>"Copyright, 1896, by Anson S. Taylor and Wm. B. Robison, Trustees." [original]</dcterms:description>
+   <dcterms:description>Includes text, colored illustrations, and index to points of interest including main meeting places, churches, hotels, monuments and statues, parks, cemeteries, and more. [original]</dcterms:description>
+   <dcterms:description>Index to points of interest and blank area on verso. [original]</dcterms:description>
+   <dcterms:description>Map shows street names and is divided into quadrants. [original]</dcterms:description>
+   <dcterms:description>Table under title: "Location of street railways and transfer station." [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS. Imperfect: has marginal tears, and a taped repair on verso. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:17,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Washington (D.C.)--Maps</dcterms:subject>
+   <dcterms:spatial>Washington (D.C.)</dcterms:spatial>
+   <dcterms:spatial>Washington, District of Columbia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1517887/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4683706</edm:isShownAt>
+</mdRecord>

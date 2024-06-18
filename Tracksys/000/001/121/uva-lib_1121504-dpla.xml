@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:34 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1121504</dcterms:identifier>
+   <dcterms:title>St. Alban's grand march: op. 206 / composed by A.H. Rosewig</dcterms:title>
+   <dcterms:creator>Rosewig, A. H. (Albert Henry), 1846-1929 [original]</dcterms:creator>
+   <dcterms:contributor>Hunter, Thomas (Lithographer) [lithographer]</dcterms:contributor>
+   <dcterms:created>1880</dcterms:created>
+   <dcterms:extent>7 p. of music : ill.</dcterms:extent>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:description>piano (2) [original]</dcterms:description>
+   <dcterms:description>Piano duet. [original]</dcterms:description>
+   <dcterms:description>For piano (4 hands). [original]</dcterms:description>
+   <dcterms:description>At foot of title page: "Thos. Hunter, Lith., Phila." [original]</dcterms:description>
+   <dcterms:description>Imprint varies: "C.1879"--T.p. [original]</dcterms:description>
+   <dcterms:description>At head of title: "Dedicated to the officers and sir knights of St. Alban Commandery No.47 K.T., Philadelphia." [original]</dcterms:description>
+   <dcterms:description>Illustration: Cross encircled by a crown. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music (4 hands)</dcterms:subject>
+   <dcterms:subject>Marches (Piano, 4 hands)</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1121505/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313482</edm:isShownAt>
+</mdRecord>

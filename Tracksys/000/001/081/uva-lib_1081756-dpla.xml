@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:28 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1081756</dcterms:identifier>
+   <dcterms:title>Sketch II showing the progress of the survey in section no. VIII from 1846 to 1857 / U.S. Coast Survey, A.D. Bache, superintendent</dcterms:title>
+   <dcterms:title>Sketch 2 showing the progress of the survey in section no. VIII</dcterms:title>
+   <dcterms:title>Sketch two showing the progress of the survey in Section no. VIII from 1846 to 1857</dcterms:title>
+   <dcterms:contributor>Lang &amp; Laing Lith. [original]</dcterms:contributor>
+   <dcterms:contributor>United States Coast Survey. [original]</dcterms:contributor>
+   <dcterms:created>1857</dcterms:created>
+   <dcterms:extent>1 map ; 50 x 84 cm.</dcterms:extent>
+   <dcterms:description>Relief not shown. [original]</dcterms:description>
+   <dcterms:description>Shows extensive triangulations in area of Vermillion Bay (Louisiana) eastward through Mobile Bay (Alabama). [original]</dcterms:description>
+   <dcterms:description>Notes on stations. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Linen-backed. [original]</dcterms:description>
+   <dcterms:description>Scale 1:600,000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Nautical charts--Mexico, Gulf of</dcterms:subject>
+   <dcterms:subject>Gulf Coast (U.S.)--Maps</dcterms:subject>
+   <dcterms:subject>Mexico, Gulf of--Maps</dcterms:subject>
+   <dcterms:spatial>Gulf Coast (U.S.)</dcterms:spatial>
+   <dcterms:spatial>Mexico, Gulf of</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1086308/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5170301</edm:isShownAt>
+</mdRecord>

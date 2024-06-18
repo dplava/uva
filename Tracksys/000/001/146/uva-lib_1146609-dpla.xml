@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:14 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1146609</dcterms:identifier>
+   <dcterms:title>When I can read my title clear: with duett for soprano and tenor / composed by J.R. Thomas</dcterms:title>
+   <dcterms:title>When I can read my title clear</dcterms:title>
+   <dcterms:creator>Thomas, J. R. (John Rogers), 1830-1896 [original]</dcterms:creator>
+   <dcterms:contributor>Seymour, William L. Mrs [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Watts, Isaac, 1674-1748 [original]</dcterms:contributor>
+   <dcterms:created>1862</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>soprano voice, alto voice, tenor voice, bass voice, piano [original]</dcterms:description>
+   <dcterms:description>For vocal quartette with piano; includes duet for soprano and tenor. [original]</dcterms:description>
+   <dcterms:description>Words by Isaac Watts. [original]</dcterms:description>
+   <dcterms:description>At head of caption: "To Mrs. William L. Seymour." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Watts, Isaac, 1674-1748--Musical settings</dcterms:subject>
+   <dcterms:subject>Sacred vocal quartets with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1146610/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315166</edm:isShownAt>
+</mdRecord>

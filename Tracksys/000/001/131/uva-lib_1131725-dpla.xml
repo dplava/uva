@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:47 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1131725</dcterms:identifier>
+   <dcterms:title>Thine alone: charming song &amp; chorus / words by Elmer Ruán Coates ; music by E. Mack</dcterms:title>
+   <dcterms:title>Believe me when I fondly speak</dcterms:title>
+   <dcterms:title>Then doubt me not</dcterms:title>
+   <dcterms:creator>Mack, Edward, 1826-1882 [original]</dcterms:creator>
+   <dcterms:contributor>Caines, Emma J. [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Coates, Elmer Ruan, 1831-1889 [lyricist]</dcterms:contributor>
+   <dcterms:contributor>Gillingham, Edwin [engraver]</dcterms:contributor>
+   <dcterms:created>1869</dcterms:created>
+   <dcterms:extent>1 score (5 p.) : ill.</dcterms:extent>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>voice, mixed chorus (4), piano [original]</dcterms:description>
+   <dcterms:description>For piano and voice, with chorus refrain. [original]</dcterms:description>
+   <dcterms:description>Title page illustration: Man on bended knee in front of seated woman. [original]</dcterms:description>
+   <dcterms:description>At foot of title page: "Gillingham." [original]</dcterms:description>
+   <dcterms:description>At head of title: "To Miss Emma J. Caines." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1131726/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314006</edm:isShownAt>
+</mdRecord>

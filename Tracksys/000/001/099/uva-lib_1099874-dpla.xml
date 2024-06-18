@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:28 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1099874</dcterms:identifier>
+   <dcterms:title>Le grand triumphe magnificque &amp; resiouissance des Parisiens, de la venue du treschrestien Roy Henry second de ce nom en sa ville de Paris / par F. debez. Auec vne epistre a la Royne</dcterms:title>
+   <dcterms:creator>Bez, Ferrand de, d. 1581 [original]</dcterms:creator>
+   <dcterms:contributor>Buffet, Nicolas, -1551 [bookseller]</dcterms:contributor>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:contributor>Trautz, Georges, 1808-1879 [binder]</dcterms:contributor>
+   <dcterms:created>1549</dcterms:created>
+   <dcterms:extent>[16] p., [1] leaf of plates : port. ; 14 cm. (8vo)</dcterms:extent>
+   <dcterms:extent>14 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:medium>portraits [original]</dcterms:medium>
+   <dcterms:description>Signatures: A-B⁴. [original]</dcterms:description>
+   <dcterms:description>In verse. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Trautz-Bauzonnet. Monogram bookplate of "AA." Handwritten note identifies AA as Alphonse Accdeust (?) and lists other owners, J.L.A. Coste and Fairfax Murray. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 163. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Henry, II, King of France, 1519-1559</dcterms:subject>
+   <dcterms:subject>France--History--Henry II, 1547-1559</dcterms:subject>
+   <dcterms:temporal>Henry II, 1547-1559</dcterms:temporal>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1116603/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2259406</edm:isShownAt>
+</mdRecord>

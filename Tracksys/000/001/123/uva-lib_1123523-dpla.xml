@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:37 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1123523</dcterms:identifier>
+   <dcterms:title>Eilleen Allanna: Irish ballad / music by J.R. Thomas ; words by E.S. Marble</dcterms:title>
+   <dcterms:title>Eilleen Allanna, Eilleen Asthore</dcterms:title>
+   <dcterms:title>Faithful I'll be to the colleen I adore</dcterms:title>
+   <dcterms:creator>Thomas, J. R. (John Rogers), 1830-1896 [original]</dcterms:creator>
+   <dcterms:contributor>Bryant, Ellie [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Marble, Ed., 1846-1900 [lyricist]</dcterms:contributor>
+   <dcterms:contributor>Teller, R. [lithographer]</dcterms:contributor>
+   <dcterms:created>1873</dcterms:created>
+   <dcterms:extent>1 score (5 p.) : col. ill.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>voice, mixed chorus (4), piano [original]</dcterms:description>
+   <dcterms:description>For voice and piano; with optional chorus refrain (SATB). [original]</dcterms:description>
+   <dcterms:description>"Lith. by R. Teller, 62 Church St. N. York. [original]</dcterms:description>
+   <dcterms:description>"To Miss Eille Bryant, New York." [original]</dcterms:description>
+   <dcterms:description>"N.B. This chorus may be omitted at pleasure"--p. 4. [original]</dcterms:description>
+   <dcterms:description>Illustration: Cartouche of flowers and branches. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901</dcterms:subject>
+   <dcterms:subject>Love songs</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1123524/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313635</edm:isShownAt>
+</mdRecord>

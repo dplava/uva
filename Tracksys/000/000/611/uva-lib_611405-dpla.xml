@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:34 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:611405</dcterms:identifier>
+   <dcterms:title>Hecatomphile / de vulgaire Italien tourné en langaige Francoys. Les fleurs de pöesie Francoyse</dcterms:title>
+   <dcterms:title>Alberti, Leon Battista, 1404-1472. Hecatomphila. French (Middle French)</dcterms:title>
+   <dcterms:creator>Alberti, Leon Battista, 1404-1472 [original]</dcterms:creator>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:contributor>Juste, Françoys, active 16th century [bookseller]</dcterms:contributor>
+   <dcterms:contributor>Thibaron, -1885 [binder.?unauthorized]</dcterms:contributor>
+   <dcterms:created>1534</dcterms:created>
+   <dcterms:extent>43, [1] leaves : ill. ; 16 x 8 cm. (8vo)</dcterms:extent>
+   <dcterms:extent>16 x 8 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:medium>ill. [original]</dcterms:medium>
+   <dcterms:description>Signatures: A-B⁸ C⁴ D-F⁸. [original]</dcterms:description>
+   <dcterms:description>Les fleurs de pöesie Francoyse: leaves [21]-43. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Thibaron. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 769. A handwritten and printed bookseller's descriptions, which were laid in, have been placed in collection INSERT FILE. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>French poetry--16th century</dcterms:subject>
+   <dcterms:temporal>16th century</dcterms:temporal>
+   <dcterms:spatial>Lyon, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:611419/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2306461</edm:isShownAt>
+</mdRecord>

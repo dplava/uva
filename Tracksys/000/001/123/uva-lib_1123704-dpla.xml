@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:38 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1123704</dcterms:identifier>
+   <dcterms:title>Little stars are brightly shining: song and chorus : sung with great success, by the celebrated male soprano, George W. Harley of Simmons, Slocum &amp; Sweatnam's Minstrels / music by W. von Thilo ; words by Frank H. Wade</dcterms:title>
+   <dcterms:creator>Thilo, W. von. [original]</dcterms:creator>
+   <dcterms:contributor>Armstrong, J. M. (John M.), -1878 [original]</dcterms:contributor>
+   <dcterms:contributor>Harley, George W. (George Way), 1894-1966 [performer]</dcterms:contributor>
+   <dcterms:contributor>MacKenzie, Constance [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Wade, Frank H. [lyricist]</dcterms:contributor>
+   <dcterms:created>1876</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>voice, mixed chorus (4), piano [original]</dcterms:description>
+   <dcterms:description>For voice and piano; with chorus refrain (SATB). [original]</dcterms:description>
+   <dcterms:description>"J. M. Armstrong, music typographer." [original]</dcterms:description>
+   <dcterms:description>"To Miss Constance MacKenzie." [original]</dcterms:description>
+   <dcterms:description>"Advertisement on p. [6]: Catalogue of popular piano music published by Louis Meyer. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1123705/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313643</edm:isShownAt>
+</mdRecord>

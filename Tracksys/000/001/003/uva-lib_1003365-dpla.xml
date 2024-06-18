@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:20 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003365</dcterms:identifier>
+   <dcterms:title>Map of the property of the Lexington Development Company at Lexington, Rockbridge County, Virginia August 15, 1891 / by D.C. Humphreys, Prof. Eng. Washington &amp; Lee University, Lexington, Va. ; Engineers Chas. W. Forster &amp; J.W. Link ; Field Assistant J.T. Morgan ; drawn by J.W. Link ; for more information apply to The Lexington Development Company, Lexington, Va</dcterms:title>
+   <dcterms:title>Lexington, an educational centre</dcterms:title>
+   <dcterms:creator>Humphreys, D. C. [original]</dcterms:creator>
+   <dcterms:contributor>A. Hoen &amp; Co. [original]</dcterms:contributor>
+   <dcterms:contributor>Lexington Development Company (Lexington, Va)) [original]</dcterms:contributor>
+   <dcterms:contributor>Link, J. W. [original]</dcterms:contributor>
+   <dcterms:created>1891</dcterms:created>
+   <dcterms:extent>1 map : col. ; 34 x 54 cm. on sheet 41 x 57 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:description>Relief shown by contour lines. [original]</dcterms:description>
+   <dcterms:description>Inset (separate scale, with radial distances): Map showing location of Lexington Virginia. 1890. [original]</dcterms:description>
+   <dcterms:description>Three pictorial insets: Hotel de Hart, Lexington, Va. -- Main buildings of Washington and Lee University. Chartered 1782 -- Virginia Military Institute. Founded 1839. [original]</dcterms:description>
+   <dcterms:description>Separate heading appears lower central map: Lexington an Educational Centre (listing Washington &amp; Lee, Virginia Military Institute and Anne Smith Academy for Young Ladies. [original]</dcterms:description>
+   <dcterms:description>Shows downtown Lexington, plus street names, numbered blocks and lots of the area owned by the Company. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:10,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Lexington Development Company (Lexington, Va.)--Maps</dcterms:subject>
+   <dcterms:subject>Real estate development--Virginia--Lexington--Maps</dcterms:subject>
+   <dcterms:subject>City planning--Virginia--Lexington--Maps</dcterms:subject>
+   <dcterms:subject>Lexington (Va.)--Maps</dcterms:subject>
+   <dcterms:spatial>Lexington</dcterms:spatial>
+   <dcterms:spatial>Lexington (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>SPECIAL COLLECTIONS: In Flat Map Box</dcterms:spatial>
+   <dcterms:spatial>Richmond, VIrginia, United States</dcterms:spatial>
+   <dcterms:spatial>Lexington, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:891435/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4745168</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:15 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1147432</dcterms:identifier>
+   <dcterms:title>Souvenir d'amitie: polka, op. 64 : morceau de salon / composée par A. de Bubna</dcterms:title>
+   <dcterms:creator>Bubna, A. de (Alexander) [original]</dcterms:creator>
+   <dcterms:contributor>Gaw, Robert M., approximately 1805- [lithographer]</dcterms:contributor>
+   <dcterms:contributor>Porter, T. H. [engraver]</dcterms:contributor>
+   <dcterms:contributor>Whitcomb, Frank. D. [dedicatee]</dcterms:contributor>
+   <dcterms:created>1863</dcterms:created>
+   <dcterms:extent>9 p. of music.</dcterms:extent>
+   <dcterms:description>piano [original]</dcterms:description>
+   <dcterms:description>For piano. [original]</dcterms:description>
+   <dcterms:description>"Porter"--Colophon. [original]</dcterms:description>
+   <dcterms:description>At foot of title page: "R. M. Gaw." [original]</dcterms:description>
+   <dcterms:description>"À son ami Frank. D. Whitcomb." [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [10]: Select catalogue of sheet music. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Polkas</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1147433/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315241</edm:isShownAt>
+</mdRecord>

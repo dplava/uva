@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:39 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:830147</dcterms:identifier>
+   <dcterms:title>The wide, wide world / by Elizabeth Wetherell</dcterms:title>
+   <dcterms:creator>Warner, Susan, 1819-1885 [original]</dcterms:creator>
+   <dcterms:contributor>Greening, W. [original]</dcterms:contributor>
+   <dcterms:created>[1878..1889]</dcterms:created>
+   <dcterms:extent>576, [16] p., [11] leaves of plates : ill. (3 col.) ; 19 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>ill. (3 col.) [original]</dcterms:medium>
+   <dcterms:description>Complete edition. [original]</dcterms:description>
+   <dcterms:description>Ward, Lock &amp; Co. was at this address from 1878-1890. Cf. P.A.H. Brown, London publishers and printers, c. 1800-1870. [original]</dcterms:description>
+   <dcterms:description>Advertisements: List of titles in the "Home treasure library" on p. [2]; 66 titles from the "Lily series" on p. [4]; "A list of Ward, Lock &amp; Co.'s illustrated gift books, standard works, and popular volumes for children" on p. [1]-[16] at end. [original]</dcterms:description>
+   <dcterms:description>Contains a presentation inscription dated 1889 and binder's label of W. Greening, 183 Fleet Street. [original]</dcterms:description>
+   <dcterms:description>Original pictorial green cloth, with design, series title, cover title and spine title stamped in darker green, black and gold. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Gift of Melissa White, 2006. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: PS3155 .W5 1878c: Variant edition, but added here because the volume is imperfect, with everything before p. [5] wanting. Nine plates (1 col.) are present; images are the same as in 1878b, but the captions are different. The pages of the publisher's advertisements are numbered, with only p. 3-12 present. Original maroon cloth, stamped in black and gold, with "Coloured illustrations" stamped at bottom of cover title. Gift of Melissa White, 2006. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: PS3155 .W5 1878c: Variant edition, but added here because the volume is imperfect, with everything before p. [5] wanting. Nine plates (1 col.) are present; images are the same as in 1878b, but the captions are different. The pages of the publisher's advertisements are numbered, with only p. 3-12 present. Original maroon cloth, stamped in black and gold, with "Coloured illustrations" stamped at bottom of cover title. Gift of Melissa White, 2006. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Christian life--Fiction</dcterms:subject>
+   <dcterms:subject>Christian life--Juvenile fiction</dcterms:subject>
+   <dcterms:subject>Children and death--Juvenile fiction</dcterms:subject>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1177181/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4344853</edm:isShownAt>
+</mdRecord>

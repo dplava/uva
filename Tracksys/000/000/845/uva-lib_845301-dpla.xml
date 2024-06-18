@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:39 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:845301</dcterms:identifier>
+   <dcterms:title>Plan of the Shaftesbury Park Estate, Lavender Hill near Clapham Common Surrey / The Artizans', Labourers', and General Dwellings Company, Limited ; Robert Austin, Archt. I. Gt. College Street, Westminster, S.W.</dcterms:title>
+   <dcterms:contributor>Artizans', Labourers', and General Dwellings Company, Limited. [original]</dcterms:contributor>
+   <dcterms:contributor>Austin, Robert architect [original]</dcterms:contributor>
+   <dcterms:contributor>Crichton, John lithographer [original]</dcterms:contributor>
+   <dcterms:created>1874</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.) : ill., map ; 57 x 80 cm.</dcterms:extent>
+   <dcterms:medium>ill. [original]</dcterms:medium>
+   <dcterms:medium>maps [original]</dcterms:medium>
+   <dcterms:description>Includes images of the facades of 6 terraces, a street plan of the development, and a small locator map. [original]</dcterms:description>
+   <dcterms:description>Date provided by staff of the Survey of London, English Heritage Research Dept. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Real estate development--England--London</dcterms:subject>
+   <dcterms:subject>Real estate development--England--19th century</dcterms:subject>
+   <dcterms:temporal>19th century</dcterms:temporal>
+   <dcterms:spatial>England</dcterms:spatial>
+   <dcterms:spatial>London</dcterms:spatial>
+   <dcterms:spatial>Shaftesbury Park Estate (London, England)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:846085/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4789487</edm:isShownAt>
+</mdRecord>

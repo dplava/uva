@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:08 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:62483</dcterms:identifier>
+   <dcterms:title>The sources of Titus / by Harold De W. Fuller ; with a note on "Tittus and Vespacia" and "Titus and Ondronicus" in Henslowe's diary / by George P. Baker</dcterms:title>
+   <dcterms:creator>Fuller, Harold De Wolf, 1874-1957 [original]</dcterms:creator>
+   <dcterms:contributor>Baker, George Pierce, 1866-1935 [original]</dcterms:contributor>
+   <dcterms:created>1901</dcterms:created>
+   <dcterms:extent>76 p. ; 22 cm.</dcterms:extent>
+   <dcterms:description>Cover title. [original]</dcterms:description>
+   <dcterms:description>Reprinted from the Publications of the Modern Language Association, vol. XVI, no. 1. [original]</dcterms:description>
+   <dcterms:description>Includes bibliographical references. [original]</dcterms:description>
+   <dcterms:description>VIVA Repository Copy 2014. [original]</dcterms:description>
+   <dcterms:description>Item X001848613 has bookplate data: Thomas Randolph Price. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Shakespeare, William, 1564-1616--Titus Andronicus--Sources</dcterms:subject>
+   <dcterms:subject>Shakespeare, William, 1564-1616--Sources</dcterms:subject>
+   <dcterms:subject>Shakespeare, William, 1564-1616--Spurious and doubtful works</dcterms:subject>
+   <dcterms:subject>Shakespeare, William, 1564-1616--Authorship</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1700488/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u1382610</edm:isShownAt>
+</mdRecord>

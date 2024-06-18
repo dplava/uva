@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:25 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1812809</dcterms:identifier>
+   <dcterms:title>A voyage of discovery to the North Pacific ocean, and round the world: in which the coast of north-west America has been carefully examined and accurately surveyed / Undertaken by His Majesty's command, principally with a view to ascertain the existence of any navigable communication between the North Pacific and North Atlantic oceans; and performed in the years 1790, 1791, 1792, 1793, 1794 and 1795, in the Discovery sloop of war, and armed tender Chatham, under the command of Captain George Vancouver</dcterms:title>
+   <dcterms:creator>Vancouver, George, 1757-1798 [original]</dcterms:creator>
+   <dcterms:contributor>Vancouver, John, -1828? [original]</dcterms:contributor>
+   <dcterms:created>1798</dcterms:created>
+   <dcterms:extent>3 v. : 17 plates, map. ; 31 x 24 cm. + Atlas of 16 plates (incl. 6 fold. charts) 58 cm.</dcterms:extent>
+   <dcterms:medium>maps [original]</dcterms:medium>
+   <dcterms:medium>plates [original]</dcterms:medium>
+   <dcterms:medium>plates (incl. 6 fold. charts) [original]</dcterms:medium>
+   <dcterms:description>Sabin 98443. [original]</dcterms:description>
+   <dcterms:description>Edited by John Vancouver. [original]</dcterms:description>
+   <dcterms:description>Atlas shelved with McGregor Flat Folios [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: G420 .V22 1798: Proof copy, or 1st issue, with all plates and maps included in folio volume. Vol. 1 has "A list of the plates contained in the folio volume" (Plates 1-34). Original drab boards (Atlas rebacked), with paper labels on spine; binder's label of Tuck in Atlas volume. An ALS from John Vancouver, dated 23d August, 1798, which was laid in, has been transferred to Manuscripts. The letter discusses distribution of a first impression and 9 proof copies of the book. This copy of the book is signed by H. Humphreys, who as listed in the letter as a recipient of a proof copy. Paul Mellon Bequest, May 12, 2000. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: A 1798 .V34: Later printing, with lists of plates redone: Vol. 1 has: A list of the plates contained in the first volume. With directions to the binder. (Plates I-VII); with "A list of the plates contained in the folio volume" (Plates 1-16) printed on verso. Vol. 2 has List of plates I-V. Vol. 3 has List of plates I-VI. Plates with Roman numerals are bound in the volumes indicated. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: G420 .V22 1798: Proof copy, or 1st issue, with all plates and maps included in folio volume. Vol. 1 has "A list of the plates contained in the folio volume" (Plates 1-34). Original drab boards (Atlas rebacked), with paper labels on spine; binder's label of Tuck in Atlas volume. An ALS from John Vancouver, dated 23d August, 1798, which was laid in, has been transferred to Manuscripts. The letter discusses distribution of a first impression and 9 proof copies of the book. This copy of the book is signed by H. Humphreys, who as listed in the letter as a recipient of a proof copy. Paul Mellon Bequest, May 12, 2000. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Mellon, Paul--Library--Personal copy</dcterms:subject>
+   <dcterms:subject>Discovery (Ship : Launched 1789)</dcterms:subject>
+   <dcterms:subject>Chatham (Ship)</dcterms:subject>
+   <dcterms:subject>Voyages around the world</dcterms:subject>
+   <dcterms:spatial>Northwest Coast of North America</dcterms:spatial>
+   <dcterms:spatial>Northwest Passage</dcterms:spatial>
+   <dcterms:spatial>West (U.S.)</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2180985/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u250347</edm:isShownAt>
+</mdRecord>

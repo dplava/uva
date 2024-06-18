@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:24 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1224822</dcterms:identifier>
+   <dcterms:title>Der Indianer-Häuptling und die Gefangene des Westens: eine Erzählung aus dem letzten amerikanischen Kriege / von Mrs. Seba Smith ; in's Deutsche übertragen von Fr. Gerstäcker</dcterms:title>
+   <dcterms:title>Smith, Elizabeth Oakes Prince, 1806-1893. Western captive, or, The times of Tecumseh. German. 1847</dcterms:title>
+   <dcterms:creator>Smith, Elizabeth Oakes Prince, 1806-1893 [original]</dcterms:creator>
+   <dcterms:contributor>Gerstäcker, Friedrich, 1816-1872 [original]</dcterms:contributor>
+   <dcterms:created>1847</dcterms:created>
+   <dcterms:extent>2 v. in 1 ; 16 cm.</dcterms:extent>
+   <dcterms:description>Translation of: The western captive, or, The times of Tecumseh. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Contemporary marbled boards with leather backstrip. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Bookplate of Bibliotheks-Regeln des Lutherischen Jung-Männer-Vereins. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1312415/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u821911</edm:isShownAt>
+</mdRecord>

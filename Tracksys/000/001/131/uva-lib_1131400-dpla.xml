@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:46 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1131400</dcterms:identifier>
+   <dcterms:title>The bridge / composed by Miss M. Lindsay ; written by H.W. Longfellow Esq</dcterms:title>
+   <dcterms:title>I stood on the bridge at midnight</dcterms:title>
+   <dcterms:creator>Lindsay, M. Miss [original]</dcterms:creator>
+   <dcterms:contributor>Longfellow, Henry Wadsworth, 1807-1882 [original]</dcterms:contributor>
+   <dcterms:contributor>Mackellar, Smiths &amp; Jordan [engraver]</dcterms:contributor>
+   <dcterms:created>[1872..1875]</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, voice [original]</dcterms:description>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>At foot of title page: "MacKellar, Smiths &amp; Jordan, Phila." [original]</dcterms:description>
+   <dcterms:description>Publisher was at this address between 1872 and 1875. Cf. Handbook of early American sheet music / Dichter and Shapiro. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Longfellow, Henry Wadsworth, 1807-1882--Musical settings</dcterms:subject>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1131401/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313980</edm:isShownAt>
+</mdRecord>

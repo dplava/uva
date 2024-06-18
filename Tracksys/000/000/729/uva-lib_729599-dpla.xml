@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:36 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:729599</dcterms:identifier>
+   <dcterms:title>Les poëmes du Sieur d'Expilly / A Madame La Marquise de Monceaux</dcterms:title>
+   <dcterms:creator>Expilly, Claude, 1561-1636 [original]</dcterms:creator>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:contributor>L'Angelier, Abel, active 1572-1609 [printer]</dcterms:contributor>
+   <dcterms:contributor>Lortic, Marcelin, 1822-1892 [binder]</dcterms:contributor>
+   <dcterms:created>1596</dcterms:created>
+   <dcterms:extent>[8], 216 p. : ill. ; 24 cm. (4to)</dcterms:extent>
+   <dcterms:extent>24 cm. (4to) [original]</dcterms:extent>
+   <dcterms:medium>ill. [original]</dcterms:medium>
+   <dcterms:description>Signatures: ã⁴ A-Dd⁴ (leaves ã4 and O2 are blank except for ruled border. [original]</dcterms:description>
+   <dcterms:description>Divisional t.p. (p. [109]): Le second liure des poëmes du Sieur d'Expilly a Messire Françoys de Bone, Seigneur de Lesdiguieres. [original]</dcterms:description>
+   <dcterms:description>Includes index. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Lortic. Bookplate of Eugene Chaper. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 287. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:730024/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2262175</edm:isShownAt>
+</mdRecord>

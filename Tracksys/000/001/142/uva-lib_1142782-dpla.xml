@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:07 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1142782</dcterms:identifier>
+   <dcterms:title>Moonlight on the Hudson: morceau pour le piano, op. 60 / par G.D. Wilson</dcterms:title>
+   <dcterms:creator>Wilson, G. D. (Grenville Dean), 1833-1897 [original]</dcterms:creator>
+   <dcterms:contributor>Geo. H. Walker &amp; Co. [lithographer]</dcterms:contributor>
+   <dcterms:contributor>J.H. Bufford's Sons Lith [lithographer]</dcterms:contributor>
+   <dcterms:created>1874</dcterms:created>
+   <dcterms:extent>9 p. of music : ill.</dcterms:extent>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:description>piano [original]</dcterms:description>
+   <dcterms:description>At head of title: "To C. Fred. Emery, Albany, N.Y." [original]</dcterms:description>
+   <dcterms:description>Pages also numbered: p. 243-[249]. [original]</dcterms:description>
+   <dcterms:description>Title page illustration: nighttime river scene with two sailboats and a rowboat embarking from the shore / Geo. H. Walker &amp; Co. Lith. Boston. [original]</dcterms:description>
+   <dcterms:description>Oliver Ditson was at this address from 1877 until 1904. Cf. Early American sheet music / Dichter and Shapiro. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.134 no.29: includes advertisement: "Exceedingly clever piano solos." [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.134 no.29a: includes advertisement: "Dance music for the piano-forte." [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.153 no.8: Lithograph by J.H. Bufford's Sons Lith., Boston. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Hudson River (N.Y. and N.J.)--Songs and music</dcterms:subject>
+   <dcterms:spatial>Hudson River (N.Y. and N.J.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1142783/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5242351</edm:isShownAt>
+</mdRecord>

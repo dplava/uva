@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:59 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1138177</dcterms:identifier>
+   <dcterms:title>The Grecian bend: comic song &amp; chorus / words by Elmer Ruán Coates ; adapted to music by Eastburn</dcterms:title>
+   <dcterms:title>Oh, see them promenade Broadway</dcterms:title>
+   <dcterms:title>The ladie's wanting something new</dcterms:title>
+   <dcterms:creator>Eastburn, 1837-1918 [original]</dcterms:creator>
+   <dcterms:contributor>Coates, Elmer Ruan, 1831-1889 [lyricist]</dcterms:contributor>
+   <dcterms:contributor>Swain, George F. [engraver]</dcterms:contributor>
+   <dcterms:created>1868</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, voice [original]</dcterms:description>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>At foot of t.p.: "Swain, Phila." [original]</dcterms:description>
+   <dcterms:description>At head of title: "To Miss S---R, of Saratoga." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Humorous songs</dcterms:subject>
+   <dcterms:subject>Fashion--Songs and music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1138178/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314524</edm:isShownAt>
+</mdRecord>

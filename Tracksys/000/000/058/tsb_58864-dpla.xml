@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 7:57 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:58864</dcterms:identifier>
+   <dcterms:title>We conquer, or die! / composed by James Pierpont</dcterms:title>
+   <dcterms:title>The war drum is beating, prepare for the fight</dcterms:title>
+   <dcterms:creator>Pierpont, James, 1822-1893 [original]</dcterms:creator>
+   <dcterms:created>1862</dcterms:created>
+   <dcterms:extent>1 score (5 p.) ; 36 cm.</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>voice, piano [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>"Entered according to Act of Congress in the year 1861 by P.P. Werlein &amp; Halsey in the Ct. Off. of the D.C. of the C.S. for the D. of La."--P. 3. [original]</dcterms:description>
+   <dcterms:description>Probable date of publication inferred from form of publisher's name. John C. Schreiner &amp; Son operated in Macon between 1862 and 1864. Cf. Handbook of early American sheet music / Dichter and Shapiro. [original]</dcterms:description>
+   <dcterms:description>Verses 4-6 printed as text on p. 5. [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.5 no.26: Twenty-sixth title in a bound volume of sheet music from the library of Mrs. Harriet Irvine. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>War songs--Confederate States of America</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Songs and music</dcterms:subject>
+   <dcterms:subject>Confederate States of America--Songs and music</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>Confederate States of America</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>Southern States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1701876/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2039544</edm:isShownAt>
+</mdRecord>

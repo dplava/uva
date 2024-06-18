@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:26 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1824844</dcterms:identifier>
+   <dcterms:title>The travellers: a tale, designed for young people / by the author of Redwood</dcterms:title>
+   <dcterms:creator>Sedgwick, Catharine Maria, 1789-1867 [original]</dcterms:creator>
+   <dcterms:created>1825</dcterms:created>
+   <dcterms:extent>171 p. ; 15 cm.</dcterms:extent>
+   <dcterms:description>"J. Seymour, printer."--verso t.p. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Original marbled boards with navy blue morocco backstrip. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Travel--19th century--Juvenile fiction</dcterms:subject>
+   <dcterms:subject>Travelers--19th century--Juvenile fiction</dcterms:subject>
+   <dcterms:subject>Travel--Juvenile literature--19th century</dcterms:subject>
+   <dcterms:temporal>19th century</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:172732/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u822270</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 6:44 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:105582</dcterms:identifier>
+   <dcterms:title>Le plaisir des champs: diuisé en quatre liures selon les quatre saisons de l'annee / Par Claude Gauchet Dampmartinois Aumosnier ordinaire du Roy</dcterms:title>
+   <dcterms:creator>Gauchet, Claude, active 16th century [original]</dcterms:creator>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:contributor>L'Angelier, Abel, active 1572-1609 [printer]</dcterms:contributor>
+   <dcterms:contributor>Trautz, Georges, 1808-1879 [binder]</dcterms:contributor>
+   <dcterms:created>1604</dcterms:created>
+   <dcterms:extent>[8], 319 p. : ill. ; 24 cm. (4to)</dcterms:extent>
+   <dcterms:extent>24 cm. (4to) [original]</dcterms:extent>
+   <dcterms:medium>ill. [original]</dcterms:medium>
+   <dcterms:description>Reueu, corrigé et augmenté d'vn deuis d'entre le chasseur &amp; le citadin: [original]</dcterms:description>
+   <dcterms:description>Signatures: ã⁴ A-Rr⁴. [original]</dcterms:description>
+   <dcterms:description>In verse. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Trautz-Bauzonnet. Bookplate of Robert Hoe. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 412. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Hunting--France--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Lifestyles--France--Early works to 1800</dcterms:subject>
+   <dcterms:subject>France--Social life and customs--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:3099090/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2266140</edm:isShownAt>
+</mdRecord>

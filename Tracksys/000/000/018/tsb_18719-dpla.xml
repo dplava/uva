@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 6:47 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18719</dcterms:identifier>
+   <dcterms:title>Valedictory oration of the Jefferson Society of the University of Virginia: Your company is requested at the Jefferson Hall, on Thursday, June 28th at 8 1/2 P.M. / The oration will be delivered by Mr. F.W.M. Holliday. [Invitation dated June 20th, 1849</dcterms:title>
+   <dcterms:contributor>Holliday, Fred. W. M. (Frederick William Mackey), 1828-1899 [original]</dcterms:contributor>
+   <dcterms:contributor>University of Virginia. Jefferson Society. [original]</dcterms:contributor>
+   <dcterms:created>1849</dcterms:created>
+   <dcterms:extent>1 folded sheet ([1] p.) 17 x 21 cm. fold. to 17 x 11 cm.</dcterms:extent>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia. Jefferson Society.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1519232/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2092121</edm:isShownAt>
+</mdRecord>

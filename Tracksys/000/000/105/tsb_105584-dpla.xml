@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 6:44 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:105584</dcterms:identifier>
+   <dcterms:title>Recueil general des caquets de l'acouchee: Ou Discours facecieux, ou se voit les moeurs, actions, &amp; façons de faire des grands &amp; petits de ce siecle..Mis par ordre..par un secretaire qui a le tout ouy &amp; escrit.Auec vn Discours du releument de l'acouchée</dcterms:title>
+   <dcterms:creator>Douglas H. Gordon Collection of French Books (University of Virginia) [original]</dcterms:creator>
+   <dcterms:created>1623</dcterms:created>
+   <dcterms:extent>[8], 200 p. ; 14 cm. (8vo)</dcterms:extent>
+   <dcterms:extent>14 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:description>Added engr. t.-p. [original]</dcterms:description>
+   <dcterms:description>"Ouvrage piquant et satirique bien propre faire connoaitre les moeurs et les idées de la bourgeoisie française au XVII. siècle -Graesse. [original]</dcterms:description>
+   <dcterms:description>For comment on this book see Brunet, G. Dict. des ouvr. anonymes. Suppl. col. 220; Graesse, J.G.T. Tresor de livres rares et precieux, v.1, p. 12; Gay, J. Bibliog. des ouvr. relatifs à l'amour. v.3, col. 982. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Imperfect: title page defective. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Bookplate of Monsieur l'Abbee de Carrere, grand Archidiacre d'Agde. Unidentified armorial bookplate (crest with 3 daggers, hilt downwards; crown supported by two men holding clubs) Handwritten notes give additional provenance information. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 572. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:3099709/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2282642</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:07 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:60079</dcterms:identifier>
+   <dcterms:title>A voyage to North-America: undertaken by command of the present king of France. Containing the geographical description and natural history of Canada and Louisiana. With the customs, manners, trade and religion of the inhabitants / By Father Charlevoix. Also, a description and natural history of the islands in the West Indies belonging to the different powers of Europe</dcterms:title>
+   <dcterms:creator>Charlevoix, Pierre-François-Xavier de, 1682-1761 [original]</dcterms:creator>
+   <dcterms:created>1766</dcterms:created>
+   <dcterms:extent>2 v. fronts (1 port.), 8 fold maps. 20 cm.</dcterms:extent>
+   <dcterms:medium>maps [original]</dcterms:medium>
+   <dcterms:medium>portraits [original]</dcterms:medium>
+   <dcterms:description>Sabin 12143. [original]</dcterms:description>
+   <dcterms:description>A reprint of "Letters to the dutchess of Lesdiguières," edition of 1763, with the Preliminary discourse and letter I, supplied from "Journal of a voyage to North-America," edition of 1761. [original]</dcterms:description>
+   <dcterms:description>Translation of v. 3: Histoire et description général de la nouvelle France, avec le journal historique d'un voyage ... dans l'Amérique Septentrionale.--Rich v. 1, p. 77. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library, American History Collection. Bookplate of Geo. Cavendish. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Indians of North America</dcterms:subject>
+   <dcterms:subject>Canada--Description and travel</dcterms:subject>
+   <dcterms:subject>Mississippi River Valley--Description and travel</dcterms:subject>
+   <dcterms:subject>New France--Discovery and exploration</dcterms:subject>
+   <dcterms:subject>West Indies--Description and travel</dcterms:subject>
+   <dcterms:spatial>Canada</dcterms:spatial>
+   <dcterms:spatial>Mississippi River Valley</dcterms:spatial>
+   <dcterms:spatial>New France</dcterms:spatial>
+   <dcterms:spatial>West Indies</dcterms:spatial>
+   <dcterms:spatial>North America</dcterms:spatial>
+   <dcterms:spatial>Dublin, Ireland</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2179150/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u428048</edm:isShownAt>
+</mdRecord>

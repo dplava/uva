@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:23 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003986</dcterms:identifier>
+   <dcterms:title>Carte de la Suisse, avec des noms en marge = Karate von der Schweiz, mit Randnamen / gezeichnet und herausgegeben von Heinrich Keller im Zürich untere Zäune No. 367, 1850</dcterms:title>
+   <dcterms:title>Karte von der Schweiz mit Randnahmen</dcterms:title>
+   <dcterms:creator>Keller, Heinrich, 1778-1862 [original]</dcterms:creator>
+   <dcterms:created>1850</dcterms:created>
+   <dcterms:extent>1 map : col. ; 25 x 42 cm. with surrounding text on sheet 34 x 53 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>Relief shown by hachures. [original]</dcterms:description>
+   <dcterms:description>Names of major cities in colored boxes in lateral margins. [original]</dcterms:description>
+   <dcterms:description>Detailed legend in upper left corner of map. [original]</dcterms:description>
+   <dcterms:description>In French and German. [original]</dcterms:description>
+   <dcterms:description>Possibly the map that appeared in: Nouvel itinéraire portatif de Suisse / d'après Ebel et les sources les plus récentes. ; Orné d'une belle carte routière de Keller ... 2. éd. Paris : H. Langlois, 1850. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: "The gift of Bernard Shipp" stamped on verso and "Gift May 30 '35" stamped in left margin; pencilled notes in both lateral margins. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:865,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Switzerland--Maps</dcterms:subject>
+   <dcterms:subject>Switzerland--Maps, Tourist</dcterms:subject>
+   <dcterms:spatial>Switzerland</dcterms:spatial>
+   <dcterms:spatial>Zurich, Switzerland</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1225342/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4857546</edm:isShownAt>
+</mdRecord>

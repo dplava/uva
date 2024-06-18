@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:46 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1131542</dcterms:identifier>
+   <dcterms:title>Die Abgeschiedenen = The secluded : op. 9, vol. 2, no. 3 / Carl Löwe ; transcribed by E. Perabo</dcterms:title>
+   <dcterms:title>Secluded</dcterms:title>
+   <dcterms:title>So hab' ich endlich dich gerettet</dcterms:title>
+   <dcterms:title>Loewe, Carl, 1796-1869. Lieder. op. 9, Heft 2. Abgeshiedenen</dcterms:title>
+   <dcterms:creator>Loewe, Carl, 1796-1869 [original]</dcterms:creator>
+   <dcterms:contributor>Perabo, Ernst, 1845-1920 [arranger, editor]</dcterms:contributor>
+   <dcterms:created>1872</dcterms:created>
+   <dcterms:extent>1 score (5 p.)</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, voice [original]</dcterms:description>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>German words. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1131543/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313993</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:13 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66016</dcterms:identifier>
+   <dcterms:title>Reports of cases adjudged in the Court of King's Bench: with some special cases in the courts of Chancery, Common Pleas, and Exchequer, alphabetically digested under proper heads; from the first year of King William and Queen Mary, to the tenth year of Queen Anne [1689-1712] / By William Salkeld</dcterms:title>
+   <dcterms:contributor>D'Anvers, Knightley, -1740 [original]</dcterms:contributor>
+   <dcterms:contributor>Evans, William David, 1767-1821 [original]</dcterms:contributor>
+   <dcterms:contributor>Great Britain. Court of King's Bench. [original]</dcterms:contributor>
+   <dcterms:contributor>Salkeld, William, 1671-1715 [original]</dcterms:contributor>
+   <dcterms:contributor>Wilson, George, -1778 [original]</dcterms:contributor>
+   <dcterms:created>1795</dcterms:created>
+   <dcterms:extent>3 v. 24 cm.</dcterms:extent>
+   <dcterms:description>6th ed. [original]</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2466184/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3344490</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:32 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1119780</dcterms:identifier>
+   <dcterms:title>Charge of the Hussars = Trot du cavalier / composed by Fritz Spindler ; arranged for four hands by H. Maylath</dcterms:title>
+   <dcterms:title>Trot du cavalier</dcterms:title>
+   <dcterms:creator>Spindler, Fritz, 1817-1905 [original]</dcterms:creator>
+   <dcterms:contributor>Maylath, H. (Heinrich), 1827-1883 [arranger]</dcterms:contributor>
+   <dcterms:created>1875</dcterms:created>
+   <dcterms:extent>11 p. of music.</dcterms:extent>
+   <dcterms:description>piano (2) [original]</dcterms:description>
+   <dcterms:description>For piano (4 hands). [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music (4 hands)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1119781/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313389</edm:isShownAt>
+</mdRecord>

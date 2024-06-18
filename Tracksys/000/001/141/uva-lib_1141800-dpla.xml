@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:05 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1141800</dcterms:identifier>
+   <dcterms:title>Never, never, no more: the latest topical success : as sung by Charles Warren in "Aiken's against the stream" / music by Gustave H. Kline ; words by Charles Warren</dcterms:title>
+   <dcterms:title>I'll sing of a place where trouble will reign</dcterms:title>
+   <dcterms:creator>Kline, Gustave H. [original]</dcterms:creator>
+   <dcterms:contributor>Kean, Emily [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Warren, Charlie [performer, lyricist]</dcterms:contributor>
+   <dcterms:created>1886</dcterms:created>
+   <dcterms:extent>1 score (2 p.)</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, voice [original]</dcterms:description>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>At foot of title: "Respectfully dedicated to Miss Emily Kean." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1141801/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314799</edm:isShownAt>
+</mdRecord>

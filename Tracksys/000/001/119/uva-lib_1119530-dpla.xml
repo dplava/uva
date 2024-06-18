@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1119530</dcterms:identifier>
+   <dcterms:title>Romance, op. 77 / Reinecke ; revised and fingered by V. Amsberg</dcterms:title>
+   <dcterms:title>Reinecke, Carl, 1824-1910. Romances, piano. op. 77, D minor</dcterms:title>
+   <dcterms:creator>Reinecke, Carl, 1824-1910 [original]</dcterms:creator>
+   <dcterms:contributor>Amsberg, V. [arranger]</dcterms:contributor>
+   <dcterms:contributor>Gillingham, Edwin [engraver]</dcterms:contributor>
+   <dcterms:created>[1872..1890]</dcterms:created>
+   <dcterms:extent>3 p. of music : ill.</dcterms:extent>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:description>piano [original]</dcterms:description>
+   <dcterms:description>For piano solo. [original]</dcterms:description>
+   <dcterms:description>"Gillingham"--T.p. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1119531/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313365</edm:isShownAt>
+</mdRecord>

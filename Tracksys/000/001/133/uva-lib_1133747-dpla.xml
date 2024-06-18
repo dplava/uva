@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:51 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1133747</dcterms:identifier>
+   <dcterms:title>Gay and happy / composed and sung by Miss Fanny Forrest ; arranged for the piano forte by Louis Winters</dcterms:title>
+   <dcterms:title>I'm the girl that's gay and happy</dcterms:title>
+   <dcterms:title>So let the wode world was as it will</dcterms:title>
+   <dcterms:title>Forrest, Fanny. Gay and happy; arr</dcterms:title>
+   <dcterms:creator>Forrest, Fanny. [original]</dcterms:creator>
+   <dcterms:contributor>Gillingham, Edwin [engraver]</dcterms:contributor>
+   <dcterms:contributor>Winters, Louis [arranger]</dcterms:contributor>
+   <dcterms:created>1860</dcterms:created>
+   <dcterms:extent>1 score (5 p.) ; 36 cm.</dcterms:extent>
+   <dcterms:medium>piano [original]</dcterms:medium>
+   <dcterms:description>voice, piano, mixed chorus (4) [original]</dcterms:description>
+   <dcterms:description>For voice and piano, with SATB chorus refrain. [original]</dcterms:description>
+   <dcterms:description>Gillingham, lithographer. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S444 v.88 no.44: Cover stamped: Louis Doebele, Pianos and Sheet Music, 213 Summit St., Toledo, Ohio. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S445 v.131 no.32: Library's copy imperfect; lacks title page. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1133748/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2007823</edm:isShownAt>
+</mdRecord>

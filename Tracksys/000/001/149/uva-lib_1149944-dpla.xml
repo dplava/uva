@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:20 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1149944</dcterms:identifier>
+   <dcterms:title>Grande paraphrase de concert on Balfe's Bohemian girl / by Arthur Napoleon</dcterms:title>
+   <dcterms:creator>Napoleão, Arthur, 1843-1925 [original]</dcterms:creator>
+   <dcterms:contributor>Pearson [engraver]</dcterms:contributor>
+   <dcterms:contributor>Stackpole, Patrick M. [engraver]</dcterms:contributor>
+   <dcterms:created>1859</dcterms:created>
+   <dcterms:extent>[13] p. of music.</dcterms:extent>
+   <dcterms:description>piano [original]</dcterms:description>
+   <dcterms:description>For piano solo. [original]</dcterms:description>
+   <dcterms:description>"Stackpole N.Y."--Title page. [original]</dcterms:description>
+   <dcterms:description>"Gravé par Pearson"--Colophon. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Potpourris (Piano)</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts, Arranged</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1149945/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315422</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:20 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003352</dcterms:identifier>
+   <dcterms:title>Mississippi ; Kentucky and Tennessee</dcterms:title>
+   <dcterms:title>Kentucky and Tennessee</dcterms:title>
+   <dcterms:title>Mississippi</dcterms:title>
+   <dcterms:title>Rand McNally &amp; Co.'s New 11 x 14 map of Kentucky and Tennessee</dcterms:title>
+   <dcterms:title>Rand McNally &amp; Co.'s New 11 x 14 map of Mississippi</dcterms:title>
+   <dcterms:creator>Rand McNally and Company. [original]</dcterms:creator>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>2 maps on 1 sheet : col. ; on sheet 36 x 29 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>Relief shown by hachures. [original]</dcterms:description>
+   <dcterms:description>Mississippi (p. 33) -- Kentucky and Tennessee (p. 34) [original]</dcterms:description>
+   <dcterms:description>Prime meridian: Greenwich. [original]</dcterms:description>
+   <dcterms:description>Each map contains an index to counties and cities, figures on the extent of land and water areas, and population statistics. [original]</dcterms:description>
+   <dcterms:description>Removed from a Rand McNally Atlas of the world., p. 33-34. Each map has "Atlas of the world" at top of sheet and "Rand, McNally &amp; Co.'s New 11 x 14 Map of ... Copyright 1895, by Rand, McNally &amp; Co." printed inside the neatline at bottom of each page. [original]</dcterms:description>
+   <dcterms:description>Scale varies.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Kentucky--Maps</dcterms:subject>
+   <dcterms:subject>Tennessee--Maps</dcterms:subject>
+   <dcterms:subject>Mississippi--Maps</dcterms:subject>
+   <dcterms:spatial>Kentucky</dcterms:spatial>
+   <dcterms:spatial>Mississippi</dcterms:spatial>
+   <dcterms:spatial>Tennessee</dcterms:spatial>
+   <dcterms:spatial>Chicago, Illinois, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:891409/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4743736</edm:isShownAt>
+</mdRecord>

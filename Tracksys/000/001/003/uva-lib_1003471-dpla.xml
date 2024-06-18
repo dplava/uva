@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:20 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003471</dcterms:identifier>
+   <dcterms:title>Iron-Gate, Alleghany County Virginia, August, 1889 / Dunlap and Kennaday, Engineers</dcterms:title>
+   <dcterms:title>Iron Gate, Alleghany County Virginia, August, 1889</dcterms:title>
+   <dcterms:contributor>A. Hoen &amp; Co. [original]</dcterms:contributor>
+   <dcterms:contributor>Dunlap and Kennaday. [original]</dcterms:contributor>
+   <dcterms:created>1889</dcterms:created>
+   <dcterms:extent>1 map : col. ; 57 x 76 cm. on sheet 60 x 79 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>Relief shown by hachures. [original]</dcterms:description>
+   <dcterms:description>Shows street names, lot and block numbers, manufacturing sites. [original]</dcterms:description>
+   <dcterms:description>Map oriented with north towards lower right. [original]</dcterms:description>
+   <dcterms:description>Note: Iron Gate. The location is one of the healthiest and most beautiful in the South ... For further information address Iron Gate Land and Improvement Co. Iron Gate Virginia. [original]</dcterms:description>
+   <dcterms:description>Small b&amp;w vignette just to right of title: The Gate. [original]</dcterms:description>
+   <dcterms:description>Two map insets: 1. upper left-- untitled locater map (col.) of mid-Atlantic and northeastern USA showing radial distances at 100 mile intervals -- 2. lower center--untitled b&amp;w locater map of vicinity of Iron Gate with radial distances at 5 mile intervals. [original]</dcterms:description>
+   <dcterms:description>Annotated with handwritten notes about the lots acquired by the "Staunton Syndicate." [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Fragile, with several tears. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:3360].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Iron Gate Land and Improvement Co.--Maps</dcterms:subject>
+   <dcterms:subject>Real estate development--Virginia--Iron Gate--Maps</dcterms:subject>
+   <dcterms:subject>Real property--Virginia--Iron Gate--Maps</dcterms:subject>
+   <dcterms:subject>Real property--Virginia--Alleghany County--Maps</dcterms:subject>
+   <dcterms:subject>Iron Gate (Va.)--Maps</dcterms:subject>
+   <dcterms:subject>Alleghany County (Va.)--Maps</dcterms:subject>
+   <dcterms:spatial>Alleghany County</dcterms:spatial>
+   <dcterms:spatial>Alleghany County (Va.)</dcterms:spatial>
+   <dcterms:spatial>Iron Gate</dcterms:spatial>
+   <dcterms:spatial>Iron Gate (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:894387/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4752255</edm:isShownAt>
+</mdRecord>

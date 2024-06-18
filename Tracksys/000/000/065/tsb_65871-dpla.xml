@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:10 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65871</dcterms:identifier>
+   <dcterms:title>The reports of Edward Bulstrode: Of divers resolutions and judgements, given .. by the grave, reverend, and learned judges, and sages of the law. Of cases and matters in law: with the reasons and causes of their said resolutions and judgements, given in the Court of King's Bench in the time of the late reign of King James [and the beginning of King Charls. 1609-1626]</dcterms:title>
+   <dcterms:contributor>Bulstrode, Edward, 1588-1659 [original]</dcterms:contributor>
+   <dcterms:contributor>England and Wales. Court of King's Bench. [original]</dcterms:contributor>
+   <dcterms:created>1657/1659</dcterms:created>
+   <dcterms:extent>3 v. in 1. 28 cm.</dcterms:extent>
+   <dcterms:description>Vols. 2-3 have title: The second [-third] part of the reports of Edward Bulstrode. [original]</dcterms:description>
+   <dcterms:description>"There is a chasm in paging in part II ... from 99-109 ... but the book is nevertheless complete."--Soule, Lawyer's ref. manual, 1884. [original]</dcterms:description>
+   <dcterms:description>Initials; printers' ornaments. [original]</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue. [original]</dcterms:description>
+   <dcterms:description>LAW: Copy one has signature: Jeremy Bentham, Lincoln's Inn. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2381922/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3341162</edm:isShownAt>
+</mdRecord>

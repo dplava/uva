@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:09 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:62991</dcterms:identifier>
+   <dcterms:title>A wonder book for boys and girls: comprising stories of classical fables / by Nathaniel Hawthorne</dcterms:title>
+   <dcterms:title>Tanglewood Tales</dcterms:title>
+   <dcterms:title>Hawthorne, Nathaniel, 1804-1864. Wonder-book</dcterms:title>
+   <dcterms:creator>Hawthorne, Nathaniel, 1804-1864 [original]</dcterms:creator>
+   <dcterms:created>1900</dcterms:created>
+   <dcterms:extent>iv, 290, 56 p., [8] leaves of plate : ill. (some col.) ; 23 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>ill. (some col.) [original]</dcterms:medium>
+   <dcterms:description>VIVA Repository Copy 2014. [original]</dcterms:description>
+   <dcterms:description>Item X002551730 has bookplate data: Mary Helen George. [original]</dcterms:description>
+   <dcterms:description>HathiTrust shared print program 2019 [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Mythology, Classical--Juvenile literature</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2606326/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u774423</edm:isShownAt>
+</mdRecord>

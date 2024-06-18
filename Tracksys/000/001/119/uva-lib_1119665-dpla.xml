@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1119665</dcterms:identifier>
+   <dcterms:title>Bartholdi galop / by Clarence Stanley</dcterms:title>
+   <dcterms:creator>Stanley, Clarence. [original]</dcterms:creator>
+   <dcterms:contributor>Manhattan Lithographing Co. [lithographer]</dcterms:contributor>
+   <dcterms:contributor>Pulitzer, Joseph, 1847-1911 [dedicatee]</dcterms:contributor>
+   <dcterms:created>1886</dcterms:created>
+   <dcterms:extent>5 p. of music : ill.</dcterms:extent>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:description>piano [original]</dcterms:description>
+   <dcterms:description>For piano solo. [original]</dcterms:description>
+   <dcterms:description>"Manhattan Lithographing Co. N.Y."--T.p. [original]</dcterms:description>
+   <dcterms:description>At head of title: "Respectfully dedicated to Joseph Pulitzer, Esq., Prop. of the New York World." [original]</dcterms:description>
+   <dcterms:description>Color title page illustration: Statue of Liberty. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Galops</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1119666/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313376</edm:isShownAt>
+</mdRecord>

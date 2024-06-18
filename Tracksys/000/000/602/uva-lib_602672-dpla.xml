@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:34 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:602672</dcterms:identifier>
+   <dcterms:title>Americae sive novi orbis, nova descriptio</dcterms:title>
+   <dcterms:creator>Ortelius, Abraham, 1527-1598 [original]</dcterms:creator>
+   <dcterms:contributor>Plantin, Christophe, approximately 1520-1589 [original]</dcterms:contributor>
+   <dcterms:created>1584</dcterms:created>
+   <dcterms:extent>1 map : hand col. ; 36 x 49 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:description>Shows North and South America [original]</dcterms:description>
+   <dcterms:description>Appeared in editions of Theatrum orbis terrarum, and conforms with Burden's description of the 1579 plate, Latin issue of 1584: strapwork border 4 mm. thick; largest ship in the Pacific sailing eastward; gradations along the equatorial line; bulge in the southwestern coast of South America; Latin text on verso, with 13th line from the bottom beginning "mentaria rerum ... " [original]</dcterms:description>
+   <dcterms:description>Latin text on verso is numbered "5" and has caption title "Novvs Orbis". [original]</dcterms:description>
+   <dcterms:description>Relief shown pictorially. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library, American History Collection. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:42,000,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>America</dcterms:spatial>
+   <dcterms:spatial>Antwerp, Belgium</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:625501/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4609264</edm:isShownAt>
+</mdRecord>

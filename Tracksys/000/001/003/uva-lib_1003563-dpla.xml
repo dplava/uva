@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:22 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003563</dcterms:identifier>
+   <dcterms:title>To Her most Sacred Majesty Carolina Queen of Great Britain, France &amp; Ireland, this map of Europe, according to the newest and most exact observations, is most humbly dedicated / by your Majesties most Obedient Servant Herman Moll Geographer</dcterms:title>
+   <dcterms:title>Map of Europe according to the newest and most exact observations</dcterms:title>
+   <dcterms:title>This map of Europe according to the newest and most exact observations</dcterms:title>
+   <dcterms:creator>Moll, Herman, -1732 [original]</dcterms:creator>
+   <dcterms:contributor>Bowles, John, 1701-1779 [original]</dcterms:contributor>
+   <dcterms:contributor>Bowles, Thomas, -1767 [original]</dcterms:contributor>
+   <dcterms:contributor>King, John. [original]</dcterms:contributor>
+   <dcterms:contributor>Overton, Philip, -1751 [original]</dcterms:contributor>
+   <dcterms:created>1730</dcterms:created>
+   <dcterms:extent>1 map : col. ; 59 x 96 cm. on sheet 64 x 108 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:description>Relief shown pictorially. [original]</dcterms:description>
+   <dcterms:description>Dedicated to Caroline (Princess Caroline of Brandenburg-Ansbach, 1683-1737), Queen of Great Britain and Ireland, and Electress of Hanover, Consort of George II, who ascended to the throne in 1727. Earlier versions of the map were dedicated to Queen Anne. [original]</dcterms:description>
+   <dcterms:description>The first portion of the imprint, through 1708, is printed inside a cartouche at lower left corner; the remainder is printed in 3 lines below the cartouche, with the 3rd line printed in the border. [original]</dcterms:description>
+   <dcterms:description>Inset (separate scale): A new draught of ye artificiall channel, and other great works, as dams locks &amp;c. made in order to passage of ships thro the rivers of Ilafla and Camisinca, and to the Wolga... [original]</dcterms:description>
+   <dcterms:description>Prime meridians: London and Ferro Island. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: "Europe" is written in brown ink on the verso. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:6,500,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Europe--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Europe, Western--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Europe</dcterms:spatial>
+   <dcterms:spatial>Europe, Western</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904703/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4773869</edm:isShownAt>
+</mdRecord>

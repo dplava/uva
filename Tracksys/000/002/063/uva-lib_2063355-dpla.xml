@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:26 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2063355</dcterms:identifier>
+   <dcterms:title>New sectional map of the eastern &amp; southern portion of the state of Florida / issued by the Land Department of the Florida Southern Railway Co., showing the lands owned &amp; offered for sale by said department ; the Orange Belt route, its branches &amp; connections ; 4.000.000 acres of land for sale .. ; W.P. Couper, Land Commissioner, Florida Southern Railway Company, Palatka, Florida, 1887</dcterms:title>
+   <dcterms:contributor>Florida Southern Railway Co. Land Department. [original]</dcterms:contributor>
+   <dcterms:contributor>Matthews-Northrup Company. [original]</dcterms:contributor>
+   <dcterms:created>1887</dcterms:created>
+   <dcterms:extent>1 map : col. ; 80 x 51 cm., on sheet 82 x 53 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:description>Coverage includes all of Florida except the panhandle. [original]</dcterms:description>
+   <dcterms:description>Includes explanations of the sectioning and the coloring systems, and has text "for full descriptive notes see back of this map." The back of the map, however, is blank. [original]</dcterms:description>
+   <dcterms:description>Prime meridians: Greenwich and Washington, D.C. [original]</dcterms:description>
+   <dcterms:description>Inset: untitled map of the rail and steamboat routes of the Florida Southern Railway Co. [original]</dcterms:description>
+   <dcterms:description>Advertisement inset, with illustration, of the Hotel Punta Gorda. [original]</dcterms:description>
+   <dcterms:description>Includes names of some landholders. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Very fragile, with many large tears. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:633,600]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Florida Southern Railway Co.--Maps</dcterms:subject>
+   <dcterms:subject>Real property--Florida--Maps</dcterms:subject>
+   <dcterms:subject>Railroads--Florida--Maps</dcterms:subject>
+   <dcterms:subject>Steamboat lines--Florida--Maps</dcterms:subject>
+   <dcterms:subject>Florida--Maps</dcterms:subject>
+   <dcterms:spatial>Florida</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2147364/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5149779</edm:isShownAt>
+</mdRecord>

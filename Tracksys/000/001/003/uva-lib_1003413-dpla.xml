@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:20 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003413</dcterms:identifier>
+   <dcterms:title>The county of Rockbridge Virginia / prepared by John Carmichael</dcterms:title>
+   <dcterms:creator>Carmichael, John fl. 1883 [original]</dcterms:creator>
+   <dcterms:contributor>A. Hoen &amp; Co. [original]</dcterms:contributor>
+   <dcterms:contributor>Campbell, J. L. (John Lyle), 1818-1886 [original]</dcterms:contributor>
+   <dcterms:contributor>Gilham, William, 1819?-1872 [original]</dcterms:contributor>
+   <dcterms:contributor>Hotchkiss, Jedediah, 1828-1899 [original]</dcterms:contributor>
+   <dcterms:created>1883</dcterms:created>
+   <dcterms:extent>1 map : col. ; 72 x 87 cm. on sheet 76 x 91 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>Relief shown by hachures. [original]</dcterms:description>
+   <dcterms:description>Oriented with north to the left. [original]</dcterms:description>
+   <dcterms:description>Map shows names of landowners, local railroads, landowners names, iron ore deposits. [original]</dcterms:description>
+   <dcterms:description>Text following title: "Note: He has used as a basis the map of Col. William Gilham V. M. I. 1859: and that of Maj. Jed Hotchkiss and Rail Road and private surveys. Information as to mineral development by Prof. John L. Campbell of Washington &amp; Lee University. December, 1883." [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Imperfect: Fragile, separated at center fold; browned; linen-backed. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1: 62,500]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Real property--Virginia--Rockbridge County</dcterms:subject>
+   <dcterms:subject>Mines and mineral resources--Virginia--Rockbridge County--Maps</dcterms:subject>
+   <dcterms:subject>Rockbridge County (Va.)--Maps</dcterms:subject>
+   <dcterms:spatial>Rockbridge County</dcterms:spatial>
+   <dcterms:spatial>Rockbridge County (Va.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Baltimore, Maryland, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:893006/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4744946</edm:isShownAt>
+</mdRecord>

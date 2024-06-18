@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:39 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:770707</dcterms:identifier>
+   <dcterms:title>Les sept psealmes en Francoys</dcterms:title>
+   <dcterms:title>Psept sealmes en Francoys</dcterms:title>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:contributor>Niédrée, Jean-Edouard, 1803-1854 [binder]</dcterms:contributor>
+   <dcterms:created>[1530..1539]</dcterms:created>
+   <dcterms:extent>[12] p. : ill. ; 20 x 14 cm. (4to)</dcterms:extent>
+   <dcterms:extent>20 x 14 cm. (4to) [original]</dcterms:extent>
+   <dcterms:medium>ill. [original]</dcterms:medium>
+   <dcterms:description>Signatures: A⁶. [original]</dcterms:description>
+   <dcterms:description>Printer's error: title is mis-set, reading "Les psept sealmes en Francoys." [original]</dcterms:description>
+   <dcterms:description>Title page has woodcut of Bathsheba in her bath. [original]</dcterms:description>
+   <dcterms:description>Colophon: Cy finissent les sept pseaulmes en fra[n]coys. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Niedree. Bookplate of Yemeniz. Unidentified bookplate, Nul Sans Souci De Bry. Gordon Collection. Booklate of Douglas ordon. Gordon list, 517. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:850978/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2341179</edm:isShownAt>
+</mdRecord>

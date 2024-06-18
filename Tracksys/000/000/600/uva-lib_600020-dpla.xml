@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:33 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:600020</dcterms:identifier>
+   <dcterms:title>Bar-Le-Duc</dcterms:title>
+   <dcterms:contributor>Dépôt de la guerre (France) [original]</dcterms:contributor>
+   <dcterms:contributor>France. Corps d'état-major. [original]</dcterms:contributor>
+   <dcterms:contributor>United States. Army. Corps of Engineers. Regiment, 29th. [original]</dcterms:contributor>
+   <dcterms:created>1918</dcterms:created>
+   <dcterms:extent>1 map ; 53 x 83 cm. on sheet 61 x 86 cm.</dcterms:extent>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>Relief shown by hachures and spot heights. [original]</dcterms:description>
+   <dcterms:description>Reprint of the Bar-Le-Duc sector (Sheet 51) of a topographic map of France. Original publication details printed in lower margin: "Levée par les Officiers du Corps d'Etat-Major et publiée par le Dépôt de la Guerre in 1838. Revisée en 1911. Gravée: le trait par Boclet, la lettre par Hacq, le figure du terrain par Blacher". Names of the connecting sheets printed in margins. [original]</dcterms:description>
+   <dcterms:description>Sheet number "51" printed in upper right margin. Includes index to adjoining sheets and compilation diagram. [original]</dcterms:description>
+   <dcterms:description>Map covers the area from Lignieres on the east to Loisy sur Marne in the west, then north to Somme-Suippo in the west and Lempire in the east. [original]</dcterms:description>
+   <dcterms:description>Scale ca. 1:80,000;</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>World War, 1914-1918--France--Maps, Topographic</dcterms:subject>
+   <dcterms:subject>Meuse (France)--Maps, Topographic</dcterms:subject>
+   <dcterms:subject>Bar-le-Duc (France)--Maps, Topographic</dcterms:subject>
+   <dcterms:subject>France--Maps, Topographic</dcterms:subject>
+   <dcterms:spatial>Bar-le-Duc (France)</dcterms:spatial>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Meuse (France)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096783/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4850814</edm:isShownAt>
+</mdRecord>

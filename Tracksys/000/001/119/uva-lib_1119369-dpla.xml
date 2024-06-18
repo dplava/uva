@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1119369</dcterms:identifier>
+   <dcterms:title>Ah, those moments were so happy: farewell = Ach das waren schöne Stunden : Lebewohl = O beati e bei momenti: addio : song for soprano or tenor / English words by M. Barnett ; music by Heinrich Proch</dcterms:title>
+   <dcterms:title>Ach das waren schöne stunden</dcterms:title>
+   <dcterms:title>Addio</dcterms:title>
+   <dcterms:title>Ah, das waren schöne Stunden</dcterms:title>
+   <dcterms:title>Ah, those moments were so happy</dcterms:title>
+   <dcterms:title>Farewell</dcterms:title>
+   <dcterms:title>Lebewohl</dcterms:title>
+   <dcterms:title>O beati e bei momenti</dcterms:title>
+   <dcterms:title>Proch, Heinrich. Ach das waren schöne Stunden. Polyglot</dcterms:title>
+   <dcterms:creator>Proch, Heinrich. [original]</dcterms:creator>
+   <dcterms:contributor>Barnett, M. J. [translator]</dcterms:contributor>
+   <dcterms:created>1876</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, soprano voice [original]</dcterms:description>
+   <dcterms:description>piano, tenor voice [original]</dcterms:description>
+   <dcterms:description>For high voice and piano. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>German, English, and Italian words. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1119370/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313349</edm:isShownAt>
+</mdRecord>

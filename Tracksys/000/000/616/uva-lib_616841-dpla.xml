@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:35 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:616841</dcterms:identifier>
+   <dcterms:title>Carte universelle du monde: avec de nouvelles observations / Par P. Du-Val Geographe Ordinaire du Roy</dcterms:title>
+   <dcterms:title>Amerique septemtrionale</dcterms:title>
+   <dcterms:creator>Duval, P. (Pierre), 1619-1682 [original]</dcterms:creator>
+   <dcterms:created>1677</dcterms:created>
+   <dcterms:extent>1 map : hand col. ; 42 x 58 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>paper [original]</dcterms:medium>
+   <dcterms:description>Other title centered at bottom of sheet. [original]</dcterms:description>
+   <dcterms:description>Lettered key for major buildings and waterways. [original]</dcterms:description>
+   <dcterms:description>Watermark present. [original]</dcterms:description>
+   <dcterms:description>Relief shown pictorially. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Imperfect: both margins chipped with loss right marginal neatline. Tray W. McGregor Library, American History Collection. [original]</dcterms:description>
+   <dcterms:description>Scale not given.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>North America</dcterms:spatial>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:620429/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4454735</edm:isShownAt>
+</mdRecord>

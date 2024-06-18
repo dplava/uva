@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1136333</dcterms:identifier>
+   <dcterms:title>The patter of little feet: ballad / composed by H. Millard</dcterms:title>
+   <dcterms:creator>Millard, H. (Harrison), 1830-1895 [original]</dcterms:creator>
+   <dcterms:contributor>Davenport, W. [engraver]</dcterms:contributor>
+   <dcterms:created>1869</dcterms:created>
+   <dcterms:extent>1 score (6 p.) ; 35 cm.</dcterms:extent>
+   <dcterms:description>At head of title: "To Lizzie, Florence and Marie." [original]</dcterms:description>
+   <dcterms:description>"Davenport"--Colophon. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Teller &amp; Gipner, 147 Spring St., New York. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1 .S444 v.95 no. 8: stamp of John F. Ellis, 306 Penna. Avenue, bet. 9th and 10th Sts., Washington D.C. on title page. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1136334/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2002607</edm:isShownAt>
+</mdRecord>

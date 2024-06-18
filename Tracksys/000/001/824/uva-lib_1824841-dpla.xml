@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:26 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1824841</dcterms:identifier>
+   <dcterms:title>Fleetwood, or, The stain of birth: a novel of American life / by the author of "Philip in search of a wife," &amp;c. &amp;c</dcterms:title>
+   <dcterms:title>Fleetwood</dcterms:title>
+   <dcterms:creator>Sargent, Epes, 1813-1880 [original]</dcterms:creator>
+   <dcterms:created>1845</dcterms:created>
+   <dcterms:extent>238 p. ; 18 cm.</dcterms:extent>
+   <dcterms:description>Sabin and Wright attribute this work to Sargent; BAL was unable to confirm. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Third work in vol. with: Destiny, or, The chief's daughter / Susan Ferrier. Philadelphia, Lea and Blanchard, 1844 -- The crock of gold / Martin Farquhar Tupper. New York, Wiley &amp; Putnam, 1845. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>United States--Social life and customs--Fiction</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:176809/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u822414</edm:isShownAt>
+</mdRecord>

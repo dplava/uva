@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:12 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1145555</dcterms:identifier>
+   <dcterms:title>Boccaccio march / opera by Franz von Suppé ; simplified by E.H. Bailey</dcterms:title>
+   <dcterms:title>Suppé, Franz von, 1819-1895. Boccaccio. Dass ich erzähl', was dunkel bleiben sollt'; arr</dcterms:title>
+   <dcterms:creator>Suppé, Franz von, 1819-1895 [original]</dcterms:creator>
+   <dcterms:contributor>Bailey, Eben H. (Eben Howe), 1843-1943 [arranger]</dcterms:contributor>
+   <dcterms:contributor>Konradin, C. F. (Carl Ferdinand), 1833-1884 [arranger]</dcterms:contributor>
+   <dcterms:contributor>Simonds, John E., 1849- [printer]</dcterms:contributor>
+   <dcterms:created>1880</dcterms:created>
+   <dcterms:extent>3 p. of music.</dcterms:extent>
+   <dcterms:description>piano [original]</dcterms:description>
+   <dcterms:description>Excerpts from the opera, arranged for piano. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>At foot of cover: "J. E. Simonds, Printer, 50 Bromfield St." [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [4]: Compositions by C.A. White, the home song writer of America. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music, Arranged</dcterms:subject>
+   <dcterms:subject>Potpourris (Piano)</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts, Arranged</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1145556/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315084</edm:isShownAt>
+</mdRecord>

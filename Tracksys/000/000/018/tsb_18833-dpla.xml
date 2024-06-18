@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 6:48 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18833</dcterms:identifier>
+   <dcterms:title>Rules and regulations of practice in the County Court of Augusta / adopted by the Court and Bar, at the October term, 1852</dcterms:title>
+   <dcterms:contributor>Augusta County (Va.). County Court. [original]</dcterms:contributor>
+   <dcterms:contributor>Kinney, Jefferson. [original]</dcterms:contributor>
+   <dcterms:created>1852</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.) ; 34 x 21 cm.</dcterms:extent>
+   <dcterms:description>Signed, in print, at end: Teste, Jefferson Kinney, Clerk. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: From the McCue Papers, 4406. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Augusta County (Va.), County Court.</dcterms:subject>
+   <dcterms:subject>County courts--Administration--Virginia--Augusta County</dcterms:subject>
+   <dcterms:subject>Conduct of court proceedings--Virginia--Augusta County</dcterms:subject>
+   <dcterms:spatial>Augusta County</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1518769/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2851205</edm:isShownAt>
+</mdRecord>

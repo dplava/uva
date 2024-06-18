@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:11 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1145187</dcterms:identifier>
+   <dcterms:title>Galilee: song for mezzo-soprano or baritone in B♭ / composed by C. Whitney Coombs ; [Frederic E. Weatherly]</dcterms:title>
+   <dcterms:title>Through the fields the saviour passes</dcterms:title>
+   <dcterms:creator>Coombs, C. Whitney (Charles Whitney), 1859-1940 [original]</dcterms:creator>
+   <dcterms:contributor>Funcke, von Frau [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Weatherly, F. E. (Frederic Edward), 1848-1929 [lyricist]</dcterms:contributor>
+   <dcterms:created>1890</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, baritone voice [original]</dcterms:description>
+   <dcterms:description>piano, mezzo-soprano voice [original]</dcterms:description>
+   <dcterms:description>No. 1. Original for mezzzo-sop. or bar. in B♭ with piano accompaniment only. [original]</dcterms:description>
+   <dcterms:description>For mezzo-soprano or baritone and piano. [original]</dcterms:description>
+   <dcterms:description>At head of title page: "To Her Excellency Frau von Funcke, Dresden." [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: G. Schirmer's edition of song-albums. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sacred songs (Medium voice) with piano</dcterms:subject>
+   <dcterms:subject>Galilee (Israel)--In the New Testament--Songs and music</dcterms:subject>
+   <dcterms:spatial>Galilee (Israel)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1145188/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315048</edm:isShownAt>
+</mdRecord>

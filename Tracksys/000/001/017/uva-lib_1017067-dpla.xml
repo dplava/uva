@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:24 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1017067</dcterms:identifier>
+   <dcterms:title>Memorial of 100 years a republic: Declaration of Independence</dcterms:title>
+   <dcterms:title>Memorial of one hundred years a republic</dcterms:title>
+   <dcterms:title>United States. Declaration of Independence</dcterms:title>
+   <dcterms:contributor>Albert H. Small Declaration of Independence Collection (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:contributor>Berry, T. J. [original]</dcterms:contributor>
+   <dcterms:contributor>Loag, Samuel. [original]</dcterms:contributor>
+   <dcterms:contributor>United States. [original]</dcterms:contributor>
+   <dcterms:contributor>United States. Continental Congress. [original]</dcterms:contributor>
+   <dcterms:created>1876</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.) : ill. ; 62 x 47 cm. on sheet 71 x 54 cm.</dcterms:extent>
+   <dcterms:medium>ill. [original]</dcterms:medium>
+   <dcterms:description>Lithograph; text is in the shape of the Liberty Bell, with some phrases highlighted in bold; without the signatures. The title, on a banner held by an eagle, is flanked by views of Independence Hall and Carpenter's Hall. A "Bird's-eye view of exhibition grounds" centered at the bottom of the sheet is flanked to two soldiers, signed C.H. The elaborate design also features a display of flags, a medallion portrait of Washington, and the seals of all the states. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Mounted on linen; stamped Library of Congress; Duplicate. Albert H. Small Declaration of Independence Collection. Deposit of Albert H. Small, July 14, 2003. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Centennial Exhibition (1876 : Philadelphia, Pa.)</dcterms:subject>
+   <dcterms:subject>Liberty Bell</dcterms:subject>
+   <dcterms:spatial>Philadelphia, Pennsylvania, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1017621/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3954122</edm:isShownAt>
+</mdRecord>

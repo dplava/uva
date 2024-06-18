@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:34 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:610694</dcterms:identifier>
+   <dcterms:title>Six sonatas for 2 common flutes or two German flutes and a bass: consisting of preludes, allmands, corants, sarabands, gavotts, and jiggs. Opera quarta, [Libro primo]</dcterms:title>
+   <dcterms:title>Six sonata's a 3⁰ for two flutes or two German flutes and a bass</dcterms:title>
+   <dcterms:title>Six sonatas for two common flutes or two German flutes and a bass</dcterms:title>
+   <dcterms:title>Corbett, William, 1675-1748. Trio sonatas, flutes (2), violoncello. op. 4</dcterms:title>
+   <dcterms:creator>Corbett, William, 1675-1748 [original]</dcterms:creator>
+   <dcterms:contributor>Hare, Joseph, -1733 [publisher]</dcterms:contributor>
+   <dcterms:contributor>Pippard, Luke. [engraver]</dcterms:contributor>
+   <dcterms:contributor>Walsh, John, 1665 or 1666-1736 [publisher]</dcterms:contributor>
+   <dcterms:created>1713</dcterms:created>
+   <dcterms:extent>3 parts. 37 cm.</dcterms:extent>
+   <dcterms:description>Mixed set: Pts. 2 &amp; 3 have title: Six sonata's a 3⁰ for two flutes or two German flutes and a bass .... Opera quarta. Libro primo. [London] Printed for the ye Author, engrav'd &amp; sold by L. Pippard ..., [1713?] [original]</dcterms:description>
+   <dcterms:description>Library has: Libro primo: Fluto primo -- Fluto secondo -- Basso, Continuo o Violoncello. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Mackay-Smith fund. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Trio sonatas--Parts</dcterms:subject>
+   <dcterms:subject>Trios (Flutes (2), cello)--Parts</dcterms:subject>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:878350/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2036571</edm:isShownAt>
+</mdRecord>

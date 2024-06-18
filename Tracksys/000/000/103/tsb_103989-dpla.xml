@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 6:44 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:103989</dcterms:identifier>
+   <dcterms:title>Maj. Robt. H. Poore: Recent intelligence has forced his sorrowing and bereaved family and friends to the unwelcome conclusion that the name of Major Robert H. Poore of Fluvanna County, Va., 14th Virginia regiment, Armistead's brigade, Pickett's division, must be added to the mournful roll of martyrs and heroes who fell on the fatal 3d of July last, in the battle of Gettysburg .. : All honor to the martyr spirit thus extinguished in death! Peace and glory to his sleeping ashes! / A comrade</dcterms:title>
+   <dcterms:creator>Comrade. [original]</dcterms:creator>
+   <dcterms:created>1863</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.) ; 29 x 17 cm.</dcterms:extent>
+   <dcterms:description>Text (52 lines, including title and signature) within ornamental border. [original]</dcterms:description>
+   <dcterms:description>Poore attended the University of Virginia in the 1842 session. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 1: Transferred from Valentine papers, MSS 1583. Copy 2: Imperfect, lower left corner torn away, removing the word "peace" in the final sentence of text. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 1: Transferred from Valentine papers, MSS 1583. Copy 2: Imperfect, lower left corner torn away, removing the word "peace" in the final sentence of text. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Poore, Robert H, 1823-1863</dcterms:subject>
+   <dcterms:subject>University of Virginia--Students</dcterms:subject>
+   <dcterms:subject>Gettysburg, Battle of, Gettysburg, Pa., 1863</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2770286/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2037029</edm:isShownAt>
+</mdRecord>

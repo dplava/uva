@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 6:44 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:104080</dcterms:identifier>
+   <dcterms:title>Whispers of heavenly death / by Walt Whitman</dcterms:title>
+   <dcterms:creator>Whitman, Walt, 1819-1892 [original]</dcterms:creator>
+   <dcterms:created>1868</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p. ; 47 x 15 cm.</dcterms:extent>
+   <dcterms:description>Poem, with 5 numbered sections. [original]</dcterms:description>
+   <dcterms:description>Originally published in "Broadway (London) Oct., 1868. Collected in Passage to India, 1871, wunder 5 different titles: Whispers of heavenly death -- Darest thou now, O Soul -- A noiseless, patient spider -- The last invocation -- Pensive and faltering. -- Cf. BAL [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Fragile; damaged at old fold lines. Accompanied by original mailing envelope addressed in Whitman's hand, to "Mrs. Eames, with best respects Walt Whitman." Also accompanied by a typed statement authenticating provenance on letterhead of The Attic Book Shop, a clipped dealer's description and a sheet of handwritten notes about the broadside. Clifton Waller Barrett Library, Walt Whitman Collection. Gift of C.W. Barrett. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Fragile; damaged at old fold lines. Accompanied by original mailing envelope addressed in Whitman's hand, to "Mrs. Eames, with best respects Walt Whitman." Also accompanied by a typed statement authenticating provenance on letterhead of The Attic Book Shop, a clipped dealer's description and a sheet of handwritten notes about the broadside. Clifton Waller Barrett Library, Walt Whitman Collection. Gift of C.W. Barrett. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2766539/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u826983</edm:isShownAt>
+</mdRecord>

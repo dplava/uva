@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:24 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1038387</dcterms:identifier>
+   <dcterms:title>La magnificence de la superbe et triumphante entree de la noble &amp; antique cité de Lyon faicte au treschrestien Roy de France Henry deuxiesme de ce nom, et à la Royne Catherine son espouse le XXIII. de Septembre M.D.XLVIII</dcterms:title>
+   <dcterms:contributor>Chambolle-Duru (Firm) [binder]</dcterms:contributor>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:contributor>Rouillé, Guillaume, 1518?-1589 [bookseller]</dcterms:contributor>
+   <dcterms:created>1549</dcterms:created>
+   <dcterms:extent>[44] leaves : ill. ; 22 cm. (4to)</dcterms:extent>
+   <dcterms:extent>22 cm. (4to) [original]</dcterms:extent>
+   <dcterms:medium>ill. [original]</dcterms:medium>
+   <dcterms:description>Signatures: A-L⁴. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Chambolle-Duru. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 209. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Henry, II, King of France, 1519-1559</dcterms:subject>
+   <dcterms:subject>Catherine de Médicis, Queen, consort of Henry II, King of France, 1519-1589</dcterms:subject>
+   <dcterms:subject>Architecture--France--Lyons--Sources</dcterms:subject>
+   <dcterms:subject>Lyon (France)--History--Sources</dcterms:subject>
+   <dcterms:subject>France--History--Henry II, 1547-1559</dcterms:subject>
+   <dcterms:temporal>Henry II, 1547-1559</dcterms:temporal>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Lyon (France)</dcterms:spatial>
+   <dcterms:spatial>Lyons</dcterms:spatial>
+   <dcterms:spatial>Lyon, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1057914/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2253024</edm:isShownAt>
+</mdRecord>

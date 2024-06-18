@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1119482</dcterms:identifier>
+   <dcterms:title>The German fatherland = Was ist des Deutschen Vaterland / translated and adapted by L.C. Elson ; music by Reichardt</dcterms:title>
+   <dcterms:title>Was ist des Deutschen Vaterland</dcterms:title>
+   <dcterms:title>Where is the German fatherland</dcterms:title>
+   <dcterms:title>Reichardt, G. Was ist des deutschen Vaterland. English &amp; German</dcterms:title>
+   <dcterms:creator>Reichardt, G. [original]</dcterms:creator>
+   <dcterms:contributor>Arndt, Ernst Moritz, 1769-1860 [original]</dcterms:contributor>
+   <dcterms:contributor>Elson, Louis Charles, 1848-1920 [translator]</dcterms:contributor>
+   <dcterms:created>1870</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, voice [original]</dcterms:description>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>"Arndt."--Colophon. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Arndt, Ernst Moritz, 1769-1860--Musical settings</dcterms:subject>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>National songs--Germany</dcterms:subject>
+   <dcterms:spatial>Germany</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1119483/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313359</edm:isShownAt>
+</mdRecord>

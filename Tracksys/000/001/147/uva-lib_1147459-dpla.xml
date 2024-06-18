@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:16 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1147459</dcterms:identifier>
+   <dcterms:title>Short Te Deum: (no. 6) in E flat, op. 61, no. 1 : without repetitions / Dudley Buck</dcterms:title>
+   <dcterms:title>We praise thee, o God</dcterms:title>
+   <dcterms:title>Buck, Dudley, 1839-1909. Morning service. op. 61. Short Te Deum</dcterms:title>
+   <dcterms:creator>Buck, Dudley, 1839-1909 [original]</dcterms:creator>
+   <dcterms:contributor>Bancroft, Silas A. (Silas Atkins), 1823-1886 [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Schlimper, F. W. [engraver]</dcterms:contributor>
+   <dcterms:contributor>Walker [engraver]</dcterms:contributor>
+   <dcterms:created>1873</dcterms:created>
+   <dcterms:extent>1 score (15 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>mixed chorus (4), organ [original]</dcterms:description>
+   <dcterms:description>soprano voice, alto voice, tenor voice, bass voice, organ [original]</dcterms:description>
+   <dcterms:description>For vocal quartet or chorus (SATB) and organ. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>"Schlimper, Engr."--Colophon. [original]</dcterms:description>
+   <dcterms:description>At foot of list title page: "Walker, Engr." [original]</dcterms:description>
+   <dcterms:description>At head of caption: "To S. A. Bancroft, Esq, Organist of Emmanuel Church, Boston, Mass." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Sacred vocal quartets with organ</dcterms:subject>
+   <dcterms:subject>Choruses, Sacred (Mixed voices, 4 parts) with organ</dcterms:subject>
+   <dcterms:subject>Te Deum laudamus (Music)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1147460/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315243</edm:isShownAt>
+</mdRecord>

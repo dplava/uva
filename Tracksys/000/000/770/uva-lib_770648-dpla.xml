@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:38 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:770648</dcterms:identifier>
+   <dcterms:title>The Louisiana amendment the same as ours!: it is constitutional and works well-- its operation entirely satisfactory to all classes of white people</dcterms:title>
+   <dcterms:created>1900</dcterms:created>
+   <dcterms:extent>1 sheet ([2] p.) ; 30 x 22 cm.</dcterms:extent>
+   <dcterms:description>Title from caption title. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Suffrage--Louisiana</dcterms:subject>
+   <dcterms:subject>Suffrage--North Carolina</dcterms:subject>
+   <dcterms:subject>African Americans--Suffrage</dcterms:subject>
+   <dcterms:subject>Literacy tests (Election law)</dcterms:subject>
+   <dcterms:subject>Election law--Louisiana</dcterms:subject>
+   <dcterms:subject>Election law--North Carolina</dcterms:subject>
+   <dcterms:spatial>Louisiana</dcterms:spatial>
+   <dcterms:spatial>North Carolina</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:956754/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2404603</edm:isShownAt>
+</mdRecord>

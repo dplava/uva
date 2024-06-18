@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1136414</dcterms:identifier>
+   <dcterms:title>We will be friends forever: ballad / words by George Cooper ; music by Harrison Millard</dcterms:title>
+   <dcterms:title>We will be friends forever</dcterms:title>
+   <dcterms:creator>Millard, H. (Harrison), 1830-1895 [original]</dcterms:creator>
+   <dcterms:contributor>Carlisle Miss [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Clayton, Charles O. [engraver]</dcterms:contributor>
+   <dcterms:contributor>Cooper, George, 1840-1927 [lyricist]</dcterms:contributor>
+   <dcterms:contributor>Teller, R. (Robert) [engraver]</dcterms:contributor>
+   <dcterms:created>1879</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, voice [original]</dcterms:description>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>"(Clayton)"--Colophon. [original]</dcterms:description>
+   <dcterms:description>At foot of t.p.: "R. Teller, 134 E. 13 St. N. Y." [original]</dcterms:description>
+   <dcterms:description>At head of title: "To Miss Carlisle (Brooklyn, N. Y.)". [original]</dcterms:description>
+   <dcterms:description>Includes advertisement for the composer's "Unspoken words" and "Kathleen of Kilkenny" on verso of p. 5. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1136415/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314391</edm:isShownAt>
+</mdRecord>

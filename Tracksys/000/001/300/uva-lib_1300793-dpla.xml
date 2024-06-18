@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:25 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1300793</dcterms:identifier>
+   <dcterms:title>Amérique Septentrionale / publiée sous les auspices de Monseigneur le Duc d'Orleans prémier prince du sang, par le Sr. D'Anville, MDCCXLVI</dcterms:title>
+   <dcterms:creator>Anville, Jean Baptiste Bourguignon d', 1697-1782 [original]</dcterms:creator>
+   <dcterms:contributor>Haye, G. de la. [original]</dcterms:contributor>
+   <dcterms:created>1746</dcterms:created>
+   <dcterms:extent>1 map on 4 sheets : hand col. ; 46 x 86 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>paper [original]</dcterms:medium>
+   <dcterms:description>Lower right: Gravé par Guill'. Delahaye. [original]</dcterms:description>
+   <dcterms:description>Relief shown pictorially. [original]</dcterms:description>
+   <dcterms:description>Inset: untitled, showing Hudson's Bay and Greenland. [original]</dcterms:description>
+   <dcterms:description>Cartouche designed by Sr. Gravelot, engraved by Sr. Major. [original]</dcterms:description>
+   <dcterms:description>Described by bookseller as the original issue of Anvill'es map, with a definite dotted boundary line from the "Montagnes d'Apalache" crossing the Cherokee River to the west border of South Carolina, and with very few branches of the Ohio River shown. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS. Copy 1-2: In both copies, some sheets have been pasted together to form 2 pieces. Tracy W. McGregor Library, American History Collection. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>North America</dcterms:spatial>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1562819/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4456486</edm:isShownAt>
+</mdRecord>

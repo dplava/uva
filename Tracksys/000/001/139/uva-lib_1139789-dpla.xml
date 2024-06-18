@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:02 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1139789</dcterms:identifier>
+   <dcterms:title>Invocation: (mezzo-soprano, or baritone) / music by Guy d' Hardelot ; [words by] Jules Barbier ; English version by Th. Baker</dcterms:title>
+   <dcterms:title>Mes yeux pleuraient en rêve!</dcterms:title>
+   <dcterms:title>My tears fell fast while dreaming</dcterms:title>
+   <dcterms:title>Hardelot, Guy d', 1858-1936. Invocation. English &amp; French</dcterms:title>
+   <dcterms:creator>Hardelot, Guy d', 1858-1936 [original]</dcterms:creator>
+   <dcterms:contributor>Baker, Theodore, 1851-1934 [translator]</dcterms:contributor>
+   <dcterms:contributor>Barbier, Jules, 1825-1901 [lyricist]</dcterms:contributor>
+   <dcterms:created>1894</dcterms:created>
+   <dcterms:extent>1 score (5 p.) + 3 parts.</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>baritone voice, piano [original]</dcterms:description>
+   <dcterms:description>baritone voice, piano, harp, violin [original]</dcterms:description>
+   <dcterms:description>baritone voice, piano, harp, violoncello [original]</dcterms:description>
+   <dcterms:description>mezzo-soprano voice, piano [original]</dcterms:description>
+   <dcterms:description>mezzo-soprano voice, piano, harp, violin [original]</dcterms:description>
+   <dcterms:description>mezzo-soprano voice, piano, harp, violoncello [original]</dcterms:description>
+   <dcterms:description>Mezzo-soprano. [original]</dcterms:description>
+   <dcterms:description>For mezzo-soprano or baritone and piano with violin or cello and harp ad lib. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>Violin and cello parts on same leaf of music. [original]</dcterms:description>
+   <dcterms:description>French words with English translation. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy imperfect; lacking p. 3-5 of score. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
+   <dcterms:subject>Songs (Medium voice) with instrumental ensemble--Scores and parts</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1139790/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314650</edm:isShownAt>
+</mdRecord>

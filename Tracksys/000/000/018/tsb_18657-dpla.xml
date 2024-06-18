@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 6:46 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18657</dcterms:identifier>
+   <dcterms:title>Francis' air / C.P. Francis</dcterms:title>
+   <dcterms:creator>Francis, C. P. [original]</dcterms:creator>
+   <dcterms:contributor>Webb, L. W. [original]</dcterms:contributor>
+   <dcterms:created>[1839..1841]</dcterms:created>
+   <dcterms:extent>3 p. of music ; 33 cm.</dcterms:extent>
+   <dcterms:description>piano (2) [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>"L.W. Webb"--Colophon. [original]</dcterms:description>
+   <dcterms:description>Publication date inferred from plate number. F.D. Benteen was operating under this name between 1839 and 1851. Cf. Handbook of early American sheet music / Dichter and Shapiro. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Fortieth title in a bound volume of sheet music from the library of Mrs. Abby A. Waterhouse, with her name on the cover. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy has dealer's stamp: Harrold &amp; Murray, 177 Broad St., Richmond. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music (4 hands), Arranged</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1542177/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5541550</edm:isShownAt>
+</mdRecord>

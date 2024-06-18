@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:24 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1219607</dcterms:identifier>
+   <dcterms:title>Rock me to sleep Mother</dcterms:title>
+   <dcterms:title>Backward, turn backward, oh! time, in your flight</dcterms:title>
+   <dcterms:creator>Allen, Elizabeth Akers, 1832-1911 [original]</dcterms:creator>
+   <dcterms:contributor>Magnus, Charles. [original]</dcterms:contributor>
+   <dcterms:created>[1861..1865]</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.) : ill. ; 21 x 13 cm.</dcterms:extent>
+   <dcterms:medium>ill. [original]</dcterms:medium>
+   <dcterms:description>Civil War song sheet in 2 verses and 1 chorus; without music. Printed in black on illustrated letter paper, with verso of sheet ruled in blue. [original]</dcterms:description>
+   <dcterms:description>First line: "Backward, turn backward, oh! time, in your flight." [original]</dcterms:description>
+   <dcterms:description>Publication statement printed in one line. [original]</dcterms:description>
+   <dcterms:description>Charles Magnus published as an individual at 12 Frankfort St., New York, between 1860 and 1867. Works which also include Washington, D.C. imprint were published about 1863 and 1864. [original]</dcterms:description>
+   <dcterms:description>Hand-colored headpiece pictures a soldier holding a rifle with butt resting on the ground and barrel resting in the crook of his arm, the whole within a single rule border. Magnus 169b. Cf. American song sheets, 2019c. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: E647 .S63 no.1: Boxed with other Civil War song sheets. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M1628.3 .C6 1861 no.15: Fifteenth of 25 song sheets which were mounted in an unidentified scrapbook. Rehoused, 2009. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Mothers and sons--United States--Songs and music--Texts</dcterms:subject>
+   <dcterms:subject>Soldiers--United States--Songs and music--Texts</dcterms:subject>
+   <dcterms:subject>War songs--United States--Songs and music--Texts</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Songs and music--Texts</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <dcterms:spatial>New York (City), New York (State), United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1219752/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u1344308</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:18 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1003006</dcterms:identifier>
+   <dcterms:title>Raison darchitecture antique / extraicte de Victruue, et aultres anciens architecteurs, ; nouuellemēt traduit despaignol en Frācoys: a lutilite de ceulx q[ui] se delectēt en edifices</dcterms:title>
+   <dcterms:title>Sagredo, Diego de. Medidas del romano. French</dcterms:title>
+   <dcterms:creator>Sagredo, Diego de. [original]</dcterms:creator>
+   <dcterms:contributor>Colines, Simon de, 1480?-1546 [original]</dcterms:contributor>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:contributor>Jollat. [original]</dcterms:contributor>
+   <dcterms:contributor>Vitruvius Pollio. [original]</dcterms:contributor>
+   <dcterms:created>[1526..1537]</dcterms:created>
+   <dcterms:extent>51 leaves : ill. ; 23 cm. (4to)</dcterms:extent>
+   <dcterms:extent>23 cm. (4to) [original]</dcterms:extent>
+   <dcterms:medium>ill. [original]</dcterms:medium>
+   <dcterms:description>Signatures: a-f⁸ g³. [original]</dcterms:description>
+   <dcterms:description>Translation of: Medidas del romano. [original]</dcterms:description>
+   <dcterms:description>According to Renouard's Bibl. des éd. de S. de Colines, published between 1526 and 1537. [original]</dcterms:description>
+   <dcterms:description>Handwritten note that the woodcuts have been attributed to Mercure Jollat. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Monogram bookplate of "SSB," Silvain S. Brunschwig. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 285. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Architecture, Classical</dcterms:subject>
+   <dcterms:subject>Architecture--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:731289/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2262173</edm:isShownAt>
+</mdRecord>

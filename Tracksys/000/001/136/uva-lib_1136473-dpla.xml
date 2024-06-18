@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1136473</dcterms:identifier>
+   <dcterms:title>Nun bist du mein = Now thou art mine : op. 56, no. 4 / Erik Meyer-Helmund ; Gedicht von Hermann Erler ; edited and translated by Helen B. Tretbar</dcterms:title>
+   <dcterms:title>Now thou art mine</dcterms:title>
+   <dcterms:title>Nun bist du mein</dcterms:title>
+   <dcterms:title>Meyer-Helmund, Erik, 1861-1932. Lieder. op. 56. Nun bist du mein</dcterms:title>
+   <dcterms:creator>Meyer-Helmund, Erik, 1861-1932 [original]</dcterms:creator>
+   <dcterms:contributor>C.G. Röder (Firm) [lithographer]</dcterms:contributor>
+   <dcterms:contributor>Erler, Hermann, 1844-1918 [lyricist]</dcterms:contributor>
+   <dcterms:contributor>Tretbar, Helen D. [translator, editor]</dcterms:contributor>
+   <dcterms:created>1888</dcterms:created>
+   <dcterms:extent>1 score (9 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, alto voice [original]</dcterms:description>
+   <dcterms:description>Alto. [original]</dcterms:description>
+   <dcterms:description>For piano and alto voice. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>At foot of score, p. 3: "Stich und Druck der Röder'schen Officin in Leipzig". [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy 1 has dealer's stamp: "Walter D. Moses &amp; Co., 1005 Main St., Richmond, Va." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1136474/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314395</edm:isShownAt>
+</mdRecord>

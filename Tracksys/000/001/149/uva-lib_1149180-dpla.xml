@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:18 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1149180</dcterms:identifier>
+   <dcterms:title>Polonaise, op. 75, no. 3 / Franz Schubert</dcterms:title>
+   <dcterms:title>Schubert, Franz, 1797-1828. Polonaises, piano, 4 hands. D. 599</dcterms:title>
+   <dcterms:creator>Schubert, Franz, 1797-1828 [original]</dcterms:creator>
+   <dcterms:contributor>Greene &amp; Walker (Firm : Boston, Mass.) [lithographer]</dcterms:contributor>
+   <dcterms:created>[1858..1861]</dcterms:created>
+   <dcterms:extent>5 p. of music.</dcterms:extent>
+   <dcterms:description>piano (2) [original]</dcterms:description>
+   <dcterms:description>For piano (4 hands). [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>"Greene &amp; Walker, Boston." [original]</dcterms:description>
+   <dcterms:description>Publisher was at this address between 1858 and 1861. Cf. Handbook of early American sheet music / Dichter and Shapiro. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music (4 hands)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1149181/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315370</edm:isShownAt>
+</mdRecord>

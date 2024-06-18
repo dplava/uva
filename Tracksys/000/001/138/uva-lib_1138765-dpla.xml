@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:00 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1138765</dcterms:identifier>
+   <dcterms:title>Für Elise: composed 1808 / L. von Beethoven ; revised and fingered by Carlyle Petersilea</dcterms:title>
+   <dcterms:title>Beethoven, Ludwig van, 1770-1827. Bagatelles, piano. WoO 59, A minor</dcterms:title>
+   <dcterms:creator>Beethoven, Ludwig van, 1770-1827 [original]</dcterms:creator>
+   <dcterms:contributor>Petersilea, Carlyle, 1844-1903 [editor]</dcterms:contributor>
+   <dcterms:created>1890</dcterms:created>
+   <dcterms:extent>7 p. of music.</dcterms:extent>
+   <dcterms:description>piano [original]</dcterms:description>
+   <dcterms:description>For piano solo. [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: Musical incipits for "New, elegant and useful compositions for pianoforte, 4th grade." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1138766/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314575</edm:isShownAt>
+</mdRecord>

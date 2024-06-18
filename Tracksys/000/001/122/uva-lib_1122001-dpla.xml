@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:35 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1122001</dcterms:identifier>
+   <dcterms:title>La harpe éolienne: reverie : pour le piano [op. 25] / par W. Krüger</dcterms:title>
+   <dcterms:title>Krüger, Wilhelm, 1820-1883. Harpe éolienne</dcterms:title>
+   <dcterms:creator>Krüger, Wilhelm, 1820-1883 [original]</dcterms:creator>
+   <dcterms:contributor>Benedict, Sigismund [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Webb, L. W. [engraver]</dcterms:contributor>
+   <dcterms:created>[1853..1864]</dcterms:created>
+   <dcterms:extent>9 p. of music ; 35 cm.</dcterms:extent>
+   <dcterms:description>Publication date derived from form of publisher's name. Cf. Handbook of early American sheet music / Dichter and Shapiro. [original]</dcterms:description>
+   <dcterms:description>At foot of title page engraving: Gillingham, Engr. [original]</dcterms:description>
+   <dcterms:description>At head of title: "À Monsieur Sigismund Benedict." [original]</dcterms:description>
+   <dcterms:description>"Webb"--Colophon. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Stamped on cover of library's copy 1: Geo. Willig &amp; Co., No. 1 N. Charles St., Baltimore. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1122002/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u1983046</edm:isShownAt>
+</mdRecord>

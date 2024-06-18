@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:16 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1147764</dcterms:identifier>
+   <dcterms:title>Under the mistletoe: Christmas ballad / composed by C.W. Glover ; written by C.T. Martin</dcterms:title>
+   <dcterms:title>Under the mistletoe, softly he came</dcterms:title>
+   <dcterms:creator>Glover, Charles William, 1806-1863 [original]</dcterms:creator>
+   <dcterms:contributor>Martin, C. T. (Claude Trimble) [lyricist]</dcterms:contributor>
+   <dcterms:contributor>Swain, George F. [engraver]</dcterms:contributor>
+   <dcterms:created>[1864..1877]</dcterms:created>
+   <dcterms:extent>1 score (29-31 [i.e. 3] p.)</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, voice [original]</dcterms:description>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>At foot of title page: "Geo. F. Swain." [original]</dcterms:description>
+   <dcterms:description>Publisher presumed to be active between 1864 and 1877. Cf. Handbook of early American sheet music / Dichter and Shapiro. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Christmas music</dcterms:subject>
+   <dcterms:subject>Mistletoes--Songs and music</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1147765/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315265</edm:isShownAt>
+</mdRecord>

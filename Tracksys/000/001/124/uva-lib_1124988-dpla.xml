@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:40 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1124988</dcterms:identifier>
+   <dcterms:title>Nocturne pour le piano, oeuv. 32 / composée par H.A. Wollenhaupt</dcterms:title>
+   <dcterms:creator>Wollenhaupt, H. A. (Hermann Adolf), 1827-1863 [original]</dcterms:creator>
+   <dcterms:contributor>Marcato, Ben [engraver]</dcterms:contributor>
+   <dcterms:contributor>Pearson, J. C. (J. Charles) [engraver]</dcterms:contributor>
+   <dcterms:contributor>Pomeroy, Cora [dedicatee]</dcterms:contributor>
+   <dcterms:created>[1848..1858]</dcterms:created>
+   <dcterms:extent>7 p. of music.</dcterms:extent>
+   <dcterms:description>piano [original]</dcterms:description>
+   <dcterms:description>For piano solo. [original]</dcterms:description>
+   <dcterms:description>"Gravé par Ben Marcato."--Colophon. [original]</dcterms:description>
+   <dcterms:description>At foot of title page engraving: "J.C. Pearson, N.Y." [original]</dcterms:description>
+   <dcterms:description>At head of title: "à Mademoiselle Cora Pomeroy." [original]</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy has dealer's stamp: "James Woodhouse, Richmond, Va." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1124989/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313753</edm:isShownAt>
+</mdRecord>

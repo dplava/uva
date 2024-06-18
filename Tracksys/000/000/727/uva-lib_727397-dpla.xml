@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:36 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:727397</dcterms:identifier>
+   <dcterms:title>The tale of Benjamin Bunny / by Beatrix Potter</dcterms:title>
+   <dcterms:creator>Potter, Beatrix, 1866-1943 [original]</dcterms:creator>
+   <dcterms:created>1904</dcterms:created>
+   <dcterms:extent>84, [1] p. : col. ill. ; 14 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>ill. [original]</dcterms:medium>
+   <dcterms:description>SPECIAL COLLECTIONS: Original pictorial cream boards. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Gift of Richard B. (Skip) Martin. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:949400/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u828609</edm:isShownAt>
+</mdRecord>

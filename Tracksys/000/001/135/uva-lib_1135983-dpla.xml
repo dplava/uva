@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:55 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1135983</dcterms:identifier>
+   <dcterms:title>Mid-summer night's dream = On songe d'une nuit d'ete de Mendelssohn : paraphrase de concert, op. 76 / Sydney Smith</dcterms:title>
+   <dcterms:title>On songe d'une nuit d'ete</dcterms:title>
+   <dcterms:creator>Smith, Sydney, 1839-1889 [original]</dcterms:creator>
+   <dcterms:contributor>Mendelssohn-Bartholdy, Felix, 1809-1847 [original]</dcterms:contributor>
+   <dcterms:contributor>Taylor &amp; Barwood [engraver]</dcterms:contributor>
+   <dcterms:created>[1873..1890]</dcterms:created>
+   <dcterms:extent>13 p. of music.</dcterms:extent>
+   <dcterms:description>piano [original]</dcterms:description>
+   <dcterms:description>For piano solo. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>At foot of t.p.: "Taylor &amp; Barwood, Music Electrotypers, 27 Rose St., New York." [original]</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's address. Cf. Handbook of early American sheet music / Dichter and Shapiro. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy has dealer's stamp: "Wm. H. Boner &amp; Co., 1102 Chestnut St., Phila." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1135984/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314350</edm:isShownAt>
+</mdRecord>

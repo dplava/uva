@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 6:49 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18876</dcterms:identifier>
+   <dcterms:title>Postcript: Staunton, Wednesday night, May 24th, 1854 / [Letters signed, J.D. Imboden, M.H. McCue, George Baylor, Jefferson Kinney concerning M.H. McCue's payment of the Railroad Tax for 1853 to Jefferson Kinney]</dcterms:title>
+   <dcterms:contributor>Baylor, George W. [original]</dcterms:contributor>
+   <dcterms:contributor>Imboden, John D. (John Daniel), 1823-1895 [original]</dcterms:contributor>
+   <dcterms:contributor>Kinney, Jefferson. [original]</dcterms:contributor>
+   <dcterms:contributor>McCue, Moses H. [original]</dcterms:contributor>
+   <dcterms:created>1854</dcterms:created>
+   <dcterms:extent>1 broadside. 34 x 12 cm.</dcterms:extent>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1518290/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2092321</edm:isShownAt>
+</mdRecord>

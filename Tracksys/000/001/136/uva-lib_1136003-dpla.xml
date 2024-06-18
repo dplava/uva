@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:55 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1136003</dcterms:identifier>
+   <dcterms:title>Heimkehr aus der Fremde: Andante from The son and stranger / Mendelssohn</dcterms:title>
+   <dcterms:title>Son and stranger</dcterms:title>
+   <dcterms:title>Mendelssohn-Bartholdy, Felix, 1809-1847. Heimkehr aus der Fremde. Andante; arr</dcterms:title>
+   <dcterms:creator>Mendelssohn-Bartholdy, Felix, 1809-1847 [original]</dcterms:creator>
+   <dcterms:contributor>Amsberg, V. [editor]</dcterms:contributor>
+   <dcterms:created>1871</dcterms:created>
+   <dcterms:extent>3 p. of music.</dcterms:extent>
+   <dcterms:medium>piano score [original]</dcterms:medium>
+   <dcterms:description>piano [original]</dcterms:description>
+   <dcterms:description>New, rev. ed. / with fingering by V. Amsberg. [original]</dcterms:description>
+   <dcterms:description>Originally for orchestra; arr. for piano solo. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Piano music, Arranged</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts, Arranged</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1136004/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314352</edm:isShownAt>
+</mdRecord>

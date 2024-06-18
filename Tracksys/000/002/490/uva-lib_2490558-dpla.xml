@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:identifier>uva-lib:2490558</dcterms:identifier>
+   <dcterms:title>Legal documents 16th century</dcterms:title>
+   <dcterms:created>[1500..1599]</dcterms:created>
+   <dcterms:extent>2 vellum 3 x 14 cm. items</dcterms:extent>
+   <dcterms:description>Probably the text of a legal document; English cursive bookhand in a late chancery type, probably 16th century. Quite a number of proper names (English) are found in the piece. [original]</dcterms:description>
+   <dcterms:description>Latin. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2493317/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2499606</edm:isShownAt>
+</mdRecord>

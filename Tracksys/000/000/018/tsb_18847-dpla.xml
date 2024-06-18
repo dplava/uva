@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 6:48 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:18847</dcterms:identifier>
+   <dcterms:title>You are respectfully invited to attend the anniversary celebration of the Jefferson Society, to be held in the Chapel of the University, on the 13th of April, at 7 o'clock P.M.</dcterms:title>
+   <dcterms:contributor>Holman, B. O. (Burette O.) [original]</dcterms:contributor>
+   <dcterms:contributor>Hutcheson, J. W. [original]</dcterms:contributor>
+   <dcterms:contributor>University of Virginia. Jefferson Society. [original]</dcterms:contributor>
+   <dcterms:created>1852</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.) ; 14 x 20 cm. folded to 14 x 10 cm.</dcterms:extent>
+   <dcterms:description>Printed at end of invitation: "Jefferson Hall, March 11th, 1852." [original]</dcterms:description>
+   <dcterms:description>"Orator, J.W. Hutcheson of Mecklenburg County, Va. Reader of Declaration of Indepence, B.O. Holman of Alabama." [original]</dcterms:description>
+   <dcterms:description>Invitation printed on p. [1] only; p. [2]-[4] are blank. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Signed "With respects of Robert Bolling Jr." Transferred from UVa Chronological file, 2000. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia. Jefferson Society.</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1517969/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3553892</edm:isShownAt>
+</mdRecord>

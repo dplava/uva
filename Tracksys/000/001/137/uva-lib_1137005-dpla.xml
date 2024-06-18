@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:57 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1137005</dcterms:identifier>
+   <dcterms:title>Solo, profugo, rejetto = Lost, proscrib'd, a friendless pilgrim / Flotow</dcterms:title>
+   <dcterms:title>Lost, proscrib'd, a friendless pilgrim</dcterms:title>
+   <dcterms:title>Solo, profugo, rejetto</dcterms:title>
+   <dcterms:title>Flotow, Friedrich von, 1812-1883. Martha. Ja, seit frü̈her Kindheit</dcterms:title>
+   <dcterms:creator>Flotow, Friedrich von, 1812-1883 [original]</dcterms:creator>
+   <dcterms:contributor>Richardson, Warren, 1823-1907 [engraver]</dcterms:contributor>
+   <dcterms:created>1852</dcterms:created>
+   <dcterms:extent>1 vocal score (7 p.).</dcterms:extent>
+   <dcterms:medium>piano score [original]</dcterms:medium>
+   <dcterms:description>tenor voice, bass voice, piano [original]</dcterms:description>
+   <dcterms:description>Duet for 2 voices, with orchestral acc. arr. for piano. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>At foot of title page: "Richardson, printer, Boston." [original]</dcterms:description>
+   <dcterms:description>English and Italian words. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
+   <dcterms:subject>Vocal duets with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1137006/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314432</edm:isShownAt>
+</mdRecord>

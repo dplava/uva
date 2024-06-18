@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:20 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1150030</dcterms:identifier>
+   <dcterms:title>Farewell: (We now must part for ever) : ballad, sung by W.J. Castle / written and composed by W.H.J. Graham</dcterms:title>
+   <dcterms:title>Look me in the face, dear</dcterms:title>
+   <dcterms:title>We now must part for ever</dcterms:title>
+   <dcterms:creator>Graham, W. H. J. [original]</dcterms:creator>
+   <dcterms:contributor>Castle, W. J. [performer]</dcterms:contributor>
+   <dcterms:contributor>Kellogg, Clara Louise, 1842-1916 [dedicatee]</dcterms:contributor>
+   <dcterms:created>1863</dcterms:created>
+   <dcterms:extent>1 score (6 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, soprano voice [original]</dcterms:description>
+   <dcterms:description>tenor voice, piano [original]</dcterms:description>
+   <dcterms:description>Soprano or tenor in F. [original]</dcterms:description>
+   <dcterms:description>For high voice and piano. [original]</dcterms:description>
+   <dcterms:description>"To Miss Clara Louise Kellogg." [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: Our selected, graded and classified music. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1150031/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315426</edm:isShownAt>
+</mdRecord>

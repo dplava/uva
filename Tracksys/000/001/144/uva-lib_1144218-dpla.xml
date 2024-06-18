@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:10 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1144218</dcterms:identifier>
+   <dcterms:title>Calm as the night = Still wie die Nacht / Carl Bohm ; English poetry by Nathan Haskell Dole</dcterms:title>
+   <dcterms:title>Calm as the night, deep as the sea</dcterms:title>
+   <dcterms:title>Still wie die Nacht</dcterms:title>
+   <dcterms:title>Still wie die Nacht, tief wie das Meer</dcterms:title>
+   <dcterms:title>Bohm, Carl, 1844-1920. Lieder. op. 326. Still wie die Nacht</dcterms:title>
+   <dcterms:creator>Bohm, Carl, 1844-1920 [original]</dcterms:creator>
+   <dcterms:contributor>Dole, Nathan Haskell, 1852-1935 [translator]</dcterms:contributor>
+   <dcterms:created>1891</dcterms:created>
+   <dcterms:extent>1 score (5 p.) ; 31 cm.</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>alto voice, piano [original]</dcterms:description>
+   <dcterms:description>Alto in B♭. [original]</dcterms:description>
+   <dcterms:description>For alto and piano. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: New songs and duets. [original]</dcterms:description>
+   <dcterms:description>German words with parallel English translation. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1144219/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5366002</edm:isShownAt>
+</mdRecord>

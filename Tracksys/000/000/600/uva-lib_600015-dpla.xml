@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:33 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:600015</dcterms:identifier>
+   <dcterms:title>Hammond's large scale war map of the Western Front ; Hammond's large scale war map Italian Front</dcterms:title>
+   <dcterms:title>Hammond's large scale war map Italian Front</dcterms:title>
+   <dcterms:title>War map Italian Front</dcterms:title>
+   <dcterms:title>War map of the Western Front</dcterms:title>
+   <dcterms:creator>C.S. Hammond &amp; Company. [original]</dcterms:creator>
+   <dcterms:created>1918</dcterms:created>
+   <dcterms:extent>2 maps on 1 sheet (back-to-back) : col. ; 68 x 91 cm. and 66 x 76 cm. on sheet 71 x 97 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>Both maps show battle lines as of Sept. 23rd, 1918. [original]</dcterms:description>
+   <dcterms:description>Maps show railways, canals, forests, aircraft depots, wireless stations, forts, fortified towns, and naval arsenals, etc. [original]</dcterms:description>
+   <dcterms:description>Possibly issued with an index, which is no longer present. [original]</dcterms:description>
+   <dcterms:description>Relief shown by hachures. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Imperfect: on fragile paper with torn and chipped edges and some fold separations. [original]</dcterms:description>
+   <dcterms:description>Scale 1:633,600 .</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>World War, 1914-1918--Campaigns--Western Front--Maps</dcterms:subject>
+   <dcterms:subject>World War, 1914-1918--Campaigns--Italy--Maps</dcterms:subject>
+   <dcterms:subject>Europe, Western--Maps</dcterms:subject>
+   <dcterms:subject>Italy--Maps</dcterms:subject>
+   <dcterms:spatial>Europe, Western</dcterms:spatial>
+   <dcterms:spatial>Italy</dcterms:spatial>
+   <dcterms:spatial>Western Front</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096777/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4820793</edm:isShownAt>
+</mdRecord>

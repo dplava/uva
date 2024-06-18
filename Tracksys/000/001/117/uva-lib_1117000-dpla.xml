@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:29 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1117000</dcterms:identifier>
+   <dcterms:title>Come into the garden Maud: cavatina, as sung by Henry Squires, Esq / poetry by Alfred Tennyson ; composed by M.W. Balfe ; piano - guitar</dcterms:title>
+   <dcterms:title>Come into the garden Maud</dcterms:title>
+   <dcterms:title>Balfe, M. W. (Michael William), 1808-1870. Come into the garden, Maud; arr</dcterms:title>
+   <dcterms:creator>Balfe, M. W. (Michael William), 1808-1870 [original]</dcterms:creator>
+   <dcterms:contributor>Squires, Henry [performer]</dcterms:contributor>
+   <dcterms:contributor>Tennyson, Alfred Tennyson Baron, 1809-1892 [lyricist]</dcterms:contributor>
+   <dcterms:created>[1857..1860]</dcterms:created>
+   <dcterms:extent>1 score (6 p.)</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>voice, guitar [original]</dcterms:description>
+   <dcterms:description>For voice with acc. arr. for guitar. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>Price: 3 1/2 cents. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Tennyson, Alfred Tennyson, Baron, 1809-1892--Musical settings</dcterms:subject>
+   <dcterms:subject>Songs with guitar, Arranged</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1117001/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4634427</edm:isShownAt>
+</mdRecord>

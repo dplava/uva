@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:28 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1109566</dcterms:identifier>
+   <dcterms:title>West Virginia ; North Carolina</dcterms:title>
+   <dcterms:title>North Carolina</dcterms:title>
+   <dcterms:title>Rand, McNally &amp; Co.'s New 11 x 14 map of North Carolina</dcterms:title>
+   <dcterms:title>Rand, McNally &amp; Co.'s New 11 x 14 map of West Virginia</dcterms:title>
+   <dcterms:creator>Rand McNally and Company. [original]</dcterms:creator>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>2 maps on 1 sheet : back to back, col. ; 21 x 32 cm. and 24 x 32 cm. on sheet 29 x 36 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>Relief shown by hachures. [original]</dcterms:description>
+   <dcterms:description>West Virginia (Inset: Northern portion of West Virginia), p. 27 -- North Carolina (Inset: Western portion of North Carolina), p. 28. [original]</dcterms:description>
+   <dcterms:description>Prime meridian: Greenwich. [original]</dcterms:description>
+   <dcterms:description>Each map contains an index to counties and cities, figures on the extent of land and water areas, and population statistics. [original]</dcterms:description>
+   <dcterms:description>Removed from a Rand McNally Atlas of the world., p. 27-28. Each map has "Atlas of the world" at top of sheet and "Rand, McNally &amp; Co.'s New 11 x 14 Map of ... Copyright 1895, by Rand, McNally &amp; Co." printed below the bar scale. [original]</dcterms:description>
+   <dcterms:description>Scales vary.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>North Carolina--Maps</dcterms:subject>
+   <dcterms:subject>West Virginia--Maps</dcterms:subject>
+   <dcterms:spatial>North Carolina</dcterms:spatial>
+   <dcterms:spatial>West Virginia</dcterms:spatial>
+   <dcterms:spatial>Chicago, Illinois, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1114392/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4595354</edm:isShownAt>
+</mdRecord>

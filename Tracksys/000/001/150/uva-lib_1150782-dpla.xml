@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:21 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1150782</dcterms:identifier>
+   <dcterms:title>Flow gently sweet Afton: ballad / written by Robert Burns ; music by J.E. Spilman ; [arranged for the Spanish guitar by F. Weiland]</dcterms:title>
+   <dcterms:title>Flow gently sweet Afton</dcterms:title>
+   <dcterms:creator>Spilman, Jonathan E., 1812-1896 [original]</dcterms:creator>
+   <dcterms:contributor>Burns, Robert, 1759-1796 [original]</dcterms:contributor>
+   <dcterms:contributor>McCarthy, Edward [engraver]</dcterms:contributor>
+   <dcterms:contributor>Weiland, Francis [arranger]</dcterms:contributor>
+   <dcterms:created>1855</dcterms:created>
+   <dcterms:extent>1 score (4 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>voice, guitar [original]</dcterms:description>
+   <dcterms:description>50th ed. [original]</dcterms:description>
+   <dcterms:description>For guitar and voice. [original]</dcterms:description>
+   <dcterms:description>Reprint. Originally published: [Philadelphia] : George Willig, c1839. [original]</dcterms:description>
+   <dcterms:description>"E. M'Carthy." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Burns, Robert, 1759-1796--Musical settings</dcterms:subject>
+   <dcterms:subject>Songs with guitar</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1150783/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315488</edm:isShownAt>
+</mdRecord>

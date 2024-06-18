@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:35 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:616977</dcterms:identifier>
+   <dcterms:title>Royaume d'Irlande: divisé en ses quatre provinces, et subdivisé en comtés / par le Sr. Robert</dcterms:title>
+   <dcterms:creator>Robert de Vaugondy, Didier, 1723-1786 [original]</dcterms:creator>
+   <dcterms:contributor>Remondini (Firm) [original]</dcterms:contributor>
+   <dcterms:contributor>Santini, P. [original]</dcterms:contributor>
+   <dcterms:created>1784</dcterms:created>
+   <dcterms:extent>1 map : col. ; 48 x 54 cm. on sheet 53 x 73 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>Relief shown pictorially and by hachures. [original]</dcterms:description>
+   <dcterms:description>"P.I. 43." att upper right corner. [original]</dcterms:description>
+   <dcterms:description>Appeared in P. Santini's Atlas universel, [1784] [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,100,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Ireland--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>Ireland</dcterms:spatial>
+   <dcterms:spatial>Venice, Italy</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1037565/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4797811</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:24 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1219810</dcterms:identifier>
+   <dcterms:title>Drafting the Declaration of Independence: the Committee, Franklin, Jefferson, Adams, Livingston &amp; Sherman / from the original painting by Chappel in the posession of the publishers</dcterms:title>
+   <dcterms:contributor>Albert H. Small Declaration of Independence Collection (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:contributor>Chappel, Alonzo, 1828-1887 [original]</dcterms:contributor>
+   <dcterms:contributor>Johnson, Fry &amp; Co. [original]</dcterms:contributor>
+   <dcterms:created>1857</dcterms:created>
+   <dcterms:extent>1 print : hand-col. ; 18 x 14 cm. on sheet 28 x 21 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:description>Image: The Committee at work, with Franklin standing on one side of a table facing the other committee members, two of whom are seated with papers in hand. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Albert H. Small Declaration of Independence Collection. Gift of Albert and Shirley Small, June, 2005. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Franklin, Benjamin, 1706-1790--Portraits</dcterms:subject>
+   <dcterms:subject>Jefferson, Thomas, 1743-1826--Portraits</dcterms:subject>
+   <dcterms:subject>Adams, John, 1735-1826--Portraits</dcterms:subject>
+   <dcterms:subject>Livingston, Robert R, 1746-1813--Portraits</dcterms:subject>
+   <dcterms:subject>Sherman, Roger, 1721-1793--Portraits</dcterms:subject>
+   <dcterms:subject>United States. Continental Congress.</dcterms:subject>
+   <dcterms:subject>United States.--Declaration of Independence</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1225152/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4223187</edm:isShownAt>
+</mdRecord>

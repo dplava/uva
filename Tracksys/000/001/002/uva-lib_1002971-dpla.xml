@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:18 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1002971</dcterms:identifier>
+   <dcterms:title>Epistre a Marot / par Francois de Sagon pour luy monstrer que Frippelipes auoit faicte sotte co[m]paraison des quatre raisons dudit Sagon a quatre oysons. ; Vela de quoy</dcterms:title>
+   <dcterms:creator>Sagon, François de, active 16th century [original]</dcterms:creator>
+   <dcterms:contributor>André, Jean, active 1535-1552 [printer]</dcterms:contributor>
+   <dcterms:contributor>Capé, Charles, 1806-1867 [binder]</dcterms:contributor>
+   <dcterms:contributor>Corrozet, Gilles, 1510-1568 [printer]</dcterms:contributor>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:created>1537</dcterms:created>
+   <dcterms:extent>[30] p. ; 17 cm. (8vo)</dcterms:extent>
+   <dcterms:extent>17 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:description>Signatures: a-d⁴ [-d4, blank?] [original]</dcterms:description>
+   <dcterms:description>Rondeau et dixains faictz par Sagon &amp; ses amis co[n]tre Gloutelet le premier des disciples marotins: p. [28]-[30] [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Capé. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 754. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Marot, Clément, 1496-1544</dcterms:subject>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:874536/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2353773</edm:isShownAt>
+</mdRecord>

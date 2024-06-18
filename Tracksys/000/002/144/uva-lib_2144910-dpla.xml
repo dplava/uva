@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:26 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2144910</dcterms:identifier>
+   <dcterms:title>Reasons humbly, offer'd by the merchants trading in pitch and tar, from His Majesty's plantations</dcterms:title>
+   <dcterms:creator>Great Britain. Parliament. [original]</dcterms:creator>
+   <dcterms:created>1720</dcterms:created>
+   <dcterms:extent>1 sheet ([2] p. ; 33 x 21 cm.</dcterms:extent>
+   <dcterms:description>Text, with caption title, on p. [1]; docket title on p. [2] [original]</dcterms:description>
+   <dcterms:description>"That by a bill ... before Your Lordships, ... for effectual preventing frauds relating to the Customs; ... it is enacted, that no certificate shall be made out, in order to allow a premium or reward upon any tar that is not fitting to be used in making cordage ... [the merchants] humbly hope Your Lordships will be pleased to make an amendment to the said clause, by adding after the words (fit for the making cordage) the words (and fit for the use of ships and vessels.)" [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library; 1981 purchase. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Naval stores--Law and legislation</dcterms:subject>
+   <dcterms:subject>Great Britain--Commerce</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2175739/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2372315</edm:isShownAt>
+</mdRecord>

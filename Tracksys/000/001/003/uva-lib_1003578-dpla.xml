@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:22 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003578</dcterms:identifier>
+   <dcterms:title>L' Amérique / suivant les dernier Mémoires de J.B. Nolin, Geógraph du Roi</dcterms:title>
+   <dcterms:creator>Nolin, Jean Baptiste, 1686-1762 [original]</dcterms:creator>
+   <dcterms:created>1755</dcterms:created>
+   <dcterms:extent>1 map : col. ; 21 x 20 cm. on sheet24 x 36 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:description>Relief shown pictorially. [original]</dcterms:description>
+   <dcterms:description>Number "32" printed inside border at upper right corner. [original]</dcterms:description>
+   <dcterms:description>Prime meridian: Paris (with Isle de Fer meridian also marked). [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:82 000 000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>America--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Western Hemisphere--Maps</dcterms:subject>
+   <dcterms:subject>North America--Maps</dcterms:subject>
+   <dcterms:subject>South America--Maps</dcterms:subject>
+   <dcterms:spatial>America</dcterms:spatial>
+   <dcterms:spatial>North America</dcterms:spatial>
+   <dcterms:spatial>South America</dcterms:spatial>
+   <dcterms:spatial>Western Hemisphere</dcterms:spatial>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904826/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4718003</edm:isShownAt>
+</mdRecord>

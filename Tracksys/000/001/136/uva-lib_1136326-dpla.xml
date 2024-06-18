@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1136326</dcterms:identifier>
+   <dcterms:title>My ship comes in / words by Joaquin Miller ; music by H. Millard ; [German translation by Julius Gerson]</dcterms:title>
+   <dcterms:title>Mein Schiff kommt von dem hohen Meer</dcterms:title>
+   <dcterms:title>My ship comes sailing up the sea</dcterms:title>
+   <dcterms:title>Millard, H. (Harrison), 1830-1895. My ship comes sailing up the sea. German &amp; English</dcterms:title>
+   <dcterms:creator>Millard, H. (Harrison), 1830-1895 [original]</dcterms:creator>
+   <dcterms:contributor>Gerson, Julius Christian, 1811-1894 [translator]</dcterms:contributor>
+   <dcterms:contributor>Miller, Joaquin, 1837-1913 [lyricist]</dcterms:contributor>
+   <dcterms:created>1876</dcterms:created>
+   <dcterms:extent>1 score ([7] p.) : 1-color ill.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, soprano voice [original]</dcterms:description>
+   <dcterms:description>piano, tenor voice [original]</dcterms:description>
+   <dcterms:description>2nd ed., for soprano or tenor in E. [original]</dcterms:description>
+   <dcterms:description>For piano and soprano or tenor. [original]</dcterms:description>
+   <dcterms:description>English and German words. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Library's copy imperfect; p. 7 missing. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1136327/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314384</edm:isShownAt>
+</mdRecord>

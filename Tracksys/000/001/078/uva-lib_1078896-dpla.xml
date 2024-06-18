@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:28 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1078896</dcterms:identifier>
+   <dcterms:title>Cronique et histoire faicte et composee par reuerend pere en dieu Turpin archeuesque de Reims lungs des pairs de frāce: contenante es prouesses et faictz darmes aduenuz en son temps du tres magnanime Roy Charles le grāt autremēt dit Charlemaigne: &amp; de son nepueu Raoulad Lesquelles il redigea comme cōpilateur dudit oeuure</dcterms:title>
+   <dcterms:title>Pseudo-Turpin</dcterms:title>
+   <dcterms:contributor>Alló (Binder) [original]</dcterms:contributor>
+   <dcterms:contributor>Chaudière, Regnault, active 1509-1554 [original]</dcterms:contributor>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:contributor>Vidoué, Pierre, -1543 [original]</dcterms:contributor>
+   <dcterms:created>1527</dcterms:created>
+   <dcterms:extent>[8], lv leaves ; 22 cm. (4to)</dcterms:extent>
+   <dcterms:extent>22 cm. (4to) [original]</dcterms:extent>
+   <dcterms:description>Colophon: Imprime a Paris par maistre Pierre Vidoue, pour honneste personne Regnault chauldiere. demourant à la rue sainct Jacques, a lenseigne de lhomme sauluaige, ce huitiesme iour de Juing mil cinq cens. xxvii. [original]</dcterms:description>
+   <dcterms:description>Signatures: [par]⁴ a-n⁴ o³. [original]</dcterms:description>
+   <dcterms:description>Title within ornamental border. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Alló. Bookplate of Noilly. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 96. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Charlemagne, Emperor, 742-814--Romances</dcterms:subject>
+   <dcterms:subject>Roland, (Legendary character)--Romances</dcterms:subject>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1081908/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2244128</edm:isShownAt>
+</mdRecord>

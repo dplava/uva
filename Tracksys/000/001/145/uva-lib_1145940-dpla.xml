@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:13 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1145940</dcterms:identifier>
+   <dcterms:title>My little love: song with piano accompaniment / by C.B. Hawley</dcterms:title>
+   <dcterms:title>God keep you safe, my little love</dcterms:title>
+   <dcterms:creator>Hawley, C. B. (Charles Beach), 1858-1915 [original]</dcterms:creator>
+   <dcterms:created>1890</dcterms:created>
+   <dcterms:extent>1 score (5 p.) : ill.</dcterms:extent>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, baritone voice [original]</dcterms:description>
+   <dcterms:description>piano, mezzo-soprano voice [original]</dcterms:description>
+   <dcterms:description>Mezzo-sop. or bar. in G. [original]</dcterms:description>
+   <dcterms:description>For mezzo-soprano or baritone and piano. [original]</dcterms:description>
+   <dcterms:description>At head of title page: "To Ethel." [original]</dcterms:description>
+   <dcterms:description>Illustration: Two putti around an ornately decorated structure. [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: G. Schirmer's edition of song-albums. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1145941/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315120</edm:isShownAt>
+</mdRecord>

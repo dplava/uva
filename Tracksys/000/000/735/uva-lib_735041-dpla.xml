@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:37 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:735041</dcterms:identifier>
+   <dcterms:title>Map of Augusta County, Virginia / prepared under the direction of the Board of Survey of Washington College, Va., by Jed. Hotchkiss, topographical engineer ; engrd. by Worley &amp; Bracher, Philadelphia</dcterms:title>
+   <dcterms:creator>Hotchkiss, Jedediah, 1828-1899 [original]</dcterms:creator>
+   <dcterms:contributor>Gilmer, J. F., 1818-1883 [original]</dcterms:contributor>
+   <dcterms:contributor>Lee, Robert E. (Robert Edward), 1807-1870 [original]</dcterms:contributor>
+   <dcterms:contributor>Washington College (Lexington, Va.) [original]</dcterms:contributor>
+   <dcterms:contributor>Worley &amp; Bracher. [original]</dcterms:contributor>
+   <dcterms:created>1870</dcterms:created>
+   <dcterms:extent>1 map : b&amp;w ; 120 x 114 cm.</dcterms:extent>
+   <dcterms:medium>black and white [original]</dcterms:medium>
+   <dcterms:medium>one color [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:medium>paper [original]</dcterms:medium>
+   <dcterms:description>Signed by R.E. Lee, Pres. Bd. of Survey. [original]</dcterms:description>
+   <dcterms:description>Relief shown by hachures. [original]</dcterms:description>
+   <dcterms:description>"The basis of this map is the Confederate surveys made by order of Maj. Gen. J.F. Gilmer ..." [original]</dcterms:description>
+   <dcterms:description>Includes: inset Map of Staunton, Augusta County, Va. by Jed. Hotchkiss, 1870; "Map showing the original bounds of Augusta County, Virginia, as defined by statute Nov. 1738;" and "Profile of the Chesapeake &amp; Ohio Rail Road from Charlottesville to the Rockbridge line." [original]</dcterms:description>
+   <dcterms:description>Includes authorities for map. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Hotchkiss B; split in 2 sections and mounted on linen. Shelved in map cases. [original]</dcterms:description>
+   <dcterms:description>Scale 1:63,360. 1 in. to the mile.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Augusta County (Va.)--Maps</dcterms:subject>
+   <dcterms:subject>Staunton (Va.)--Maps</dcterms:subject>
+   <dcterms:spatial>Augusta County (Va.)</dcterms:spatial>
+   <dcterms:spatial>Staunton (Va.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:743104/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4348636</edm:isShownAt>
+</mdRecord>

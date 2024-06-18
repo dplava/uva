@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:22 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003693</dcterms:identifier>
+   <dcterms:title>Virginiae item et Floridae Americae provinciarum, nova descriptio</dcterms:title>
+   <dcterms:creator>Hondius, Jodocus, 1563-1612 [original]</dcterms:creator>
+   <dcterms:created>1619</dcterms:created>
+   <dcterms:extent>1 map : ill. (col.) ; 33 x 46 cm. on sheet 47 x 57 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>ill. (col.) [original]</dcterms:medium>
+   <dcterms:medium>paper [original]</dcterms:medium>
+   <dcterms:description>Map by Hondius, from the 1619 French edition of Mercator's Atlas, with text on verso for "Virginie et la Floride," p. 371-372, signature Dddddddd. [original]</dcterms:description>
+   <dcterms:description>Cartouche includes a view of a Florida Indian village on the left, and a Virginia Indian village on the right. [original]</dcterms:description>
+   <dcterms:description>Relief shown pictorially. [original]</dcterms:description>
+   <dcterms:description>Hand colored. [original]</dcterms:description>
+   <dcterms:description>Text of the map in Latin; text on verso in French. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 1: Paul Mellon Bequest, May 12, 2000. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 2: Framed. Gift of the Estate of Helen H. Cohen. [original]</dcterms:description>
+   <dcterms:description>Scale: [ca. 1:3,000,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Mellon, Paul--Library--Personal copy</dcterms:subject>
+   <dcterms:subject>South Atlantic States--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Virginia--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>South Atlantic States</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Amsterdam, Netherlands</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:915264/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3545105</edm:isShownAt>
+</mdRecord>

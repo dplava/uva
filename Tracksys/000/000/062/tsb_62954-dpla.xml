@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:09 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:62954</dcterms:identifier>
+   <dcterms:title>The novels of Captain Marryat: Jacob Faithful, The pacha of many tales, Japhet in search of a father, Mr. Midshipman easy</dcterms:title>
+   <dcterms:title>Jacob Faithful</dcterms:title>
+   <dcterms:title>Japhet in search of a father</dcterms:title>
+   <dcterms:title>Mr. Midshipman easy</dcterms:title>
+   <dcterms:title>The pacha of many tales</dcterms:title>
+   <dcterms:title>Marryat, Frederick, 1792-1848. Novels. Selections</dcterms:title>
+   <dcterms:creator>Marryat, Frederick, 1792-1848 [original]</dcterms:creator>
+   <dcterms:contributor>Book Traces Project. [original]</dcterms:contributor>
+   <dcterms:created>1879</dcterms:created>
+   <dcterms:extent>157, 155, 160, 156 p. ; 20 cm.</dcterms:extent>
+   <dcterms:description>Author's copyright ed. [original]</dcterms:description>
+   <dcterms:description>Each title has separate title page. [original]</dcterms:description>
+   <dcterms:description>Subject entries from the Provenance Evidence Thesaurus describe copies analyzed by Book Traces @ UVA. [original]</dcterms:description>
+   <dcterms:description>VIVA Repository Copy 2014. [original]</dcterms:description>
+   <dcterms:description>Item X030569566 has bookplate data: William James Rucker. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2364581/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4890689</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:26 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2062770</dcterms:identifier>
+   <dcterms:title>Virginia-Kentucky, Clintwood quadrangle / Department of the Interior .. U.S. Geological Survey ; topography, state of Virginia, Geological Survey</dcterms:title>
+   <dcterms:title>Clintwood</dcterms:title>
+   <dcterms:title>Clintwood quadrangle</dcterms:title>
+   <dcterms:title>Topographic map of Clintwood quadrangle</dcterms:title>
+   <dcterms:contributor>Biggs, L. F. [original]</dcterms:contributor>
+   <dcterms:contributor>Clinchfield Coal Corporation. [original]</dcterms:contributor>
+   <dcterms:contributor>Gayetty, J. I. [original]</dcterms:contributor>
+   <dcterms:contributor>Geological Survey (U.S.) [original]</dcterms:contributor>
+   <dcterms:contributor>Sutton, Frank. [original]</dcterms:contributor>
+   <dcterms:contributor>Virginia Geological Survey. [original]</dcterms:contributor>
+   <dcterms:created>1916</dcterms:created>
+   <dcterms:extent>1 map : col. ; 44 x 36 cm. on sheet 51 x 41 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>polyconic [original]</dcterms:medium>
+   <dcterms:medium>contours [original]</dcterms:medium>
+   <dcterms:medium>Polyconic proj.</dcterms:medium>
+   <dcterms:description>Edition of May, 1915 [original]</dcterms:description>
+   <dcterms:description>On verso: Virginia Geological Survey. Bulletin 12, Plate X. Topographic map of Clintwood quadrangle [original]</dcterms:description>
+   <dcterms:description>"+ 156==Measured coal exposure with text reference number." -- Lower right margin. [original]</dcterms:description>
+   <dcterms:description>Removed from: The coal resources of the Clintwood and Bucu quadrangles, Virginia / by Henry Hinds. [original]</dcterms:description>
+   <dcterms:description>Relief shown by contours and spot heights. [original]</dcterms:description>
+   <dcterms:description>"Contour interval 50 feet." [original]</dcterms:description>
+   <dcterms:description>"R.B. Marshall, Chief Geographer, Frank Sutton, Geographer in charge; topography by J.I. Gayetty ... [et al.]; control by L.F. Biggs ... and Clinchfield Coal Corporation." [original]</dcterms:description>
+   <dcterms:description>"Surveyed in cooperation with the state of Virginia." [original]</dcterms:description>
+   <dcterms:description>Scale 1:62,500 ;</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Coal mines and mining--Virginia--Dickenson County--Maps</dcterms:subject>
+   <dcterms:subject>Dickenson County (Va.)--Maps</dcterms:subject>
+   <dcterms:subject>Wise County (Va.)--Maps</dcterms:subject>
+   <dcterms:subject>Pike County (Ky.)--Maps</dcterms:subject>
+   <dcterms:spatial>Dickenson County</dcterms:spatial>
+   <dcterms:spatial>Dickenson County (Va.)</dcterms:spatial>
+   <dcterms:spatial>Pike County (Ky.)</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Wise County (Va.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2146246/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5722762</edm:isShownAt>
+</mdRecord>

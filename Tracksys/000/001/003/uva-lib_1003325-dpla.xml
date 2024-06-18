@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:19 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003325</dcterms:identifier>
+   <dcterms:title>Plan of Clifton Forge, Alleghany County, Virginia / D. St. George Fraser, C.E. and E.M.</dcterms:title>
+   <dcterms:title>Map of Clifton Forge</dcterms:title>
+   <dcterms:creator>Fraser, D. St. George. [original]</dcterms:creator>
+   <dcterms:contributor>A. Hoen &amp; Co. [original]</dcterms:contributor>
+   <dcterms:contributor>Clifton Forge Company. [original]</dcterms:contributor>
+   <dcterms:created>1890</dcterms:created>
+   <dcterms:extent>1 map : col. ; 44 x 68 cm. on sheet 47 x 69 cm. folded to 18 x 9 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>contours [original]</dcterms:medium>
+   <dcterms:description>Pocket ed. [original]</dcterms:description>
+   <dcterms:description>Relief shown by contour lines [original]</dcterms:description>
+   <dcterms:description>Explanation color coded by section. Shows business and residential lots. [original]</dcterms:description>
+   <dcterms:description>Folded into blue paper cover titled: Map of Clifton Forge (Pocket Edition) issued by Clifton Forge Company, Clifton Forge, Va. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:4,800]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Clifton Forge (Va.)--Maps</dcterms:subject>
+   <dcterms:spatial>Clifton Forge (Va.)</dcterms:spatial>
+   <dcterms:spatial>Clifton Forge, Virginia, United States</dcterms:spatial>
+   <dcterms:spatial>Richmond, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:891377/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4743510</edm:isShownAt>
+</mdRecord>

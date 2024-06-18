@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:11 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65934</dcterms:identifier>
+   <dcterms:title>Reports of cases argued and determined in the Court of King's Bench: in the nineteenth, twentieth, and twenty-first [twenty-second, twenty-third, twenty-fourth, and twenty-fifth] years of the reign of George III. [1778-1785] / By the Right Hon. Sylvester Douglas, baron Glenbervie</dcterms:title>
+   <dcterms:contributor>Frere, William, 1775-1836 [editor]</dcterms:contributor>
+   <dcterms:contributor>Glenbervie, Sylvester Douglas Baron, 1743-1823 [reporter]</dcterms:contributor>
+   <dcterms:contributor>Great Britain. Court of King's Bench. [original]</dcterms:contributor>
+   <dcterms:contributor>Roscoe, Henry, 1800-1836 [editor]</dcterms:contributor>
+   <dcterms:created>1813/1831</dcterms:created>
+   <dcterms:extent>4 v. 25 cm.</dcterms:extent>
+   <dcterms:description>Vols. 1-2, 4th ed., with additions, by William Frere, 1813; v. 3-4, from the manuscripts of the Right Hon. Sylvester Douglas, baron Glenbervie. And also from the manuscripts of Mr. Justice Lawrence, Mr. Justice Le Blanc, Mr. George Wilson, &amp;c., 1831; v. 3 by Henry Roscoe, v. 4 by William Frere and Henry Roscoe. [original]</dcterms:description>
+   <dcterms:description>Vols. 1-2 paged continuously. [original]</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2418220/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3193917</edm:isShownAt>
+</mdRecord>

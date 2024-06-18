@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:35 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1122447</dcterms:identifier>
+   <dcterms:title>La traviata: easy amusement without octaves : op. 40 / by F. Burgmüller ; [arrd. for 4 hands by Louis Meyer]</dcterms:title>
+   <dcterms:creator>Burgmüller, Friedrich, 1806-1874 [original]</dcterms:creator>
+   <dcterms:contributor>Meyer, Leopold von, 1816-1883 [arranger]</dcterms:contributor>
+   <dcterms:created>1880</dcterms:created>
+   <dcterms:extent>11 p. of music.</dcterms:extent>
+   <dcterms:description>piano (2) [original]</dcterms:description>
+   <dcterms:description>Duet. [original]</dcterms:description>
+   <dcterms:description>For piano, 4 hands. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Operas--Excerpts--Piano scores</dcterms:subject>
+   <dcterms:subject>Musical parodies</dcterms:subject>
+   <dcterms:subject>Piano music (4 hands), Arranged</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1122448/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313547</edm:isShownAt>
+</mdRecord>

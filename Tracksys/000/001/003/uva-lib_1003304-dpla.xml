@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:19 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003304</dcterms:identifier>
+   <dcterms:title>Georgia / S. Lewis, del. ; H.S. Tanner, Sc</dcterms:title>
+   <dcterms:title>Map of Georgia</dcterms:title>
+   <dcterms:creator>Lewis, Samuel, 1753 or 1754-1822 [original]</dcterms:creator>
+   <dcterms:contributor>Tanner, Henry Schenck, 1786-1858 [original]</dcterms:contributor>
+   <dcterms:created>1817</dcterms:created>
+   <dcterms:extent>1 map ; 28 x 22 cm.</dcterms:extent>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>The names of Lewis and Tanner appear very faintly just below the title border. [original]</dcterms:description>
+   <dcterms:description>Relief shown pictorially and by hachures. [original]</dcterms:description>
+   <dcterms:description>Prime meridians: Philadelphia and London. [original]</dcterms:description>
+   <dcterms:description>Appeared in: A New and elegant general atlas containing maps of each of the United States. Baltimore &amp; Philadelphia, Fielding Lucas, 1817. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:200,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Georgia--Maps--19th century</dcterms:subject>
+   <dcterms:temporal>19th century</dcterms:temporal>
+   <dcterms:spatial>Georgia</dcterms:spatial>
+   <dcterms:spatial>Baltimore, Maryland, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:890732/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4735849</edm:isShownAt>
+</mdRecord>

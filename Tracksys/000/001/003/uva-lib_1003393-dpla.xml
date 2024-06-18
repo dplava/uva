@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:20 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003393</dcterms:identifier>
+   <dcterms:title>Map showing location of coal operations, railroad extensions, and developments in the counties of Putnam, Kanawha, Fayette, Nicholas, Clay, and Braxton, state of West Virginia, 1895 / Prepared for Mine Inspector's Report by Houghton A. Robson, State Mine Inspector, Third District ; Office of Louis W. Atkinson, Thurmond, W. Va. ; Thomas Nichol, Delineator</dcterms:title>
+   <dcterms:creator>Robson, Houghton A. [original]</dcterms:creator>
+   <dcterms:contributor>Nichol, Thomas. [original]</dcterms:contributor>
+   <dcterms:contributor>Rand McNally and Company. [original]</dcterms:contributor>
+   <dcterms:contributor>West Virginia. Office of the Chief Mine Inspector. [original]</dcterms:contributor>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>1 map : col. ; 112 x 66 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:description>Contains a numerical key to the "List of operators." [original]</dcterms:description>
+   <dcterms:description>Includes 2 cross-sections: On Hughes Creek, O.A. Veasey, C.E. -- Section opposite Coalburg, C.C. Lewis. [original]</dcterms:description>
+   <dcterms:description>Relief is not shown. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: From the Papers of the Anderson Family, MSS 38-96. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:126,720]; "1 inch = 2 miles."</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Coal mines and mining--West Virginia--Maps</dcterms:subject>
+   <dcterms:subject>Mines and mineral resources--West Virginia--Maps</dcterms:subject>
+   <dcterms:subject>West Virginia--Maps</dcterms:subject>
+   <dcterms:spatial>West Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:892976/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4716640</edm:isShownAt>
+</mdRecord>

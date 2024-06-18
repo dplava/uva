@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:28 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1109565</dcterms:identifier>
+   <dcterms:title>Washington, D.C. ; Virginia</dcterms:title>
+   <dcterms:title>Rand McNally &amp; Co.'s New 11 x 14 map of Virginia</dcterms:title>
+   <dcterms:title>Rand, McNally &amp; Co.'s Map of the main portion of Washington, D.C</dcterms:title>
+   <dcterms:title>Rand, McNally &amp; Co.'s New 11 x 14 Map of the main portion of Washington, D.C</dcterms:title>
+   <dcterms:title>Virginia</dcterms:title>
+   <dcterms:creator>Rand McNally and Company. [original]</dcterms:creator>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>2 maps on 1 sheet : back to back, col. ; 32 x 24 and 24 x 32 on sheet 36 x 29 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>Relief shown by hachures. [original]</dcterms:description>
+   <dcterms:description>Alternative title for the DC map is printed inside the neatline at lower left corner. [original]</dcterms:description>
+   <dcterms:description>Washington D.C. (Inset: Outline map of Washington, D.C.), p. 59 -- Virginia (Inset: Western Portion of Virginia), p. 60. [original]</dcterms:description>
+   <dcterms:description>Prime meridian: Greenwich. [original]</dcterms:description>
+   <dcterms:description>Washington map contains indexes to points of interest and to streets. Virginia map contains an index to counties and cities, figures on the extent of land and water areas, and population statistics. [original]</dcterms:description>
+   <dcterms:description>Removed from a Rand McNally Atlas of the world., p. 59-60. Each map has "Atlas of the world" at top of sheet. "Rand, McNally &amp; Co.'s New 11 x 14 Map of ... Copyright 1895, by Rand, McNally &amp; Co." is printed below the bar scale of the DC map and below the inset title of the Virginia map. [original]</dcterms:description>
+   <dcterms:description>Scales vary.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Washington (D.C.)--Maps</dcterms:subject>
+   <dcterms:subject>Virginia--Maps</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Washington (D.C.)</dcterms:spatial>
+   <dcterms:spatial>Chicago, Illinois, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1114390/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4595355</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1119327</dcterms:identifier>
+   <dcterms:title>Gently, Lord, o gently lead us: Welsh air : ar hyd y nos : 1800</dcterms:title>
+   <dcterms:title>All through the night</dcterms:title>
+   <dcterms:title>Ar hyd y nos</dcterms:title>
+   <dcterms:title>Gently, Lord, o gently lead us</dcterms:title>
+   <dcterms:contributor>Greene, Harry Plunket, 1865-1936 [performer]</dcterms:contributor>
+   <dcterms:contributor>Hastings, Thomas [lyricist]</dcterms:contributor>
+   <dcterms:contributor>Porter, W. T. (Washington Tullis), 1850-1933 [arranger]</dcterms:contributor>
+   <dcterms:created>1894</dcterms:created>
+   <dcterms:extent>1 score (5 p.) : ill.</dcterms:extent>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, soprano voice [original]</dcterms:description>
+   <dcterms:description>piano, tenor voice [original]</dcterms:description>
+   <dcterms:description>For piano and high voice. [original]</dcterms:description>
+   <dcterms:description>Sacred adaptation of Gently, Lord, o gently lead us. [original]</dcterms:description>
+   <dcterms:description>As performed by Plunket Greene. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1119328/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313344</edm:isShownAt>
+</mdRecord>

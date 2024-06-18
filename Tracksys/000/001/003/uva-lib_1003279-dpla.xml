@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:19 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003279</dcterms:identifier>
+   <dcterms:title>Railroad and county map of Virginia, W. Virginia, Maryland and Delaware / copyrighted</dcterms:title>
+   <dcterms:title>Virginia, W. Virginia, Maryland and Delaware</dcterms:title>
+   <dcterms:creator>George F. Cram Company. [original]</dcterms:creator>
+   <dcterms:created>1885</dcterms:created>
+   <dcterms:extent>1 map : col. ; 42 x 56 cm. (on 2 sheets, each 44 x 30 cm.)</dcterms:extent>
+   <dcterms:extent>42 x 56 cm. (on 2 sheets, each 44 x 30 cm.) [original]</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>Shows Dickinson County, Va., which was formed in 1880, but not Mingo County, W. Va., which was formed in 1895. Radford, Va., which was incorporated as "Central City" in 1887 is here shown under the even earlier name of "Lovely Mount." [original]</dcterms:description>
+   <dcterms:description>Relief shown by hachures. [original]</dcterms:description>
+   <dcterms:description>Explanation: Railroads; Unfinished R.R.; State capitols; County seats; Money order P.O.; Post offices; Small towns. [original]</dcterms:description>
+   <dcterms:description>Inset at upper left corner: South west part of Virginia. [original]</dcterms:description>
+   <dcterms:description>Detached from an unidentified atlas, presumably one produced by the George F. Cram Company. Map pages are numbered "50" and "51" above the top margin at outer corners. Text on verso: p. 49, "Index of Maryland" from Rhode River to Zion, Cecil; p. 52, "Index to Ohio" through Calvary, Morgan. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Separated at center fold. [original]</dcterms:description>
+   <dcterms:description>Scale [ca: 1,200,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Railroads--Virginia--Maps</dcterms:subject>
+   <dcterms:subject>Railroads--West Virginia--Maps</dcterms:subject>
+   <dcterms:subject>Railroads--Maryland--Maps</dcterms:subject>
+   <dcterms:subject>Railroads--Delaware--Maps</dcterms:subject>
+   <dcterms:subject>Virginia--Maps</dcterms:subject>
+   <dcterms:subject>West Virginia--Maps</dcterms:subject>
+   <dcterms:subject>Maryland--Maps</dcterms:subject>
+   <dcterms:subject>Delaware--Maps</dcterms:subject>
+   <dcterms:spatial>Delaware</dcterms:spatial>
+   <dcterms:spatial>Maryland</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>West Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:890688/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4711027</edm:isShownAt>
+</mdRecord>

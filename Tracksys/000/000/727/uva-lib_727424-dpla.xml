@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:36 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:727424</dcterms:identifier>
+   <dcterms:title>Sensuiuent Les blasons anatomiques du corps fémenin: ensemble les contreblasons de nouueau composez, &amp; additionez, auec les figures, le tout mis par ordre / composez par plusieurs poetes contemporains. Auec la table desdictz blasons &amp; contreblasons imprimez en ceste année</dcterms:title>
+   <dcterms:title>Contreblasons de la beaulté des mẽbres du corps humain</dcterms:title>
+   <dcterms:title>Blasons anatomiques du corps féminin</dcterms:title>
+   <dcterms:contributor>Chambolle-Duru (Firm) [binder]</dcterms:contributor>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:contributor>L'Angelier, Charles, -1563 [bookseller]</dcterms:contributor>
+   <dcterms:contributor>Marot, Clément, 1496-1544 [original]</dcterms:contributor>
+   <dcterms:created>1543</dcterms:created>
+   <dcterms:extent>86, [2] leaves : ill. ; 12 cm. (16mo)</dcterms:extent>
+   <dcterms:extent>12 cm. (16mo) [original]</dcterms:extent>
+   <dcterms:medium>ill. [original]</dcterms:medium>
+   <dcterms:description>Signatures: A-L⁸. [original]</dcterms:description>
+   <dcterms:description>The counter-blazons have divisional t.p. (leaf 60, verso): Contreblasons de la beaulté des me[m]bres du corps humain, : enuoyéz à Fra[n]çois de Sagon secretaire. Auec l'Epistre responsiue d'iceluy. / Faictz par Charles de La Huéterie. [original]</dcterms:description>
+   <dcterms:description>With poems by Clement Marot, Eustorg Beaulieu, Maurice Scève, Michel d'Amboyse, and others, according to Wilmerding. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Chambolle-Duru. Bookplate of Baron Jérôme Pichon (motto Memor fui dierum antiquoru[m] PS. CXLII.) with initialed note by him stating that this copy was formerly in the White Knights library of the Marquess of Blandford and later owned by Robert Samuel Turner. The present binding was specially made for Pichon. Bookplates of Cortlandt F. Bishop and Lucius Wilmerding. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 47. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Chambolle-Duru. Bookplate of Baron Jérôme Pichon (motto Memor fui dierum antiquoru[m] PS. CXLII.) with initialed note by him stating that this copy was formerly in the White Knights library of the Marquess of Blandford and later owned by Robert Samuel Turner. The present binding was specially made for Pichon. Bookplates of Cortlandt F. Bishop and Lucius Wilmerding. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 47. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>French poetry--16th century</dcterms:subject>
+   <dcterms:subject>Beauty, Personal--Poetry</dcterms:subject>
+   <dcterms:subject>Women--Physiology--Poetry</dcterms:subject>
+   <dcterms:subject>Human body--Poetry</dcterms:subject>
+   <dcterms:temporal>16th century</dcterms:temporal>
+   <dcterms:spatial>Paris, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:707092/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2328978</edm:isShownAt>
+</mdRecord>

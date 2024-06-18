@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:12 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65981</dcterms:identifier>
+   <dcterms:title>Reports of cases argued and determined in the Court of King's bench: with tables of the names of the cases and the principal matters / By George Maule and William Selwyn .. 1813[-1817]</dcterms:title>
+   <dcterms:contributor>Great Britain. Court of King's Bench. [original]</dcterms:contributor>
+   <dcterms:contributor>Maule, George, 1776-1851 [reporter]</dcterms:contributor>
+   <dcterms:contributor>Selwyn, William, 1775-1855 [reporter]</dcterms:contributor>
+   <dcterms:created>1814/1829</dcterms:created>
+   <dcterms:extent>6 v. 24 cm.</dcterms:extent>
+   <dcterms:description>Vol. 6 has imprint: London, Saunders and Benning. [original]</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue (v. 1-5) [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2447113/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3220398</edm:isShownAt>
+</mdRecord>

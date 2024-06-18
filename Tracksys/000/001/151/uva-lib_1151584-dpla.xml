@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:23 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1151584</dcterms:identifier>
+   <dcterms:title>The lost chord / words by Adelaide Proctor ; music by Arthur Sullivan</dcterms:title>
+   <dcterms:title>Seated one day at the organ, I was weary and ill at ease</dcterms:title>
+   <dcterms:creator>Sullivan, Arthur Sir, 1842-1900 [original]</dcterms:creator>
+   <dcterms:contributor>Procter, Adelaide Anne, 1825-1864 [lyricist]</dcterms:contributor>
+   <dcterms:created>1893</dcterms:created>
+   <dcterms:extent>1 score ([3] p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, voice [original]</dcterms:description>
+   <dcterms:description>voice, organ [original]</dcterms:description>
+   <dcterms:description>For voice and piano or organ. [original]</dcterms:description>
+   <dcterms:description>Imprint date inferred from advertisement on title page: "See the Stieff piano at World's Exposition, Chicago, 1893." [original]</dcterms:description>
+   <dcterms:description>Title page illustration: Cartouche with woman playing a Stieff piano and a bottle of Bromo-Seltzer / B.G. Malone, Balto. [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [3]: "Bromo-Seltzer cures all headaches; trial size, 10 cts." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Songs with organ</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1151585/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315548</edm:isShownAt>
+</mdRecord>

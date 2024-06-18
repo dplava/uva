@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 7:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:58831</dcterms:identifier>
+   <dcterms:title>A birthday congratulation: brilliant variations on The lone starry hours : op. 912 / by Ch. Grobe</dcterms:title>
+   <dcterms:title>Lone starry hours</dcterms:title>
+   <dcterms:creator>Grobe, Charles. [original]</dcterms:creator>
+   <dcterms:created>1857</dcterms:created>
+   <dcterms:extent>9 p. of music ; 36 cm.</dcterms:extent>
+   <dcterms:description>piano [original]</dcterms:description>
+   <dcterms:description>"Greene &amp; Walker." [original]</dcterms:description>
+   <dcterms:description>"À Madlle. Lizzie E. Dorsey, son amiable élève." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Variations (Piano)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1701247/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u1939263</edm:isShownAt>
+</mdRecord>

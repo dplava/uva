@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:41 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1125233</dcterms:identifier>
+   <dcterms:title>La serenade / music by Schubert ; words by W.S.</dcterms:title>
+   <dcterms:title>Through the leaves the night winds moving</dcterms:title>
+   <dcterms:title>Schubert, Franz, 1797-1828. Schwanengesang (Song cycle). Ständchen</dcterms:title>
+   <dcterms:creator>Schubert, Franz, 1797-1828 [original]</dcterms:creator>
+   <dcterms:contributor>Reilstab, Ludwig, 1799-1860 [original]</dcterms:contributor>
+   <dcterms:created>[1852..1857]</dcterms:created>
+   <dcterms:extent>1 score (5 p.) ; 35 cm.</dcterms:extent>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>English and French words; originally in German; 2nd and 3rd verses in English printed as text following score. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Stamp of A. Gebhardt's, Music Depot, No. 734 Main St., near Eighth St., Richmond, Va. on cover. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Reilstab, Ludwig, 1799-1860--Musical settings</dcterms:subject>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1125234/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2002611</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:11 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65931</dcterms:identifier>
+   <dcterms:title>Reports of cases ruled and adjudged in the several courts of the United States, and of Pennsylvania: held at the seat of the federal government / by A.J. Dallas</dcterms:title>
+   <dcterms:title>United States reports</dcterms:title>
+   <dcterms:creator>Dallas, Alexander James, 1759-1817 [original]</dcterms:creator>
+   <dcterms:contributor>United States. Supreme Court. [original]</dcterms:contributor>
+   <dcterms:created>1798/1807</dcterms:created>
+   <dcterms:extent>3 v. ; 24 cm.</dcterms:extent>
+   <dcterms:description>Vol. 2-v. 4. [original]</dcterms:description>
+   <dcterms:description>Commonly cited as v. 2-4 of:United States reports. [original]</dcterms:description>
+   <dcterms:description>Published: Philadelphia : J. Ormond, 1799; Philadelphia : Printed for P. Byrne by Fry and Kammerer, 1807. [original]</dcterms:description>
+   <dcterms:description>Includes reports of the Supreme Court of the U.S. from 1790-1800 and of other courts 1781-1806. [original]</dcterms:description>
+   <dcterms:description>Continued in 1804 by: United States. Supreme Court. Reports of cases argued and adjudged in the Supreme Court of the United States [original]</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--United States</dcterms:subject>
+   <dcterms:subject>Law reports, digests, etc--Pennsylvania</dcterms:subject>
+   <dcterms:spatial>Pennsylvania</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2416694/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3362179</edm:isShownAt>
+</mdRecord>

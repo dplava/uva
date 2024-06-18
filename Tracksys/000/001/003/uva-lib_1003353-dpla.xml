@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:20 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003353</dcterms:identifier>
+   <dcterms:title>Kentucky And Tennessee</dcterms:title>
+   <dcterms:contributor>Colton, G. Woolworth (George Woolworth), 1827-1901 [original]</dcterms:contributor>
+   <dcterms:contributor>J.H. Colton &amp; Co. [original]</dcterms:contributor>
+   <dcterms:created>1855</dcterms:created>
+   <dcterms:extent>1 map : col.; 29 x 42 cm. on sheet 39 x 47 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>Without text on verso. [original]</dcterms:description>
+   <dcterms:description>Relief shown by hachures. [original]</dcterms:description>
+   <dcterms:description>Prime meridians: Greenwich and Washington, D.C. [original]</dcterms:description>
+   <dcterms:description>Entered according to Act of Congress in the year 1855 by J. H. Colton &amp; Co. in the Clerk's Office of the District Court of the United States for the Southern District of New York.. [original]</dcterms:description>
+   <dcterms:description>Explanations: Rail roads; Common roads; State capitals; Cities; County towns; Villages, P.O. &amp;c. [original]</dcterms:description>
+   <dcterms:description>Appeared in: Colton's Atlas of the World..., 1856. [original]</dcterms:description>
+   <dcterms:description>Plate "No. 38." printed in lower right corner outside border. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Copy 1-2: Linen-backed. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:850,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Kentucky--Maps</dcterms:subject>
+   <dcterms:subject>Tennessee--Maps</dcterms:subject>
+   <dcterms:spatial>Kentucky</dcterms:spatial>
+   <dcterms:spatial>Tennessee</dcterms:spatial>
+   <dcterms:spatial>New York (City), New York (State), United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:891411/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4722262</edm:isShownAt>
+</mdRecord>

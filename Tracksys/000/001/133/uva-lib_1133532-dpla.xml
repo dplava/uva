@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:50 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1133532</dcterms:identifier>
+   <dcterms:title>Answer?: ballad : for alto or baritone, with cornet obligato ad lib / music by Alfred G. Robyn ; words selected</dcterms:title>
+   <dcterms:title>Could you but read, my love this heart of mine</dcterms:title>
+   <dcterms:creator>Robyn, A. G. (Alfred George), 1860-1935 [original]</dcterms:creator>
+   <dcterms:contributor>Am-Eng. Co. [lithographer]</dcterms:contributor>
+   <dcterms:contributor>Lackland, Margaret [dedicatee]</dcterms:contributor>
+   <dcterms:created>1885</dcterms:created>
+   <dcterms:extent>1 score (6 p.)</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, alto voice [original]</dcterms:description>
+   <dcterms:description>piano, baritone voice [original]</dcterms:description>
+   <dcterms:description>Alto or bar. in F. [original]</dcterms:description>
+   <dcterms:description>For alto or baritone and piano, with cornet obligato (ad lib.). [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>At foot of t.p lithograph: "Am-Eng. Co." [original]</dcterms:description>
+   <dcterms:description>Advertisements: On verso of title page, excerpts from She's the prettiest girl I know, Dream one dream of me, and Manzanillo : danza mexicana; on p. [7]: Fulfilled : ballad / by Alfred G. Robyn; on p. [8]: "Thematic catalogue of popular ballads by A.G. Robyn ..." [original]</dcterms:description>
+   <dcterms:description>At head of title: "Respectfully inscribed to Miss Margaret Lackland, St. Lous, Mo." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1133533/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314162</edm:isShownAt>
+</mdRecord>

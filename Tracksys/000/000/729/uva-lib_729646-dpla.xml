@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:36 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:729646</dcterms:identifier>
+   <dcterms:title>Traitors in Wheeling: Below will be found a complete list of the traitors and rebels of Wheeling, Va., who voted May 23, 1861, for the infamous Ordinance of Secession, adopted by the usurpers in the Richmond, Va., Convention</dcterms:title>
+   <dcterms:created>1861</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.) ; 22 x 18 cm.</dcterms:extent>
+   <dcterms:description>Text consists of 81 names, with occupations sometimes added, printed in two columns. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Coles Fund. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Virginia State Convention of 1861 (Richmond, Va.)--Ordinance of secession</dcterms:subject>
+   <dcterms:subject>Secession--Virginia</dcterms:subject>
+   <dcterms:subject>Wheeling (W. Va.)--History</dcterms:subject>
+   <dcterms:subject>Virginia--History--Civil War, 1861-1865</dcterms:subject>
+   <dcterms:subject>West Virginia--History--Civil War, 1861-1865</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>West Virginia</dcterms:spatial>
+   <dcterms:spatial>Wheeling (W. Va.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:731467/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2862865</edm:isShownAt>
+</mdRecord>

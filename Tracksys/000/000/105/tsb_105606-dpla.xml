@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 6:44 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:105606</dcterms:identifier>
+   <dcterms:title>Le panegyric du Cheuallier sans reproche</dcterms:title>
+   <dcterms:creator>Bouchet, Jean, 1476-approximately 1558 [original]</dcterms:creator>
+   <dcterms:contributor>Bouchet, Jacques, -1550 [printer]</dcterms:contributor>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:contributor>Niédrée, Jean-Edouard, d1803-1854 [binder]</dcterms:contributor>
+   <dcterms:created>1527</dcterms:created>
+   <dcterms:extent>[17], cxcvi leaves : ill. ; 20 cm. (4to)</dcterms:extent>
+   <dcterms:extent>20 cm. (4to) [original]</dcterms:extent>
+   <dcterms:medium>ill. [original]</dcterms:medium>
+   <dcterms:description>Panegyric for Louis de la Trimoille. [original]</dcterms:description>
+   <dcterms:description>Imprint from colophon, which reads: Cy finist le Cheualier sans reproche co[m]pose [par] maistre Jehan Bouchet procureur en cours royalles de Poictiers. Imprime [par] Jaques Bouchet demourant aux Poictiers à la Celle. Et se ve[n]de[n]t en la boutique du dit Bouchet &amp; au Pellican pres le Palais. Et fut acheue le xxviii. iour de mars mil cinq cens xxvii. [original]</dcterms:description>
+   <dcterms:description>With many errors in foliation. [original]</dcterms:description>
+   <dcterms:description>Includes index. [original]</dcterms:description>
+   <dcterms:description>Signatures: [pi]¹ [cross]⁸ A-Z⁸ Aa⁶ Bb⁸ Cc⁶. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Niédree. Bookplates of C.N. Radoulesco and E. Cesbron. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 441. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>La Trémoille, Louis de, II, 1460-1525</dcterms:subject>
+   <dcterms:subject>France--History--Charles VIII, 1483-1498</dcterms:subject>
+   <dcterms:temporal>Charles VIII, 1483-1498</dcterms:temporal>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Poitiers, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:3102205/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2359003</edm:isShownAt>
+</mdRecord>

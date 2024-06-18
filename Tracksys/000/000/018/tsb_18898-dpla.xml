@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 6:49 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>tsb:18898</dcterms:identifier>
+   <dcterms:title>United States of America, southern part / drawn under the direction of Mr. Pinkerton by L. Hebert ; Neele, sculpt, 352 Strand</dcterms:title>
+   <dcterms:creator>Hebert, L. (Geographer) [original]</dcterms:creator>
+   <dcterms:contributor>Cadell &amp; Davies. [original]</dcterms:contributor>
+   <dcterms:contributor>Longman, Hurst, Rees, and Orme. [original]</dcterms:contributor>
+   <dcterms:contributor>Neele, Samuel John, 1758-1824 [original]</dcterms:contributor>
+   <dcterms:created>1815</dcterms:created>
+   <dcterms:extent>1 map : hand col. ; 51 x 69 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>paper [original]</dcterms:medium>
+   <dcterms:description>"Pinkerton's Modern Atlas" centered at top of sheet above the neatline. [original]</dcterms:description>
+   <dcterms:description>Appeared in the 1815 ed. of the Atlas, which has imprint: London : Printed by T. Bensley for T. Cadell and W. Davies and Longman, Hurst, Rees, Orme and Brown, 1815. [original]</dcterms:description>
+   <dcterms:description>Relief shown pictorially. [original]</dcterms:description>
+   <dcterms:description>Covers Virginia to Florida, west to Louisiana. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:2,200,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Southern States--Maps</dcterms:subject>
+   <dcterms:subject>South Atlantic States--Maps</dcterms:subject>
+   <dcterms:spatial>South Atlantic States</dcterms:spatial>
+   <dcterms:spatial>Southern States</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1518771/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4609263</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:09 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1143779</dcterms:identifier>
+   <dcterms:title>The river of time: for contralto, baritone or bass / music by T.H. Howe ; words by B.F. Taylor</dcterms:title>
+   <dcterms:title>Oh a wonderful stream is the river of time</dcterms:title>
+   <dcterms:creator>Howe, T. H. (Thomas H.) [original]</dcterms:creator>
+   <dcterms:contributor>Taylor, B. F. (Barnaby F.) [lyricist]</dcterms:contributor>
+   <dcterms:contributor>Whitney, Myron W. [dedicatee]</dcterms:contributor>
+   <dcterms:created>1870</dcterms:created>
+   <dcterms:extent>1 score (7 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, alto voice [original]</dcterms:description>
+   <dcterms:description>piano, baritone voice [original]</dcterms:description>
+   <dcterms:description>piano, bass voice [original]</dcterms:description>
+   <dcterms:description>For low voice and piano. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>At head of caption: "M.W. Whitney, Esq." [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1143780/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314947</edm:isShownAt>
+</mdRecord>

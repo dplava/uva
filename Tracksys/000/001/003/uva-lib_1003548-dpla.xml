@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:21 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003548</dcterms:identifier>
+   <dcterms:title>Harper's Ferry [1863] / Prepared by Bvt. Brig. Genl. N. Michler, Major of Engineers, from surveys under his direction, by order of Brig. Genl. &amp; Bvt. Maj. Genl. A.A. Humphreys, Chief of Engineers, and under the authority of the Hon. Secretary of War, 1867 ; surveyed &amp; drawn by Maj: J.E. Weyss, assisted by F. Theilkuhl, J. Strasser &amp; G. Thompson</dcterms:title>
+   <dcterms:creator>Michler, N. (Nathaniel), 1827-1881 [original]</dcterms:creator>
+   <dcterms:contributor>Bien, Julius, 1826-1909 [original]</dcterms:contributor>
+   <dcterms:contributor>Humphreys, A. A. (Andrew Atkinson), 1810-1883 [original]</dcterms:contributor>
+   <dcterms:contributor>N.Y. Lith. &amp; Eng. Co. [original]</dcterms:contributor>
+   <dcterms:contributor>Weyss, J. E. [original]</dcterms:contributor>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>1 map : b&amp;w ; 58 x 70 cm.</dcterms:extent>
+   <dcterms:medium>black and white [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>In this issue, the background and major rivers are uncolored. [original]</dcterms:description>
+   <dcterms:description>Relief shown by hachures. [original]</dcterms:description>
+   <dcterms:description>Map of Harpers Ferry and environs showing fortifications, roads, railroads, houses, fences, names of residents, vegetation, drainage, and relief by hachures. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:21,120]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Harpers Ferry (W. Va.)--Maps</dcterms:subject>
+   <dcterms:subject>United States--History--Civil War, 1861-1865--Maps</dcterms:subject>
+   <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+   <dcterms:spatial>Harpers Ferry (W. Va.)</dcterms:spatial>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904684/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4512334</edm:isShownAt>
+</mdRecord>

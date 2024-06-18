@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:14 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1146616</dcterms:identifier>
+   <dcterms:title>Kiss me goodnight mother: a ballad / words by Francis B. Murtha ; music by J.R. Thomas</dcterms:title>
+   <dcterms:title>How dear to each heart are childhood's gay hours</dcterms:title>
+   <dcterms:title>Kiss me good night Mother</dcterms:title>
+   <dcterms:creator>Thomas, J. R. (John Rogers), 1830-1896 [original]</dcterms:creator>
+   <dcterms:contributor>Clayton, Charles O. [engraver]</dcterms:contributor>
+   <dcterms:contributor>Henry, C. [performer]</dcterms:contributor>
+   <dcterms:contributor>Murtha, Francis B. [lyricist]</dcterms:contributor>
+   <dcterms:created>1863</dcterms:created>
+   <dcterms:extent>1 score (5 p.) ; 35 cm.</dcterms:extent>
+   <dcterms:description>voice, mixed chorus (4), piano [original]</dcterms:description>
+   <dcterms:description>At head of title: "Sung with great applause by C. Henry." [original]</dcterms:description>
+   <dcterms:description>"Clayton"--Colophon. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1146617/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u1984204</edm:isShownAt>
+</mdRecord>

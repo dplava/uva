@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:25 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1229368</dcterms:identifier>
+   <dcterms:title>"Go South, Young Man.": The Honorable Chauncey M. Depew, in an address to the Alumni Association of Yale University, said, of his recent tour through the Southern States .. : Go to Virginia, where the development is the widest! Where the opportunities are the greatest!! Where all are welcome!!! / For all information apply at agencies Norfolk and Western Railroad</dcterms:title>
+   <dcterms:creator>Depew, Chauncey M. (Chauncey Mitchell), 1834-1928 [original]</dcterms:creator>
+   <dcterms:contributor>Norfolk and Western Railroad Company. [original]</dcterms:contributor>
+   <dcterms:created>1910</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.) ; 18 x 10 cm.</dcterms:extent>
+   <dcterms:description>Text consists primarily of an excerpt from Depew's address, followed by the promotional statement for Virginia and train information. [original]</dcterms:description>
+   <dcterms:description>Norfolk and Western logo in red at top of sheet. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Southern States--Economic conditions</dcterms:subject>
+   <dcterms:subject>Virginia--Economic conditions</dcterms:subject>
+   <dcterms:spatial>Southern States</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1312970/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4329308</edm:isShownAt>
+</mdRecord>

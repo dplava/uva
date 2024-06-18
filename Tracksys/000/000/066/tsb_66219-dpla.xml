@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:17 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:66219</dcterms:identifier>
+   <dcterms:title>Joannis Seldeni juris consulti opera omnia, tam edita quam inedita / collegit ac recensuit, vitam auctoris, praefationes, &amp; indices adjecit, David Wilkins</dcterms:title>
+   <dcterms:title>Opera omnia, tam edita quam inedita</dcterms:title>
+   <dcterms:title>Selden, John, 1584-1654. Works. English &amp; Latin. 1726</dcterms:title>
+   <dcterms:creator>Selden, John, 1584-1654 [original]</dcterms:creator>
+   <dcterms:contributor>Wilkins, David, 1685-1745 [original]</dcterms:contributor>
+   <dcterms:created>1726</dcterms:created>
+   <dcterms:extent>3 v. : ill., port. ; 40 cm.</dcterms:extent>
+   <dcterms:medium>ill. [original]</dcterms:medium>
+   <dcterms:medium>portraits [original]</dcterms:medium>
+   <dcterms:description>Includes indexes. [original]</dcterms:description>
+   <dcterms:description>Vol. 2 has imprint: Londoni: Typis S. Palmer, impensis J. Walthoe ... [et al.] [original]</dcterms:description>
+   <dcterms:description>Vol. 3 has title and imprint: The works of John Selden / London: Printed by T. Wood for J. Walthoe ... [et al.] [original]</dcterms:description>
+   <dcterms:description>Vol. 1-2 in Latin; Vol. 3 in English. [original]</dcterms:description>
+   <dcterms:description>Vol. 1-3 each contain a part 2. [original]</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Law--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2588060/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3345476</edm:isShownAt>
+</mdRecord>

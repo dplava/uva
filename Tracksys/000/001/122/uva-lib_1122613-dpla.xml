@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:36 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1122613</dcterms:identifier>
+   <dcterms:title>Ludolph Waldmann's song Love, ah with thee: played first time in this country at Koster &amp; Bial's by Theodore Hoch / translated and arranged by Wm. J. Rostetter</dcterms:title>
+   <dcterms:title>Lieb' würdest du mich fragen</dcterms:title>
+   <dcterms:title>Love would'st thou ask of me</dcterms:title>
+   <dcterms:title>Love, ah with thee</dcterms:title>
+   <dcterms:title>Waldmann, Ludolf, 1840-1919. Lieb', ach mit dir! English &amp; German</dcterms:title>
+   <dcterms:creator>Waldmann, Ludolf, 1840-1919 [original]</dcterms:creator>
+   <dcterms:contributor>Hoch, Theodore [performer]</dcterms:contributor>
+   <dcterms:contributor>Rostetter, William J. [translator]</dcterms:contributor>
+   <dcterms:created>1889</dcterms:created>
+   <dcterms:extent>1 score (5 p.) : ill.</dcterms:extent>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, voice [original]</dcterms:description>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>Illustration: Man and woman standing at the railing of a ship. [original]</dcterms:description>
+   <dcterms:description>German words with English translation. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1122614/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313559</edm:isShownAt>
+</mdRecord>

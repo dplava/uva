@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:33 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:600019</dcterms:identifier>
+   <dcterms:title>Montbéliard</dcterms:title>
+   <dcterms:contributor>Dépôt de la guerre (France) [original]</dcterms:contributor>
+   <dcterms:contributor>France. Corps d'état-major. [original]</dcterms:contributor>
+   <dcterms:created>1913</dcterms:created>
+   <dcterms:extent>1 map ; 53 x 81 cm. on sheet 60 x 85 cm.</dcterms:extent>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>"Levée par les Officiers du Corps d'Etat-Major et publiée par le Dépôt de la Guerre en 1841. Gravée le trait par Pierron, la lettre par Hacq, le figure du terrain par Barrière, les eaux par Flahaut. Revisée en 1913." -- In bottom margin. [original]</dcterms:description>
+   <dcterms:description>Relief shown by hachures and spot heights. [original]</dcterms:description>
+   <dcterms:description>Sheet number "114" printed in upper right corner. Includes index to adjoining sheets and compilation diagram. [original]</dcterms:description>
+   <dcterms:description>Possibly a 1916 reprint. Code "R.7.12.16" in margin at lower right. [original]</dcterms:description>
+   <dcterms:description>The Montbéliard sector (Doubs Départ.) of a topographic map of France. Names of the connecting sheets are printed in margins [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Title and sheet number stamped on black. From the Joseph P. Ast World War I papers, MSS 13905-a. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Title and sheet number stamped on black. From the Joseph P. Ast World War I papers, MSS 13905-a. [original]</dcterms:description>
+   <dcterms:description>Scale ca. 1:80,000;</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Ast, Joseph Phillip, 1882-1975--Library--Personal copy</dcterms:subject>
+   <dcterms:subject>World War, 1914-1918--France--Maps, Topographic</dcterms:subject>
+   <dcterms:subject>Montbéliard (France)--Maps, Topographic</dcterms:subject>
+   <dcterms:spatial>France</dcterms:spatial>
+   <dcterms:spatial>Montbéliard (France)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096782/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4850616</edm:isShownAt>
+</mdRecord>

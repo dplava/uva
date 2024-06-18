@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:30 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2210942</dcterms:identifier>
+   <dcterms:title>Kentuck harmony. Or, A choice collection of Psalm tunes, hymns and anthems: in three parts. : Taken from the most eminent authors, and well adapted to Christian churches, singing schools or private societies / Selected by Ananias Davisson</dcterms:title>
+   <dcterms:title>Choice collection of psalm tunes hymns and anthems</dcterms:title>
+   <dcterms:title>Kentucky harmony, or A choice collection of Psalm tunes, hymns and anthems</dcterms:title>
+   <dcterms:creator>Davisson, Ananias, 1780-1857 [original]</dcterms:creator>
+   <dcterms:created>1826</dcterms:created>
+   <dcterms:extent>158, [2] p.) : (music) ; 13 x 22 cm.</dcterms:extent>
+   <dcterms:medium>music [original]</dcterms:medium>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>Fifth edition. [original]</dcterms:description>
+   <dcterms:description>Signed and dated in print on p. [2] at end: Ananias Davisson. Davisson's Retirement, Nov. 2. 1826. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: M2116 .K4 1826: Original marbled boards, with sheep backstrip. Byrd Fund. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Another copy: M2116 .K4 1826b no.1: Imperfect: p. [1]-[4, 7-8 wanting; p. 5-6 used as pastedown, p. 6 visible; outer-half of p. 9-10 torn away. Contemporary sheep, with back cover wanting. "W.E. Jones" gilt stamped on front cover.First title in volume with: A supplement to the Kentucky harmony, 3rd ed. Harrisonburg, 18251 and Songs of Zion / adapted to divine worship by James P. Carrell. Harrisonburg, 1821. Robert and Virginia Tunstall Trust Fund, 2010/2011 [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Hymns, English</dcterms:subject>
+   <dcterms:subject>Anthems</dcterms:subject>
+   <dcterms:subject>Shape-note hymnals</dcterms:subject>
+   <dcterms:spatial>Harrisonburg, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2232441/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2035431</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:58 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1137626</dcterms:identifier>
+   <dcterms:title>La Marseillaise: march pour le piano forte / par Ferd Beyer</dcterms:title>
+   <dcterms:title>Allons enfans de la patrie</dcterms:title>
+   <dcterms:title>Aux armes, eitoyens</dcterms:title>
+   <dcterms:title>To arms, to arms ye braves</dcterms:title>
+   <dcterms:title>Ye sons of France awake to glory</dcterms:title>
+   <dcterms:title>Rouget de Lisle, Claude Joseph, 1760-1836. Marseillaise; arr. English &amp; French</dcterms:title>
+   <dcterms:creator>Rouget de Lisle, Claude Joseph, 1760-1836 [original]</dcterms:creator>
+   <dcterms:contributor>Leeson, W. H. (William H.) [engraver]</dcterms:contributor>
+   <dcterms:created>18XX</dcterms:created>
+   <dcterms:extent>1 score (4 p.) : ill.</dcterms:extent>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>voice (3), piano [original]</dcterms:description>
+   <dcterms:description>For voice and piano, with 3-part chorus refrain. [original]</dcterms:description>
+   <dcterms:description>Illustration: French flags. [original]</dcterms:description>
+   <dcterms:description>"Rouget de Lisle"--Caption. [original]</dcterms:description>
+   <dcterms:description>At foot of title page: "W.H. Leeson, N.O." [original]</dcterms:description>
+   <dcterms:description>French and English words. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs with piano</dcterms:subject>
+   <dcterms:subject>Choruses, Secular (Mixed voices) with piano</dcterms:subject>
+   <dcterms:subject>National songs--France</dcterms:subject>
+   <dcterms:spatial>France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1137627/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314483</edm:isShownAt>
+</mdRecord>

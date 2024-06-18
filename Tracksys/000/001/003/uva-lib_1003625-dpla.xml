@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:22 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003625</dcterms:identifier>
+   <dcterms:title>Map of Norfolk: showing plan of proposed extension, and the surrounding country, bounded by Tanner's and Broad Creeks / J.F. Dezendorf, Surveyor</dcterms:title>
+   <dcterms:creator>Dezendorf, J. F. (John F.) [original]</dcterms:creator>
+   <dcterms:created>1879</dcterms:created>
+   <dcterms:extent>1 map (p. [1]) ; 41 x 39 cm.</dcterms:extent>
+   <dcterms:description>Relief not shown. [original]</dcterms:description>
+   <dcterms:description>Note below map: The topographical map presented above is an accurate one of the city of Norfolk and the surrounding country, from actual surveys by Mr. John F Dezendorf,..." [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: "Gov.F.M.W. Holliday" written above masthead. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:25,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Holliday, Fred W. M. (Frederick William Mackey), 1828-1899--Library--Personal copy</dcterms:subject>
+   <dcterms:subject>Norfolk (Va.)--Maps</dcterms:subject>
+   <dcterms:spatial>Norfolk (Va.)</dcterms:spatial>
+   <dcterms:spatial>Norfolk, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:906128/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4757723</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:35 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:616980</dcterms:identifier>
+   <dcterms:title>Greece / J. Cone, dirext</dcterms:title>
+   <dcterms:title>New historical map of Greece</dcterms:title>
+   <dcterms:creator>Cone, Joseph (Engraver) [original]</dcterms:creator>
+   <dcterms:contributor>Coale, Edward Johnson, 1776-1832 [original]</dcterms:contributor>
+   <dcterms:created>1824</dcterms:created>
+   <dcterms:extent>1 map : hand col. ; 36 x 39 cm. on sheet 49 x 68 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>Relief shown by hachures. [original]</dcterms:description>
+   <dcterms:description>Map is surrounded by text, with alternative title "A new historical map of Greece" centered at top of sheet, "A condensed summary of the statistics of Greece..." below the map, and historical text, with particular emphasis on the period from 1821-1824, printed in the lateral margins. Verso of the sheet is blank. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Gift of Bladen Tayloe ... 3\15\32" in pencil at top of sheet. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:2,500,000].</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Greece--Maps</dcterms:subject>
+   <dcterms:subject>Greece--History--War of Independence, 1821-1829</dcterms:subject>
+   <dcterms:temporal>War of Independence, 1821-1829</dcterms:temporal>
+   <dcterms:spatial>Greece</dcterms:spatial>
+   <dcterms:spatial>Baltimore, Maryland, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1037568/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4859552</edm:isShownAt>
+</mdRecord>

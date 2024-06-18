@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:29 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:2170124</dcterms:identifier>
+   <dcterms:title>Louisville, Ky / drawn by J.W. Hill ; engraved by Wellstood &amp; Peters</dcterms:title>
+   <dcterms:contributor>Hill, J. W. (John William), 1812-1879 [original]</dcterms:contributor>
+   <dcterms:contributor>Middleton, Wallace &amp; Co. [original]</dcterms:contributor>
+   <dcterms:contributor>Wellstood &amp; Peters. [original]</dcterms:contributor>
+   <dcterms:created>1854</dcterms:created>
+   <dcterms:extent>1 print : engraving, b&amp;w ; image 13 x 21 cm. on sheet 16 x 25 cm.</dcterms:extent>
+   <dcterms:medium>black and white [original]</dcterms:medium>
+   <dcterms:description>"Engraved by permission for the Ladies' repository, from Views of American cities, published by Smith, Brothers &amp; Co." [original]</dcterms:description>
+   <dcterms:description>Appeared in: The ladies' repository, October, 1854. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library, American History Collection. McGregor Fund. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Louisville (Ky.)--19th century--Pictorial works</dcterms:subject>
+   <dcterms:temporal>19th century</dcterms:temporal>
+   <dcterms:spatial>Louisville (Ky.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2186872/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4634232</edm:isShownAt>
+</mdRecord>

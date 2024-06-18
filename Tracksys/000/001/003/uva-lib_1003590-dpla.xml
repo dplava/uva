@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:22 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003590</dcterms:identifier>
+   <dcterms:title>A geological map of the copper region embraced in the counties of Floyd, Carroll &amp; Grayson, Va. and Ashe &amp; Alleghany, N.C. / by Richard O Curry, A.M.M.D. of Tennessee, 1859</dcterms:title>
+   <dcterms:creator>Currey, Richard O. (Richard Owen) [original]</dcterms:creator>
+   <dcterms:contributor>Citti, L. F. [original]</dcterms:contributor>
+   <dcterms:created>1859</dcterms:created>
+   <dcterms:extent>1 map : col. ; 22 x 39 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:description>Relief not shown. [original]</dcterms:description>
+   <dcterms:description>Color-coded to show types of soil. [original]</dcterms:description>
+   <dcterms:description>Includes a list of 19 mines. [original]</dcterms:description>
+   <dcterms:description>Appeared in: A geological visit to the Virginia copper region / by Richard O. Currey. Knoxville, 1859. -- cf. Swem. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS. Linen backed. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:396,000]; 6 1/4 miles to an inch.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Copper mines and mining--Virginia, Southwest--Maps</dcterms:subject>
+   <dcterms:subject>Copper mines and mining--North Carolina--Maps</dcterms:subject>
+   <dcterms:subject>Mines and mineral resources--Virginia, Southwest--Maps</dcterms:subject>
+   <dcterms:subject>Mines and mineral resources--North Carolina--Maps</dcterms:subject>
+   <dcterms:subject>Virginia, Southwest--Maps</dcterms:subject>
+   <dcterms:subject>North Carolina--Maps</dcterms:subject>
+   <dcterms:spatial>North Carolina</dcterms:spatial>
+   <dcterms:spatial>Virginia, Southwest</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904857/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4754998</edm:isShownAt>
+</mdRecord>

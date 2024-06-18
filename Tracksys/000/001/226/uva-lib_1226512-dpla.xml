@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:25 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1226512</dcterms:identifier>
+   <dcterms:title>VI Sonatas in three parts for a German flute, a violin with a thorough bass for the harpsicord or violoncello</dcterms:title>
+   <dcterms:title>Besozzi, Alessandro, 1702-1793. Trio sonatas</dcterms:title>
+   <dcterms:creator>Besozzi, Alessandro, 1702-1793 [original]</dcterms:creator>
+   <dcterms:created>1760</dcterms:created>
+   <dcterms:extent>3 pts. 32 cm.</dcterms:extent>
+   <dcterms:description>Parts: flute, violin 2nd, &amp; figured bass. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Ms. note attributes Sonata II to Collini and Sonata V to Pergolesi. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Mackay-Smith fund. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Trio sonatas--Parts</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1305944/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2032290</edm:isShownAt>
+</mdRecord>

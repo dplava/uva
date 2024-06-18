@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:06 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1142196</dcterms:identifier>
+   <dcterms:title>The awakening of the rose = Der Rose Erwachen : polka-mazurka, op. 246 / Eduard Strauss</dcterms:title>
+   <dcterms:title>Rose Erwachen</dcterms:title>
+   <dcterms:title>Strauss, Eduard, 1835-1916. Rose Erwachen</dcterms:title>
+   <dcterms:creator>Strauss, Eduard, 1835-1916 [original]</dcterms:creator>
+   <dcterms:created>[1890..1899]</dcterms:created>
+   <dcterms:extent>5 p. of music.</dcterms:extent>
+   <dcterms:description>piano [original]</dcterms:description>
+   <dcterms:description>For piano. [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: Songs we never forget. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Polka-mazurkas</dcterms:subject>
+   <dcterms:subject>Piano music</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1142197/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314834</edm:isShownAt>
+</mdRecord>

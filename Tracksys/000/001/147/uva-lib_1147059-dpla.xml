@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:15 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1147059</dcterms:identifier>
+   <dcterms:title>Fidelio / arr. for violin &amp; piano by J.A. Getze</dcterms:title>
+   <dcterms:title>Beethoven, Ludwig van, 1770-1827. Fidelio. (1814). Selections; arr</dcterms:title>
+   <dcterms:creator>Beethoven, Ludwig van, 1770-1827 [original]</dcterms:creator>
+   <dcterms:contributor>Getze, J. A. [arranger]</dcterms:contributor>
+   <dcterms:contributor>Kerk, E. M. [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Winner, Septimus, 1827-1902 [original]</dcterms:contributor>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>2 parts.</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>violin, piano [original]</dcterms:description>
+   <dcterms:description>For piano and violin. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>Series numbering varies: "no. 33"--Title page. [original]</dcterms:description>
+   <dcterms:description>At head of series t.p.: "Respectfully dedicated to E. M. Kerk, Esq." [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [12]: Select list of new and popular songs, &amp;c. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Violin and piano music, Arranged--Parts</dcterms:subject>
+   <dcterms:subject>Operas--Excerpts, Arranged--Parts</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1147060/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315207</edm:isShownAt>
+</mdRecord>

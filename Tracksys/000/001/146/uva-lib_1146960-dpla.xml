@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:15 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1146960</dcterms:identifier>
+   <dcterms:title>Far o'er the stars is rest = Ueber den Sternen ist Ruh : op. 128 / composed by Franz Abt</dcterms:title>
+   <dcterms:title>Far o'er the stars there is rest</dcterms:title>
+   <dcterms:title>Ueber den Sternen ist Ruh</dcterms:title>
+   <dcterms:title>Abt, Franz, 1819-1885. Lieder. op. 128. Über den Sternen ist Ruh'</dcterms:title>
+   <dcterms:creator>Abt, Franz, 1819-1885 [original]</dcterms:creator>
+   <dcterms:contributor>Smith &amp; McDougal [engraver]</dcterms:contributor>
+   <dcterms:created>1866</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, soprano voice [original]</dcterms:description>
+   <dcterms:description>Soprano. [original]</dcterms:description>
+   <dcterms:description>For high voice and piano. [original]</dcterms:description>
+   <dcterms:description>At foot of title page: "Stereotyped by L. Johnson &amp; Co., Phila." [original]</dcterms:description>
+   <dcterms:description>"Electrotyped by Smith &amp; McDougal, 82 and 84 Beekman St., N.Y."--Colophon. [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: Catalogue of select vocal music. [original]</dcterms:description>
+   <dcterms:description>German words with English translation by M.L.L. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1146961/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315199</edm:isShownAt>
+</mdRecord>

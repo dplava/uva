@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:25 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1563449</dcterms:identifier>
+   <dcterms:title>Chart of the West Indies and Spanish Dominions in North America / by A. Arrowsmith ; Jones, Smith &amp; Co., sc. Beaufort Buildgs., Strand</dcterms:title>
+   <dcterms:creator>Arrowsmith, Aaron, 1750-1823 [original]</dcterms:creator>
+   <dcterms:contributor>Jones &amp; Smith. [original]</dcterms:contributor>
+   <dcterms:created>1803</dcterms:created>
+   <dcterms:extent>1 map : hand col. ; 122 x 192 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>paper [original]</dcterms:medium>
+   <dcterms:description>Relief shown by hachures, depths shown by soundings. [original]</dcterms:description>
+   <dcterms:description>Prime meridian: Greenwich. [original]</dcterms:description>
+   <dcterms:description>Map shows West Indies, Florida, Central America, and northern part of South America. [original]</dcterms:description>
+   <dcterms:description>"Four sheets. Size (when joined), 75 x 47 1/2 inches." Cf. Tooley, R.V. The mapping of America, v. 2, p. 106. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: G4900 1803 .A77: Has been cut into 32 sections (30.5 x 24 cm. each), and mounted on linen. In slipcase, on shelf. Paul Mellon bequest, May 12, 2000. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Area Table 7 1803 Arrowsmith: Imperfect: several tears along fold lines. 4 sheets in 2. Tracy W. McGregor Collection, American History Collection. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: G4900 1803 .A77: Has been cut into 32 sections (30.5 x 24 cm. each), and mounted on linen. In slipcase, on shelf. Paul Mellon bequest, May 12, 2000. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:2,775,525]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Mellon, Paul--Library--Personal copy</dcterms:subject>
+   <dcterms:subject>West Indies--Maps</dcterms:subject>
+   <dcterms:subject>Central America--Maps</dcterms:subject>
+   <dcterms:subject>Florida--Maps</dcterms:subject>
+   <dcterms:spatial>Central America</dcterms:spatial>
+   <dcterms:spatial>Florida</dcterms:spatial>
+   <dcterms:spatial>West Indies</dcterms:spatial>
+   <dcterms:spatial>London, England</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2062686/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3545526</edm:isShownAt>
+</mdRecord>

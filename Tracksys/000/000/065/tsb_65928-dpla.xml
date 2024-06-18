@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:11 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:65928</dcterms:identifier>
+   <dcterms:title>Reports of cases argued and adjudged in the courts of King's Bench, Common Pleas and Exchequer. [1695-1741]: To which are added, some special cases in the Court of Chancery; and before the Delegates / By the Right Hon. Sir John Comyns .. With tables of the cases, and of the principal matters</dcterms:title>
+   <dcterms:creator>Comyns, John Sir, approximately 1667-1740 [original]</dcterms:creator>
+   <dcterms:contributor>Comyns, John, fl. 1724-1756 [translator]</dcterms:contributor>
+   <dcterms:contributor>England and Wales. Court of Common Pleas. [original]</dcterms:contributor>
+   <dcterms:contributor>England and Wales. Court of King's Bench. [original]</dcterms:contributor>
+   <dcterms:contributor>Great Britain. Court of Chancery. [original]</dcterms:contributor>
+   <dcterms:contributor>Great Britain. Court of Exchequer. [original]</dcterms:contributor>
+   <dcterms:contributor>Great Britain. High Court of Delegates. [original]</dcterms:contributor>
+   <dcterms:contributor>Rose, Samuel, 1767-1804 [editor]</dcterms:contributor>
+   <dcterms:created>1792</dcterms:created>
+   <dcterms:extent>2 v. 23 cm.</dcterms:extent>
+   <dcterms:description>2d ed., cor. [original]</dcterms:description>
+   <dcterms:description>Paged continuously. [original]</dcterms:description>
+   <dcterms:description>"Written in 'law French ̓... Translated by the judge's nephew, J. Comyns of the Inner Temple."--Dict. Nat. Biog., v. 11, p. 465. [original]</dcterms:description>
+   <dcterms:description>LAW: 1828 Catalogue. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2415354/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3224041</edm:isShownAt>
+</mdRecord>

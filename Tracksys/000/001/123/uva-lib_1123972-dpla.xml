@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:38 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1123972</dcterms:identifier>
+   <dcterms:title>Wooing: ballad / by Anton Strelezki ; [words by the Baroness Porteous]</dcterms:title>
+   <dcterms:title>Hear the voice, hear it whisper</dcterms:title>
+   <dcterms:title>The nightingale singeth alone</dcterms:title>
+   <dcterms:creator>Strelezki, Anton. [original]</dcterms:creator>
+   <dcterms:contributor>Beebe, Henrietta [dedicatee]</dcterms:contributor>
+   <dcterms:contributor>Porteous Baroness [lyricist]</dcterms:contributor>
+   <dcterms:created>1884</dcterms:created>
+   <dcterms:extent>1 score (5 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, soprano voice [original]</dcterms:description>
+   <dcterms:description>piano, tenor voice [original]</dcterms:description>
+   <dcterms:description>Soprano or tenor in F. [original]</dcterms:description>
+   <dcterms:description>For voice and piano. [original]</dcterms:description>
+   <dcterms:description>"To Miss Henrietta Beebe." [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [6]: Music for the piano published by G. Schirmer. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1123973/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313671</edm:isShownAt>
+</mdRecord>

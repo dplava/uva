@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:01 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1139118</dcterms:identifier>
+   <dcterms:title>Love me well! = Aime-moi! / [words by] Armand Ocampo ; [music by] H. Bemberg ; English version by N.H. Dole</dcterms:title>
+   <dcterms:title>Aime-moi!</dcterms:title>
+   <dcterms:title>Come to me, for thy charm is a spell</dcterms:title>
+   <dcterms:title>Viens à moi, car tou charme est átrange et je l'aime</dcterms:title>
+   <dcterms:title>Bemberg, H. (Herman), 1859-1931. Aime-moi. English &amp; French</dcterms:title>
+   <dcterms:creator>Bemberg, H. (Herman), 1859-1931 [original]</dcterms:creator>
+   <dcterms:contributor>Dole, Nathan Haskell, 1852-1935 [translator]</dcterms:contributor>
+   <dcterms:contributor>Ocampo, Armand. [lyricist]</dcterms:contributor>
+   <dcterms:created>1891</dcterms:created>
+   <dcterms:extent>1 score (7 p.) ; 28 cm.</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>mezzo-soprano voice, piano [original]</dcterms:description>
+   <dcterms:description>Mezzo-soprano G♭. [original]</dcterms:description>
+   <dcterms:description>For mezzo-soprano and piano. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>English and French words. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Ocampo, Armand--Musical settings</dcterms:subject>
+   <dcterms:subject>Songs {High voice) with piano</dcterms:subject>
+   <dcterms:subject>Love songs</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1139119/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5187111</edm:isShownAt>
+</mdRecord>

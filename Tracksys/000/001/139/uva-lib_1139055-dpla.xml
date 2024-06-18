@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:01 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1139055</dcterms:identifier>
+   <dcterms:title>In Cupid's court: song / words by Frederic E. Weatherly ; music by Frederick Bevan</dcterms:title>
+   <dcterms:title>The case began in Cupid's court</dcterms:title>
+   <dcterms:creator>Bevan, Frederick. [original]</dcterms:creator>
+   <dcterms:contributor>Weatherly, F. E. (Frederic Edward), 1848-1929 [lyricist]</dcterms:contributor>
+   <dcterms:created>1891</dcterms:created>
+   <dcterms:extent>1 score (7 p.)</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, low voice [original]</dcterms:description>
+   <dcterms:description>No. 1 in D. [original]</dcterms:description>
+   <dcterms:description>For low voice and piano. [original]</dcterms:description>
+   <dcterms:description>"F. H. Gilson Company, music printers, Boston, U.S.A." [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: New music: Kings of the road; In Cupid's court; Venezia, etc. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1139056/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314600</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 6:49 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <edm:hasType valueURI="http://vocab.getty.edu/aat/300046300">photographs</edm:hasType>
+   <dcterms:identifier>tsb:3009</dcterms:identifier>
+   <dcterms:title>University of Virginia Visual History Collection ca. 1825-present</dcterms:title>
+   <dcterms:title>Prints and photographs file</dcterms:title>
+   <dcterms:title>Prints file</dcterms:title>
+   <dcterms:title>University of Virginia Online Visual History</dcterms:title>
+   <dcterms:title>University of Virginia prints and photographs file</dcterms:title>
+   <dcterms:contributor>University of Virginia. Development Communications. [original]</dcterms:contributor>
+   <dcterms:contributor>University of Virginia. Health Sciences Library. [original]</dcterms:contributor>
+   <dcterms:contributor>University of Virginia. Law Library [original]</dcterms:contributor>
+   <dcterms:contributor>University of Virginia. Library. Special Collections Department [original]</dcterms:contributor>
+   <dcterms:contributor>University of Virginia. News Office [original]</dcterms:contributor>
+   <dcterms:contributor>University of Virginia. Office of the Provost. [original]</dcterms:contributor>
+   <dcterms:created>18XX/20XX</dcterms:created>
+   <dcterms:extent>11,677 items</dcterms:extent>
+   <dcterms:description>CONTENT WARNING: Some of the material in this collection contains offensive or harmful language or imagery including racist and violent references and imagery, and graphic imagery or content involving human remains. Of these images include print numbers prints01335, prints01341, prints09232, prints20000, prints21534, prints21913, prints21914, prints21915, prints21916, prints21917, prints21918, prints21919, prints21920, prints22009, and prints22562. The purpose of this note is to give users the opportunity to decide whether they need or want to view these materials, or at least, to mentally or emotionally prepare themselves to view the materials. [original]</dcterms:description>
+   <dcterms:description>An accumulation of photographs and prints held by Special Collections, featuring the following categories: the Rotunda, University of Virginia Faculty, University of Virginia Students, University of Virginia Athletics, and University of Virginia General (buildings, events, student activities, etc.) [original]</dcterms:description>
+   <dcterms:description>Additionally, this accession includes images from the People prints file (non-U.Va. people), the University News Services, the Office of the Provost, the Claude Moore Health Sciences Library, the Law Library, and Development Communications. [original]</dcterms:description>
+   <dcterms:description>Some News Office folders contain additional photographs, contact sheets and negatives not noted on the online database. [original]</dcterms:description>
+   <dcterms:description>Exhibited August 14, 2017 - June 23, 2018 — The University of Virginia in 100 Objects, Small Special Collections Library (Student Sketch of Maximilian Schele de Vere) [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>University of Virginia Rotunda (Charlottesville, Va.).</dcterms:subject>
+   <dcterms:subject>University of Virginia--Buildings</dcterms:subject>
+   <dcterms:subject>University of Virginia--Faculty</dcterms:subject>
+   <dcterms:subject>University of Virginia--Sports</dcterms:subject>
+   <dcterms:subject>University of Virginia--Students</dcterms:subject>
+   <dcterms:spatial>University of Virginia Lawn (Charlottesville, Va.)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2141664/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3795347</edm:isShownAt>
+</mdRecord>

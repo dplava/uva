@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:58 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1137546</dcterms:identifier>
+   <dcterms:title>A night in Venice = Una notte à Venezia : duet / by Luigi Arditi</dcterms:title>
+   <dcterms:title>Come love, come love</dcterms:title>
+   <dcterms:title>Notte à Venezia</dcterms:title>
+   <dcterms:title>Vieni ni vieni</dcterms:title>
+   <dcterms:title>Arditi, Luigi, 1822-1903. Notte à Venezia. English &amp; Italian</dcterms:title>
+   <dcterms:creator>Arditi, Luigi, 1822-1903 [original]</dcterms:creator>
+   <dcterms:contributor>Brignoli, Pasquilino, 1824-1884 [performer]</dcterms:contributor>
+   <dcterms:contributor>Parepa-Rosa, Euphrosyne, 1836-1874 [performer]</dcterms:contributor>
+   <dcterms:contributor>R., F. R. [translator]</dcterms:contributor>
+   <dcterms:contributor>Stackpole, Patrick M. [engraver]</dcterms:contributor>
+   <dcterms:created>1867</dcterms:created>
+   <dcterms:extent>1 score (9 p.).</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>soprano voice, tenor voice, piano [original]</dcterms:description>
+   <dcterms:description>For soprano, tenor, and piano. [original]</dcterms:description>
+   <dcterms:description>At foot of title page: "Stackpole." [original]</dcterms:description>
+   <dcterms:description>"Sung by Mlle. Parepa &amp; Sign. Brignoli." [original]</dcterms:description>
+   <dcterms:description>Italian and English words. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Vocal duets with piano</dcterms:subject>
+   <dcterms:subject>Venice (Italy)--Songs and music</dcterms:subject>
+   <dcterms:spatial>Venice (Italy)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1137547/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5314476</edm:isShownAt>
+</mdRecord>

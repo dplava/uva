@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:19 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1003338</dcterms:identifier>
+   <dcterms:title>Rand, McNally &amp; Co.'s 11 x 14 map of South Carolina</dcterms:title>
+   <dcterms:title>11 x 14 map of South Carolina</dcterms:title>
+   <dcterms:title>Map of South Carolina</dcterms:title>
+   <dcterms:creator>Rand McNally and Company. [original]</dcterms:creator>
+   <dcterms:created>1895</dcterms:created>
+   <dcterms:extent>[Chicago] : Rand, McNally &amp; Co., c1895.</dcterms:extent>
+   <dcterms:medium>hachures [original]</dcterms:medium>
+   <dcterms:description>Title in small type below the bar graph. [original]</dcterms:description>
+   <dcterms:description>Relief shown by hachures. [original]</dcterms:description>
+   <dcterms:description>Margins and verso blank. [original]</dcterms:description>
+   <dcterms:description>Scale [ca. 1:1,670,000]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>South Carolina--Maps</dcterms:subject>
+   <dcterms:spatial>South Carolina</dcterms:spatial>
+   <dcterms:spatial>Chicago, Illinois, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:891392/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4742214</edm:isShownAt>
+</mdRecord>

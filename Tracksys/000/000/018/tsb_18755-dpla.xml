@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 6:47 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>tsb:18755</dcterms:identifier>
+   <dcterms:title>Virginia Female Institute</dcterms:title>
+   <dcterms:contributor>E. Sachse &amp; Co. [original]</dcterms:contributor>
+   <dcterms:contributor>Virginia Female Institute (Staunton, Va.) [original]</dcterms:contributor>
+   <dcterms:created>[1850..1855]</dcterms:created>
+   <dcterms:extent>1 print : lithograph, b&amp;w. ; 12 x 19 cm. on sheet 15 x 24 cm.</dcterms:extent>
+   <dcterms:medium>black and white [original]</dcterms:medium>
+   <dcterms:medium>lithographs [original]</dcterms:medium>
+   <dcterms:description>SPECIAL COLLECTIONS: Byrd Fund, 2002/2003. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Virginia Female Institute (Staunton, Va.)</dcterms:subject>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <dcterms:spatial>Baltimore, Maryland, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1517281/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3861892</edm:isShownAt>
+</mdRecord>

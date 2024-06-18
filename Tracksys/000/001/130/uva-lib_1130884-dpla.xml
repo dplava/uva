@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:45 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1130884</dcterms:identifier>
+   <dcterms:title>The standard bearer / Lindpainter ; [words by G. Bennett.]</dcterms:title>
+   <dcterms:title>Around the dim and silent battle plain</dcterms:title>
+   <dcterms:title>Your Molly has never been false, she declares</dcterms:title>
+   <dcterms:title>Percy, John, 1817-1889. Wapping old stairs</dcterms:title>
+   <dcterms:creator>Percy, John, 1817-1889 [original]</dcterms:creator>
+   <dcterms:contributor>Bennett, G. [lyricist]</dcterms:contributor>
+   <dcterms:created>188X</dcterms:created>
+   <dcterms:extent>1 score ([5] p.) : ill.</dcterms:extent>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, bass voice [original]</dcterms:description>
+   <dcterms:description>Wapping old stairs / J. Percy -- The standard bearer / P. Lindpainter.</dcterms:description>
+   <dcterms:description>Songs for bass voice and piano. [original]</dcterms:description>
+   <dcterms:description>Title page illustration: Portrait of Salvini / Howard Lockwood, Lockwood Press, Eng., N.Y. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1130885/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313941</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:32 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1120191</dcterms:identifier>
+   <dcterms:title>Ave Maria / English words by Arthur H. Vivian ; [music by] Brindis de Sálas</dcterms:title>
+   <dcterms:title>Ave, ave Maria, gratia</dcterms:title>
+   <dcterms:title>Brindis de Salas, Claudio José Domingo, 1852-1911. Ave Maria. English &amp; Latin</dcterms:title>
+   <dcterms:creator>Brindis de Salas, Claudio José Domingo, 1852-1911 [original]</dcterms:creator>
+   <dcterms:contributor>Vivian, Arthur H. [lyricist]</dcterms:contributor>
+   <dcterms:created>1885</dcterms:created>
+   <dcterms:extent>1 score (9 p.) + 1 part (2 p.)</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>piano, mezzo-soprano voice, flute [original]</dcterms:description>
+   <dcterms:description>piano, mezzo-soprano voice, violin [original]</dcterms:description>
+   <dcterms:description>piano, mezzo-soprano voice, violoncello [original]</dcterms:description>
+   <dcterms:description>M. sop. in G. [original]</dcterms:description>
+   <dcterms:description>For voice and piano with part for violin, flute or violoncello. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>Latin and English words. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Songs (Medium voice) with instrumental ensemble--Scores and parts</dcterms:subject>
+   <dcterms:subject>Ave Maria (Music)</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1120192/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313414</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:11 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1145069</dcterms:identifier>
+   <dcterms:title>Venetian boat song = duet for soprano and contralto / by J. Blumenthal ; [Italian version by A. Magni]</dcterms:title>
+   <dcterms:title>Barcarola veneziana</dcterms:title>
+   <dcterms:title>Già chiaman dal mare</dcterms:title>
+   <dcterms:title>The boatmen are calling</dcterms:title>
+   <dcterms:title>Blumenthal, Jacques. Venetian boat song. Italian &amp; English</dcterms:title>
+   <dcterms:creator>Blumenthal, Jacques. [original]</dcterms:creator>
+   <dcterms:contributor>Magni, A. [translator]</dcterms:contributor>
+   <dcterms:contributor>Merivale, Herman Charles, 1839-1906 [lyricist]</dcterms:contributor>
+   <dcterms:created>1883</dcterms:created>
+   <dcterms:extent>1 score (7 p.) : ill.</dcterms:extent>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>voice (2), piano [original]</dcterms:description>
+   <dcterms:description>For soprano, alto, and piano. [original]</dcterms:description>
+   <dcterms:description>Title page illustration: A gondolier piloting his gondola. [original]</dcterms:description>
+   <dcterms:description>Advertisement on p. [8]: New songs for one voice. [original]</dcterms:description>
+   <dcterms:description>English words by Herman C. Merivale; with Italian translation. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Vocal duets with piano</dcterms:subject>
+   <dcterms:subject>Gondolas--Songs and music</dcterms:subject>
+   <dcterms:subject>Popular music--To 1901</dcterms:subject>
+   <dcterms:subject>Venice (Italy)--Songs and music</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <dcterms:spatial>Venice (Italy)</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1145070/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315037</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 6:44 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:105583</dcterms:identifier>
+   <dcterms:title>Les tragiques / Donnez au public par le larcin de Promethee</dcterms:title>
+   <dcterms:creator>Aubigné, Agrippa d', 1552-1630 [original]</dcterms:creator>
+   <dcterms:contributor>Aubert, Pierre, 1583-1636 [printer]</dcterms:contributor>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:contributor>Trautz, Georges, 1808-1879 [binder]</dcterms:contributor>
+   <dcterms:created>1616</dcterms:created>
+   <dcterms:extent>[30], 391 (i.e. 291), [4] p. ; 20 cm. (4to)</dcterms:extent>
+   <dcterms:extent>20 cm. (4to) [original]</dcterms:extent>
+   <dcterms:description>Aux lecteurs -- Préface [en vers] -- Miseres -- Princes -- La chambre doree -- Les feux -- Les fers -- Vengeances -- Iugement.</dcterms:description>
+   <dcterms:description>Signatures: ã⁴ ẽ⁴ A-Qq⁴ (leaves ẽ4 and Qq4 are blank) [original]</dcterms:description>
+   <dcterms:description>Errors in pagination: nos. 147-148 omitted; p. 245-291 incorrectly numbered 243-391. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Trautz-Bauzonnet. Bookplate of James Hartmann. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 476. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:spatial>Geneva, Switzerland</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:3102653/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2359545</edm:isShownAt>
+</mdRecord>

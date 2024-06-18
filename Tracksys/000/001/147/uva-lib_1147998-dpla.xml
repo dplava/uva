@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:16 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1147998</dcterms:identifier>
+   <dcterms:title>La sérénade / F. Schubert ; transcribed for piano and cabinet organ by J. L. Battman, opus 152 ; cabinet organ</dcterms:title>
+   <dcterms:title>Schubert, Franz, 1797-1828. Schwanengesang (Song cycle). Ständchen; arranged</dcterms:title>
+   <dcterms:creator>Schubert, Franz, 1797-1828 [original]</dcterms:creator>
+   <dcterms:contributor>Battman, J. L. (Jacques Louis), 1818-1886 [arranger]</dcterms:contributor>
+   <dcterms:contributor>Greene, H. F. (Henry F.), approximately 1828- [engraver]</dcterms:contributor>
+   <dcterms:created>[1866..1876]</dcterms:created>
+   <dcterms:extent>3 p. of music : ill.</dcterms:extent>
+   <dcterms:medium>ill [original]</dcterms:medium>
+   <dcterms:description>organ [original]</dcterms:description>
+   <dcterms:description>For piano and cabinet organ. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>"Greene eng., Boston." [original]</dcterms:description>
+   <dcterms:description>Publication date derived from publisher's name and address. Cf. Handbook of early American sheet music / Dichter and Shapiro. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Reed organ music, Arranged</dcterms:subject>
+   <dcterms:subject>Songs--Instrumental settings</dcterms:subject>
+   <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+   <dcterms:temporal>To 1901</dcterms:temporal>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1147999/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5315279</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:30 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:identifier>uva-lib:2184130</dcterms:identifier>
+   <dcterms:title>Chronicles of England to 1417 1450</dcterms:title>
+   <dcterms:title>Alderman Brut</dcterms:title>
+   <dcterms:title>Chronicon Regum Angliae</dcterms:title>
+   <dcterms:created>1450</dcterms:created>
+   <dcterms:extent>1 tem (229 l.); 25 x 17cm.</dcterms:extent>
+   <dcterms:description>Chronicles of England, in the vernacular, from Brutus to Henry V, 1417 A.D. (Chronicon Regum Angliae Saec. XV.) Legends of Brutus, King Lear, King Arthur, etc. [original]</dcterms:description>
+   <dcterms:description>Composed in Middle English with marginal notes in an Elizabethan hand. The text is written on vellum with a sloping Gothic hand. Single column with 29-30 lines to the page. Numerous illuminated initials, flourishes and marginal scrolls; bound in 19th century moroccan. [original]</dcterms:description>
+   <dcterms:description>Medieval Manuscript H [original]</dcterms:description>
+   <dcterms:description>Also available as photocopy and on microfilm reel M-763. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Manuscripts, Medieval</dcterms:subject>
+   <dcterms:subject>Great Britain--Kings and rulers--Manuscripts</dcterms:subject>
+   <dcterms:subject>Great Britain--History--Medieval period, 1066-1485</dcterms:subject>
+   <dcterms:temporal>Medieval period, 1066-1485</dcterms:temporal>
+   <dcterms:spatial>Great Britain</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2516602/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2646578</edm:isShownAt>
+</mdRecord>

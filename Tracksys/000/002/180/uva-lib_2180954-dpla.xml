@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:29 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2180954</dcterms:identifier>
+   <dcterms:title>Confirmations-Schein</dcterms:title>
+   <dcterms:creator>Evangelical Lutheran Church. [original]</dcterms:creator>
+   <dcterms:created>1827</dcterms:created>
+   <dcterms:extent>1 sheet ([2] p.) : ill. ; 33 x 21 cm.</dcterms:extent>
+   <dcterms:medium>ill. [original]</dcterms:medium>
+   <dcterms:description>Text within ornamental border;, with cuts of an angel at the top, two doves in the lower left corner, and grain, wrapped in a grape vine in the lower right corner. [original]</dcterms:description>
+   <dcterms:description>First line of song: Sen Gott getreu, halt seinen Bund ... [original]</dcterms:description>
+   <dcterms:description>On verso: within an ornamental border, "1827 / Philip Henkel. / No. / Preis"; "E.W. Rupert" printed along the right edge of the sheet. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Accompanied by a photocopy (negative) made from the original in the collection of Mrs. Henry Tusing of New Market, Va. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Confirmation--Evangelical Lutheran Church</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2186387/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2084792</edm:isShownAt>
+</mdRecord>

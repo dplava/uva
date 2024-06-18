@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:24 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1219400</dcterms:identifier>
+   <dcterms:title>The Declaration of Independence / drawn with a steel pen by R. Morris Swander; and engraved (fac simile) by P.S. Duval &amp; Son, Philada. ; this allegorical portrait of Washington respectfully dedicated to the Christian Commission's of the United States by the publishers</dcterms:title>
+   <dcterms:title>United States. Declaration of Independence</dcterms:title>
+   <dcterms:contributor>Albert H. Small Declaration of Independence Collection (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:contributor>Art Publishing Association of Philadelphia. [original]</dcterms:contributor>
+   <dcterms:contributor>P.S. Duval &amp; Son. [original]</dcterms:contributor>
+   <dcterms:contributor>Swander, Bishop &amp; Co. [original]</dcterms:contributor>
+   <dcterms:contributor>Swander, R. Morris. [original]</dcterms:contributor>
+   <dcterms:contributor>United States. [original]</dcterms:contributor>
+   <dcterms:contributor>United States. Continental Congress. [original]</dcterms:contributor>
+   <dcterms:created>1865</dcterms:created>
+   <dcterms:extent>1 sheet ([1] p.) : ill. ; 54 x 41 cm. (printed area)</dcterms:extent>
+   <dcterms:extent>54 x 41 cm. (printed area) [original]</dcterms:extent>
+   <dcterms:medium>ill. [original]</dcterms:medium>
+   <dcterms:description>The script of the text of the Declaration forms an oval portrait of George Washington, which is encircled by facsimiles of the signatures. A reproduction of Durand's key to the image of the signing ceremony is at the top of the sheet, and the whole is within a small ornamental border. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Mounted on linen; some tears at edges. Albert H. Small Declaration of Independence Collection. Deposit of Albert H. Small, July 14, 2003. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Washington, George, 1732-1799--Portraits</dcterms:subject>
+   <dcterms:spatial>Philadelphia, Pennsylvania, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1220717/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u3954119</edm:isShownAt>
+</mdRecord>

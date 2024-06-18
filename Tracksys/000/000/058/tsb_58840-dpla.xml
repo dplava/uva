@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 7:56 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>tsb:58840</dcterms:identifier>
+   <dcterms:title>Mother, sweet mother, why linger away?: duett for soprano and alto / words by Miss Frances Jane Crosby ; music arranged and partly composed by Geo. F. Root</dcterms:title>
+   <dcterms:creator>Root, George F. (George Frederick), 1820-1895 [original]</dcterms:creator>
+   <dcterms:contributor>Crosby, Fanny, 1820-1915 [original]</dcterms:contributor>
+   <dcterms:created>1852</dcterms:created>
+   <dcterms:extent>1 score (5 p.) ; 33 cm.</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>soprano voice, alto voice, piano [original]</dcterms:description>
+   <dcterms:description>For two voices and piano. [original]</dcterms:description>
+   <dcterms:description>"To Tillie and Hattie by Charlie." [original]</dcterms:description>
+   <dcterms:description>English words. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Second title in a bound volume of sheet music from the library of Mrs. Harriet Irvine. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Vocal duets with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1563122/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5541635</edm:isShownAt>
+</mdRecord>

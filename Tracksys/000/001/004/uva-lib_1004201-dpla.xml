@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:23 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1004201</dcterms:identifier>
+   <dcterms:title>Map of Virginia-- "wet" and "dry": and comparative "wet" and "dry" United States, 1909 / Richardson ; statistics from Va. State Auditor's Office, Oct. 12, 1909</dcterms:title>
+   <dcterms:title>Map of Virginia, "wet" and "dry"</dcterms:title>
+   <dcterms:creator>Richardson. [original]</dcterms:creator>
+   <dcterms:created>1909</dcterms:created>
+   <dcterms:extent>1 map : b&amp;w ; 20 x 39 cm. on sheet 28 x 44 cm.</dcterms:extent>
+   <dcterms:medium>black and white [original]</dcterms:medium>
+   <dcterms:description>Inset: U.S. map "From American Ant-Saloon League Year Book, 1909." [original]</dcterms:description>
+   <dcterms:description>Includes statistical information embedded in the map, with additional notes at bottom of sheet. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Byrd Fund, 2008/2009. [original]</dcterms:description>
+   <dcterms:description>Scale not given.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Alcoholic beverage industry--Virginia--20th century</dcterms:subject>
+   <dcterms:subject>Liquor industry--Virginia--20th century</dcterms:subject>
+   <dcterms:subject>License system--Virginia</dcterms:subject>
+   <dcterms:temporal>20th century</dcterms:temporal>
+   <dcterms:spatial>20th century</dcterms:spatial>
+   <dcterms:spatial>Virginia</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096707/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u4801335</edm:isShownAt>
+</mdRecord>

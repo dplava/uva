@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:37 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:738689</dcterms:identifier>
+   <dcterms:title>Alector: histoire fabuleuse / traduicte en Frāçois d'un fragment diuers, trouué non entier, mais entrerompu, &amp; sans forme de principe</dcterms:title>
+   <dcterms:title>Alector, ou Le coq</dcterms:title>
+   <dcterms:creator>Aneau, Barthélemy, -1561 [original]</dcterms:creator>
+   <dcterms:contributor>Belz-Niédrée [binder]</dcterms:contributor>
+   <dcterms:contributor>Douglas H. Gordon Collection of French Books (University of Virginia) [original]</dcterms:contributor>
+   <dcterms:contributor>Fraden, Pierre [original]</dcterms:contributor>
+   <dcterms:created>1560</dcterms:created>
+   <dcterms:extent>[8], xvi, 152 leaves ; 16 cm. (8vo)</dcterms:extent>
+   <dcterms:extent>16 cm. (8vo) [original]</dcterms:extent>
+   <dcterms:description>Signatures: *⁸ [dagger]-[dagger dagger]⁸ A-T⁸. [original]</dcterms:description>
+   <dcterms:description>Running title: Alector, ou Le coq. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Belz-Niédrée. Armorial binding, "Bibliotheque de Mello (?)" Bookplates of Thomas Brooke and Charles Moncorgé. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 202. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Binder: Belz-Niédrée. Armorial binding, "Bibliotheque de Mello (?)" Bookplates of Thomas Brooke and Charles Moncorgé. Gordon Collection. Bookplate of Douglas Gordon. Gordon list, 202. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:spatial>Lyon, France</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1056164/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2255584</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:23 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>still image</dcterms:type>
+   <dcterms:identifier>uva-lib:1004247</dcterms:identifier>
+   <dcterms:title>Carte de la Louisiane et du cours du Mississipi: dressée sur un grand nombre de mémoires entrautres sur ceux de Mr. le Maire / par Guillaume Del'isle del Academie R'le. des Sciences. ; Paris, Chez l'auteur le Sr. Delisle sur le quay de l'horloge avec privilege du roy, 1718</dcterms:title>
+   <dcterms:title>Carte de la Louisiane et du cours du Mississippi</dcterms:title>
+   <dcterms:creator>L'Isle, Guillaume de, 1675-1726 [original]</dcterms:creator>
+   <dcterms:created>1742</dcterms:created>
+   <dcterms:extent>1 map : hand. col. ; 47 x 64 cm. on sheet 55 x 78 cm.</dcterms:extent>
+   <dcterms:medium>color [original]</dcterms:medium>
+   <dcterms:medium>paper [original]</dcterms:medium>
+   <dcterms:description>Covers United States from Rio Grande River to Hudson River. [original]</dcterms:description>
+   <dcterms:description>Relief shown pictorially. [original]</dcterms:description>
+   <dcterms:description>New Orleans is shown on the map and on the inset. [original]</dcterms:description>
+   <dcterms:description>Prime meridian: Ferro. [original]</dcterms:description>
+   <dcterms:description>Paper watermarked 1742? [original]</dcterms:description>
+   <dcterms:description>Inset: Carte particuliere des embouchures de la Rivie. S. Louis et de la Mobile. [original]</dcterms:description>
+   <dcterms:description>A variant of L'Isle's 1718 map. Cf. Cumming, Southeast in early maps, no. 170. [original]</dcterms:description>
+   <dcterms:description>SPECIAL COLLECTIONS: Tracy W. McGregor Library, American History Collection. [original]</dcterms:description>
+   <dcterms:description>Scale ca. 1:4,700,000.</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>United States--Maps--Early works to 1800</dcterms:subject>
+   <dcterms:spatial>United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:625461/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u2402567</edm:isShownAt>
+</mdRecord>

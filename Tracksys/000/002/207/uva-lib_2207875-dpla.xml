@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 9:30 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:2207875</dcterms:identifier>
+   <dcterms:title>Songs of Zion: Being a small collection of tunes, principally original; with appropriate lines, adapted to divine worship / By James P. Carrell. .. ; Copy right secured</dcterms:title>
+   <dcterms:contributor>Carrell, James P., 1787-1854 [original]</dcterms:contributor>
+   <dcterms:contributor>Davisson, Ananias, 1780-1857 [original]</dcterms:contributor>
+   <dcterms:created>1821</dcterms:created>
+   <dcterms:extent>1 score (64 p.) ; 13 x 22 cm.</dcterms:extent>
+   <dcterms:medium>score [original]</dcterms:medium>
+   <dcterms:description>Shape-note notation. [original]</dcterms:description>
+   <dcterms:description>Imperfect: p. 63-64 wanting. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Shape-note hymnals</dcterms:subject>
+   <dcterms:subject>Choruses, Sacred (Mixed voices), Unaccompanied</dcterms:subject>
+   <dcterms:subject>Hymns</dcterms:subject>
+   <dcterms:spatial>Harrisonburg, Virginia, United States</dcterms:spatial>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2221314/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5228489</edm:isShownAt>
+</mdRecord>

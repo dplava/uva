@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-18 at 8:31 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://dplava.lib.virginia.edu"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu https://dplava.lib.virginia.edu/dplava.xsd">
+   <dcterms:provenance>University of Virginia</dcterms:provenance>
+   <dcterms:type>text</dcterms:type>
+   <dcterms:identifier>uva-lib:1119590</dcterms:identifier>
+   <dcterms:title>Margaretha / Hermann Riedel ; English version by Mrs. John P. Morgan</dcterms:title>
+   <dcterms:title>How proud and stately</dcterms:title>
+   <dcterms:title>How proud and stately is his bearing</dcterms:title>
+   <dcterms:title>Wie stolz und stattlich geht er</dcterms:title>
+   <dcterms:title>Riedel, Hermann, 1847-1913. Lieder Jung Werner's und Margaretha's aus Der Trompeter von Säk̈kingen. Wie stolz und stattlich</dcterms:title>
+   <dcterms:creator>Riedel, Hermann, 1847-1913 [original]</dcterms:creator>
+   <dcterms:contributor>Morgan, John P. Mrs [translator]</dcterms:contributor>
+   <dcterms:contributor>Scheffel, Joseph Viktor von, 1826-1886 [original]</dcterms:contributor>
+   <dcterms:created>1882</dcterms:created>
+   <dcterms:extent>1 vocal score (4 p.).</dcterms:extent>
+   <dcterms:medium>piano score [original]</dcterms:medium>
+   <dcterms:description>piano, low voice [original]</dcterms:description>
+   <dcterms:description>For a low voice. [original]</dcterms:description>
+   <dcterms:description>Orchestral acc. arr. for piano. [original]</dcterms:description>
+   <dcterms:description>Caption title. [original]</dcterms:description>
+   <dcterms:description>Page 4 contains the 1st page of music for no. 2 in the series, Jung Werner = Young Werner. [original]</dcterms:description>
+   <dcterms:description>English and German words. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:subject>Scheffel, Joseph Viktor von, 1826-1886--Musical settings</dcterms:subject>
+   <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1119591/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/u5313372</edm:isShownAt>
+</mdRecord>
