@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
-      type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 8:45 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 7:28 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -10,13 +9,11 @@
    <dcterms:type>still image</dcterms:type>
    <dcterms:identifier>uva-lib:2163154</dcterms:identifier>
    <dcterms:title>James A. Harrison</dcterms:title>
-   <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
-   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/no94027701">Holsinger, Rufus W., 1866-1930</dcterms:creator>
-   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:contributor>Holsinger's Studio (Charlottesville, Va.) [photographer]</dcterms:contributor>
+   <dcterms:contributor valueURI="http://id.loc.gov/authorities/names/no94027701">Holsinger, Rufus W., 1866-1930 [photographer]</dcterms:contributor>
    <dcterms:created>1911~</dcterms:created>
-   <dcterms:description>Sepia-toned photograph; See the Baltimore Sun (31 Jan. 1911) for obituary.</dcterms:description>
+   <dcterms:description>Sepia-toned photograph; See the Baltimore Sun (31 Jan. 1911) for obituary. [original]</dcterms:description>
    <dcterms:description>Original Negative Present [original]</dcterms:description>
-   <dcterms:isPartOf>The University of Virginia Visual History Collection</dcterms:isPartOf>
    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
    <dcterms:subject>University of Virginia</dcterms:subject>
    <dcterms:subject>University of Virginia--Faculty</dcterms:subject>
@@ -26,5 +23,5 @@
    <dcterms:subject>Portraits</dcterms:subject>
    <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2163154/full/!125,200/0/default.jpg</edm:preview>
-   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2163154</edm:isShownAt>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/uva-lib:2163154</edm:isShownAt>
 </mdRecord>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
-      type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 10:37 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 8:51 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -11,15 +10,13 @@
    <dcterms:identifier>uva-lib:2838155</dcterms:identifier>
    <dcterms:title>Ceramic slide</dcterms:title>
    <dcterms:creator>Milton Bradley Company [manufacturer]</dcterms:creator>
-   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
    <dcterms:created>1900~/1975~</dcterms:created>
-   <dcterms:extent>1.7 x 12.8 x 4.5 cm [original]</dcterms:extent>
+   <dcterms:extent>1.7 x 12.8 x 4.5 cm</dcterms:extent>
    <dcterms:medium>ceramic (material) [original]</dcterms:medium>
-   <dcterms:description>Slide or palette with three wells.</dcterms:description>
-   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
-   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:description>Slide or palette with three wells. [original]</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
    <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2838155/full/!125,200/0/default.jpg</edm:preview>
-   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2838155</edm:isShownAt>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/uva-lib:2838155</edm:isShownAt>
 </mdRecord>

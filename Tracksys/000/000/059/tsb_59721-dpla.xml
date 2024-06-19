@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
-      type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:00 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 1:39 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -11,16 +10,14 @@
    <dcterms:identifier>tsb:59721</dcterms:identifier>
    <dcterms:title>Diabetic slide rule</dcterms:title>
    <dcterms:creator>Eli Lilly and Company [manufacturer]</dcterms:creator>
-   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
    <dcterms:created>1936~</dcterms:created>
-   <dcterms:extent>0.4 x 21.7 x 7.9 cm [original]</dcterms:extent>
+   <dcterms:extent>0.4 x 21.7 x 7.9 cm</dcterms:extent>
    <dcterms:medium>plastic (organic material); leather; paper (fiber product) [original]</dcterms:medium>
-   <dcterms:description>Used for calculating caloric requirements for diabetic patients. Includes manual and leather carrying case.</dcterms:description>
-   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:description>Used for calculating caloric requirements for diabetic patients. Includes manual and leather carrying case. [original]</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff. [original]</dcterms:description>
    <dcterms:description>Donated by J.T. Thornton, Jr. [original]</dcterms:description>
-   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
    <dcterms:subject>Medical instruments and apparatus--Diabetes</dcterms:subject>
    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1573074/full/!125,200/0/default.jpg</edm:preview>
-   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:59721</edm:isShownAt>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/tsb:59721</edm:isShownAt>
 </mdRecord>

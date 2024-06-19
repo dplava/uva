@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
-      type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 10:29 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 8:45 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -11,15 +10,13 @@
    <dcterms:identifier>uva-lib:2532379</dcterms:identifier>
    <dcterms:title>Drefs' worm syrup</dcterms:title>
    <dcterms:creator>Charles (Chas.) A. Drefs [manufacturer]</dcterms:creator>
-   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
    <dcterms:created>1921~</dcterms:created>
-   <dcterms:extent>17.5 x 5.1 x 3 cm [original]</dcterms:extent>
+   <dcterms:extent>17.5 x 5.1 x 3 cm</dcterms:extent>
    <dcterms:medium>cardboard; glass (material); metal [original]</dcterms:medium>
-   <dcterms:description>"Prepared by Chas. A. Drefs, Apothecary." 2 fluid ounce bottle containing worm syrup for children and adults to treat round, thread, or pin worms; includes instructions in English and German; on the back of the box is an advertisement for Drefs' Gout and Rheumatic Pills.</dcterms:description>
-   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
-   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:description>"Prepared by Chas. A. Drefs, Apothecary." 2 fluid ounce bottle containing worm syrup for children and adults to treat round, thread, or pin worms; includes instructions in English and German; on the back of the box is an advertisement for Drefs' Gout and Rheumatic Pills. [original]</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
    <dcterms:subject>Pharmaceutical technology--Solutions (Pharmacy)</dcterms:subject>
    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2532379/full/!125,200/0/default.jpg</edm:preview>
-   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2532379</edm:isShownAt>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/uva-lib:2532379</edm:isShownAt>
 </mdRecord>

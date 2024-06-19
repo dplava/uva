@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
-      type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 2:04 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 2:26 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -11,13 +10,11 @@
    <edm:hasType valueURI="http://vocab.getty.edu/aat/300046300">photographs</edm:hasType>
    <dcterms:identifier>tsb:62803</dcterms:identifier>
    <dcterms:title>Darden School Executive Program softball game</dcterms:title>
-   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/no2017034882">Skinner, David M., 1921-2009</dcterms:creator>
-   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:creator valueURI="http://id.loc.gov/authorities/names/no2017034882">Skinner, David M., 1921-2009 [original]</dcterms:creator>
    <dcterms:created>1975-07</dcterms:created>
-   <dcterms:description>Original photographs and negatives arranged in sequence by file numbers, not the original job orders stamped on them.</dcterms:description>
-   <dcterms:description>From the non-portrait file of David Skinner, photographer for the University of Virginia Graphic Communications Services. Various photographers contributed to the file.</dcterms:description>
-   <dcterms:description>Additional non-digitized items from the collection are available by patron request in the Special Collections Reading Room.</dcterms:description>
-   <dcterms:isPartOf>University of Virginia Printing Services photograph file</dcterms:isPartOf>
+   <dcterms:description>Original photographs and negatives arranged in sequence by file numbers, not the original job orders stamped on them. [original]</dcterms:description>
+   <dcterms:description>From the non-portrait file of David Skinner, photographer for the University of Virginia Graphic Communications Services. Various photographers contributed to the file. [original]</dcterms:description>
+   <dcterms:description>Additional non-digitized items from the collection are available by patron request in the Special Collections Reading Room. [original]</dcterms:description>
    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
    <dcterms:subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008700">Recreation</dcterms:subject>
    <dcterms:subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm009839">Softball</dcterms:subject>
@@ -25,5 +22,5 @@
    <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n79053979">University of Virginia</dcterms:subject>
    <dcterms:spatial valueURI="http://vocab.getty.edu/tgn/7013585">Charlottesville, Virginia, United States</dcterms:spatial>
    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1526159/full/!125,200/0/default.jpg</edm:preview>
-   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:62803</edm:isShownAt>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/tsb:62803</edm:isShownAt>
 </mdRecord>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
-      type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 10:33 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 8:48 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -11,16 +10,14 @@
    <dcterms:identifier>uva-lib:2569216</dcterms:identifier>
    <dcterms:title>Image Orthicon electron tube</dcterms:title>
    <dcterms:creator>RCA Corporation [manufacturer]</dcterms:creator>
-   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
    <dcterms:created>1955~/1975~</dcterms:created>
-   <dcterms:extent>40 x 7.8 x 7.8 cm [original]</dcterms:extent>
+   <dcterms:extent>40 x 7.8 x 7.8 cm</dcterms:extent>
    <dcterms:medium>glass (material); plastic (organic material); metal [original]</dcterms:medium>
-   <dcterms:description>Image Orthicon camera tube with original factory packaging. Tube has label stating, "Caution, Keep face of this tube up during handling to prevent damage to the light-sensitive surface, 9507." This item was given in honor of Theodore E. Keats, M.D., F.A.C.R., Chair of the UVa Department of Radiology from 1963-1991.</dcterms:description>
-   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:description>Image Orthicon camera tube with original factory packaging. Tube has label stating, "Caution, Keep face of this tube up during handling to prevent damage to the light-sensitive surface, 9507." This item was given in honor of Theodore E. Keats, M.D., F.A.C.R., Chair of the UVa Department of Radiology from 1963-1991. [original]</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff. [original]</dcterms:description>
    <dcterms:description>Donated by Dr. Daniel L. Seale [original]</dcterms:description>
-   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
    <dcterms:subject>Medical instruments or apparatus--X-rays--Equipment and supplies</dcterms:subject>
    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2569216/full/!125,200/0/default.jpg</edm:preview>
-   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2569216</edm:isShownAt>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/uva-lib:2569216</edm:isShownAt>
 </mdRecord>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
-      type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 12:59 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 1:28 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -10,16 +9,14 @@
    <dcterms:type>still image</dcterms:type>
    <dcterms:identifier>tsb:58954</dcterms:identifier>
    <dcterms:title>Breast pump</dcterms:title>
-   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
    <dcterms:created>1890~/1899~</dcterms:created>
-   <dcterms:extent>14 x 6.4 x 6.4 cm [original]</dcterms:extent>
+   <dcterms:extent>14 x 6.4 x 6.4 cm</dcterms:extent>
    <dcterms:medium>glass (material); rubber (material) [original]</dcterms:medium>
-   <dcterms:description>Early breast pump with rubber suction bulb.</dcterms:description>
-   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:description>Early breast pump with rubber suction bulb. [original]</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff. [original]</dcterms:description>
    <dcterms:description>Donated by D.F. Weaver [original]</dcterms:description>
-   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
    <dcterms:subject>Medical instruments and apparatus--Breast pumps</dcterms:subject>
    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1546948/full/!125,200/0/default.jpg</edm:preview>
-   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58954</edm:isShownAt>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/tsb:58954</edm:isShownAt>
 </mdRecord>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
-      type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:03 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 10:39 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -10,20 +9,17 @@
    <dcterms:type>still image</dcterms:type>
    <dcterms:identifier>uva-lib:333966</dcterms:identifier>
    <dcterms:title>Perce Bay</dcterms:title>
-   <dcterms:creator>Davis, Jackson, 1882-1947</dcterms:creator>
-   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:creator>Davis, Jackson, 1882-1947 [photographer]</dcterms:creator>
    <dcterms:created>1936</dcterms:created>
-   <dcterms:extent>2 x 3 in. [original]</dcterms:extent>
+   <dcterms:extent>2 x 3 in.</dcterms:extent>
    <dcterms:medium>photography [original]</dcterms:medium>
-   <dcterms:description>Full view, a view of the waterfront town and a stone jetty/bluff</dcterms:description>
-   <dcterms:isPartOf>The Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-   <dcterms:isPartOf>Papers and photographs of Jackson Davis [manuscript] 1906-1947 and n.d.</dcterms:isPartOf>
-   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>Full view, a view of the waterfront town and a stone jetty/bluff [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
    <dcterms:subject>Gaspe (Quebec)--Cities and towns by name</dcterms:subject>
    <dcterms:subject>Canada--Countries</dcterms:subject>
    <dcterms:subject>Views--Visual works by form</dcterms:subject>
    <dcterms:subject>Towns--Settlements by form</dcterms:subject>
    <dcterms:subject>Water--Materials by composition</dcterms:subject>
    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:333966/full/!125,200/0/default.jpg</edm:preview>
-   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333966</edm:isShownAt>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/uva-lib:333966</edm:isShownAt>
 </mdRecord>

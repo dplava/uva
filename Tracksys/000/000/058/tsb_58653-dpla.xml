@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
-      type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 12:56 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 1:26 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -11,17 +10,15 @@
    <dcterms:identifier>tsb:58653</dcterms:identifier>
    <dcterms:title>Medicine bottle with cap</dcterms:title>
    <dcterms:creator>Merk &amp; Company, Inc [manufacturer]</dcterms:creator>
-   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
    <dcterms:created>1890~/1930~</dcterms:created>
-   <dcterms:extent>1.1 x 10.5 x 1.8 cm [original]</dcterms:extent>
+   <dcterms:extent>1.1 x 10.5 x 1.8 cm</dcterms:extent>
    <dcterms:medium>glass (material); plastic (organic material); paper (fiber product) [original]</dcterms:medium>
-   <dcterms:description>Amber glass bottle with screw-on plastic cap. Label reads: "1 oz. Theobromine Sodio-Salicylate Merk." Label number 43055. Also reads: "CAUTION: -To be dispensed only by or on the prescription of a physician, or otherwise used only for manufacturing purposes. Printed in the USA."</dcterms:description>
-   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:description>Amber glass bottle with screw-on plastic cap. Label reads: "1 oz. Theobromine Sodio-Salicylate Merk." Label number 43055. Also reads: "CAUTION: -To be dispensed only by or on the prescription of a physician, or otherwise used only for manufacturing purposes. Printed in the USA." [original]</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff. [original]</dcterms:description>
    <dcterms:description>Donated by Ann Chopivsky [original]</dcterms:description>
    <dcterms:description>Owned by Dr. Chopivsky [original]</dcterms:description>
-   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
    <dcterms:subject>Medicine bottles</dcterms:subject>
    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1526750/full/!125,200/0/default.jpg</edm:preview>
-   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58653</edm:isShownAt>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/tsb:58653</edm:isShownAt>
 </mdRecord>

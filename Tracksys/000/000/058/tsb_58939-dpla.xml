@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
-      type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 12:59 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 1:28 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -11,16 +10,14 @@
    <dcterms:identifier>tsb:58939</dcterms:identifier>
    <dcterms:title>Amputation and general surgical set</dcterms:title>
    <dcterms:creator>Gemrig, J. H. [manufacturer]</dcterms:creator>
-   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
    <dcterms:created>1870~/1880~</dcterms:created>
-   <dcterms:extent>6.8 x 41.5 x 17.5 cm [original]</dcterms:extent>
+   <dcterms:extent>6.8 x 41.5 x 17.5 cm</dcterms:extent>
    <dcterms:medium>metal; wood (plant material); cloth [original]</dcterms:medium>
-   <dcterms:description>Inscription on case reads "Jos. B. Whitehead, MD." Set includes: mirror, grooved director, bullet forceps, catling, two finger knife, metacarpal saw with lifting back, amputating tenaculum, three scalpels, trocar and canula, cartilage knife, forceps, tourniquet, bone forceps, curved sequestrum forceps, Darling's chain hook, curved wire serrefins, surgeon's silk suture, and cannula.</dcterms:description>
-   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:description>Inscription on case reads "Jos. B. Whitehead, MD." Set includes: mirror, grooved director, bullet forceps, catling, two finger knife, metacarpal saw with lifting back, amputating tenaculum, three scalpels, trocar and canula, cartilage knife, forceps, tourniquet, bone forceps, curved sequestrum forceps, Darling's chain hook, curved wire serrefins, surgeon's silk suture, and cannula. [original]</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff. [original]</dcterms:description>
    <dcterms:description>Donated by Cuthbert Tunstall [original]</dcterms:description>
-   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
    <dcterms:subject>Surgical instruments and apparatus</dcterms:subject>
    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1546933/full/!125,200/0/default.jpg</edm:preview>
-   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58939</edm:isShownAt>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/tsb:58939</edm:isShownAt>
 </mdRecord>

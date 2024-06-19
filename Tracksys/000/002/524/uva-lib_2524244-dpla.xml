@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
-      type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 10:29 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 8:45 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -10,15 +9,13 @@
    <dcterms:type>still image</dcterms:type>
    <dcterms:identifier>uva-lib:2524244</dcterms:identifier>
    <dcterms:title>Cupping set</dcterms:title>
-   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
    <dcterms:created>1820~/1850~</dcterms:created>
-   <dcterms:extent>10 x 20.2 x 13.3 cm [original]</dcterms:extent>
+   <dcterms:extent>10 x 20.2 x 13.3 cm</dcterms:extent>
    <dcterms:medium>metal; wood (plant material); cloth [original]</dcterms:medium>
-   <dcterms:description>This cupping set was owned and used by Drs. Benjamin Smith Middleton and Benjamin Arthur Middleton of Emmerton, Virginia. The wooden box that holds the set is lined with blue-green velvet and has space for 6 cupping glasses, box is 8" x 5.25" x 4". Set includes 5 cupping glasses and 7 blade scarificator in a red box. Two illegible words and the word "Philadelphia" are stamped on the scarificator.</dcterms:description>
-   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
-   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:description>This cupping set was owned and used by Drs. Benjamin Smith Middleton and Benjamin Arthur Middleton of Emmerton, Virginia. The wooden box that holds the set is lined with blue-green velvet and has space for 6 cupping glasses, box is 8" x 5.25" x 4". Set includes 5 cupping glasses and 7 blade scarificator in a red box. Two illegible words and the word "Philadelphia" are stamped on the scarificator. [original]</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2524244/full/!125,200/0/default.jpg</edm:preview>
-   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524244</edm:isShownAt>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/uva-lib:2524244</edm:isShownAt>
 </mdRecord>

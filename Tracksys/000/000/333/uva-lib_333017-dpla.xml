@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
-      type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 12:39 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 10:21 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -10,20 +9,17 @@
    <dcterms:type>still image</dcterms:type>
    <dcterms:identifier>uva-lib:333017</dcterms:identifier>
    <dcterms:title>Group of school girls</dcterms:title>
-   <dcterms:creator>Davis, Jackson, 1882-1947</dcterms:creator>
-   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:creator>Davis, Jackson, 1882-1947 [photographer]</dcterms:creator>
    <dcterms:created>1915/1947</dcterms:created>
-   <dcterms:extent>4 x 6 in. [original]</dcterms:extent>
+   <dcterms:extent>4 x 6 in.</dcterms:extent>
    <dcterms:medium>photography [original]</dcterms:medium>
-   <dcterms:description>Full view</dcterms:description>
-   <dcterms:isPartOf>The Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-   <dcterms:isPartOf>Papers and photographs of Jackson Davis [manuscript] 1906-1947 and n.d.</dcterms:isPartOf>
-   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>Full view [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
    <dcterms:subject>Schools--Single built works by function</dcterms:subject>
    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
    <dcterms:subject>African Americans--People by ethnic group</dcterms:subject>
    <dcterms:subject>Girls--People by gender</dcterms:subject>
    <dcterms:subject>Crowds--Groups of people</dcterms:subject>
    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:333017/full/!125,200/0/default.jpg</edm:preview>
-   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333017</edm:isShownAt>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/uva-lib:333017</edm:isShownAt>
 </mdRecord>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
-      type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 5:26 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 4:57 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -10,17 +9,15 @@
    <dcterms:type>still image</dcterms:type>
    <dcterms:identifier>uva-lib:1048619</dcterms:identifier>
    <dcterms:title>Miss Hazel Morrison</dcterms:title>
-   <dcterms:creator>Rufus W. Holsinger, 1866-1930</dcterms:creator>
-   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:creator>Rufus W. Holsinger, 1866-1930 [photographer]</dcterms:creator>
    <dcterms:created>1917-10-04</dcterms:created>
-   <dcterms:extent>8 x 10 in. [original]</dcterms:extent>
-   <dcterms:description>(Copy)</dcterms:description>
+   <dcterms:extent>8 x 10 in.</dcterms:extent>
+   <dcterms:description>(Copy) [original]</dcterms:description>
    <dcterms:description>Plate is in good condition. [original]</dcterms:description>
-   <dcterms:isPartOf>The Holsinger Studio Collection</dcterms:isPartOf>
-   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
    <dcterms:subject>Portraits</dcterms:subject>
    <dcterms:subject>Children</dcterms:subject>
    <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1048619/full/!125,200/0/default.jpg</edm:preview>
-   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1048619</edm:isShownAt>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/uva-lib:1048619</edm:isShownAt>
 </mdRecord>

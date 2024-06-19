@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
-      type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 10:02 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 8:25 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -10,15 +9,13 @@
    <dcterms:type>still image</dcterms:type>
    <dcterms:identifier>uva-lib:2440370</dcterms:identifier>
    <dcterms:title>Ancient Roman bloodletting cup (replica)</dcterms:title>
-   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
    <dcterms:created>1944~</dcterms:created>
    <dcterms:medium>bronze (metal) [original]</dcterms:medium>
-   <dcterms:description>Replica of ancient Roman bloodletting cup, wet and dry, from the first century AD. Most likely a replica of a variation of instrument number 2 cataloged in the following source: Bliquez, L.J. (1994) Roman surgical instruments and other minor objects in the National Archaeological Museum of Naples. Manz, von Zabern. Donated to the University of Virginia by members of the 8th Evacuation Hospital Unit of the United States Army.</dcterms:description>
-   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
-   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+   <dcterms:description>Replica of ancient Roman bloodletting cup, wet and dry, from the first century AD. Most likely a replica of a variation of instrument number 2 cataloged in the following source: Bliquez, L.J. (1994) Roman surgical instruments and other minor objects in the National Archaeological Museum of Naples. Manz, von Zabern. Donated to the University of Virginia by members of the 8th Evacuation Hospital Unit of the United States Army. [original]</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
    <dcterms:subject>Medicine, Greek and Roman</dcterms:subject>
    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2440370/full/!125,200/0/default.jpg</edm:preview>
-   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440370</edm:isShownAt>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/uva-lib:2440370</edm:isShownAt>
 </mdRecord>

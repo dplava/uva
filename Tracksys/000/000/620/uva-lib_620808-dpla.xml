@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
-      type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 1:13 p.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 10:46 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -10,20 +9,17 @@
    <dcterms:type>still image</dcterms:type>
    <dcterms:identifier>uva-lib:620808</dcterms:identifier>
    <dcterms:title>Baron Paul Julius Reuter</dcterms:title>
-   <dcterms:creator>Delfico, Melchiorre, 1825 - 1895</dcterms:creator>
-   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:creator>Delfico, Melchiorre, 1825 - 1895 [artist]</dcterms:creator>
    <dcterms:created>1868/1914</dcterms:created>
-   <dcterms:description>Caption: "Telegrams"</dcterms:description>
-   <dcterms:description>Newspapermen</dcterms:description>
-   <dcterms:description>Men of the Day, No. 55</dcterms:description>
-   <dcterms:description>Unsigned</dcterms:description>
-   <dcterms:description>"Group" is the Vanity Fair classification. "Category" is taken from Vanity Fair, Ltd.: Vanity Fair Color Lithographs (not Reproductions) Dating From 1869 to 1914, From the Original British, Vanity Fair Magazine, Caricatured by Spy, Ape and Others. Cincinnati, Ohio: Vanity fair, Ltd., [1970].</dcterms:description>
-   <dcterms:isPartOf>The Cecil Lang Collection of Vanity Fair Illustrations</dcterms:isPartOf>
-   <dcterms:isPartOf>Vanity Fair. London: 1868/1914, issue 215</dcterms:isPartOf>
-   <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+   <dcterms:description>Caption: "Telegrams" [original]</dcterms:description>
+   <dcterms:description>Newspapermen [original]</dcterms:description>
+   <dcterms:description>Men of the Day, No. 55 [original]</dcterms:description>
+   <dcterms:description>Unsigned [original]</dcterms:description>
+   <dcterms:description>"Group" is the Vanity Fair classification. "Category" is taken from Vanity Fair, Ltd.: Vanity Fair Color Lithographs (not Reproductions) Dating From 1869 to 1914, From the Original British, Vanity Fair Magazine, Caricatured by Spy, Ape and Others. Cincinnati, Ohio: Vanity fair, Ltd., [1970]. [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
    <dcterms:subject>Chromolithography</dcterms:subject>
    <dcterms:subject>Publishers and publishing--Great Britain--Caricatures and cartoons</dcterms:subject>
    <dcterms:spatial>Great Britain</dcterms:spatial>
    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:620808/full/!125,200/0/default.jpg</edm:preview>
-   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:620808</edm:isShownAt>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/uva-lib:620808</edm:isShownAt>
 </mdRecord>

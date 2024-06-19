@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
-      type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 9:52 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 8:18 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -10,20 +9,18 @@
    <dcterms:type>still image</dcterms:type>
    <dcterms:identifier>uva-lib:2192331</dcterms:identifier>
    <dcterms:title>Child and Man Standing Outside Coca-Cola Factory and Truck</dcterms:title>
-   <dcterms:creator>Ralph W. Holsinger</dcterms:creator>
-   <dcterms:creator>Rufus W. Holsinger, 1866-1930 [host]</dcterms:creator>
-   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+   <dcterms:creator>Ralph W. Holsinger [photographer]</dcterms:creator>
+   <dcterms:creator>Rufus W. Holsinger, 1866-1930 [original]</dcterms:creator>
    <dcterms:created>1920~/1939~</dcterms:created>
-   <dcterms:extent>8 x 10 in. [original]</dcterms:extent>
-   <dcterms:description>Coca-Cola Truck</dcterms:description>
-   <dcterms:description>Negative Y21193B depicts the same subject</dcterms:description>
-   <dcterms:isPartOf>The Holsinger Studio Collection</dcterms:isPartOf>
-   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:extent>8 x 10 in.</dcterms:extent>
+   <dcterms:description>Coca-Cola Truck [original]</dcterms:description>
+   <dcterms:description>Negative Y21193B depicts the same subject [original]</dcterms:description>
+   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
    <dcterms:subject>Stores, Retail</dcterms:subject>
    <dcterms:subject>Coca-Cola Company</dcterms:subject>
    <dcterms:subject>Trucks</dcterms:subject>
    <dcterms:subject>Automobiles</dcterms:subject>
    <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2192331/full/!125,200/0/default.jpg</edm:preview>
-   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2192331</edm:isShownAt>
+   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/uva-lib:2192331</edm:isShownAt>
 </mdRecord>
