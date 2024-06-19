@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 12:00 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 12:30 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -10,14 +11,16 @@
    <dcterms:identifier>tsb:103677</dcterms:identifier>
    <dcterms:title>Hypodermic syringe set</dcterms:title>
    <dcterms:creator>Kny-Scheerer Company [manufacturer]</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
    <dcterms:created>1900~/1920~</dcterms:created>
-   <dcterms:extent>2.8 x 9.2 x 4.5 cm</dcterms:extent>
+   <dcterms:extent>2.8 x 9.2 x 4.5 cm [original]</dcterms:extent>
    <dcterms:medium>glass (material); stainless steel [original]</dcterms:medium>
-   <dcterms:description>Two glass hypodermic syringes contained in a metal and wood box with the word "Record" engraved on the lid. [original]</dcterms:description>
-   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff. [original]</dcterms:description>
+   <dcterms:description>Two glass hypodermic syringes contained in a metal and wood box with the word "Record" engraved on the lid.</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
    <dcterms:description>Donated by J.T. Thornton, Jr. [original]</dcterms:description>
-   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
    <dcterms:subject>Medical instruments and apparatus--Hypodermic syringes</dcterms:subject>
-   <edm:preview>yes yes yesyes/ yesyes yes// , . , . In CopyrightIn Copyright - EU Orphan WorkIn Copyright - Educational Use PermittedIn Copyright - Non-Commercial Use PermittedIn Copyright - Rights-holder(s) Unlocatable or UnidentifiableNo Copyright - Contractual RestrictionsNo Copyright - Non-Commercial Use OnlyNo Copyright - Other Known Legal RestrictionsNo Copyright - United StatesCopyright Not EvaluatedCopyright UndeterminedNo Known CopyrightAttributionCC BY-NDAttribution-NonCommercialCC BY-NCAttribution-NonCommercial-ShareAlikeCC BY-NC-SAAttribution-NonCommercial-NoDerivsCC BY-NC-ND In CopyrightIn Copyright - EU Orphan WorkIn Copyright - Educational Use PermittedIn Copyright - Non-Commercial Use PermittedIn Copyright - Rights-holder(s) Unlocatable or UnidentifiableNo Copyright - Contractual RestrictionsNo Copyright - Non-Commercial Use OnlyNo Copyright - Other Known Legal RestrictionsNo Copyright - United StatesCopyright Not EvaluatedCopyright UndeterminedNo Known CopyrightAttributionCC BY-NDAttribution-NonCommercialCC BY-NCAttribution-NonCommercial-ShareAlikeCC BY-NC-SAAttribution-NonCommercial-NoDerivsCC BY-NC-ND In CopyrightIn Copyright - EU Orphan WorkIn Copyright - Educational Use PermittedIn Copyright - Non-Commercial Use PermittedIn Copyright - Rights-holder(s) Unlocatable or UnidentifiableNo Copyright - Contractual RestrictionsNo Copyright - Non-Commercial Use OnlyNo Copyright - Other Known Legal RestrictionsNo Copyright - United StatesCopyright Not EvaluatedCopyright UndeterminedNo Known CopyrightAttributionCC BY-NDAttribution-NonCommercialCC BY-NCAttribution-NonCommercial-ShareAlikeCC BY-NC-SAAttribution-NonCommercial-NoDerivsCC BY-NC-ND , , originalLanguagelanguage targetAudience creatorcreatorcreatorcontributor abstractSummary governmentPublicationisFestschrift oclcNumberlibraryCongressControlNumberinternationalStandardBookNumberinternationalStandardSerialNumberinternationalStandardRecordingCodeuniversalProductCodeinternationalStandardMusicNumberinternationalArticleNumberserialItemContributionIdentifierstandardTechnicalReportNumberpublisherDistributorNumbergpoItemNumberCODENidentifier pubProdDist pubProdDistPlace editionVersion editionVersionDate issuanceMethod frequency mediaType physDetails digitalOrigin reformattingQuality internetMediaType contentType software, multimediasound recordingstill imagetextmoving image seriesStatement . , : Also contains , . referencedBy relatedMaterial ; ; , . seriesDetails useRestrictaccessRestrict physLocationcallNumberitemID callNumber itemID isCollection software, multimediasound recordingstill imagetextmoving image contentType .</edm:preview>
-   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/tsb:103677</edm:isShownAt>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2733868/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103677</edm:isShownAt>
 </mdRecord>

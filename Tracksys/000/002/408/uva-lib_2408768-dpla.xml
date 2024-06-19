@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd" type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2024-06-19 at 8:23 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
+<?xml-model href="https://dplava.lib.virginia.edu/dplava.xsd"
+      type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- Generated using uvaMAP2DPLA_no_include.xsl (v. 1.0) on 2023-06-23 at 10:00 a.m. --><mdRecord xmlns:dcterms="http://purl.org/dc/terms/"
           xmlns:edm="http://www.europeana.eu/schemas/edm/"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://dplava.lib.virginia.edu"
@@ -10,14 +11,16 @@
    <dcterms:identifier>uva-lib:2408768</dcterms:identifier>
    <dcterms:title>Electrotherapy apparatus</dcterms:title>
    <dcterms:creator>Galvano-faradic manufacturing company, New York [manufacturer]</dcterms:creator>
+   <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
    <dcterms:created>1872~</dcterms:created>
    <dcterms:medium>wood (plant material); metal [original]</dcterms:medium>
-   <dcterms:description>Galvano Faradic Manufacturing Company, New York, Patented February 1 1870, May 30 1871, March 26 1872; Primary Secondary, battery fluid formula Rx Acid Sulphuric (Commercial) [symbol] Pulv Bichromate-Potash [symbol] Water [symbol]; instructions: dissolve the Bisulphate of Mercury in the water then add the Bichromate of Potash. When dissolved pour in the Sulphuric Acid and allow the liquid to cool before filling the battery, and disk electrodes. [original]</dcterms:description>
-   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff. [original]</dcterms:description>
-   <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+   <dcterms:description>Galvano Faradic Manufacturing Company, New York, Patented February 1 1870, May 30 1871, March 26 1872; Primary Secondary, battery fluid formula Rx Acid Sulphuric (Commercial) [symbol] Pulv Bichromate-Potash [symbol] Water [symbol]; instructions: dissolve the Bisulphate of Mercury in the water then add the Bichromate of Potash. When dissolved pour in the Sulphuric Acid and allow the liquid to cool before filling the battery, and disk electrodes.</dcterms:description>
+   <dcterms:description>Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</dcterms:description>
+   <dcterms:isPartOf>The University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
    <dcterms:subject>Electrotherapeutics Instruments</dcterms:subject>
    <dcterms:subject>Electrotherapeutics</dcterms:subject>
    <dcterms:subject>Electric Stimulation Therapy</dcterms:subject>
-   <edm:preview>yes yes yesyes/ yesyes yes// , . , . In CopyrightIn Copyright - EU Orphan WorkIn Copyright - Educational Use PermittedIn Copyright - Non-Commercial Use PermittedIn Copyright - Rights-holder(s) Unlocatable or UnidentifiableNo Copyright - Contractual RestrictionsNo Copyright - Non-Commercial Use OnlyNo Copyright - Other Known Legal RestrictionsNo Copyright - United StatesCopyright Not EvaluatedCopyright UndeterminedNo Known CopyrightAttributionCC BY-NDAttribution-NonCommercialCC BY-NCAttribution-NonCommercial-ShareAlikeCC BY-NC-SAAttribution-NonCommercial-NoDerivsCC BY-NC-ND In CopyrightIn Copyright - EU Orphan WorkIn Copyright - Educational Use PermittedIn Copyright - Non-Commercial Use PermittedIn Copyright - Rights-holder(s) Unlocatable or UnidentifiableNo Copyright - Contractual RestrictionsNo Copyright - Non-Commercial Use OnlyNo Copyright - Other Known Legal RestrictionsNo Copyright - United StatesCopyright Not EvaluatedCopyright UndeterminedNo Known CopyrightAttributionCC BY-NDAttribution-NonCommercialCC BY-NCAttribution-NonCommercial-ShareAlikeCC BY-NC-SAAttribution-NonCommercial-NoDerivsCC BY-NC-ND In CopyrightIn Copyright - EU Orphan WorkIn Copyright - Educational Use PermittedIn Copyright - Non-Commercial Use PermittedIn Copyright - Rights-holder(s) Unlocatable or UnidentifiableNo Copyright - Contractual RestrictionsNo Copyright - Non-Commercial Use OnlyNo Copyright - Other Known Legal RestrictionsNo Copyright - United StatesCopyright Not EvaluatedCopyright UndeterminedNo Known CopyrightAttributionCC BY-NDAttribution-NonCommercialCC BY-NCAttribution-NonCommercial-ShareAlikeCC BY-NC-SAAttribution-NonCommercial-NoDerivsCC BY-NC-ND , , originalLanguagelanguage targetAudience creatorcreatorcreatorcontributor abstractSummary governmentPublicationisFestschrift oclcNumberlibraryCongressControlNumberinternationalStandardBookNumberinternationalStandardSerialNumberinternationalStandardRecordingCodeuniversalProductCodeinternationalStandardMusicNumberinternationalArticleNumberserialItemContributionIdentifierstandardTechnicalReportNumberpublisherDistributorNumbergpoItemNumberCODENidentifier pubProdDist pubProdDistPlace editionVersion editionVersionDate issuanceMethod frequency mediaType physDetails digitalOrigin reformattingQuality internetMediaType contentType software, multimediasound recordingstill imagetextmoving image seriesStatement . , : Also contains , . referencedBy relatedMaterial ; ; , . seriesDetails useRestrictaccessRestrict physLocationcallNumberitemID callNumber itemID isCollection software, multimediasound recordingstill imagetextmoving image contentType .</edm:preview>
-   <edm:isShownAt>https://search.lib.virginia.edu/sources/uva_library/items/uva-lib:2408768</edm:isShownAt>
+   <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2408768/full/!125,200/0/default.jpg</edm:preview>
+   <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2408768</edm:isShownAt>
 </mdRecord>
